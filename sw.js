@@ -1,10 +1,11 @@
 /* Service worker de Pronoun Drill.
  * Al cambiar el "shell" (index.html, sw.js, iconos) sube el número de versión
  * para forzar la actualización en los dispositivos ya instalados. */
-const CACHE = "english-drill-v3";
+const CACHE = "english-drill-v4";
 const ASSETS = [
   "./",
   "./index.html",
+  "./datos-client.js",
   "./frases.json",
   "./modales.json",
   "./manifest.webmanifest",
@@ -31,8 +32,8 @@ self.addEventListener("fetch", (e) => {
   if (req.method !== "GET") return;
   const url = new URL(req.url);
 
-  // Datos → network-first: si hay conexión, ves las ediciones al recargar.
-  if (url.pathname.endsWith("frases.json") || url.pathname.endsWith("modales.json")) {
+  // Datos generados → network-first: si hay conexión, ves las ediciones al recargar.
+  if (url.pathname.endsWith("datos-client.js")) {
     e.respondWith(
       fetch(req)
         .then((res) => { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(req, copy)); return res; })

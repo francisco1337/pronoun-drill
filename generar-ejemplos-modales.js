@@ -107,3 +107,4 @@ data.items.forEach((item) => {
 
 fs.writeFileSync(FILE, JSON.stringify(data, null, 2) + "\n", "utf8");
 console.log(`Generados ${data.items.length * 200} ejemplos (${data.items.length} × 200).`);
+require("./generar-datos-client.js");

@@ -12,13 +12,16 @@ contador de esa palabra. Funciona offline y se puede instalar.
 | `frases.json` | **Las frases** (inglés + traducción). Esto es lo que editas para cambiarlas. |
 | `modales.json` | Los 19 modales y auxiliares importados de la hoja de aprendizaje. |
 | `generar-ejemplos-modales.js` | Regenera los 200 ejemplos bilingües de cada modal/auxiliar. |
+| `datos-client.js` | Paquete generado que permite cargar todos los ejercicios sin `fetch()`. |
+| `generar-datos-client.js` | Regenera el paquete cliente desde ambos archivos JSON. |
 | `generar-frases.js` | Generador opcional: reconstruye `frases.json` a partir de plantillas y vocabulario. |
 | `manifest.webmanifest`, `sw.js`, `icons/` | Piezas de la PWA (instalable + offline). |
 
 ## Probar en tu PC
 
-`frases.json` se carga por red, así que **no funciona abriendo `index.html` con doble clic**
-(`file://` lo bloquea). Levanta un servidor estático en la carpeta:
+La app no necesita un servidor para cargar los datos: `datos-client.js` contiene
+ambos JSON empaquetados y `index.html` puede abrirse con doble clic. Para probar
+el comportamiento exacto de la PWA y su caché también puedes levantar un servidor:
 
 ```bash
 npx --yes serve .
