@@ -1,7 +1,8 @@
-# Pronoun Drill
+# English Drill
 
-Práctica de pronombres en inglés (PWA). **10 aciertos seguidos** dominan un pronombre;
-**1 error** reinicia el contador de ese pronombre. Funciona offline y se puede instalar.
+Práctica de inglés (PWA) con ejercicios de pronombres y de modales/auxiliares.
+**10 aciertos seguidos** dominan una palabra; **1 error** reinicia únicamente el
+contador de esa palabra. Funciona offline y se puede instalar.
 
 ## Archivos
 
@@ -9,6 +10,7 @@ Práctica de pronombres en inglés (PWA). **10 aciertos seguidos** dominan un pr
 |---|---|
 | `index.html` | La app (interfaz + lógica). Carga las frases desde `frases.json`. |
 | `frases.json` | **Las frases** (inglés + traducción). Esto es lo que editas para cambiarlas. |
+| `modales.json` | Los 19 modales y auxiliares importados de la hoja de aprendizaje. |
 | `generar-frases.js` | Generador opcional: reconstruye `frases.json` a partir de plantillas y vocabulario. |
 | `manifest.webmanifest`, `sw.js`, `icons/` | Piezas de la PWA (instalable + offline). |
 

@@ -2,299 +2,125 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Pronoun Drill · Práctica de pronombres</title>
-<meta name="description" content="Práctica de pronombres en inglés: 10 aciertos seguidos dominan un pronombre; 1 error reinicia su contador.">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>English Drill · Práctica de inglés</title>
+<meta name="description" content="Practica pronombres, modales y auxiliares. Diez aciertos seguidos dominan cada palabra; un error reinicia su contador.">
 <link rel="manifest" href="./manifest.webmanifest">
 <meta name="theme-color" content="#5b5bd6">
 <link rel="icon" href="./icons/icon-192.png">
 <link rel="apple-touch-icon" href="./icons/icon-192.png">
 <style>
-  :root {
-    --paper:#f7f8fb;--card:#fff;--ink:#1b1f2a;--muted:#6b7280;--faint:#9aa2b1;--line:#e6e8ef;--line-strong:#d3d7e2;
-    --iris:#5b5bd6;--iris-soft:#eceafb;--good:#16a34a;--good-soft:#e7f6ec;--bad:#dc2626;--bad-soft:#fbebeb;--amber:#d97706;
-    --shadow:0 1px 2px rgba(27,31,42,.06),0 12px 32px rgba(27,31,42,.07);--radius:14px;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --paper:#14161c;--card:#1c1f27;--ink:#e9ebf1;--muted:#9aa2b1;--faint:#6b7280;--line:#2a2e39;--line-strong:#363b48;
-      --iris:#8b8bf0;--iris-soft:#23233a;--good:#4ade80;--good-soft:#17301f;--bad:#f87171;--bad-soft:#331a1a;--amber:#fbbf24;
-      --shadow:0 1px 2px rgba(0,0,0,.3),0 14px 34px rgba(0,0,0,.35);
-    }
-  }
-  :root[data-theme="light"]{--paper:#f7f8fb;--card:#fff;--ink:#1b1f2a;--muted:#6b7280;--faint:#9aa2b1;--line:#e6e8ef;--line-strong:#d3d7e2;--iris:#5b5bd6;--iris-soft:#eceafb;--good:#16a34a;--good-soft:#e7f6ec;--bad:#dc2626;--bad-soft:#fbebeb;--amber:#d97706;--shadow:0 1px 2px rgba(27,31,42,.06),0 12px 32px rgba(27,31,42,.07);}
-  :root[data-theme="dark"]{--paper:#14161c;--card:#1c1f27;--ink:#e9ebf1;--muted:#9aa2b1;--faint:#6b7280;--line:#2a2e39;--line-strong:#363b48;--iris:#8b8bf0;--iris-soft:#23233a;--good:#4ade80;--good-soft:#17301f;--bad:#f87171;--bad-soft:#331a1a;--amber:#fbbf24;--shadow:0 1px 2px rgba(0,0,0,.3),0 14px 34px rgba(0,0,0,.35);}
-
-  * { box-sizing: border-box; }
-  html { -webkit-text-size-adjust: 100%; }
-  body {
-    margin:0; background:var(--paper); color:var(--ink);
-    font-family: system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; line-height:1.5;
-    -webkit-font-smoothing:antialiased;
-  }
-  .wrap { max-width:1080px; margin:0 auto; padding:28px 20px calc(64px + env(safe-area-inset-bottom)); }
-
-  header.top { display:flex; align-items:baseline; justify-content:space-between; gap:16px; flex-wrap:wrap; margin-bottom:22px; }
-  .brand h1 { font-size:1.35rem; margin:0; letter-spacing:-.01em; }
-  .brand p { margin:3px 0 0; color:var(--muted); font-size:.85rem; }
-  .brand .accent { color:var(--iris); }
-  .tools { display:flex; gap:8px; }
-  .toolbtn {
-    font:inherit; font-size:.8rem; color:var(--muted); cursor:pointer;
-    background:var(--card); border:1px solid var(--line); border-radius:9px;
-    padding:7px 12px; display:inline-flex; align-items:center; gap:6px;
-  }
-  .toolbtn:hover { border-color:var(--line-strong); color:var(--ink); }
-  .toolbtn:focus-visible { outline:2px solid var(--iris); outline-offset:2px; }
-  .toolbtn[hidden] { display:none; }
-
-  .grid { display:grid; grid-template-columns:1fr 340px; gap:20px; align-items:start; }
-  @media (max-width:860px) { .grid { grid-template-columns:1fr; } }
-
-  .card { background:var(--card); border:1px solid var(--line); border-radius:var(--radius); box-shadow:var(--shadow); padding:26px 26px 24px; }
-  .qhead { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:20px; }
-  .role-pill { font-size:.74rem; font-weight:600; letter-spacing:.02em; color:var(--iris); background:var(--iris-soft); padding:5px 11px; border-radius:999px; }
-  .streak-badge { font-size:.78rem; color:var(--muted); display:inline-flex; align-items:center; gap:7px; font-variant-numeric:tabular-nums; }
-  .streak-dots { display:inline-flex; gap:3px; }
-  .streak-dots i { width:8px; height:8px; border-radius:50%; background:var(--line-strong); display:block; }
-  .streak-dots i.on { background:var(--iris); }
-
-  .sentence { font-family:Georgia,"Times New Roman",serif; font-size:1.7rem; line-height:1.42; letter-spacing:-.005em; margin:4px 0 26px; text-wrap:balance; }
-  @media (max-width:520px) { .sentence { font-size:1.42rem; } }
-  .blank { display:inline-block; min-width:2.4em; text-align:center; border-bottom:3px solid var(--iris); color:var(--iris); padding:0 .12em; margin:0 .04em; font-style:italic; font-weight:700; }
-  .blank.filled { border-bottom-color:currentColor; font-style:normal; }
-  .sentence .es { display:block; font-family:system-ui,sans-serif; font-size:.92rem; color:var(--faint); margin-top:10px; font-style:italic; }
-
-  .options { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; }
-  @media (max-width:520px) { .options { grid-template-columns:1fr; } }
-  .opt { font:inherit; font-size:1.05rem; text-align:left; cursor:pointer; background:var(--card); color:var(--ink); border:1.5px solid var(--line-strong); border-radius:11px; padding:13px 16px; transition:border-color .12s,background .12s,transform .05s; display:flex; align-items:center; gap:10px; }
-  .opt .key { font-size:.72rem; color:var(--faint); border:1px solid var(--line); border-radius:5px; padding:1px 6px; font-variant-numeric:tabular-nums; }
-  .opt:hover:not(:disabled) { border-color:var(--iris); }
-  .opt:active:not(:disabled) { transform:translateY(1px); }
-  .opt:focus-visible { outline:2px solid var(--iris); outline-offset:2px; }
-  .opt:disabled { cursor:default; }
-  .opt.correct { border-color:var(--good); background:var(--good-soft); color:var(--good); font-weight:600; }
-  .opt.wrong { border-color:var(--bad); background:var(--bad-soft); color:var(--bad); font-weight:600; }
-  .opt.dim { opacity:.5; }
-
-  .feedback { margin-top:20px; min-height:46px; display:flex; align-items:center; }
-  .fb-inner { display:flex; align-items:center; gap:12px; width:100%; }
-  .fb-msg { font-size:.92rem; } .fb-msg strong { font-weight:700; }
-  .fb-good { color:var(--good); } .fb-bad { color:var(--bad); }
-  .fb-tip { color:var(--muted); font-size:.86rem; }
-  .nextbtn { margin-left:auto; font:inherit; font-size:.9rem; font-weight:600; cursor:pointer; background:var(--iris); color:#fff; border:none; border-radius:10px; padding:10px 20px; }
-  .nextbtn:focus-visible { outline:2px solid var(--ink); outline-offset:2px; }
-
-  .rail { background:var(--card); border:1px solid var(--line); border-radius:var(--radius); box-shadow:var(--shadow); padding:18px 18px 20px; }
-  .rail h2 { font-size:.8rem; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); margin:0 0 4px; }
-  .rail .summary { font-size:.84rem; color:var(--muted); margin:0 0 16px; font-variant-numeric:tabular-nums; }
-  .rail .summary b { color:var(--ink); }
-  .catgroup { margin-bottom:14px; }
-  .catgroup .cat-label { font-size:.68rem; text-transform:uppercase; letter-spacing:.05em; color:var(--faint); margin:0 0 7px; }
-  .prow { display:flex; align-items:center; gap:9px; padding:3px 0; }
-  .prow .word { font-family:Georgia,serif; font-size:.95rem; width:92px; flex:none; }
-  .prow.done .word { color:var(--good); }
-  .bar { flex:1; height:7px; background:var(--line); border-radius:999px; overflow:hidden; }
-  .bar > span { display:block; height:100%; background:var(--iris); border-radius:999px; width:0; transition:width .3s ease; }
-  .prow.done .bar > span { background:var(--good); }
-  .prow .cnt { width:34px; flex:none; text-align:right; font-size:.76rem; color:var(--muted); font-variant-numeric:tabular-nums; }
-  .prow.done .cnt { color:var(--good); }
-  .prow.active .word { color:var(--iris); font-weight:700; }
-
-  .done-banner { text-align:center; padding:20px; }
-  .done-banner .big { font-size:2rem; font-family:Georgia,serif; margin-bottom:6px; }
-  .loading, .errbox { padding:40px 20px; text-align:center; color:var(--muted); }
-  .errbox code { background:var(--iris-soft); color:var(--iris); padding:2px 6px; border-radius:5px; font-size:.85em; }
-
-  .hint-note { font-size:.78rem; color:var(--faint); margin-top:18px; line-height:1.5; }
-  kbd { font-family:system-ui; font-size:.72rem; background:var(--card); border:1px solid var(--line-strong); border-bottom-width:2px; border-radius:5px; padding:1px 6px; }
-
-  @media (prefers-reduced-motion: reduce) { * { transition:none !important; } }
+:root{--paper:#f6f7fb;--card:#fff;--ink:#1b1f2a;--muted:#697386;--faint:#98a0b0;--line:#e4e7ef;--iris:#5b5bd6;--iris2:#7575e8;--soft:#eeeeff;--good:#168a46;--goodsoft:#e9f7ee;--bad:#cf3030;--badsoft:#fff0f0;--shadow:0 1px 2px #1b1f2a0a,0 16px 44px #1b1f2a12;--r:16px}
+@media(prefers-color-scheme:dark){:root{--paper:#13151b;--card:#1b1e26;--ink:#eef0f5;--muted:#a0a8b8;--faint:#727b8d;--line:#303541;--iris:#9292ff;--iris2:#ababff;--soft:#292940;--good:#55d989;--goodsoft:#173323;--bad:#ff7d7d;--badsoft:#3b1c20;--shadow:0 16px 44px #0006}}
+:root[data-theme=light]{--paper:#f6f7fb;--card:#fff;--ink:#1b1f2a;--muted:#697386;--faint:#98a0b0;--line:#e4e7ef;--iris:#5b5bd6;--iris2:#7575e8;--soft:#eeeeff;--good:#168a46;--goodsoft:#e9f7ee;--bad:#cf3030;--badsoft:#fff0f0}
+:root[data-theme=dark]{--paper:#13151b;--card:#1b1e26;--ink:#eef0f5;--muted:#a0a8b8;--faint:#727b8d;--line:#303541;--iris:#9292ff;--iris2:#ababff;--soft:#292940;--good:#55d989;--goodsoft:#173323;--bad:#ff7d7d;--badsoft:#3b1c20}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}.wrap{max-width:1100px;margin:auto;padding:26px 20px calc(64px + env(safe-area-inset-bottom))}button,input{font:inherit}button{color:inherit}.top{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:24px}.brand{border:0;background:none;cursor:pointer;text-align:left;padding:0}.brand h1{font-size:1.35rem;margin:0;letter-spacing:-.02em}.brand b{color:var(--iris)}.brand p{margin:3px 0 0;color:var(--muted);font-size:.82rem}.tools{display:flex;gap:8px}.tool{cursor:pointer;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px}.tool:hover{border-color:var(--iris)}[hidden]{display:none!important}.crumb{display:flex;align-items:center;gap:8px;margin:0 0 16px;color:var(--muted);font-size:.85rem}.crumb button{border:0;background:none;color:var(--iris);cursor:pointer;padding:0}.hero{padding:22px 0 30px}.eyebrow{color:var(--iris);font-weight:700;text-transform:uppercase;letter-spacing:.09em;font-size:.72rem}.hero h2{font:700 clamp(2rem,5vw,3.5rem)/1.08 Georgia,serif;letter-spacing:-.035em;max-width:720px;margin:9px 0 12px}.hero p{color:var(--muted);max-width:660px;font-size:1.03rem}.menu{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.menu-card{position:relative;overflow:hidden;text-align:left;cursor:pointer;background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:26px;min-height:210px;transition:.15s}.menu-card:hover{transform:translateY(-2px);border-color:var(--iris)}.menu-card .icon{display:grid;place-items:center;width:46px;height:46px;background:var(--soft);color:var(--iris);border-radius:13px;font-weight:800}.menu-card h3{font:700 1.45rem Georgia,serif;margin:30px 0 7px}.menu-card p{color:var(--muted);margin:0;max-width:440px}.menu-card .arrow{position:absolute;right:24px;top:24px;color:var(--iris);font-size:1.3rem}.subintro{margin:8px 0 22px}.subintro h2{font:700 2rem Georgia,serif;margin:0 0 6px}.subintro p{color:var(--muted);margin:0}.grid{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:20px;align-items:start}.card,.rail{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow)}.card{padding:27px}.rail{padding:20px;max-height:calc(100vh - 130px);overflow:auto;position:sticky;top:18px}.qhead{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-bottom:22px}.pill{color:var(--iris);background:var(--soft);border-radius:999px;padding:5px 11px;font-size:.75rem;font-weight:700}.streak{color:var(--muted);font-size:.78rem;font-variant-numeric:tabular-nums}.sentence{font:1.72rem/1.42 Georgia,serif;margin:0 0 24px}.sentence .es{display:block;font:italic .92rem system-ui;color:var(--faint);margin-top:10px}.blank{display:inline-block;min-width:2.4em;text-align:center;border-bottom:3px solid var(--iris);color:var(--iris);padding:0 .12em;font-weight:700}.options{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.opt{cursor:pointer;background:var(--card);border:1.5px solid var(--line);border-radius:11px;padding:13px 15px;text-align:left;display:flex;gap:10px;align-items:center}.opt:hover:not(:disabled){border-color:var(--iris)}.opt.correct{border-color:var(--good);background:var(--goodsoft);color:var(--good);font-weight:700}.opt.wrong{border-color:var(--bad);background:var(--badsoft);color:var(--bad);font-weight:700}.opt.dim{opacity:.45}.key{font-size:.7rem;color:var(--faint);border:1px solid var(--line);border-radius:5px;padding:1px 5px}.feedback{min-height:52px;margin-top:19px}.fb{display:flex;align-items:center;gap:14px}.fb>div{flex:1}.good{color:var(--good)}.bad{color:var(--bad)}.tip{color:var(--muted);font-size:.84rem;margin-top:3px}.primary{cursor:pointer;border:0;border-radius:10px;background:var(--iris);color:#fff;padding:10px 18px;font-weight:700}.primary:hover{background:var(--iris2)}.rail h3{text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-size:.74rem;margin:0}.summary{color:var(--muted);font-size:.84rem;margin:4px 0 15px}.prow{display:grid;grid-template-columns:105px 1fr 34px;align-items:center;gap:8px;padding:4px 0}.word{font-family:Georgia,serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.bar{height:7px;background:var(--line);border-radius:20px;overflow:hidden}.bar i{display:block;height:100%;background:var(--iris)}.cnt{text-align:right;color:var(--muted);font-size:.74rem}.prow.done .word,.prow.done .cnt{color:var(--good)}.prow.done .bar i{background:var(--good)}.cat{color:var(--faint);font-size:.68rem;text-transform:uppercase;letter-spacing:.06em;margin:13px 0 4px}.formlabel{display:block;color:var(--muted);font-size:.82rem;margin:0 0 7px}.answer{width:100%;border:1.5px solid var(--line);border-radius:11px;background:var(--card);color:var(--ink);padding:14px 15px;font-size:1.08rem;outline:none}.answer:focus{border-color:var(--iris);box-shadow:0 0 0 3px var(--soft)}.answer.correct{border-color:var(--good);background:var(--goodsoft)}.answer.wrong{border-color:var(--bad);background:var(--badsoft)}.formrow{display:flex;gap:10px}.formrow .answer{flex:1}.pron{color:var(--muted);margin:-13px 0 20px;font-size:.87rem}.done{text-align:center;padding:24px}.done .trophy{font-size:2.4rem}.done h2{font:700 2rem Georgia,serif;margin:8px}.loading,.error{text-align:center;color:var(--muted);padding:42px}.note{color:var(--faint);font-size:.78rem;margin:18px 2px}.dots{display:inline-flex;gap:3px;margin:0 4px}.dots i{width:7px;height:7px;background:var(--line);border-radius:50%}.dots i.on{background:var(--iris)}
+@media(max-width:830px){.grid{grid-template-columns:1fr}.rail{position:static;max-height:none}.menu{grid-template-columns:1fr}}@media(max-width:520px){.wrap{padding:18px 14px 50px}.brand p{display:none}.card{padding:21px 18px}.options{grid-template-columns:1fr}.sentence{font-size:1.42rem}.formrow{flex-direction:column}.fb{align-items:flex-start;flex-direction:column}.primary{width:100%}.menu-card{min-height:190px}}@media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
 <body>
 <div class="wrap">
   <header class="top">
-    <div class="brand">
-      <h1>Pronoun <span class="accent">Drill</span></h1>
-      <p>10 aciertos seguidos dominan un pronombre · 1 error reinicia su contador</p>
-    </div>
-    <div class="tools">
-      <button class="toolbtn" id="installBtn" hidden title="Instalar como app">⬇ Instalar</button>
-      <button class="toolbtn" id="resetBtn" title="Borrar todo el progreso">↺ Reiniciar</button>
-    </div>
+    <button class="brand" id="brandBtn"><h1>English <b>Drill</b></h1><p>10 aciertos dominan · 1 error reinicia</p></button>
+    <div class="tools"><button class="tool" id="installBtn" hidden>⬇ Instalar</button><button class="tool" id="themeBtn" title="Cambiar tema">◐</button><button class="tool" id="resetBtn" hidden>↻ Reiniciar</button></div>
   </header>
-
-  <div class="grid">
-    <main class="card" id="quizCard"><div class="loading">Cargando frases…</div></main>
-    <aside class="rail" id="rail"></aside>
-  </div>
-
-  <p class="hint-note">Responde con el ratón o con las teclas <kbd>1</kbd>–<kbd>4</kbd>. Avanza con <kbd>Enter</kbd> o <kbd>Espacio</kbd>. Tu progreso se guarda en este dispositivo. Para añadir frases, edita <kbd>frases.json</kbd>.</p>
+  <div id="app"></div>
 </div>
-
 <script>
-(function () {
-  "use strict";
-  var STORE_KEY = "pronounDrill.v1";
-  var GOAL = 10, GROUPS = {}, P = [], CAT_ORDER = [], byId = {};
-  var streaks = {}, current = null, answered = false, lastId = null;
-  var quizCard = document.getElementById("quizCard");
-  var rail = document.getElementById("rail");
-
-  function escapeHtml(s){ return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
-  function shuffle(a){ a=a.slice(); for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t;} return a; }
-
-  // ---- Carga de datos ----
-  fetch("./frases.json", { cache: "no-cache" })
-    .then(function (r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
-    .then(init)
-    .catch(function (e){
-      quizCard.innerHTML =
-        '<div class="errbox"><p><strong>No se pudieron cargar las frases.</strong></p>' +
-        '<p>Si abriste el archivo con doble clic (<code>file://</code>), el navegador bloquea la carga del JSON. ' +
-        'Ábrelo desde un servidor (GitHub Pages, o <code>npx serve</code> en la carpeta).</p>' +
-        '<p style="font-size:.8rem;opacity:.7">Detalle: ' + escapeHtml(e.message) + '</p></div>';
-    });
-
-  function init(data){
-    GOAL = data.goal || 10;
-    GROUPS = data.groups || {};
-    P = data.pronouns || [];
-    CAT_ORDER = data.catOrder || [];
-    P.forEach(function(p){ byId[p.id]=p; streaks[p.id]=0; });
-    try {
-      var saved = JSON.parse(localStorage.getItem(STORE_KEY) || "{}");
-      P.forEach(function(p){ if(typeof saved[p.id]==="number") streaks[p.id]=Math.max(0,Math.min(GOAL,saved[p.id]|0)); });
-    } catch(e){}
-    newQuestion();
-  }
-
-  function save(){ try{ localStorage.setItem(STORE_KEY, JSON.stringify(streaks)); }catch(e){} }
-  function pending(){ return P.filter(function(p){ return streaks[p.id]<GOAL; }); }
-
-  function buildOptions(p){
-    var pool=(GROUPS[p.group]||[p.answer]).slice();
-    if(pool.indexOf(p.answer)===-1) pool.push(p.answer);
-    return shuffle(pool);
-  }
-
-  function newQuestion(){
-    var pool=pending();
-    if(pool.length===0){ current=null; renderDone(); renderRail(); return; }
-    var choices=pool;
-    if(pool.length>1 && lastId) choices=pool.filter(function(p){return p.id!==lastId;});
-    var p=choices[Math.floor(Math.random()*choices.length)];
-    lastId=p.id;
-    var sen=p.sentences[Math.floor(Math.random()*p.sentences.length)];
-    current={ p:p, sentence:sen, options:buildOptions(p) };
-    answered=false;
-    renderQuiz(); renderRail();
-  }
-
-  function renderBlank(text, fill){
-    var parts=String(text).split("___");
-    return parts.map(escapeHtml).join('<span class="blank'+(fill?" filled":"")+'">'+(fill?escapeHtml(fill):"?")+'</span>');
-  }
-
-  function renderQuiz(){
-    var p=current.p, sen=current.sentence, dots="";
-    for(var i=0;i<GOAL;i++) dots+='<i class="'+(i<streaks[p.id]?"on":"")+'"></i>';
-    var html='';
-    html+='<div class="qhead">';
-    html+= '<span class="role-pill">'+escapeHtml(p.label)+' · '+escapeHtml(p.role)+'</span>';
-    html+= '<span class="streak-badge">Racha <span class="streak-dots">'+dots+'</span> '+streaks[p.id]+'/'+GOAL+'</span>';
-    html+='</div>';
-    html+='<div class="sentence">'+renderBlank(sen.en,null)+'<span class="es">'+escapeHtml(sen.es)+'</span></div>';
-    html+='<div class="options">';
-    current.options.forEach(function(opt,idx){
-      html+='<button class="opt" data-opt="'+escapeHtml(opt)+'"><span class="key">'+(idx+1)+'</span>'+escapeHtml(opt)+'</button>';
-    });
-    html+='</div><div class="feedback" id="feedback"></div>';
-    quizCard.innerHTML=html;
-    Array.prototype.forEach.call(quizCard.querySelectorAll(".opt"),function(b){
-      b.addEventListener("click",function(){ choose(b.getAttribute("data-opt")); });
-    });
-  }
-
-  function choose(opt){
-    if(answered||!current) return;
-    answered=true;
-    var p=current.p, correct=(opt===p.answer);
-    Array.prototype.forEach.call(quizCard.querySelectorAll(".opt"),function(b){
-      b.disabled=true;
-      var v=b.getAttribute("data-opt");
-      if(v===p.answer) b.classList.add("correct");
-      else if(v===opt) b.classList.add("wrong");
-      else b.classList.add("dim");
-    });
-    var blank=quizCard.querySelector(".blank");
-    if(blank){ blank.textContent=p.answer; blank.classList.add("filled"); }
-
-    if(correct) streaks[p.id]=Math.min(GOAL,streaks[p.id]+1);
-    else streaks[p.id]=0;
-    save();
-
-    var fb=document.getElementById("feedback");
-    var mastered=correct && streaks[p.id]>=GOAL, msg, cls;
-    if(mastered){ msg='<strong>¡Dominado!</strong> 10 seguidas de <strong>'+escapeHtml(p.label)+'</strong>. 🎉'; cls="fb-good"; }
-    else if(correct){ msg='<strong>¡Correcto!</strong> Racha de <strong>'+escapeHtml(p.label)+'</strong>: '+streaks[p.id]+'/'+GOAL+'.'; cls="fb-good"; }
-    else { msg='<strong>La respuesta era “'+escapeHtml(p.answer)+'”.</strong> El contador de <strong>'+escapeHtml(p.label)+'</strong> vuelve a 0.'; cls="fb-bad"; }
-    fb.innerHTML='<div class="fb-inner"><div><div class="fb-msg '+cls+'">'+msg+'</div><div class="fb-tip">'+escapeHtml(p.tip)+'</div></div><button class="nextbtn" id="nextBtn">Siguiente →</button></div>';
-    var nb=document.getElementById("nextBtn");
-    nb.addEventListener("click",newQuestion); nb.focus();
-    renderRail();
-  }
-
-  function renderDone(){
-    quizCard.innerHTML='<div class="done-banner"><div class="big">🏆 ¡Todos dominados!</div><p>Completaste 10 aciertos seguidos en los '+P.length+' pronombres. Excelente trabajo.</p><button class="nextbtn" id="againBtn" style="margin:10px auto 0;">Practicar otra vez</button></div>';
-    document.getElementById("againBtn").addEventListener("click",function(){
-      P.forEach(function(p){ streaks[p.id]=0; }); save(); lastId=null; newQuestion();
-    });
-  }
-
-  function renderRail(){
-    var doneCount=P.filter(function(p){return streaks[p.id]>=GOAL;}).length;
-    var html='<h2>Progreso</h2><p class="summary"><b>'+doneCount+'</b> de <b>'+P.length+'</b> dominados</p>';
-    CAT_ORDER.forEach(function(cat){
-      var items=P.filter(function(p){return p.cat===cat;});
-      if(!items.length) return;
-      html+='<div class="catgroup"><p class="cat-label">'+escapeHtml(cat)+'</p>';
-      items.forEach(function(p){
-        var done=streaks[p.id]>=GOAL, active=current&&current.p.id===p.id&&!done, pct=Math.round((streaks[p.id]/GOAL)*100);
-        html+='<div class="prow'+(done?" done":"")+(active?" active":"")+'"><span class="word">'+escapeHtml(p.label)+'</span><span class="bar"><span style="width:'+pct+'%"></span></span><span class="cnt">'+(done?"✓":streaks[p.id]+"/"+GOAL)+'</span></div>';
-      });
-      html+='</div>';
-    });
-    rail.innerHTML=html;
-  }
-
-  document.addEventListener("keydown",function(e){
-    if(e.key>="1"&&e.key<="9"&&current&&!answered){
-      var idx=parseInt(e.key,10)-1;
-      if(idx<current.options.length){ e.preventDefault(); choose(current.options[idx]); }
-    } else if((e.key==="Enter"||e.key===" ")&&answered){
-      if(document.getElementById("nextBtn")){ e.preventDefault(); newQuestion(); }
-    }
-  });
-
-  document.getElementById("resetBtn").addEventListener("click",function(){
-    if(!confirm("¿Borrar todo tu progreso y empezar de cero?")) return;
-    P.forEach(function(p){ streaks[p.id]=0; }); save(); lastId=null; newQuestion();
-  });
-
-  // ---- PWA: service worker + botón instalar ----
-  if("serviceWorker" in navigator){
-    window.addEventListener("load",function(){ navigator.serviceWorker.register("./sw.js").catch(function(){}); });
-  }
-  var deferredPrompt=null, installBtn=document.getElementById("installBtn");
-  window.addEventListener("beforeinstallprompt",function(e){ e.preventDefault(); deferredPrompt=e; installBtn.hidden=false; });
-  installBtn.addEventListener("click",function(){
-    if(!deferredPrompt) return;
-    deferredPrompt.prompt();
-    deferredPrompt.userChoice.finally(function(){ deferredPrompt=null; installBtn.hidden=true; });
-  });
-  window.addEventListener("appinstalled",function(){ installBtn.hidden=true; });
+(function(){
+"use strict";
+var GOAL=10,screen="home",mode=null,pronounData=null,modalData=null,current=null,answered=false,lastId=null;
+var app=document.getElementById("app"),resetBtn=document.getElementById("resetBtn");
+var progress={pronouns:{},modals:{}};
+var KEYS={pronouns:"pronounDrill.v1",modals:"englishDrill.modals.v1"};
+function esc(v){return String(v).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+function shuffle(a){a=a.slice();for(var i=a.length-1;i;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t}return a}
+function normalize(v){return String(v).trim().toLowerCase().replace(/[’']/g,"'").replace(/\s+/g," ")}
+function accepted(item,value){var v=normalize(value),parts=item.english.split("/").map(normalize);return v===normalize(item.english)||parts.indexOf(v)>=0}
+function load(key,target,items){try{var s=JSON.parse(localStorage.getItem(key)||"{}");items.forEach(function(x){target[x.id]=typeof s[x.id]==="number"?Math.max(0,Math.min(GOAL,s[x.id]|0)):0})}catch(e){items.forEach(function(x){target[x.id]=0})}}
+function save(kind){try{localStorage.setItem(KEYS[kind],JSON.stringify(progress[kind]))}catch(e){}}
+function crumb(label){return '<nav class="crumb"><button data-go="home">Inicio</button><span>›</span><span>'+esc(label)+'</span></nav>'}
+function home(){
+ screen="home";mode=null;current=null;resetBtn.hidden=true;
+ app.innerHTML='<section class="hero"><div class="eyebrow">Práctica personalizada</div><h2>Construye tu inglés, palabra por palabra.</h2><p>Elige un tema. Cada palabra se domina con 10 respuestas correctas consecutivas; si fallas, solo su contador vuelve a cero.</p></section><section class="menu"><button class="menu-card" data-open="pronouns"><span class="icon">PR</span><span class="arrow">→</span><h3>Pronombres</h3><p>Completa frases eligiendo el pronombre correcto en contexto.</p></button><button class="menu-card" data-open="modals"><span class="icon">MA</span><span class="arrow">→</span><h3>Modales y auxiliares</h3><p>Practica 19 palabras con autocompletado y relación de traducciones.</p></button></section>';
+}
+function modalMenu(){
+ screen="modal-menu";mode=null;current=null;resetBtn.hidden=true;
+ app.innerHTML=crumb("Modales y auxiliares")+'<section class="subintro"><h2>¿Cómo quieres practicar?</h2><p>Los dos ejercicios comparten el mismo progreso por palabra.</p></section><section class="menu"><button class="menu-card" data-mode="complete"><span class="icon">Aa</span><span class="arrow">→</span><h3>Autocompletar palabras</h3><p>Lee la traducción y el ejemplo, luego escribe el modal o auxiliar en inglés.</p></button><button class="menu-card" data-mode="match"><span class="icon">↔</span><span class="arrow">→</span><h3>Relacionar traducción</h3><p>Elige la traducción correcta para cada palabra en inglés.</p></button></section>';
+}
+function start(kind,newMode){
+ screen=kind;mode=newMode||"choice";answered=false;lastId=null;resetBtn.hidden=false;next();
+}
+function items(){return screen==="pronouns"?pronounData.pronouns:modalData.items}
+function prog(){return progress[screen]}
+function pending(){return items().filter(function(x){return prog()[x.id]<GOAL})}
+function next(){
+ var pool=pending();answered=false;
+ if(!pool.length){current=null;renderDone();return}
+ var choices=pool.length>1&&lastId?pool.filter(function(x){return x.id!==lastId}):pool;
+ var item=choices[Math.floor(Math.random()*choices.length)];lastId=item.id;
+ if(screen==="pronouns"){
+   var sen=item.sentences[Math.floor(Math.random()*item.sentences.length)];
+   var optionPool=(pronounData.groups[item.group]||[item.answer]).slice();if(optionPool.indexOf(item.answer)<0)optionPool.push(item.answer);
+   current={item:item,sentence:sen,options:shuffle(optionPool)};
+ }else{
+   var opts=shuffle([item].concat(shuffle(modalData.items.filter(function(x){return x.id!==item.id})).slice(0,3))).map(function(x){return {id:x.id,value:x.spanish}});
+   current={item:item,options:shuffle(opts)};
+ }
+ renderExercise();
+}
+function dots(n){var s='<span class="dots">';for(var i=0;i<GOAL;i++)s+='<i class="'+(i<n?"on":"")+'"></i>';return s+'</span>'}
+function shell(body,label){app.innerHTML=crumb(label)+'<div class="grid"><main class="card" id="quiz">'+body+'</main><aside class="rail" id="rail"></aside></div><p class="note">Tu progreso se guarda únicamente en este dispositivo.</p>';renderRail()}
+function renderExercise(){
+ var x=current.item,n=prog()[x.id],head='<div class="qhead"><span class="pill">'+esc(screen==="pronouns"?x.label:(mode==="complete"?"Autocompletar":"Relacionar"))+'</span><span class="streak">Racha '+dots(n)+n+'/'+GOAL+'</span></div>';
+ if(screen==="pronouns"){
+   var parts=String(current.sentence.en).split("___"),sentence=parts.map(esc).join('<span class="blank">?</span>')+'<span class="es">'+esc(current.sentence.es)+'</span>';
+   shell(head+'<div class="sentence">'+sentence+'</div>'+optionButtons(current.options.map(function(v){return {id:v,value:v}}))+'<div class="feedback" id="feedback"></div>',"Pronombres");
+ }else if(mode==="match"){
+   shell(head+'<div class="sentence">'+esc(x.english)+'<span class="es">Pronunciación aproximada: '+esc(x.pronunciation)+'</span></div>'+optionButtons(current.options)+'<div class="feedback" id="feedback"></div>',"Modales · Relacionar");
+ }else{
+   shell(head+'<div class="sentence">'+esc(x.spanish)+'<span class="es">'+esc(x.exampleEs)+'</span></div><p class="formlabel">Escribe la palabra o expresión en inglés</p><form id="answerForm" class="formrow"><input class="answer" id="answerInput" autocomplete="off" autocapitalize="none" spellcheck="false" aria-label="Respuesta en inglés"><button class="primary" type="submit">Comprobar</button></form><div class="feedback" id="feedback"></div>',"Modales · Autocompletar");
+   document.getElementById("answerInput").focus();
+ }
+}
+function optionButtons(opts){return '<div class="options">'+opts.map(function(o,i){return '<button class="opt" data-id="'+esc(o.id)+'" data-value="'+esc(o.value)+'"><span class="key">'+(i+1)+'</span>'+esc(o.value)+'</button>'}).join("")+'</div>'}
+function respond(ok,chosen){
+ if(answered)return;answered=true;var x=current.item,p=prog();p[x.id]=ok?Math.min(GOAL,p[x.id]+1):0;save(screen);
+ var buttons=app.querySelectorAll(".opt");buttons.forEach(function(b){b.disabled=true;var good=screen==="pronouns"?b.dataset.value===x.answer:b.dataset.id===x.id;if(good)b.classList.add("correct");else if(b.dataset.id===chosen||b.dataset.value===chosen)b.classList.add("wrong");else b.classList.add("dim")});
+ var input=document.getElementById("answerInput");if(input){input.disabled=true;input.classList.add(ok?"correct":"wrong")}
+ var mastered=ok&&p[x.id]>=GOAL,answer=screen==="pronouns"?x.answer:x.english;
+ var message=mastered?"<strong>¡Dominado!</strong> Completaste 10 seguidas.":ok?"<strong>¡Correcto!</strong> Racha: "+p[x.id]+"/"+GOAL+".":"<strong>La respuesta era “"+esc(answer)+"”.</strong> Su contador vuelve a 0.";
+ var tip=screen==="pronouns"?x.tip:(esc(x.exampleEn)+" · "+esc(x.exampleEs));
+ document.getElementById("feedback").innerHTML='<div class="fb"><div><div class="'+(ok?"good":"bad")+'">'+message+'</div><div class="tip">'+tip+'</div></div><button class="primary" id="nextBtn">Siguiente →</button></div>';
+ document.getElementById("nextBtn").focus();renderRail();
+}
+function renderRail(){
+ var rail=document.getElementById("rail");if(!rail)return;var list=items(),p=prog(),done=list.filter(function(x){return p[x.id]>=GOAL}).length;
+ var html='<h3>Progreso</h3><p class="summary"><b>'+done+'</b> de <b>'+list.length+'</b> dominados</p>',lastCat="";
+ list.forEach(function(x){var cat=screen==="pronouns"?x.cat:"Modales y auxiliares";if(cat!==lastCat){html+='<div class="cat">'+esc(cat)+'</div>';lastCat=cat}var n=p[x.id],isDone=n>=GOAL;html+='<div class="prow'+(isDone?" done":"")+'"><span class="word" title="'+esc(screen==="pronouns"?x.label:x.english)+'">'+esc(screen==="pronouns"?x.label:x.english)+'</span><span class="bar"><i style="width:'+Math.round(n/GOAL*100)+'%"></i></span><span class="cnt">'+(isDone?"✓":n+"/"+GOAL)+'</span></div>'});rail.innerHTML=html;
+}
+function renderDone(){shell('<div class="done"><div class="trophy">🏆</div><h2>¡Todo dominado!</h2><p>Completaste 10 aciertos seguidos en cada '+(screen==="pronouns"?"pronombre":"modal y auxiliar")+'.</p><button class="primary" id="againBtn">Practicar otra vez</button></div>',screen==="pronouns"?"Pronombres":"Modales y auxiliares")}
+function reset(){
+ if(!confirm("¿Borrar el progreso de esta sección y empezar de cero?"))return;
+ var p=prog();items().forEach(function(x){p[x.id]=0});save(screen);lastId=null;next();
+}
+app.addEventListener("click",function(e){
+ var b=e.target.closest("button");if(!b)return;
+ if(b.dataset.go==="home"){home();return}
+ if(b.dataset.open==="pronouns"){start("pronouns");return}
+ if(b.dataset.open==="modals"){modalMenu();return}
+ if(b.dataset.mode){start("modals",b.dataset.mode);return}
+ if(b.classList.contains("opt")){var ok=screen==="pronouns"?b.dataset.value===current.item.answer:b.dataset.id===current.item.id;respond(ok,b.dataset.id||b.dataset.value);return}
+ if(b.id==="nextBtn"){next();return}
+ if(b.id==="againBtn"){var p=prog();items().forEach(function(x){p[x.id]=0});save(screen);lastId=null;next()}
+});
+app.addEventListener("submit",function(e){if(e.target.id!=="answerForm")return;e.preventDefault();var v=document.getElementById("answerInput").value;if(!v.trim())return;respond(accepted(current.item,v),v)});
+document.addEventListener("keydown",function(e){if(e.key>="1"&&e.key<="9"&&!answered){var bs=app.querySelectorAll(".opt"),i=+e.key-1;if(bs[i]){e.preventDefault();bs[i].click()}}else if((e.key==="Enter"||e.key===" ")&&answered&&document.getElementById("nextBtn")){e.preventDefault();next()}});
+document.getElementById("brandBtn").addEventListener("click",home);resetBtn.addEventListener("click",reset);
+var themeBtn=document.getElementById("themeBtn");themeBtn.addEventListener("click",function(){var root=document.documentElement,d=root.dataset.theme||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"),n=d==="dark"?"light":"dark";root.dataset.theme=n;localStorage.setItem("englishDrill.theme",n)});var savedTheme=localStorage.getItem("englishDrill.theme");if(savedTheme)document.documentElement.dataset.theme=savedTheme;
+Promise.all([fetch("./frases.json",{cache:"no-cache"}).then(function(r){if(!r.ok)throw Error("frases.json");return r.json()}),fetch("./modales.json",{cache:"no-cache"}).then(function(r){if(!r.ok)throw Error("modales.json");return r.json()})]).then(function(data){pronounData=data[0];modalData=data[1];GOAL=modalData.goal||10;load(KEYS.pronouns,progress.pronouns,pronounData.pronouns);load(KEYS.modals,progress.modals,modalData.items);home()}).catch(function(e){app.innerHTML='<div class="card error"><strong>No se pudieron cargar los datos.</strong><p>Abre la app desde un servidor web, no con doble clic.</p><small>'+esc(e.message)+'</small></div>'});
+if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("./sw.js").catch(function(){})});
+var promptEvent=null,installBtn=document.getElementById("installBtn");addEventListener("beforeinstallprompt",function(e){e.preventDefault();promptEvent=e;installBtn.hidden=false});installBtn.addEventListener("click",function(){if(promptEvent){promptEvent.prompt();promptEvent.userChoice.finally(function(){promptEvent=null;installBtn.hidden=true})}});
 })();
 </script>
 </body>
