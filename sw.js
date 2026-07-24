@@ -1,7 +1,7 @@
 /* Service worker de Pronoun Drill.
  * Al cambiar el "shell" (index.html, sw.js, iconos) sube el número de versión
  * para forzar la actualización en los dispositivos ya instalados. */
-const CACHE = "english-drill-v2";
+const CACHE = "english-drill-v3";
 const ASSETS = [
   "./",
   "./index.html",

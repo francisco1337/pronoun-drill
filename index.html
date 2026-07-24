@@ -64,8 +64,10 @@ function next(){
    var optionPool=(pronounData.groups[item.group]||[item.answer]).slice();if(optionPool.indexOf(item.answer)<0)optionPool.push(item.answer);
    current={item:item,sentence:sen,options:shuffle(optionPool)};
  }else{
+   var examples=item.examples||[{answer:item.english,en:item.exampleEn,es:item.exampleEs}];
+   var example=examples[Math.floor(Math.random()*examples.length)];
    var opts=shuffle([item].concat(shuffle(modalData.items.filter(function(x){return x.id!==item.id})).slice(0,3))).map(function(x){return {id:x.id,value:x.spanish}});
-   current={item:item,options:shuffle(opts)};
+   current={item:item,example:example,options:shuffle(opts)};
  }
  renderExercise();
 }
@@ -79,7 +81,9 @@ function renderExercise(){
  }else if(mode==="match"){
    shell(head+'<div class="sentence">'+esc(x.english)+'<span class="es">Pronunciación aproximada: '+esc(x.pronunciation)+'</span></div>'+optionButtons(current.options)+'<div class="feedback" id="feedback"></div>',"Modales · Relacionar");
  }else{
-   shell(head+'<div class="sentence">'+esc(x.spanish)+'<span class="es">'+esc(x.exampleEs)+'</span></div><p class="formlabel">Escribe la palabra o expresión en inglés</p><form id="answerForm" class="formrow"><input class="answer" id="answerInput" autocomplete="off" autocapitalize="none" spellcheck="false" aria-label="Respuesta en inglés"><button class="primary" type="submit">Comprobar</button></form><div class="feedback" id="feedback"></div>',"Modales · Autocompletar");
+   var exampleParts=String(current.example.en).split(new RegExp("\\b"+current.example.answer.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\b","i"));
+   var exampleBlank=exampleParts.length>1?exampleParts.map(esc).join('<span class="blank">?</span>'):esc(current.example.en);
+   shell(head+'<div class="sentence">'+exampleBlank+'<span class="es">'+esc(current.example.es)+'</span></div><p class="formlabel">Escribe la palabra o expresión que falta en inglés</p><form id="answerForm" class="formrow"><input class="answer" id="answerInput" autocomplete="off" autocapitalize="none" spellcheck="false" aria-label="Respuesta en inglés"><button class="primary" type="submit">Comprobar</button></form><div class="feedback" id="feedback"></div>',"Modales · Autocompletar");
    document.getElementById("answerInput").focus();
  }
 }
@@ -90,7 +94,7 @@ function respond(ok,chosen){
  var input=document.getElementById("answerInput");if(input){input.disabled=true;input.classList.add(ok?"correct":"wrong")}
  var mastered=ok&&p[x.id]>=GOAL,answer=screen==="pronouns"?x.answer:x.english;
  var message=mastered?"<strong>¡Dominado!</strong> Completaste 10 seguidas.":ok?"<strong>¡Correcto!</strong> Racha: "+p[x.id]+"/"+GOAL+".":"<strong>La respuesta era “"+esc(answer)+"”.</strong> Su contador vuelve a 0.";
- var tip=screen==="pronouns"?x.tip:(esc(x.exampleEn)+" · "+esc(x.exampleEs));
+ var tip=screen==="pronouns"?x.tip:(esc(current.example.en)+" · "+esc(current.example.es));
  document.getElementById("feedback").innerHTML='<div class="fb"><div><div class="'+(ok?"good":"bad")+'">'+message+'</div><div class="tip">'+tip+'</div></div><button class="primary" id="nextBtn">Siguiente →</button></div>';
  document.getElementById("nextBtn").focus();renderRail();
 }
@@ -114,7 +118,7 @@ app.addEventListener("click",function(e){
  if(b.id==="nextBtn"){next();return}
  if(b.id==="againBtn"){var p=prog();items().forEach(function(x){p[x.id]=0});save(screen);lastId=null;next()}
 });
-app.addEventListener("submit",function(e){if(e.target.id!=="answerForm")return;e.preventDefault();var v=document.getElementById("answerInput").value;if(!v.trim())return;respond(accepted(current.item,v),v)});
+app.addEventListener("submit",function(e){if(e.target.id!=="answerForm")return;e.preventDefault();var v=document.getElementById("answerInput").value;if(!v.trim())return;respond(normalize(v)===normalize(current.example.answer)||accepted(current.item,v),v)});
 document.addEventListener("keydown",function(e){if(e.key>="1"&&e.key<="9"&&!answered){var bs=app.querySelectorAll(".opt"),i=+e.key-1;if(bs[i]){e.preventDefault();bs[i].click()}}else if((e.key==="Enter"||e.key===" ")&&answered&&document.getElementById("nextBtn")){e.preventDefault();next()}});
 document.getElementById("brandBtn").addEventListener("click",home);resetBtn.addEventListener("click",reset);
 var themeBtn=document.getElementById("themeBtn");themeBtn.addEventListener("click",function(){var root=document.documentElement,d=root.dataset.theme||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"),n=d==="dark"?"light":"dark";root.dataset.theme=n;localStorage.setItem("englishDrill.theme",n)});var savedTheme=localStorage.getItem("englishDrill.theme");if(savedTheme)document.documentElement.dataset.theme=savedTheme;

@@ -11,6 +11,7 @@ contador de esa palabra. Funciona offline y se puede instalar.
 | `index.html` | La app (interfaz + lógica). Carga las frases desde `frases.json`. |
 | `frases.json` | **Las frases** (inglés + traducción). Esto es lo que editas para cambiarlas. |
 | `modales.json` | Los 19 modales y auxiliares importados de la hoja de aprendizaje. |
+| `generar-ejemplos-modales.js` | Regenera los 200 ejemplos bilingües de cada modal/auxiliar. |
 | `generar-frases.js` | Generador opcional: reconstruye `frases.json` a partir de plantillas y vocabulario. |
 | `manifest.webmanifest`, `sw.js`, `icons/` | Piezas de la PWA (instalable + offline). |
 
