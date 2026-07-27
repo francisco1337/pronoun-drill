@@ -51,15 +51,36 @@ const beItems = ["am","is","are"].map(be => item("be-"+be, be, "Verbo to be", "I
 
 const articleNouns = [
   ["car","coche","a"],["house","casa","a"],["plan","plan","a"],["report","informe","a"],
-  ["email","correo","an"],["idea","idea","an"],["apple","manzana","an"],["office","oficina","an"]
+  ["book","libro","a"],["computer","computadora","a"],["dog","perro","a"],["friend","amigo","a"],
+  ["garden","jardín","a"],["hotel","hotel","a"],["job","trabajo","a"],["key","llave","a"],
+  ["letter","carta","a"],["map","mapa","a"],["phone","teléfono","a"],["question","pregunta","a"],
+  ["restaurant","restaurante","a"],["student","estudiante","a"],["table","mesa","a"],["window","ventana","a"],
+  ["email","correo","an"],["idea","idea","an"],["apple","manzana","an"],["office","oficina","an"],
+  ["address","dirección","an"],["animal","animal","an"],["answer","respuesta","an"],["apartment","apartamento","an"],
+  ["egg","huevo","an"],["engine","motor","an"],["example","ejemplo","an"],["hour","hora","an"],
+  ["ice cream","helado","an"],["island","isla","an"],["object","objeto","an"],["offer","oferta","an"],
+  ["orange","naranja","an"],["umbrella","paraguas","an"],["uncle","tío","an"],["artist","artista","an"]
 ];
-const articleItems = ["a","an","the"].map(a => item("article-"+a, a, "Artículos", "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
-  articleNouns.flatMap(n => a === "the"
-    ? [ex(`Open ___ ${n[0]} on the desk.`, `Abre ${n[1]} que está en el escritorio.`, "the", ["a","an","the"])]
-    : n[2] === a ? [
-      ex(`I need ___ ${n[0]}.`, `Necesito un/una ${n[1]}.`, a, ["a","an","the"]),
-      ex(`She has ___ ${n[0]}.`, `Ella tiene un/una ${n[1]}.`, a, ["a","an","the"])
-    ] : [])));
+const indefiniteTemplates = [
+  ["I need ___ {en}.","Necesito un/una {es}."],
+  ["She has ___ {en}.","Ella tiene un/una {es}."],
+  ["We see ___ {en} here.","Vemos un/una {es} aquí."],
+  ["They want ___ {en}.","Ellos quieren un/una {es}."]
+];
+const definiteTemplates = [
+  ["Open ___ {en} on the desk.","Abre el/la {es} que está en el escritorio."],
+  ["Please clean ___ {en} we used.","Por favor limpia el/la {es} que usamos."]
+];
+function articleExamples(article) {
+  const nouns = article === "the" ? articleNouns : articleNouns.filter(n => n[2] === article);
+  const templates = article === "the" ? definiteTemplates : indefiniteTemplates;
+  return nouns.flatMap(n => templates.map(t =>
+    ex(t[0].replace("{en}", n[0]), t[1].replace("{es}", n[1]), article, ["a","an","the"])
+  ));
+}
+const articleItems = ["a","an","the"].map(article =>
+  item("article-"+article, article, "Artículos", "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.", articleExamples(article))
+);
 
 const simpleItems = vocabulary.map(v => item("simple-"+v.english, v.english, "Presente simple", "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
   subjects.flatMap((s, i) => {
