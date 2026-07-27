@@ -51,6 +51,10 @@ function a1Menu(){
  screen="a1-menu";mode=null;a1Topic=null;current=null;resetBtn.hidden=true;
  app.innerHTML=crumb("Nivel A1")+'<section class="subintro"><h2>Temas A1</h2><p>Selecciona un tema. Los ejercicios incorporan el vocabulario de tu plan de Drive.</p></section><section class="menu">'+a1Data.topics.map(function(t,i){return '<button class="menu-card" data-topic="'+esc(t.id)+'"><span class="icon">'+String(i+1).padStart(2,"0")+'</span><span class="arrow">→</span><h3>'+esc(t.title)+'</h3><p>'+esc(t.description)+'</p></button>'}).join("")+'</section>';
 }
+function simplePresentMenu(){
+ screen="a1-simple-menu";mode=null;current=null;resetBtn.hidden=true;
+ app.innerHTML=crumb("A1 · Presente simple")+'<section class="subintro"><h2>¿Cómo quieres practicar?</h2><p>Los dos ejercicios comparten el mismo progreso por verbo: 10 aciertos seguidos lo dominan y 1 error reinicia su contador.</p></section><section class="menu"><button class="menu-card" data-a1-mode="complete"><span class="icon">Aa</span><span class="arrow">→</span><h3>Completar la frase</h3><p>Elige la forma verbal correcta según el sujeto y el contexto.</p></button><button class="menu-card" data-a1-mode="match"><span class="icon">↔</span><span class="arrow">→</span><h3>Relacionar traducción</h3><p>Relaciona cada verbo en inglés con su significado en español.</p></button></section>';
+}
 function modalMenu(){
  screen="modal-menu";mode=null;current=null;resetBtn.hidden=true;
  app.innerHTML=crumb("Modales y auxiliares")+'<section class="subintro"><h2>¿Cómo quieres practicar?</h2><p>Los dos ejercicios comparten el mismo progreso por palabra.</p></section><section class="menu"><button class="menu-card" data-mode="complete"><span class="icon">Aa</span><span class="arrow">→</span><h3>Autocompletar palabras</h3><p>Lee la traducción y el ejemplo, luego escribe el modal o auxiliar en inglés.</p></button><button class="menu-card" data-mode="match"><span class="icon">↔</span><span class="arrow">→</span><h3>Relacionar traducción</h3><p>Elige la traducción correcta para cada palabra en inglés.</p></button></section>';
@@ -58,9 +62,10 @@ function modalMenu(){
 function start(kind,newMode){
  screen=kind;mode=newMode||"choice";answered=false;lastId=null;resetBtn.hidden=false;next();
 }
-function startA1(topicId){
+function startA1(topicId,newMode){
  a1Topic=a1Data.topics.find(function(t){return t.id===topicId});if(!a1Topic)return;
- screen="a1";mode="choice";answered=false;lastId=null;resetBtn.hidden=false;
+ if(topicId==="simple-present"&&!newMode){simplePresentMenu();return}
+ screen="a1";mode=newMode||"choice";answered=false;lastId=null;resetBtn.hidden=false;
  if(isPronouns()){
    if(!Object.keys(progress.pronouns).length)load(KEYS.pronouns,progress.pronouns,pronounData.pronouns);
  }else{
@@ -71,6 +76,8 @@ function startA1(topicId){
 }
 function items(){return isPronouns()?pronounData.pronouns:(screen==="a1"?a1Topic.items:modalData.items)}
 function prog(){return isPronouns()?progress.pronouns:(screen==="a1"?progress.a1[a1Topic.id]:progress.modals)}
+function isA1Match(){return screen==="a1"&&a1Topic&&a1Topic.id==="simple-present"&&mode==="match"}
+function vocabFor(item){return a1Data.vocabulary.find(function(v){return v.english===item.label})}
 function pending(){return items().filter(function(x){return prog()[x.id]<GOAL})}
 function next(){
  var pool=pending();answered=false;
@@ -86,6 +93,9 @@ function next(){
    var example=examples[Math.floor(Math.random()*examples.length)];
    var opts=shuffle([item].concat(shuffle(modalData.items.filter(function(x){return x.id!==item.id})).slice(0,3))).map(function(x){return {id:x.id,value:x.spanish}});
    current={item:item,example:example,options:shuffle(opts)};
+ }else if(isA1Match()){
+   var matchPool=[item].concat(shuffle(a1Topic.items.filter(function(x){return x.id!==item.id})).slice(0,3));
+   current={item:item,options:shuffle(matchPool.map(function(x){var v=vocabFor(x);return {id:x.id,value:v?v.spanish:x.label}}))};
  }else{
    var grammarExample=item.examples[Math.floor(Math.random()*item.examples.length)];
    current={item:item,example:grammarExample,options:shuffle(grammarExample.options.map(function(v){return {id:v,value:v}}))};
@@ -99,6 +109,9 @@ function renderExercise(){
  if(isPronouns()){
    var parts=String(current.sentence.en).split("___"),sentence=parts.map(esc).join('<span class="blank">?</span>')+'<span class="es">'+esc(current.sentence.es)+'</span>';
    shell(head+'<div class="sentence">'+sentence+'</div>'+optionButtons(current.options.map(function(v){return {id:v,value:v}}))+'<div class="feedback" id="feedback"></div>',screen==="a1"?"A1 · Pronombres personales":"Pronombres");
+ }else if(isA1Match()){
+   var vocab=vocabFor(x);
+   shell(head+'<div class="sentence">'+esc(x.label)+'<span class="es">Pronunciación aproximada: '+esc(vocab?vocab.pronunciation:"")+'</span></div>'+optionButtons(current.options)+'<div class="feedback" id="feedback"></div>',"A1 · Presente simple · Relacionar");
  }else if(screen==="a1"){
    var grammarParts=String(current.example.prompt).split("___"),grammarSentence=grammarParts.map(esc).join('<span class="blank">?</span>')+'<span class="es">'+esc(current.example.es)+'</span>';
    shell(head+'<div class="sentence">'+grammarSentence+'</div>'+optionButtons(current.options)+'<div class="feedback" id="feedback"></div>',"A1 · "+a1Topic.title);
@@ -114,11 +127,12 @@ function renderExercise(){
 function optionButtons(opts){return '<div class="options">'+opts.map(function(o,i){return '<button class="opt" data-id="'+esc(o.id)+'" data-value="'+esc(o.value)+'"><span class="key">'+(i+1)+'</span>'+esc(o.value)+'</button>'}).join("")+'</div>'}
 function respond(ok,chosen){
  if(answered)return;answered=true;var x=current.item,p=prog();p[x.id]=ok?Math.min(GOAL,p[x.id]+1):0;save(storageKind());
- var buttons=app.querySelectorAll(".opt");buttons.forEach(function(b){b.disabled=true;var good=isPronouns()?b.dataset.value===x.answer:(screen==="a1"?b.dataset.value===current.example.answer:b.dataset.id===x.id);if(good)b.classList.add("correct");else if(b.dataset.id===chosen||b.dataset.value===chosen)b.classList.add("wrong");else b.classList.add("dim")});
+ var buttons=app.querySelectorAll(".opt");buttons.forEach(function(b){b.disabled=true;var good=isPronouns()?b.dataset.value===x.answer:(isA1Match()?b.dataset.id===x.id:(screen==="a1"?b.dataset.value===current.example.answer:b.dataset.id===x.id));if(good)b.classList.add("correct");else if(b.dataset.id===chosen||b.dataset.value===chosen)b.classList.add("wrong");else b.classList.add("dim")});
  var input=document.getElementById("answerInput");if(input){input.disabled=true;input.classList.add(ok?"correct":"wrong")}
- var mastered=ok&&p[x.id]>=GOAL,answer=isPronouns()?x.answer:(screen==="a1"?current.example.answer:x.english);
+ var mastered=ok&&p[x.id]>=GOAL,answer=isPronouns()?x.answer:(isA1Match()?(vocabFor(x)||{}).spanish:(screen==="a1"?current.example.answer:x.english));
  var message=mastered?"<strong>¡Dominado!</strong> Completaste 10 seguidas.":ok?"<strong>¡Correcto!</strong> Racha: "+p[x.id]+"/"+GOAL+".":"<strong>La respuesta era “"+esc(answer)+"”.</strong> Su contador vuelve a 0.";
- var tip=isPronouns()?x.tip:(screen==="a1"?x.tip:(esc(current.example.en)+" · "+esc(current.example.es)));
+ var matchedVocab=isA1Match()?vocabFor(x):null;
+ var tip=isPronouns()?x.tip:(isA1Match()?(esc(x.label)+" · "+esc(matchedVocab?matchedVocab.spanish:"")):(screen==="a1"?x.tip:(esc(current.example.en)+" · "+esc(current.example.es))));
  document.getElementById("feedback").innerHTML='<div class="fb"><div><div class="'+(ok?"good":"bad")+'">'+message+'</div><div class="tip">'+tip+'</div></div><button class="primary" id="nextBtn">Siguiente →</button></div>';
  document.getElementById("nextBtn").focus();renderRail();
 }
@@ -138,8 +152,9 @@ app.addEventListener("click",function(e){
  if(b.dataset.open==="a1"){a1Menu();return}
  if(b.dataset.open==="modals"){modalMenu();return}
  if(b.dataset.topic){startA1(b.dataset.topic);return}
+ if(b.dataset.a1Mode){startA1("simple-present",b.dataset.a1Mode);return}
  if(b.dataset.mode){start("modals",b.dataset.mode);return}
- if(b.classList.contains("opt")){var ok=isPronouns()?b.dataset.value===current.item.answer:(screen==="a1"?b.dataset.value===current.example.answer:b.dataset.id===current.item.id);respond(ok,b.dataset.id||b.dataset.value);return}
+ if(b.classList.contains("opt")){var ok=isPronouns()?b.dataset.value===current.item.answer:(isA1Match()?b.dataset.id===current.item.id:(screen==="a1"?b.dataset.value===current.example.answer:b.dataset.id===current.item.id));respond(ok,b.dataset.id||b.dataset.value);return}
  if(b.id==="nextBtn"){next();return}
  if(b.id==="againBtn"){var p=prog();items().forEach(function(x){p[x.id]=0});save(storageKind());lastId=null;next()}
 });
