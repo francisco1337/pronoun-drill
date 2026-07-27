@@ -15,7 +15,8 @@
 :root[data-theme=light]{--paper:#f6f7fb;--card:#fff;--ink:#1b1f2a;--muted:#697386;--faint:#98a0b0;--line:#e4e7ef;--iris:#5b5bd6;--iris2:#7575e8;--soft:#eeeeff;--good:#168a46;--goodsoft:#e9f7ee;--bad:#cf3030;--badsoft:#fff0f0}
 :root[data-theme=dark]{--paper:#13151b;--card:#1b1e26;--ink:#eef0f5;--muted:#a0a8b8;--faint:#727b8d;--line:#303541;--iris:#9292ff;--iris2:#ababff;--soft:#292940;--good:#55d989;--goodsoft:#173323;--bad:#ff7d7d;--badsoft:#3b1c20}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}.wrap{max-width:1100px;margin:auto;padding:26px 20px calc(64px + env(safe-area-inset-bottom))}button,input{font:inherit}button{color:inherit}.top{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:24px}.brand{border:0;background:none;cursor:pointer;text-align:left;padding:0}.brand h1{font-size:1.35rem;margin:0;letter-spacing:-.02em}.brand b{color:var(--iris)}.brand p{margin:3px 0 0;color:var(--muted);font-size:.82rem}.tools{display:flex;gap:8px}.tool{cursor:pointer;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px}.tool:hover{border-color:var(--iris)}[hidden]{display:none!important}.crumb{display:flex;align-items:center;gap:8px;margin:0 0 16px;color:var(--muted);font-size:.85rem}.crumb button{border:0;background:none;color:var(--iris);cursor:pointer;padding:0}.hero{padding:22px 0 30px}.eyebrow{color:var(--iris);font-weight:700;text-transform:uppercase;letter-spacing:.09em;font-size:.72rem}.hero h2{font:700 clamp(2rem,5vw,3.5rem)/1.08 Georgia,serif;letter-spacing:-.035em;max-width:720px;margin:9px 0 12px}.hero p{color:var(--muted);max-width:660px;font-size:1.03rem}.menu{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.menu-card{position:relative;overflow:hidden;text-align:left;cursor:pointer;background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:26px;min-height:210px;transition:.15s}.menu-card:hover{transform:translateY(-2px);border-color:var(--iris)}.menu-card .icon{display:grid;place-items:center;width:46px;height:46px;background:var(--soft);color:var(--iris);border-radius:13px;font-weight:800}.menu-card h3{font:700 1.45rem Georgia,serif;margin:30px 0 7px}.menu-card p{color:var(--muted);margin:0;max-width:440px}.menu-card .arrow{position:absolute;right:24px;top:24px;color:var(--iris);font-size:1.3rem}.subintro{margin:8px 0 22px}.subintro h2{font:700 2rem Georgia,serif;margin:0 0 6px}.subintro p{color:var(--muted);margin:0}.grid{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:20px;align-items:start}.card,.rail{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow)}.card{padding:27px}.rail{padding:20px;max-height:calc(100vh - 130px);overflow:auto;position:sticky;top:18px}.qhead{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-bottom:22px}.pill{color:var(--iris);background:var(--soft);border-radius:999px;padding:5px 11px;font-size:.75rem;font-weight:700}.streak{color:var(--muted);font-size:.78rem;font-variant-numeric:tabular-nums}.sentence{font:1.72rem/1.42 Georgia,serif;margin:0 0 24px}.sentence .es{display:block;font:italic .92rem system-ui;color:var(--faint);margin-top:10px}.blank{display:inline-block;min-width:2.4em;text-align:center;border-bottom:3px solid var(--iris);color:var(--iris);padding:0 .12em;font-weight:700}.options{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.opt{cursor:pointer;background:var(--card);border:1.5px solid var(--line);border-radius:11px;padding:13px 15px;text-align:left;display:flex;gap:10px;align-items:center}.opt:hover:not(:disabled){border-color:var(--iris)}.opt.correct{border-color:var(--good);background:var(--goodsoft);color:var(--good);font-weight:700}.opt.wrong{border-color:var(--bad);background:var(--badsoft);color:var(--bad);font-weight:700}.opt.dim{opacity:.45}.key{font-size:.7rem;color:var(--faint);border:1px solid var(--line);border-radius:5px;padding:1px 5px}.feedback{min-height:52px;margin-top:19px}.fb{display:flex;align-items:center;gap:14px}.fb>div{flex:1}.good{color:var(--good)}.bad{color:var(--bad)}.tip{color:var(--muted);font-size:.84rem;margin-top:3px}.primary{cursor:pointer;border:0;border-radius:10px;background:var(--iris);color:#fff;padding:10px 18px;font-weight:700}.primary:hover{background:var(--iris2)}.rail h3{text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-size:.74rem;margin:0}.summary{color:var(--muted);font-size:.84rem;margin:4px 0 15px}.prow{display:grid;grid-template-columns:105px 1fr 34px;align-items:center;gap:8px;padding:4px 0}.word{font-family:Georgia,serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.bar{height:7px;background:var(--line);border-radius:20px;overflow:hidden}.bar i{display:block;height:100%;background:var(--iris)}.cnt{text-align:right;color:var(--muted);font-size:.74rem}.prow.done .word,.prow.done .cnt{color:var(--good)}.prow.done .bar i{background:var(--good)}.cat{color:var(--faint);font-size:.68rem;text-transform:uppercase;letter-spacing:.06em;margin:13px 0 4px}.formlabel{display:block;color:var(--muted);font-size:.82rem;margin:0 0 7px}.answer{width:100%;border:1.5px solid var(--line);border-radius:11px;background:var(--card);color:var(--ink);padding:14px 15px;font-size:1.08rem;outline:none}.answer:focus{border-color:var(--iris);box-shadow:0 0 0 3px var(--soft)}.answer.correct{border-color:var(--good);background:var(--goodsoft)}.answer.wrong{border-color:var(--bad);background:var(--badsoft)}.formrow{display:flex;gap:10px}.formrow .answer{flex:1}.pron{color:var(--muted);margin:-13px 0 20px;font-size:.87rem}.done{text-align:center;padding:24px}.done .trophy{font-size:2.4rem}.done h2{font:700 2rem Georgia,serif;margin:8px}.loading,.error{text-align:center;color:var(--muted);padding:42px}.note{color:var(--faint);font-size:.78rem;margin:18px 2px}.dots{display:inline-flex;gap:3px;margin:0 4px}.dots i{width:7px;height:7px;background:var(--line);border-radius:50%}.dots i.on{background:var(--iris)}
-@media(max-width:830px){.grid{grid-template-columns:1fr}.rail{position:static;max-height:none}.menu{grid-template-columns:1fr}}@media(max-width:520px){.wrap{padding:18px 14px 50px}.brand p{display:none}.card{padding:21px 18px}.options{grid-template-columns:1fr}.sentence{font-size:1.42rem}.formrow{flex-direction:column}.fb{align-items:flex-start;flex-direction:column}.primary{width:100%}.menu-card{min-height:190px}}@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+.qtools{display:flex;align-items:center;gap:10px}.theory-btn{cursor:pointer;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--iris);padding:6px 10px;font-size:.76rem;font-weight:700}.theory-btn:hover{border-color:var(--iris);background:var(--soft)}.theory h2{font:700 2rem Georgia,serif;margin:18px 0 8px}.theory h3{margin:25px 0 8px}.theory p,.theory li{color:var(--muted)}.theory ul{padding-left:22px}.forms{width:100%;border-collapse:collapse;margin:12px 0 20px}.forms th,.forms td{text-align:left;border-bottom:1px solid var(--line);padding:9px 7px}.forms th{color:var(--muted);font-size:.74rem;text-transform:uppercase}
+@media(max-width:830px){.grid{grid-template-columns:1fr}.rail{position:static;max-height:none}.menu{grid-template-columns:1fr}}@media(max-width:520px){.wrap{padding:18px 14px 50px}.brand p{display:none}.card{padding:21px 18px}.options{grid-template-columns:1fr}.sentence{font-size:1.42rem}.formrow{flex-direction:column}.fb{align-items:flex-start;flex-direction:column}.primary{width:100%}.menu-card{min-height:190px}.qhead{align-items:flex-start}.qtools{align-items:flex-end;flex-direction:column}}@media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
 <body>
@@ -30,7 +31,7 @@
 <script>
 (function(){
 "use strict";
-var GOAL=10,screen="home",mode=null,pronounData=null,modalData=null,a1Data=null,a1Topic=null,current=null,answered=false,lastId=null;
+var GOAL=10,screen="home",mode=null,pronounData=null,modalData=null,a1Data=null,a1Topic=null,current=null,answered=false,lastId=null,theoryReturnHTML=null;
 var app=document.getElementById("app"),resetBtn=document.getElementById("resetBtn");
 var progress={pronouns:{},modals:{},a1:{}};
 var KEYS={pronouns:"pronounDrill.v1",modals:"englishDrill.modals.v1"};
@@ -44,7 +45,7 @@ function isPronouns(){return screen==="pronouns"||(screen==="a1"&&a1Topic&&a1Top
 function storageKind(){return screen==="a1"&&!isPronouns()?"a1."+a1Topic.id:screen}
 function crumb(label){return '<nav class="crumb"><button data-go="home">Inicio</button><span>›</span><span>'+esc(label)+'</span></nav>'}
 function home(){
- screen="home";mode=null;current=null;resetBtn.hidden=true;
+ screen="home";mode=null;a1Topic=null;current=null;resetBtn.hidden=true;
  app.innerHTML='<section class="hero"><div class="eyebrow">Práctica personalizada</div><h2>Construye tu inglés, palabra por palabra.</h2><p>Elige un nivel o una sección. Cada objetivo se domina con 10 respuestas correctas consecutivas; si fallas, solo su contador vuelve a cero.</p></section><section class="menu"><button class="menu-card" data-open="a1"><span class="icon">A1</span><span class="arrow">→</span><h3>Nivel A1</h3><p>Ocho temas fundamentales y 80 verbos del plan de estudio.</p></button><button class="menu-card" data-open="modals"><span class="icon">MA</span><span class="arrow">→</span><h3>Modales y auxiliares</h3><p>Practica 19 palabras con autocompletado y relación de traducciones.</p></button></section>';
 }
 function a1Menu(){
@@ -56,7 +57,7 @@ function simplePresentMenu(){
  app.innerHTML=crumb("A1 · Presente simple")+'<section class="subintro"><h2>¿Cómo quieres practicar?</h2><p>Los tres ejercicios comparten el mismo progreso por verbo: 10 aciertos seguidos lo dominan y 1 error reinicia su contador.</p></section><section class="menu"><button class="menu-card" data-a1-mode="complete"><span class="icon">Aa</span><span class="arrow">→</span><h3>Completar la frase</h3><p>Elige la forma verbal correcta según el sujeto y el contexto.</p></button><button class="menu-card" data-a1-mode="match"><span class="icon">↔</span><span class="arrow">→</span><h3>Relacionar traducción</h3><p>Relaciona cada verbo en inglés con su significado en español.</p></button><button class="menu-card" data-a1-mode="write"><span class="icon">✎</span><span class="arrow">→</span><h3>Escribir la palabra</h3><p>Lee el significado en español y escribe el verbo en inglés sin opciones.</p></button></section>';
 }
 function modalMenu(){
- screen="modal-menu";mode=null;current=null;resetBtn.hidden=true;
+ screen="modal-menu";mode=null;a1Topic=null;current=null;resetBtn.hidden=true;
  app.innerHTML=crumb("Modales y auxiliares")+'<section class="subintro"><h2>¿Cómo quieres practicar?</h2><p>Los dos ejercicios comparten el mismo progreso por palabra.</p></section><section class="menu"><button class="menu-card" data-mode="complete"><span class="icon">Aa</span><span class="arrow">→</span><h3>Autocompletar palabras</h3><p>Lee la traducción y el ejemplo, luego escribe el modal o auxiliar en inglés.</p></button><button class="menu-card" data-mode="match"><span class="icon">↔</span><span class="arrow">→</span><h3>Relacionar traducción</h3><p>Elige la traducción correcta para cada palabra en inglés.</p></button></section>';
 }
 function start(kind,newMode){
@@ -107,8 +108,35 @@ function next(){
 }
 function dots(n){var s='<span class="dots">';for(var i=0;i<GOAL;i++)s+='<i class="'+(i<n?"on":"")+'"></i>';return s+'</span>'}
 function shell(body,label){app.innerHTML=crumb(label)+'<div class="grid"><main class="card" id="quiz">'+body+'</main><aside class="rail" id="rail"></aside></div><p class="note">Tu progreso se guarda únicamente en este dispositivo.</p>';renderRail()}
+function listHtml(values){return '<ul>'+values.map(function(v){return '<li>'+esc(v)+'</li>'}).join("")+'</ul>'}
+function verbTheory(v){
+ if(!v||!v.forms)return "";
+ return '<h3>Ficha del verbo actual</h3><p><b>'+esc(v.english)+'</b> · '+esc(v.spanish)+' · pronunciación aproximada: '+esc(v.pronunciation)+'</p><table class="forms"><thead><tr><th>Forma</th><th>Inglés</th></tr></thead><tbody><tr><td>Base</td><td>'+esc(v.forms.base)+'</td></tr><tr><td>3.ª persona</td><td>'+esc(v.forms.thirdPerson)+'</td></tr><tr><td>Pasado</td><td>'+esc(v.forms.past)+'</td></tr><tr><td>Participio</td><td>'+esc(v.forms.participle)+'</td></tr><tr><td>Forma -ing</td><td>'+esc(v.forms.gerund)+'</td></tr></tbody></table><p><b>Ejemplo:</b> '+esc(v.exampleEn)+' · '+esc(v.exampleEs)+'</p>';
+}
+function theoryContent(){
+ var html="",theory=a1Topic&&a1Topic.theory;
+ if(theory){
+   html='<p>'+esc(theory.summary)+'</p><h3>Reglas clave</h3>'+listHtml(theory.rules)+'<h3>Ejemplos</h3>'+listHtml(theory.examples);
+   if(a1Topic.id==="simple-present"||a1Topic.id==="third-person"||a1Topic.id==="present-continuous")html+=verbTheory(vocabFor(current.item));
+ }else if(screen==="modals"){
+   var x=current.item;
+   html='<p>Los modales y auxiliares ayudan a expresar capacidad, obligación, posibilidad, intención o a construir preguntas y negaciones.</p><h3>Palabra actual</h3><p><b>'+esc(x.english)+'</b> · '+esc(x.spanish)+' · pronunciación aproximada: '+esc(x.pronunciation)+'</p><h3>Reglas clave</h3>'+listHtml(["Los modales van antes del verbo principal.","Después de un modal se usa normalmente la forma base.","Los auxiliares cambian según el tiempo y el sujeto."])+'<h3>Ejemplos</h3>'+listHtml((x.examples||[]).slice(0,5).map(function(e){return e.en+" · "+e.es}));
+ }else if(isPronouns()){
+   html='<p>'+esc(current.item.tip)+'</p><h3>Función</h3><p>'+esc(current.item.role||current.item.cat)+'</p><h3>Ejemplos</h3>'+listHtml(current.item.sentences.slice(0,5).map(function(s){return s.en.replace("___",current.item.answer)+" · "+s.es}));
+ }
+ return html;
+}
+function showTheory(){
+ theoryReturnHTML=app.innerHTML;resetBtn.hidden=true;
+ var title=a1Topic?a1Topic.title:(screen==="modals"?"Modales y auxiliares":"Pronombres");
+ app.innerHTML=crumb(title)+'<main class="card theory"><button class="theory-btn" id="theoryBack">← Volver al ejercicio</button><h2>'+esc(title)+'</h2>'+theoryContent()+'</main>';
+}
+function closeTheory(){
+ if(!theoryReturnHTML)return;app.innerHTML=theoryReturnHTML;theoryReturnHTML=null;resetBtn.hidden=false;
+ var input=document.getElementById("answerInput");if(input&&!input.disabled)input.focus();
+}
 function renderExercise(){
- var x=current.item,n=prog()[x.id],head='<div class="qhead"><span class="pill">'+esc(isPronouns()?x.label:(screen==="a1"?a1Topic.title:(mode==="complete"?"Autocompletar":"Relacionar")))+'</span><span class="streak">Racha '+dots(n)+n+'/'+GOAL+'</span></div>';
+ var x=current.item,n=prog()[x.id],head='<div class="qhead"><span class="pill">'+esc(isPronouns()?x.label:(screen==="a1"?a1Topic.title:(mode==="complete"?"Autocompletar":"Relacionar")))+'</span><div class="qtools"><button class="theory-btn" id="theoryBtn">Teoría</button><span class="streak">Racha '+dots(n)+n+'/'+GOAL+'</span></div></div>';
  if(isPronouns()){
    var parts=String(current.sentence.en).split("___"),sentence=parts.map(esc).join('<span class="blank">?</span>')+'<span class="es">'+esc(current.sentence.es)+'</span>';
    shell(head+'<div class="sentence">'+sentence+'</div>'+optionButtons(current.options.map(function(v){return {id:v,value:v}}))+'<div class="feedback" id="feedback"></div>',screen==="a1"?"A1 · Pronombres personales":"Pronombres");
@@ -154,6 +182,8 @@ function reset(){
 }
 app.addEventListener("click",function(e){
  var b=e.target.closest("button");if(!b)return;
+ if(b.id==="theoryBtn"){showTheory();return}
+ if(b.id==="theoryBack"){closeTheory();return}
  if(b.dataset.go==="home"){home();return}
  if(b.dataset.open==="a1"){a1Menu();return}
  if(b.dataset.open==="modals"){modalMenu();return}

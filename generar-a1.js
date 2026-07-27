@@ -28,6 +28,8 @@ const objects = [
   ["the lesson","la lección"],["an idea","una idea"],["a house","una casa"],["the project","el proyecto"]
 ];
 const ingIrregular = { die: "dying" };
+const pastIrregular = { lead:["led","led"], show:["showed","shown"], prove:["proved","proven"] };
+const doubleFinal = new Set(["stop","plan","drop","admit","prefer"]);
 function third(v) {
   if (v.endsWith("y") && !/[aeiou]y$/.test(v)) return v.slice(0, -1) + "ies";
   if (/(s|sh|ch|x|z|o)$/.test(v)) return v + "es";
@@ -37,8 +39,20 @@ function ing(v) {
   if (ingIrregular[v]) return ingIrregular[v];
   if (v.endsWith("ie")) return v.slice(0, -2) + "ying";
   if (v.endsWith("e") && !v.endsWith("ee")) return v.slice(0, -1) + "ing";
+  if (doubleFinal.has(v)) return v + v.slice(-1) + "ing";
   return v + "ing";
 }
+function past(v) {
+  if (pastIrregular[v]) return pastIrregular[v][0];
+  if (v.endsWith("e")) return v + "d";
+  if (v.endsWith("y") && !/[aeiou]y$/.test(v)) return v.slice(0, -1) + "ied";
+  if (doubleFinal.has(v)) return v + v.slice(-1) + "ed";
+  return v + "ed";
+}
+function participle(v) { return pastIrregular[v] ? pastIrregular[v][1] : past(v) }
+vocabulary.forEach(v => {
+  v.forms = { base:v.english, thirdPerson:third(v.english), past:past(v.english), participle:participle(v.english), gerund:ing(v.english) };
+});
 function item(id, label, cat, tip, examples) { return { id, label, cat, tip, examples }; }
 function ex(prompt, es, answer, options) { return { prompt, es, answer, options: [...new Set(options)] }; }
 
@@ -127,14 +141,22 @@ const data = {
   source: "Google Drive · Plan de Inglés por Niveles · Inglés A1",
   vocabulary,
   topics: [
-    { id:"personal-pronouns", title:"Pronombres personales", description:"Usa I, you, he, she, it, we y they en contexto.", kind:"pronouns" },
-    { id:"to-be", title:"Verbo to be", description:"Afirmaciones, negaciones y preguntas con am, is y are.", items:beItems },
-    { id:"articles", title:"Artículos a/an/the", description:"Elige el artículo correcto según el sonido y el contexto.", items:articleItems },
-    { id:"simple-present", title:"Presente simple", description:"Habla de rutinas y hechos con los 80 verbos A1.", items:simpleItems },
-    { id:"do-does", title:"Do/does", description:"Forma preguntas y negaciones en presente simple.", items:doItems },
-    { id:"third-person", title:"Tercera persona", description:"Practica -s, -es e -ies con he, she e it.", items:thirdItems },
-    { id:"there-is-are", title:"There is/are", description:"Describe la existencia de una o varias cosas.", items:thereItems },
-    { id:"present-continuous", title:"Presente continuo", description:"Expresa acciones que están ocurriendo ahora.", items:continuousItems }
+    { id:"personal-pronouns", title:"Pronombres personales", description:"Usa I, you, he, she, it, we y they en contexto.", kind:"pronouns",
+      theory:{summary:"Los pronombres sustituyen nombres y cambian según su función.",rules:["Sujeto: I, you, he, she, it, we, they.","Objeto: me, you, him, her, it, us, them.","Posesivos: my/your/his/her/our/their acompañan un sustantivo."],examples:["She works here. · Ella trabaja aquí.","They call us. · Ellos nos llaman."]} },
+    { id:"to-be", title:"Verbo to be", description:"Afirmaciones, negaciones y preguntas con am, is y are.", items:beItems,
+      theory:{summary:"To be significa ser o estar.",rules:["I am; he/she/it is; you/we/they are.","Negación: am not, is not/isn't, are not/aren't.","Pregunta: coloca am/is/are antes del sujeto."],examples:["I am ready.","She isn't at home.","Are they students?"]} },
+    { id:"articles", title:"Artículos a/an/the", description:"Elige el artículo correcto según el sonido y el contexto.", items:articleItems,
+      theory:{summary:"Los artículos presentan o identifican sustantivos.",rules:["a: una cosa no específica ante sonido consonante.","an: una cosa no específica ante sonido vocálico.","the: algo específico o ya conocido."],examples:["a car","an hour","the car on the street"]} },
+    { id:"simple-present", title:"Presente simple", description:"Habla de rutinas y hechos con los 80 verbos A1.", items:simpleItems,
+      theory:{summary:"El presente simple expresa rutinas, hábitos y hechos generales.",rules:["I/you/we/they + forma base.","He/she/it + forma de tercera persona.","Negación: do/does not + forma base.","Pregunta: Do/Does + sujeto + forma base?"],examples:["I work every day.","She works every day.","Does she work here?"]} },
+    { id:"do-does", title:"Do/does", description:"Forma preguntas y negaciones en presente simple.", items:doItems,
+      theory:{summary:"Do y does funcionan como auxiliares del presente simple.",rules:["Do con I/you/we/they.","Does con he/she/it.","Después de do/does el verbo siempre vuelve a la forma base."],examples:["Do you work here?","Does he work here?","She doesn't work here."]} },
+    { id:"third-person", title:"Tercera persona", description:"Practica -s, -es e -ies con he, she e it.", items:thirdItems,
+      theory:{summary:"En afirmaciones del presente simple, he/she/it modifican el verbo.",rules:["Regla general: añade -s.","Tras s/sh/ch/x/z/o: añade -es.","Consonante + y: cambia y por -ies.","Después de does/doesn't usa la forma base."],examples:["work → works","watch → watches","study → studies"]} },
+    { id:"there-is-are", title:"There is/are", description:"Describe la existencia de una o varias cosas.", items:thereItems,
+      theory:{summary:"There is/are indica que algo existe o está presente.",rules:["There is + singular.","There are + plural.","Negación: there isn't / there aren't.","Pregunta: Is there...? / Are there...?"],examples:["There is a book.","There are two books."]} },
+    { id:"present-continuous", title:"Presente continuo", description:"Expresa acciones que están ocurriendo ahora.", items:continuousItems,
+      theory:{summary:"El presente continuo describe acciones en progreso.",rules:["Forma: am/is/are + verbo-ing.","Usa am con I, is con he/she/it y are con you/we/they.","Negación: añade not después de am/is/are.","Pregunta: mueve am/is/are antes del sujeto."],examples:["I am studying now.","They aren't working.","Is she cooking?"]} }
   ]
 };
 

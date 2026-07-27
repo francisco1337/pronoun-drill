@@ -11,7 +11,14 @@
       "spanish": "mover / mudarse",
       "exampleEn": "Move your car.",
       "exampleEs": "Mueve tu coche.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "move",
+        "thirdPerson": "moves",
+        "past": "moved",
+        "participle": "moved",
+        "gerund": "moving"
+      }
     },
     {
       "id": 2,
@@ -21,7 +28,14 @@
       "spanish": "necesitar",
       "exampleEn": "I need help.",
       "exampleEs": "Necesito ayuda.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "need",
+        "thirdPerson": "needs",
+        "past": "needed",
+        "participle": "needed",
+        "gerund": "needing"
+      }
     },
     {
       "id": 3,
@@ -31,7 +45,14 @@
       "spanish": "llamar",
       "exampleEn": "Call me tonight.",
       "exampleEs": "Llámame esta noche.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "call",
+        "thirdPerson": "calls",
+        "past": "called",
+        "participle": "called",
+        "gerund": "calling"
+      }
     },
     {
       "id": 4,
@@ -41,7 +62,14 @@
       "spanish": "usar",
       "exampleEn": "I use my laptop daily.",
       "exampleEs": "Uso mi laptop a diario.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "use",
+        "thirdPerson": "uses",
+        "past": "used",
+        "participle": "used",
+        "gerund": "using"
+      }
     },
     {
       "id": 5,
@@ -51,7 +79,14 @@
       "spanish": "liderar / conducir",
       "exampleEn": "She leads the team.",
       "exampleEs": "Ella lidera el equipo.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "lead",
+        "thirdPerson": "leads",
+        "past": "led",
+        "participle": "led",
+        "gerund": "leading"
+      }
     },
     {
       "id": 6,
@@ -61,7 +96,14 @@
       "spanish": "intentar / probar",
       "exampleEn": "I try to eat healthy.",
       "exampleEs": "Intento comer sano.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "try",
+        "thirdPerson": "tries",
+        "past": "tried",
+        "participle": "tried",
+        "gerund": "trying"
+      }
     },
     {
       "id": 7,
@@ -71,7 +113,14 @@
       "spanish": "pasar / aprobar",
       "exampleEn": "Pass the salt.",
       "exampleEs": "Pasa la sal.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "pass",
+        "thirdPerson": "passes",
+        "past": "passed",
+        "participle": "passed",
+        "gerund": "passing"
+      }
     },
     {
       "id": 8,
@@ -81,7 +130,14 @@
       "spanish": "hablar / conversar",
       "exampleEn": "We talk every day.",
       "exampleEs": "Hablamos todos los días.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "talk",
+        "thirdPerson": "talks",
+        "past": "talked",
+        "participle": "talked",
+        "gerund": "talking"
+      }
     },
     {
       "id": 9,
@@ -91,7 +147,14 @@
       "spanish": "crear",
       "exampleEn": "I create designs.",
       "exampleEs": "Creo diseños.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "create",
+        "thirdPerson": "creates",
+        "past": "created",
+        "participle": "created",
+        "gerund": "creating"
+      }
     },
     {
       "id": 10,
@@ -101,7 +164,14 @@
       "spanish": "reportar / informar",
       "exampleEn": "Report the issue.",
       "exampleEs": "Reporta el problema.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "report",
+        "thirdPerson": "reports",
+        "past": "reported",
+        "participle": "reported",
+        "gerund": "reporting"
+      }
     },
     {
       "id": 11,
@@ -111,7 +181,14 @@
       "spanish": "parecer",
       "exampleEn": "You seem happy.",
       "exampleEs": "Pareces feliz.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "seem",
+        "thirdPerson": "seems",
+        "past": "seemed",
+        "participle": "seemed",
+        "gerund": "seeming"
+      }
     },
     {
       "id": 12,
@@ -121,7 +198,14 @@
       "spanish": "girar / voltear",
       "exampleEn": "Turn left here.",
       "exampleEs": "Gira a la izquierda aquí.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "turn",
+        "thirdPerson": "turns",
+        "past": "turned",
+        "participle": "turned",
+        "gerund": "turning"
+      }
     },
     {
       "id": 13,
@@ -131,7 +215,14 @@
       "spanish": "continuar",
       "exampleEn": "Please continue.",
       "exampleEs": "Por favor continúa.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "continue",
+        "thirdPerson": "continues",
+        "past": "continued",
+        "participle": "continued",
+        "gerund": "continuing"
+      }
     },
     {
       "id": 14,
@@ -141,7 +232,14 @@
       "spanish": "servir",
       "exampleEn": "We serve breakfast.",
       "exampleEs": "Servimos desayuno.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "serve",
+        "thirdPerson": "serves",
+        "past": "served",
+        "participle": "served",
+        "gerund": "serving"
+      }
     },
     {
       "id": 15,
@@ -151,7 +249,14 @@
       "spanish": "empezar",
       "exampleEn": "Let's start now.",
       "exampleEs": "Empecemos ahora.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "start",
+        "thirdPerson": "starts",
+        "past": "started",
+        "participle": "started",
+        "gerund": "starting"
+      }
     },
     {
       "id": 16,
@@ -161,7 +266,14 @@
       "spanish": "considerar",
       "exampleEn": "Consider the options.",
       "exampleEs": "Considera las opciones.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "consider",
+        "thirdPerson": "considers",
+        "past": "considered",
+        "participle": "considered",
+        "gerund": "considering"
+      }
     },
     {
       "id": 17,
@@ -171,7 +283,14 @@
       "spanish": "planear",
       "exampleEn": "Plan the trip.",
       "exampleEs": "Planea el viaje.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "plan",
+        "thirdPerson": "plans",
+        "past": "planned",
+        "participle": "planned",
+        "gerund": "planning"
+      }
     },
     {
       "id": 18,
@@ -181,7 +300,14 @@
       "spanish": "ofrecer",
       "exampleEn": "They offer discounts.",
       "exampleEs": "Ofrecen descuentos.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "offer",
+        "thirdPerson": "offers",
+        "past": "offered",
+        "participle": "offered",
+        "gerund": "offering"
+      }
     },
     {
       "id": 19,
@@ -191,7 +317,14 @@
       "spanish": "actuar",
       "exampleEn": "Act quickly.",
       "exampleEs": "Actúa rápido.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "act",
+        "thirdPerson": "acts",
+        "past": "acted",
+        "participle": "acted",
+        "gerund": "acting"
+      }
     },
     {
       "id": 20,
@@ -201,7 +334,14 @@
       "spanish": "contar",
       "exampleEn": "Count to ten.",
       "exampleEs": "Cuenta hasta diez.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "count",
+        "thirdPerson": "counts",
+        "past": "counted",
+        "participle": "counted",
+        "gerund": "counting"
+      }
     },
     {
       "id": 21,
@@ -211,7 +351,14 @@
       "spanish": "proveer / proporcionar",
       "exampleEn": "We provide food.",
       "exampleEs": "Proporcionamos comida.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "provide",
+        "thirdPerson": "provides",
+        "past": "provided",
+        "participle": "provided",
+        "gerund": "providing"
+      }
     },
     {
       "id": 22,
@@ -221,7 +368,14 @@
       "spanish": "visitar",
       "exampleEn": "Visit your family.",
       "exampleEs": "Visita a tu familia.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "visit",
+        "thirdPerson": "visits",
+        "past": "visited",
+        "participle": "visited",
+        "gerund": "visiting"
+      }
     },
     {
       "id": 23,
@@ -231,7 +385,14 @@
       "spanish": "trabajar",
       "exampleEn": "I work from home.",
       "exampleEs": "Trabajo desde casa.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "work",
+        "thirdPerson": "works",
+        "past": "worked",
+        "participle": "worked",
+        "gerund": "working"
+      }
     },
     {
       "id": 24,
@@ -241,7 +402,14 @@
       "spanish": "cargar / llevar",
       "exampleEn": "Carry the bags.",
       "exampleEs": "Carga las bolsas.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "carry",
+        "thirdPerson": "carries",
+        "past": "carried",
+        "participle": "carried",
+        "gerund": "carrying"
+      }
     },
     {
       "id": 25,
@@ -251,7 +419,14 @@
       "spanish": "incluir",
       "exampleEn": "The price includes tax.",
       "exampleEs": "El precio incluye impuestos.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "include",
+        "thirdPerson": "includes",
+        "past": "included",
+        "participle": "included",
+        "gerund": "including"
+      }
     },
     {
       "id": 26,
@@ -261,7 +436,14 @@
       "spanish": "preguntar / pedir",
       "exampleEn": "Ask a question.",
       "exampleEs": "Haz una pregunta.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "ask",
+        "thirdPerson": "asks",
+        "past": "asked",
+        "participle": "asked",
+        "gerund": "asking"
+      }
     },
     {
       "id": 27,
@@ -271,7 +453,14 @@
       "spanish": "vivir",
       "exampleEn": "I live in Mexico.",
       "exampleEs": "Vivo en México.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "live",
+        "thirdPerson": "lives",
+        "past": "lived",
+        "participle": "lived",
+        "gerund": "living"
+      }
     },
     {
       "id": 28,
@@ -281,7 +470,14 @@
       "spanish": "aprender",
       "exampleEn": "I learn English.",
       "exampleEs": "Aprendo inglés.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "learn",
+        "thirdPerson": "learns",
+        "past": "learned",
+        "participle": "learned",
+        "gerund": "learning"
+      }
     },
     {
       "id": 29,
@@ -291,7 +487,14 @@
       "spanish": "jugar / tocar",
       "exampleEn": "I play the guitar.",
       "exampleEs": "Toco la guitarra.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "play",
+        "thirdPerson": "plays",
+        "past": "played",
+        "participle": "played",
+        "gerund": "playing"
+      }
     },
     {
       "id": 30,
@@ -301,7 +504,14 @@
       "spanish": "aparecer",
       "exampleEn": "A star appeared.",
       "exampleEs": "Apareció una estrella.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "appear",
+        "thirdPerson": "appears",
+        "past": "appeared",
+        "participle": "appeared",
+        "gerund": "appearing"
+      }
     },
     {
       "id": 31,
@@ -311,7 +521,14 @@
       "spanish": "explicar",
       "exampleEn": "Explain the rules.",
       "exampleEs": "Explica las reglas.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "explain",
+        "thirdPerson": "explains",
+        "past": "explained",
+        "participle": "explained",
+        "gerund": "explaining"
+      }
     },
     {
       "id": 32,
@@ -321,7 +538,14 @@
       "spanish": "causar",
       "exampleEn": "Rain caused delays.",
       "exampleEs": "La lluvia causó retrasos.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "cause",
+        "thirdPerson": "causes",
+        "past": "caused",
+        "participle": "caused",
+        "gerund": "causing"
+      }
     },
     {
       "id": 33,
@@ -331,7 +555,14 @@
       "spanish": "mostrar",
       "exampleEn": "Show me the way.",
       "exampleEs": "Muéstrame el camino.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "show",
+        "thirdPerson": "shows",
+        "past": "showed",
+        "participle": "shown",
+        "gerund": "showing"
+      }
     },
     {
       "id": 34,
@@ -341,7 +572,14 @@
       "spanish": "apoyar / soportar",
       "exampleEn": "I support your idea.",
       "exampleEs": "Apoyo tu idea.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "support",
+        "thirdPerson": "supports",
+        "past": "supported",
+        "participle": "supported",
+        "gerund": "supporting"
+      }
     },
     {
       "id": 35,
@@ -351,7 +589,14 @@
       "spanish": "señalar / apuntar",
       "exampleEn": "Point at the map.",
       "exampleEs": "Señala el mapa.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "point",
+        "thirdPerson": "points",
+        "past": "pointed",
+        "participle": "pointed",
+        "gerund": "pointing"
+      }
     },
     {
       "id": 36,
@@ -361,7 +606,14 @@
       "spanish": "requerir",
       "exampleEn": "This requires time.",
       "exampleEs": "Esto requiere tiempo.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "require",
+        "thirdPerson": "requires",
+        "past": "required",
+        "participle": "required",
+        "gerund": "requiring"
+      }
     },
     {
       "id": 37,
@@ -371,7 +623,14 @@
       "spanish": "sugerir",
       "exampleEn": "I suggest we wait.",
       "exampleEs": "Sugiero que esperemos.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "suggest",
+        "thirdPerson": "suggests",
+        "past": "suggested",
+        "participle": "suggested",
+        "gerund": "suggesting"
+      }
     },
     {
       "id": 38,
@@ -381,7 +640,14 @@
       "spanish": "tocar",
       "exampleEn": "Don't touch that.",
       "exampleEs": "No toques eso.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "touch",
+        "thirdPerson": "touches",
+        "past": "touched",
+        "participle": "touched",
+        "gerund": "touching"
+      }
     },
     {
       "id": 39,
@@ -391,7 +657,14 @@
       "spanish": "decidir",
       "exampleEn": "I decided to go.",
       "exampleEs": "Decidí ir.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "decide",
+        "thirdPerson": "decides",
+        "past": "decided",
+        "participle": "decided",
+        "gerund": "deciding"
+      }
     },
     {
       "id": 40,
@@ -401,7 +674,14 @@
       "spanish": "querer",
       "exampleEn": "I want some water.",
       "exampleEs": "Quiero un poco de agua.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "want",
+        "thirdPerson": "wants",
+        "past": "wanted",
+        "participle": "wanted",
+        "gerund": "wanting"
+      }
     },
     {
       "id": 41,
@@ -411,7 +691,14 @@
       "spanish": "parar / detener",
       "exampleEn": "Stop the car.",
       "exampleEs": "Detén el coche.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "stop",
+        "thirdPerson": "stops",
+        "past": "stopped",
+        "participle": "stopped",
+        "gerund": "stopping"
+      }
     },
     {
       "id": 42,
@@ -421,7 +708,14 @@
       "spanish": "mirar",
       "exampleEn": "Look at the sky.",
       "exampleEs": "Mira el cielo.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "look",
+        "thirdPerson": "looks",
+        "past": "looked",
+        "participle": "looked",
+        "gerund": "looking"
+      }
     },
     {
       "id": 43,
@@ -431,7 +725,14 @@
       "spanish": "producir",
       "exampleEn": "We produce cars.",
       "exampleEs": "Producimos autos.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "produce",
+        "thirdPerson": "produces",
+        "past": "produced",
+        "participle": "produced",
+        "gerund": "producing"
+      }
     },
     {
       "id": 44,
@@ -441,7 +742,14 @@
       "spanish": "permanecer",
       "exampleEn": "Remain calm.",
       "exampleEs": "Permanece en calma.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "remain",
+        "thirdPerson": "remains",
+        "past": "remained",
+        "participle": "remained",
+        "gerund": "remaining"
+      }
     },
     {
       "id": 45,
@@ -451,7 +759,14 @@
       "spanish": "añadir / agregar",
       "exampleEn": "Add some sugar.",
       "exampleEs": "Agrega un poco de azúcar.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "add",
+        "thirdPerson": "adds",
+        "past": "added",
+        "participle": "added",
+        "gerund": "adding"
+      }
     },
     {
       "id": 46,
@@ -461,7 +776,14 @@
       "spanish": "morir",
       "exampleEn": "The plant died.",
       "exampleEs": "La planta murió.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "die",
+        "thirdPerson": "dies",
+        "past": "died",
+        "participle": "died",
+        "gerund": "dying"
+      }
     },
     {
       "id": 47,
@@ -471,7 +793,14 @@
       "spanish": "preferir",
       "exampleEn": "I prefer tea.",
       "exampleEs": "Prefiero el té.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "prefer",
+        "thirdPerson": "prefers",
+        "past": "preferred",
+        "participle": "preferred",
+        "gerund": "preferring"
+      }
     },
     {
       "id": 48,
@@ -481,7 +810,14 @@
       "spanish": "ver / observar",
       "exampleEn": "I watch movies.",
       "exampleEs": "Veo películas.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "watch",
+        "thirdPerson": "watches",
+        "past": "watched",
+        "participle": "watched",
+        "gerund": "watching"
+      }
     },
     {
       "id": 49,
@@ -491,7 +827,14 @@
       "spanish": "caminar",
       "exampleEn": "I walk to work.",
       "exampleEs": "Camino al trabajo.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "walk",
+        "thirdPerson": "walks",
+        "past": "walked",
+        "participle": "walked",
+        "gerund": "walking"
+      }
     },
     {
       "id": 50,
@@ -501,7 +844,14 @@
       "spanish": "ayudar",
       "exampleEn": "Can you help me?",
       "exampleEs": "¿Puedes ayudarme?",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "help",
+        "thirdPerson": "helps",
+        "past": "helped",
+        "participle": "helped",
+        "gerund": "helping"
+      }
     },
     {
       "id": 51,
@@ -511,7 +861,14 @@
       "spanish": "rentar / alquilar",
       "exampleEn": "We rent a house.",
       "exampleEs": "Rentamos una casa.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "rent",
+        "thirdPerson": "rents",
+        "past": "rented",
+        "participle": "rented",
+        "gerund": "renting"
+      }
     },
     {
       "id": 52,
@@ -521,7 +878,14 @@
       "spanish": "cambiar",
       "exampleEn": "Change your mind.",
       "exampleEs": "Cambia de opinión.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "change",
+        "thirdPerson": "changes",
+        "past": "changed",
+        "participle": "changed",
+        "gerund": "changing"
+      }
     },
     {
       "id": 53,
@@ -531,7 +895,14 @@
       "spanish": "esperar",
       "exampleEn": "Wait for me.",
       "exampleEs": "Espérame.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "wait",
+        "thirdPerson": "waits",
+        "past": "waited",
+        "participle": "waited",
+        "gerund": "waiting"
+      }
     },
     {
       "id": 54,
@@ -541,7 +912,14 @@
       "spanish": "soltar / dejar caer",
       "exampleEn": "Don't drop it.",
       "exampleEs": "No lo dejes caer.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "drop",
+        "thirdPerson": "drops",
+        "past": "dropped",
+        "participle": "dropped",
+        "gerund": "dropping"
+      }
     },
     {
       "id": 55,
@@ -551,7 +929,14 @@
       "spanish": "llenar",
       "exampleEn": "Fill the glass.",
       "exampleEs": "Llena el vaso.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "fill",
+        "thirdPerson": "fills",
+        "past": "filled",
+        "participle": "filled",
+        "gerund": "filling"
+      }
     },
     {
       "id": 56,
@@ -561,7 +946,14 @@
       "spanish": "plantar / sembrar",
       "exampleEn": "Plant a tree.",
       "exampleEs": "Planta un árbol.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "plant",
+        "thirdPerson": "plants",
+        "past": "planted",
+        "participle": "planted",
+        "gerund": "planting"
+      }
     },
     {
       "id": 57,
@@ -571,7 +963,14 @@
       "spanish": "levantar / criar",
       "exampleEn": "Raise your hand.",
       "exampleEs": "Levanta la mano.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "raise",
+        "thirdPerson": "raises",
+        "past": "raised",
+        "participle": "raised",
+        "gerund": "raising"
+      }
     },
     {
       "id": 58,
@@ -581,7 +980,14 @@
       "spanish": "alcanzar / llegar a",
       "exampleEn": "Reach the top.",
       "exampleEs": "Alcanza la cima.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "reach",
+        "thirdPerson": "reaches",
+        "past": "reached",
+        "participle": "reached",
+        "gerund": "reaching"
+      }
     },
     {
       "id": 59,
@@ -591,7 +997,14 @@
       "spanish": "regresar / devolver",
       "exampleEn": "Return the book.",
       "exampleEs": "Devuelve el libro.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "return",
+        "thirdPerson": "returns",
+        "past": "returned",
+        "participle": "returned",
+        "gerund": "returning"
+      }
     },
     {
       "id": 60,
@@ -601,7 +1014,14 @@
       "spanish": "quedarse",
       "exampleEn": "Stay home.",
       "exampleEs": "Quédate en casa.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "stay",
+        "thirdPerson": "stays",
+        "past": "stayed",
+        "participle": "stayed",
+        "gerund": "staying"
+      }
     },
     {
       "id": 61,
@@ -611,7 +1031,14 @@
       "spanish": "jalar / tirar",
       "exampleEn": "Pull the rope.",
       "exampleEs": "Jala la cuerda.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "pull",
+        "thirdPerson": "pulls",
+        "past": "pulled",
+        "participle": "pulled",
+        "gerund": "pulling"
+      }
     },
     {
       "id": 62,
@@ -621,7 +1048,14 @@
       "spanish": "preparar",
       "exampleEn": "Prepare dinner.",
       "exampleEs": "Prepara la cena.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "prepare",
+        "thirdPerson": "prepares",
+        "past": "prepared",
+        "participle": "prepared",
+        "gerund": "preparing"
+      }
     },
     {
       "id": 63,
@@ -631,7 +1065,14 @@
       "spanish": "empujar",
       "exampleEn": "Push the button.",
       "exampleEs": "Empuja el botón.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "push",
+        "thirdPerson": "pushes",
+        "past": "pushed",
+        "participle": "pushed",
+        "gerund": "pushing"
+      }
     },
     {
       "id": 64,
@@ -641,7 +1082,14 @@
       "spanish": "defender",
       "exampleEn": "Defend your ideas.",
       "exampleEs": "Defiende tus ideas.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "defend",
+        "thirdPerson": "defends",
+        "past": "defended",
+        "participle": "defended",
+        "gerund": "defending"
+      }
     },
     {
       "id": 65,
@@ -651,7 +1099,14 @@
       "spanish": "suceder / pasar",
       "exampleEn": "What happened?",
       "exampleEs": "¿Qué pasó?",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "happen",
+        "thirdPerson": "happens",
+        "past": "happened",
+        "participle": "happened",
+        "gerund": "happening"
+      }
     },
     {
       "id": 66,
@@ -661,7 +1116,14 @@
       "spanish": "repetir",
       "exampleEn": "Repeat after me.",
       "exampleEs": "Repite después de mí.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "repeat",
+        "thirdPerson": "repeats",
+        "past": "repeated",
+        "participle": "repeated",
+        "gerund": "repeating"
+      }
     },
     {
       "id": 67,
@@ -671,7 +1133,14 @@
       "spanish": "mencionar",
       "exampleEn": "You mentioned it before.",
       "exampleEs": "Lo mencionaste antes.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "mention",
+        "thirdPerson": "mentions",
+        "past": "mentioned",
+        "participle": "mentioned",
+        "gerund": "mentioning"
+      }
     },
     {
       "id": 68,
@@ -681,7 +1150,14 @@
       "spanish": "estudiar",
       "exampleEn": "I study at night.",
       "exampleEs": "Estudio de noche.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "study",
+        "thirdPerson": "studies",
+        "past": "studied",
+        "participle": "studied",
+        "gerund": "studying"
+      }
     },
     {
       "id": 69,
@@ -691,7 +1167,14 @@
       "spanish": "creer",
       "exampleEn": "I believe you.",
       "exampleEs": "Te creo.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "believe",
+        "thirdPerson": "believes",
+        "past": "believed",
+        "participle": "believed",
+        "gerund": "believing"
+      }
     },
     {
       "id": 70,
@@ -701,7 +1184,14 @@
       "spanish": "prevenir / impedir",
       "exampleEn": "Prevent accidents.",
       "exampleEs": "Previene accidentes.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "prevent",
+        "thirdPerson": "prevents",
+        "past": "prevented",
+        "participle": "prevented",
+        "gerund": "preventing"
+      }
     },
     {
       "id": 71,
@@ -711,7 +1201,14 @@
       "spanish": "estar de acuerdo",
       "exampleEn": "I agree with you.",
       "exampleEs": "Estoy de acuerdo contigo.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "agree",
+        "thirdPerson": "agrees",
+        "past": "agreed",
+        "participle": "agreed",
+        "gerund": "agreeing"
+      }
     },
     {
       "id": 72,
@@ -721,7 +1218,14 @@
       "spanish": "pintar",
       "exampleEn": "Paint the wall.",
       "exampleEs": "Pinta la pared.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "paint",
+        "thirdPerson": "paints",
+        "past": "painted",
+        "participle": "painted",
+        "gerund": "painting"
+      }
     },
     {
       "id": 73,
@@ -731,7 +1235,14 @@
       "spanish": "probar / demostrar",
       "exampleEn": "Prove your point.",
       "exampleEs": "Demuestra tu punto.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "prove",
+        "thirdPerson": "proves",
+        "past": "proved",
+        "participle": "proven",
+        "gerund": "proving"
+      }
     },
     {
       "id": 74,
@@ -741,7 +1252,14 @@
       "spanish": "esperar / desear",
       "exampleEn": "I hope it works.",
       "exampleEs": "Espero que funcione.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "hope",
+        "thirdPerson": "hopes",
+        "past": "hoped",
+        "participle": "hoped",
+        "gerund": "hoping"
+      }
     },
     {
       "id": 75,
@@ -751,7 +1269,14 @@
       "spanish": "recibir",
       "exampleEn": "I received a gift.",
       "exampleEs": "Recibí un regalo.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "receive",
+        "thirdPerson": "receives",
+        "past": "received",
+        "participle": "received",
+        "gerund": "receiving"
+      }
     },
     {
       "id": 76,
@@ -761,7 +1286,14 @@
       "spanish": "admitir",
       "exampleEn": "I admit my error.",
       "exampleEs": "Admito mi error.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "admit",
+        "thirdPerson": "admits",
+        "past": "admitted",
+        "participle": "admitted",
+        "gerund": "admitting"
+      }
     },
     {
       "id": 77,
@@ -771,7 +1303,14 @@
       "spanish": "cocinar",
       "exampleEn": "I cook every day.",
       "exampleEs": "Cocino todos los días.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "cook",
+        "thirdPerson": "cooks",
+        "past": "cooked",
+        "participle": "cooked",
+        "gerund": "cooking"
+      }
     },
     {
       "id": 78,
@@ -781,7 +1320,14 @@
       "spanish": "ordenar / pedir",
       "exampleEn": "Order a pizza.",
       "exampleEs": "Pide una pizza.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "order",
+        "thirdPerson": "orders",
+        "past": "ordered",
+        "participle": "ordered",
+        "gerund": "ordering"
+      }
     },
     {
       "id": 79,
@@ -791,7 +1337,14 @@
       "spanish": "cubrir",
       "exampleEn": "Cover the pot.",
       "exampleEs": "Cubre la olla.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "cover",
+        "thirdPerson": "covers",
+        "past": "covered",
+        "participle": "covered",
+        "gerund": "covering"
+      }
     },
     {
       "id": 80,
@@ -801,7 +1354,14 @@
       "spanish": "aplicar / postular",
       "exampleEn": "Apply for the job.",
       "exampleEs": "Postula al trabajo.",
-      "level": "A1"
+      "level": "A1",
+      "forms": {
+        "base": "apply",
+        "thirdPerson": "applies",
+        "past": "applied",
+        "participle": "applied",
+        "gerund": "applying"
+      }
     }
   ],
   "topics": [
@@ -809,7 +1369,19 @@
       "id": "personal-pronouns",
       "title": "Pronombres personales",
       "description": "Usa I, you, he, she, it, we y they en contexto.",
-      "kind": "pronouns"
+      "kind": "pronouns",
+      "theory": {
+        "summary": "Los pronombres sustituyen nombres y cambian según su función.",
+        "rules": [
+          "Sujeto: I, you, he, she, it, we, they.",
+          "Objeto: me, you, him, her, it, us, them.",
+          "Posesivos: my/your/his/her/our/their acompañan un sustantivo."
+        ],
+        "examples": [
+          "She works here. · Ella trabaja aquí.",
+          "They call us. · Ellos nos llaman."
+        ]
+      }
     },
     {
       "id": "to-be",
@@ -1050,7 +1622,20 @@
             }
           ]
         }
-      ]
+      ],
+      "theory": {
+        "summary": "To be significa ser o estar.",
+        "rules": [
+          "I am; he/she/it is; you/we/they are.",
+          "Negación: am not, is not/isn't, are not/aren't.",
+          "Pregunta: coloca am/is/are antes del sujeto."
+        ],
+        "examples": [
+          "I am ready.",
+          "She isn't at home.",
+          "Are they students?"
+        ]
+      }
     },
     {
       "id": "articles",
@@ -3481,7 +4066,20 @@
             }
           ]
         }
-      ]
+      ],
+      "theory": {
+        "summary": "Los artículos presentan o identifican sustantivos.",
+        "rules": [
+          "a: una cosa no específica ante sonido consonante.",
+          "an: una cosa no específica ante sonido vocálico.",
+          "the: algo específico o ya conocido."
+        ],
+        "examples": [
+          "a car",
+          "an hour",
+          "the car on the street"
+        ]
+      }
     },
     {
       "id": "simple-present",
@@ -5869,7 +6467,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5879,7 +6477,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5889,7 +6487,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5899,7 +6497,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5909,7 +6507,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5919,7 +6517,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5929,7 +6527,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5939,7 +6537,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5949,7 +6547,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5959,7 +6557,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5969,7 +6567,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5979,7 +6577,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5989,7 +6587,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -5999,7 +6597,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             }
           ]
@@ -9421,7 +10019,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9431,7 +10029,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9441,7 +10039,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9451,7 +10049,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9461,7 +10059,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9471,7 +10069,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9481,7 +10079,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9491,7 +10089,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9501,7 +10099,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9511,7 +10109,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9521,7 +10119,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9531,7 +10129,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9541,7 +10139,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -9551,7 +10149,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             }
           ]
@@ -10309,7 +10907,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10319,7 +10917,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10329,7 +10927,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10339,7 +10937,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10349,7 +10947,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10359,7 +10957,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10369,7 +10967,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10379,7 +10977,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10389,7 +10987,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10399,7 +10997,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10409,7 +11007,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10419,7 +11017,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10429,7 +11027,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -10439,7 +11037,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             }
           ]
@@ -11345,7 +11943,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11355,7 +11953,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11365,7 +11963,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11375,7 +11973,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11385,7 +11983,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11395,7 +11993,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11405,7 +12003,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11415,7 +12013,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11425,7 +12023,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11435,7 +12033,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11445,7 +12043,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11455,7 +12053,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11465,7 +12063,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -11475,7 +12073,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             }
           ]
@@ -14601,7 +15199,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14611,7 +15209,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14621,7 +15219,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14631,7 +15229,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14641,7 +15239,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14651,7 +15249,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14661,7 +15259,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14671,7 +15269,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14681,7 +15279,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14691,7 +15289,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14701,7 +15299,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14711,7 +15309,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14721,7 +15319,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -14731,7 +15329,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             }
           ]
@@ -15328,7 +15926,21 @@
             }
           ]
         }
-      ]
+      ],
+      "theory": {
+        "summary": "El presente simple expresa rutinas, hábitos y hechos generales.",
+        "rules": [
+          "I/you/we/they + forma base.",
+          "He/she/it + forma de tercera persona.",
+          "Negación: do/does not + forma base.",
+          "Pregunta: Do/Does + sujeto + forma base?"
+        ],
+        "examples": [
+          "I work every day.",
+          "She works every day.",
+          "Does she work here?"
+        ]
+      }
     },
     {
       "id": "do-does",
@@ -16359,7 +16971,20 @@
             }
           ]
         }
-      ]
+      ],
+      "theory": {
+        "summary": "Do y does funcionan como auxiliares del presente simple.",
+        "rules": [
+          "Do con I/you/we/they.",
+          "Does con he/she/it.",
+          "Después de do/does el verbo siempre vuelve a la forma base."
+        ],
+        "examples": [
+          "Do you work here?",
+          "Does he work here?",
+          "She doesn't work here."
+        ]
+      }
     },
     {
       "id": "third-person",
@@ -17467,7 +18092,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -17477,7 +18102,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -17487,7 +18112,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -17497,7 +18122,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -17507,7 +18132,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             },
             {
@@ -17517,7 +18142,7 @@
               "options": [
                 "plan",
                 "plans",
-                "planing"
+                "planning"
               ]
             }
           ]
@@ -19099,7 +19724,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -19109,7 +19734,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -19119,7 +19744,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -19129,7 +19754,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -19139,7 +19764,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             },
             {
@@ -19149,7 +19774,7 @@
               "options": [
                 "stop",
                 "stops",
-                "stoping"
+                "stopping"
               ]
             }
           ]
@@ -19507,7 +20132,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -19517,7 +20142,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -19527,7 +20152,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -19537,7 +20162,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -19547,7 +20172,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             },
             {
@@ -19557,7 +20182,7 @@
               "options": [
                 "prefer",
                 "prefers",
-                "prefering"
+                "preferring"
               ]
             }
           ]
@@ -19983,7 +20608,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -19993,7 +20618,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -20003,7 +20628,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -20013,7 +20638,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -20023,7 +20648,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             },
             {
@@ -20033,7 +20658,7 @@
               "options": [
                 "drop",
                 "drops",
-                "droping"
+                "dropping"
               ]
             }
           ]
@@ -21479,7 +22104,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -21489,7 +22114,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -21499,7 +22124,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -21509,7 +22134,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -21519,7 +22144,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             },
             {
@@ -21529,7 +22154,7 @@
               "options": [
                 "admit",
                 "admits",
-                "admiting"
+                "admitting"
               ]
             }
           ]
@@ -21806,7 +22431,21 @@
             }
           ]
         }
-      ]
+      ],
+      "theory": {
+        "summary": "En afirmaciones del presente simple, he/she/it modifican el verbo.",
+        "rules": [
+          "Regla general: añade -s.",
+          "Tras s/sh/ch/x/z/o: añade -es.",
+          "Consonante + y: cambia y por -ies.",
+          "Después de does/doesn't usa la forma base."
+        ],
+        "examples": [
+          "work → works",
+          "watch → watches",
+          "study → studies"
+        ]
+      }
     },
     {
       "id": "there-is-are",
@@ -22117,7 +22756,20 @@
             }
           ]
         }
-      ]
+      ],
+      "theory": {
+        "summary": "There is/are indica que algo existe o está presente.",
+        "rules": [
+          "There is + singular.",
+          "There are + plural.",
+          "Negación: there isn't / there aren't.",
+          "Pregunta: Is there...? / Are there...?"
+        ],
+        "examples": [
+          "There is a book.",
+          "There are two books."
+        ]
+      }
     },
     {
       "id": "present-continuous",
@@ -23374,78 +24026,78 @@
         },
         {
           "id": "continuous-plan",
-          "label": "planing",
+          "label": "planning",
           "cat": "Presente continuo",
           "tip": "Forma: am/is/are + verbo en -ing para una acción que ocurre ahora.",
           "examples": [
             {
               "prompt": "I ___ an email now.",
               "es": "Yo está planear un correo ahora.",
-              "answer": "am planing",
+              "answer": "am planning",
               "options": [
-                "am planing",
+                "am planning",
                 "am plan",
-                "is planing"
+                "is planning"
               ]
             },
             {
               "prompt": "You ___ the report now.",
               "es": "Tú está planear el informe ahora.",
-              "answer": "are planing",
+              "answer": "are planning",
               "options": [
-                "are planing",
+                "are planning",
                 "are plan",
-                "is planing"
+                "is planning"
               ]
             },
             {
               "prompt": "He ___ a plan now.",
               "es": "Él está planear un plan ahora.",
-              "answer": "is planing",
+              "answer": "is planning",
               "options": [
-                "is planing",
+                "is planning",
                 "is plan",
-                "are planing"
+                "are planning"
               ]
             },
             {
               "prompt": "She ___ the lesson now.",
               "es": "Ella está planear la lección ahora.",
-              "answer": "is planing",
+              "answer": "is planning",
               "options": [
-                "is planing",
+                "is planning",
                 "is plan",
-                "are planing"
+                "are planning"
               ]
             },
             {
               "prompt": "It ___ an idea now.",
               "es": "Eso está planear una idea ahora.",
-              "answer": "is planing",
+              "answer": "is planning",
               "options": [
-                "is planing",
+                "is planning",
                 "is plan",
-                "are planing"
+                "are planning"
               ]
             },
             {
               "prompt": "We ___ a house now.",
               "es": "Nosotros está planear una casa ahora.",
-              "answer": "are planing",
+              "answer": "are planning",
               "options": [
-                "are planing",
+                "are planning",
                 "are plan",
-                "is planing"
+                "is planning"
               ]
             },
             {
               "prompt": "They ___ the project now.",
               "es": "Ellos está planear el proyecto ahora.",
-              "answer": "are planing",
+              "answer": "are planning",
               "options": [
-                "are planing",
+                "are planning",
                 "are plan",
-                "is planing"
+                "is planning"
               ]
             }
           ]
@@ -25246,78 +25898,78 @@
         },
         {
           "id": "continuous-stop",
-          "label": "stoping",
+          "label": "stopping",
           "cat": "Presente continuo",
           "tip": "Forma: am/is/are + verbo en -ing para una acción que ocurre ahora.",
           "examples": [
             {
               "prompt": "I ___ an email now.",
               "es": "Yo está parar un correo ahora.",
-              "answer": "am stoping",
+              "answer": "am stopping",
               "options": [
-                "am stoping",
+                "am stopping",
                 "am stop",
-                "is stoping"
+                "is stopping"
               ]
             },
             {
               "prompt": "You ___ the report now.",
               "es": "Tú está parar el informe ahora.",
-              "answer": "are stoping",
+              "answer": "are stopping",
               "options": [
-                "are stoping",
+                "are stopping",
                 "are stop",
-                "is stoping"
+                "is stopping"
               ]
             },
             {
               "prompt": "He ___ a plan now.",
               "es": "Él está parar un plan ahora.",
-              "answer": "is stoping",
+              "answer": "is stopping",
               "options": [
-                "is stoping",
+                "is stopping",
                 "is stop",
-                "are stoping"
+                "are stopping"
               ]
             },
             {
               "prompt": "She ___ the lesson now.",
               "es": "Ella está parar la lección ahora.",
-              "answer": "is stoping",
+              "answer": "is stopping",
               "options": [
-                "is stoping",
+                "is stopping",
                 "is stop",
-                "are stoping"
+                "are stopping"
               ]
             },
             {
               "prompt": "It ___ an idea now.",
               "es": "Eso está parar una idea ahora.",
-              "answer": "is stoping",
+              "answer": "is stopping",
               "options": [
-                "is stoping",
+                "is stopping",
                 "is stop",
-                "are stoping"
+                "are stopping"
               ]
             },
             {
               "prompt": "We ___ a house now.",
               "es": "Nosotros está parar una casa ahora.",
-              "answer": "are stoping",
+              "answer": "are stopping",
               "options": [
-                "are stoping",
+                "are stopping",
                 "are stop",
-                "is stoping"
+                "is stopping"
               ]
             },
             {
               "prompt": "They ___ the project now.",
               "es": "Ellos está parar el proyecto ahora.",
-              "answer": "are stoping",
+              "answer": "are stopping",
               "options": [
-                "are stoping",
+                "are stopping",
                 "are stop",
-                "is stoping"
+                "is stopping"
               ]
             }
           ]
@@ -25714,78 +26366,78 @@
         },
         {
           "id": "continuous-prefer",
-          "label": "prefering",
+          "label": "preferring",
           "cat": "Presente continuo",
           "tip": "Forma: am/is/are + verbo en -ing para una acción que ocurre ahora.",
           "examples": [
             {
               "prompt": "I ___ the project now.",
               "es": "Yo está preferir el proyecto ahora.",
-              "answer": "am prefering",
+              "answer": "am preferring",
               "options": [
-                "am prefering",
+                "am preferring",
                 "am prefer",
-                "is prefering"
+                "is preferring"
               ]
             },
             {
               "prompt": "You ___ a car now.",
               "es": "Tú está preferir un coche ahora.",
-              "answer": "are prefering",
+              "answer": "are preferring",
               "options": [
-                "are prefering",
+                "are preferring",
                 "are prefer",
-                "is prefering"
+                "is preferring"
               ]
             },
             {
               "prompt": "He ___ an email now.",
               "es": "Él está preferir un correo ahora.",
-              "answer": "is prefering",
+              "answer": "is preferring",
               "options": [
-                "is prefering",
+                "is preferring",
                 "is prefer",
-                "are prefering"
+                "are preferring"
               ]
             },
             {
               "prompt": "She ___ the report now.",
               "es": "Ella está preferir el informe ahora.",
-              "answer": "is prefering",
+              "answer": "is preferring",
               "options": [
-                "is prefering",
+                "is preferring",
                 "is prefer",
-                "are prefering"
+                "are preferring"
               ]
             },
             {
               "prompt": "It ___ a plan now.",
               "es": "Eso está preferir un plan ahora.",
-              "answer": "is prefering",
+              "answer": "is preferring",
               "options": [
-                "is prefering",
+                "is preferring",
                 "is prefer",
-                "are prefering"
+                "are preferring"
               ]
             },
             {
               "prompt": "We ___ the lesson now.",
               "es": "Nosotros está preferir la lección ahora.",
-              "answer": "are prefering",
+              "answer": "are preferring",
               "options": [
-                "are prefering",
+                "are preferring",
                 "are prefer",
-                "is prefering"
+                "is preferring"
               ]
             },
             {
               "prompt": "They ___ an idea now.",
               "es": "Ellos está preferir una idea ahora.",
-              "answer": "are prefering",
+              "answer": "are preferring",
               "options": [
-                "are prefering",
+                "are preferring",
                 "are prefer",
-                "is prefering"
+                "is preferring"
               ]
             }
           ]
@@ -26260,78 +26912,78 @@
         },
         {
           "id": "continuous-drop",
-          "label": "droping",
+          "label": "dropping",
           "cat": "Presente continuo",
           "tip": "Forma: am/is/are + verbo en -ing para una acción que ocurre ahora.",
           "examples": [
             {
               "prompt": "I ___ a house now.",
               "es": "Yo está soltar una casa ahora.",
-              "answer": "am droping",
+              "answer": "am dropping",
               "options": [
-                "am droping",
+                "am dropping",
                 "am drop",
-                "is droping"
+                "is dropping"
               ]
             },
             {
               "prompt": "You ___ the project now.",
               "es": "Tú está soltar el proyecto ahora.",
-              "answer": "are droping",
+              "answer": "are dropping",
               "options": [
-                "are droping",
+                "are dropping",
                 "are drop",
-                "is droping"
+                "is dropping"
               ]
             },
             {
               "prompt": "He ___ a car now.",
               "es": "Él está soltar un coche ahora.",
-              "answer": "is droping",
+              "answer": "is dropping",
               "options": [
-                "is droping",
+                "is dropping",
                 "is drop",
-                "are droping"
+                "are dropping"
               ]
             },
             {
               "prompt": "She ___ an email now.",
               "es": "Ella está soltar un correo ahora.",
-              "answer": "is droping",
+              "answer": "is dropping",
               "options": [
-                "is droping",
+                "is dropping",
                 "is drop",
-                "are droping"
+                "are dropping"
               ]
             },
             {
               "prompt": "It ___ the report now.",
               "es": "Eso está soltar el informe ahora.",
-              "answer": "is droping",
+              "answer": "is dropping",
               "options": [
-                "is droping",
+                "is dropping",
                 "is drop",
-                "are droping"
+                "are dropping"
               ]
             },
             {
               "prompt": "We ___ a plan now.",
               "es": "Nosotros está soltar un plan ahora.",
-              "answer": "are droping",
+              "answer": "are dropping",
               "options": [
-                "are droping",
+                "are dropping",
                 "are drop",
-                "is droping"
+                "is dropping"
               ]
             },
             {
               "prompt": "They ___ the lesson now.",
               "es": "Ellos está soltar la lección ahora.",
-              "answer": "are droping",
+              "answer": "are dropping",
               "options": [
-                "are droping",
+                "are dropping",
                 "are drop",
-                "is droping"
+                "is dropping"
               ]
             }
           ]
@@ -27976,78 +28628,78 @@
         },
         {
           "id": "continuous-admit",
-          "label": "admiting",
+          "label": "admitting",
           "cat": "Presente continuo",
           "tip": "Forma: am/is/are + verbo en -ing para una acción que ocurre ahora.",
           "examples": [
             {
               "prompt": "I ___ the lesson now.",
               "es": "Yo está admitir la lección ahora.",
-              "answer": "am admiting",
+              "answer": "am admitting",
               "options": [
-                "am admiting",
+                "am admitting",
                 "am admit",
-                "is admiting"
+                "is admitting"
               ]
             },
             {
               "prompt": "You ___ an idea now.",
               "es": "Tú está admitir una idea ahora.",
-              "answer": "are admiting",
+              "answer": "are admitting",
               "options": [
-                "are admiting",
+                "are admitting",
                 "are admit",
-                "is admiting"
+                "is admitting"
               ]
             },
             {
               "prompt": "He ___ a house now.",
               "es": "Él está admitir una casa ahora.",
-              "answer": "is admiting",
+              "answer": "is admitting",
               "options": [
-                "is admiting",
+                "is admitting",
                 "is admit",
-                "are admiting"
+                "are admitting"
               ]
             },
             {
               "prompt": "She ___ the project now.",
               "es": "Ella está admitir el proyecto ahora.",
-              "answer": "is admiting",
+              "answer": "is admitting",
               "options": [
-                "is admiting",
+                "is admitting",
                 "is admit",
-                "are admiting"
+                "are admitting"
               ]
             },
             {
               "prompt": "It ___ a car now.",
               "es": "Eso está admitir un coche ahora.",
-              "answer": "is admiting",
+              "answer": "is admitting",
               "options": [
-                "is admiting",
+                "is admitting",
                 "is admit",
-                "are admiting"
+                "are admitting"
               ]
             },
             {
               "prompt": "We ___ an email now.",
               "es": "Nosotros está admitir un correo ahora.",
-              "answer": "are admiting",
+              "answer": "are admitting",
               "options": [
-                "are admiting",
+                "are admitting",
                 "are admit",
-                "is admiting"
+                "is admitting"
               ]
             },
             {
               "prompt": "They ___ the report now.",
               "es": "Ellos está admitir el informe ahora.",
-              "answer": "are admiting",
+              "answer": "are admitting",
               "options": [
-                "are admiting",
+                "are admitting",
                 "are admit",
-                "is admiting"
+                "is admitting"
               ]
             }
           ]
@@ -28364,7 +29016,21 @@
             }
           ]
         }
-      ]
+      ],
+      "theory": {
+        "summary": "El presente continuo describe acciones en progreso.",
+        "rules": [
+          "Forma: am/is/are + verbo-ing.",
+          "Usa am con I, is con he/she/it y are con you/we/they.",
+          "Negación: añade not después de am/is/are.",
+          "Pregunta: mueve am/is/are antes del sujeto."
+        ],
+        "examples": [
+          "I am studying now.",
+          "They aren't working.",
+          "Is she cooking?"
+        ]
+      }
     }
   ]
 }
