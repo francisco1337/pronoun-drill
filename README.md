@@ -1,6 +1,7 @@
 # English Drill
 
-Práctica de inglés (PWA) con ejercicios de pronombres y de modales/auxiliares.
+Práctica de inglés (PWA) con una sección A1 de ocho temas, ejercicios de
+pronombres y una sección de modales/auxiliares.
 **10 aciertos seguidos** dominan una palabra; **1 error** reinicia únicamente el
 contador de esa palabra. Funciona offline y se puede instalar.
 
@@ -11,16 +12,18 @@ contador de esa palabra. Funciona offline y se puede instalar.
 | `index.html` | La app (interfaz + lógica). Carga las frases desde `frases.json`. |
 | `frases.json` | **Las frases** (inglés + traducción). Esto es lo que editas para cambiarlas. |
 | `modales.json` | Los 19 modales y auxiliares importados de la hoja de aprendizaje. |
+| `a1.json` | Los ocho temas A1, 80 verbos y sus bancos de ejercicios. |
+| `generar-a1.js` | Regenera `a1.json` con el vocabulario y los ejercicios A1. |
 | `generar-ejemplos-modales.js` | Regenera los 200 ejemplos bilingües de cada modal/auxiliar. |
 | `datos-client.js` | Paquete generado que permite cargar todos los ejercicios sin `fetch()`. |
-| `generar-datos-client.js` | Regenera el paquete cliente desde ambos archivos JSON. |
+| `generar-datos-client.js` | Regenera el paquete cliente desde todos los archivos JSON. |
 | `generar-frases.js` | Generador opcional: reconstruye `frases.json` a partir de plantillas y vocabulario. |
 | `manifest.webmanifest`, `sw.js`, `icons/` | Piezas de la PWA (instalable + offline). |
 
 ## Probar en tu PC
 
 La app no necesita un servidor para cargar los datos: `datos-client.js` contiene
-ambos JSON empaquetados y `index.html` puede abrirse con doble clic. Para probar
+todos los JSON empaquetados y `index.html` puede abrirse con doble clic. Para probar
 el comportamiento exacto de la PWA y su caché también puedes levantar un servidor:
 
 ```bash
