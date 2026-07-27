@@ -53,7 +53,7 @@ function a1Menu(){
 }
 function simplePresentMenu(){
  screen="a1-simple-menu";mode=null;current=null;resetBtn.hidden=true;
- app.innerHTML=crumb("A1 · Presente simple")+'<section class="subintro"><h2>¿Cómo quieres practicar?</h2><p>Los dos ejercicios comparten el mismo progreso por verbo: 10 aciertos seguidos lo dominan y 1 error reinicia su contador.</p></section><section class="menu"><button class="menu-card" data-a1-mode="complete"><span class="icon">Aa</span><span class="arrow">→</span><h3>Completar la frase</h3><p>Elige la forma verbal correcta según el sujeto y el contexto.</p></button><button class="menu-card" data-a1-mode="match"><span class="icon">↔</span><span class="arrow">→</span><h3>Relacionar traducción</h3><p>Relaciona cada verbo en inglés con su significado en español.</p></button></section>';
+ app.innerHTML=crumb("A1 · Presente simple")+'<section class="subintro"><h2>¿Cómo quieres practicar?</h2><p>Los tres ejercicios comparten el mismo progreso por verbo: 10 aciertos seguidos lo dominan y 1 error reinicia su contador.</p></section><section class="menu"><button class="menu-card" data-a1-mode="complete"><span class="icon">Aa</span><span class="arrow">→</span><h3>Completar la frase</h3><p>Elige la forma verbal correcta según el sujeto y el contexto.</p></button><button class="menu-card" data-a1-mode="match"><span class="icon">↔</span><span class="arrow">→</span><h3>Relacionar traducción</h3><p>Relaciona cada verbo en inglés con su significado en español.</p></button><button class="menu-card" data-a1-mode="write"><span class="icon">✎</span><span class="arrow">→</span><h3>Escribir la palabra</h3><p>Lee el significado en español y escribe el verbo en inglés sin opciones.</p></button></section>';
 }
 function modalMenu(){
  screen="modal-menu";mode=null;current=null;resetBtn.hidden=true;
@@ -77,6 +77,7 @@ function startA1(topicId,newMode){
 function items(){return isPronouns()?pronounData.pronouns:(screen==="a1"?a1Topic.items:modalData.items)}
 function prog(){return isPronouns()?progress.pronouns:(screen==="a1"?progress.a1[a1Topic.id]:progress.modals)}
 function isA1Match(){return screen==="a1"&&a1Topic&&a1Topic.id==="simple-present"&&mode==="match"}
+function isA1Write(){return screen==="a1"&&a1Topic&&a1Topic.id==="simple-present"&&mode==="write"}
 function vocabFor(item){return a1Data.vocabulary.find(function(v){return v.english===item.label})}
 function pending(){return items().filter(function(x){return prog()[x.id]<GOAL})}
 function next(){
@@ -93,6 +94,8 @@ function next(){
    var example=examples[Math.floor(Math.random()*examples.length)];
    var opts=shuffle([item].concat(shuffle(modalData.items.filter(function(x){return x.id!==item.id})).slice(0,3))).map(function(x){return {id:x.id,value:x.spanish}});
    current={item:item,example:example,options:shuffle(opts)};
+ }else if(isA1Write()){
+   current={item:item,vocab:vocabFor(item)};
  }else if(isA1Match()){
    var matchPool=[item].concat(shuffle(a1Topic.items.filter(function(x){return x.id!==item.id})).slice(0,3));
    current={item:item,options:shuffle(matchPool.map(function(x){var v=vocabFor(x);return {id:x.id,value:v?v.spanish:x.label}}))};
@@ -109,6 +112,9 @@ function renderExercise(){
  if(isPronouns()){
    var parts=String(current.sentence.en).split("___"),sentence=parts.map(esc).join('<span class="blank">?</span>')+'<span class="es">'+esc(current.sentence.es)+'</span>';
    shell(head+'<div class="sentence">'+sentence+'</div>'+optionButtons(current.options.map(function(v){return {id:v,value:v}}))+'<div class="feedback" id="feedback"></div>',screen==="a1"?"A1 · Pronombres personales":"Pronombres");
+ }else if(isA1Write()){
+   shell(head+'<div class="sentence">'+esc(current.vocab.spanish)+'<span class="es">Escribe el verbo correspondiente en inglés.</span></div><form id="answerForm" class="formrow"><input class="answer" id="answerInput" autocomplete="off" autocapitalize="none" spellcheck="false" aria-label="Verbo en inglés"><button class="primary" type="submit">Comprobar</button></form><div class="feedback" id="feedback"></div>',"A1 · Presente simple · Escribir");
+   document.getElementById("answerInput").focus();
  }else if(isA1Match()){
    var vocab=vocabFor(x);
    shell(head+'<div class="sentence">'+esc(x.label)+'<span class="es">Pronunciación aproximada: '+esc(vocab?vocab.pronunciation:"")+'</span></div>'+optionButtons(current.options)+'<div class="feedback" id="feedback"></div>',"A1 · Presente simple · Relacionar");
@@ -129,10 +135,10 @@ function respond(ok,chosen){
  if(answered)return;answered=true;var x=current.item,p=prog();p[x.id]=ok?Math.min(GOAL,p[x.id]+1):0;save(storageKind());
  var buttons=app.querySelectorAll(".opt");buttons.forEach(function(b){b.disabled=true;var good=isPronouns()?b.dataset.value===x.answer:(isA1Match()?b.dataset.id===x.id:(screen==="a1"?b.dataset.value===current.example.answer:b.dataset.id===x.id));if(good)b.classList.add("correct");else if(b.dataset.id===chosen||b.dataset.value===chosen)b.classList.add("wrong");else b.classList.add("dim")});
  var input=document.getElementById("answerInput");if(input){input.disabled=true;input.classList.add(ok?"correct":"wrong")}
- var mastered=ok&&p[x.id]>=GOAL,answer=isPronouns()?x.answer:(isA1Match()?(vocabFor(x)||{}).spanish:(screen==="a1"?current.example.answer:x.english));
+ var mastered=ok&&p[x.id]>=GOAL,answer=isPronouns()?x.answer:(isA1Write()?current.vocab.english:(isA1Match()?(vocabFor(x)||{}).spanish:(screen==="a1"?current.example.answer:x.english)));
  var message=mastered?"<strong>¡Dominado!</strong> Completaste 10 seguidas.":ok?"<strong>¡Correcto!</strong> Racha: "+p[x.id]+"/"+GOAL+".":"<strong>La respuesta era “"+esc(answer)+"”.</strong> Su contador vuelve a 0.";
  var matchedVocab=isA1Match()?vocabFor(x):null;
- var tip=isPronouns()?x.tip:(isA1Match()?(esc(x.label)+" · "+esc(matchedVocab?matchedVocab.spanish:"")):(screen==="a1"?x.tip:(esc(current.example.en)+" · "+esc(current.example.es))));
+ var tip=isPronouns()?x.tip:(isA1Write()?(esc(current.vocab.english)+" · "+esc(current.vocab.spanish)):(isA1Match()?(esc(x.label)+" · "+esc(matchedVocab?matchedVocab.spanish:"")):(screen==="a1"?x.tip:(esc(current.example.en)+" · "+esc(current.example.es)))));
  document.getElementById("feedback").innerHTML='<div class="fb"><div><div class="'+(ok?"good":"bad")+'">'+message+'</div><div class="tip">'+tip+'</div></div><button class="primary" id="nextBtn">Siguiente →</button></div>';
  document.getElementById("nextBtn").focus();renderRail();
 }
@@ -158,7 +164,7 @@ app.addEventListener("click",function(e){
  if(b.id==="nextBtn"){next();return}
  if(b.id==="againBtn"){var p=prog();items().forEach(function(x){p[x.id]=0});save(storageKind());lastId=null;next()}
 });
-app.addEventListener("submit",function(e){if(e.target.id!=="answerForm")return;e.preventDefault();var v=document.getElementById("answerInput").value;if(!v.trim())return;respond(normalize(v)===normalize(current.example.answer)||accepted(current.item,v),v)});
+app.addEventListener("submit",function(e){if(e.target.id!=="answerForm")return;e.preventDefault();var v=document.getElementById("answerInput").value;if(!v.trim())return;if(isA1Write()){respond(normalize(v)===normalize(current.vocab.english),v);return}respond(normalize(v)===normalize(current.example.answer)||accepted(current.item,v),v)});
 document.addEventListener("keydown",function(e){if(e.key>="1"&&e.key<="9"&&!answered){var bs=app.querySelectorAll(".opt"),i=+e.key-1;if(bs[i]){e.preventDefault();bs[i].click()}}else if((e.key==="Enter"||e.key===" ")&&answered&&document.getElementById("nextBtn")){e.preventDefault();next()}});
 document.getElementById("brandBtn").addEventListener("click",home);resetBtn.addEventListener("click",reset);
 var themeBtn=document.getElementById("themeBtn");themeBtn.addEventListener("click",function(){var root=document.documentElement,d=root.dataset.theme||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"),n=d==="dark"?"light":"dark";root.dataset.theme=n;localStorage.setItem("englishDrill.theme",n)});var savedTheme=localStorage.getItem("englishDrill.theme");if(savedTheme)document.documentElement.dataset.theme=savedTheme;
