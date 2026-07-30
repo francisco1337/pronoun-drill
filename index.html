@@ -203,15 +203,60 @@ function renderExercise(){
  }
 }
 function optionButtons(opts){return '<div class="options">'+opts.map(function(o,i){return '<button class="opt" data-id="'+esc(o.id)+'" data-value="'+esc(o.value)+'"><span class="key">'+(i+1)+'</span>'+esc(o.value)+'</button>'}).join("")+'</div>'}
+function correctTip(){
+ var x=current.item;
+ if(isPronouns())return x.tip;
+ if(isA1Write())return current.vocab.english+" · "+current.vocab.spanish;
+ if(isA1Match()){var v=vocabFor(x);return x.label+" · "+(v?v.spanish:"")}
+ if(screen==="a1")return x.tip;
+ return current.example.en+" · "+current.example.es;
+}
+function wrongExplanation(chosen){
+ var x=current.item,answer,selected,prompt;
+ if(isPronouns()){
+   selected=pronounData.pronouns.find(function(p){return p.answer===chosen});
+   return 'Aquí se necesita “'+x.answer+'” porque funciona como '+x.role+'. “'+chosen+'”'+(selected?' suele funcionar como '+selected.role:' no cumple esa función')+' en esta frase.';
+ }
+ if(isA1Write())return '“'+current.vocab.spanish+'” se traduce aquí como “'+current.vocab.english+'”. Tu respuesta “'+chosen+'” no coincide con la forma base del verbo.';
+ if(isA1Match()){
+   selected=a1Topic.items.find(function(i){return i.id===chosen});
+   var correctVocab=vocabFor(x),selectedVocab=selected?vocabFor(selected):null;
+   return '“'+x.label+'” significa “'+(correctVocab?correctVocab.spanish:"")+'”. La opción elegida'+(selectedVocab?', “'+selectedVocab.spanish+'”, corresponde a “'+selectedVocab.english+'”':' no corresponde a ese significado')+'.';
+ }
+ if(screen==="modals"){
+   if(mode==="match"){
+     selected=modalData.items.find(function(i){return i.id===chosen});
+     return '“'+x.english+'” significa “'+x.spanish+'”. '+(selected?'“'+selected.spanish+'” corresponde a “'+selected.english+'”, no a “'+x.english+'”.':'La opción elegida no corresponde a ese significado.');
+   }
+   return 'La frase requiere “'+x.english+'” porque expresa “'+x.spanish+'”. “'+chosen+'” no completa esa función en este contexto.';
+ }
+ answer=current.example.answer;prompt=current.example.prompt;
+ if(a1Topic.id==="to-be")return 'La concordancia correcta es I + am, he/she/it + is y you/we/they + are. Por eso aquí corresponde “'+answer+'”, no “'+chosen+'”.';
+ if(a1Topic.id==="articles"){
+   var articleReason=answer==="a"?"el sustantivo empieza con sonido consonante":answer==="an"?"el sustantivo empieza con sonido vocálico":"se habla de algo específico o conocido";
+   return 'Se usa “'+answer+'” porque '+articleReason+'. “'+chosen+'” se emplea en un contexto diferente.';
+ }
+ if(a1Topic.id==="simple-present"){
+   var baseRule=/does not|do not/i.test(prompt)?"Después de do/does not, el verbo debe quedar en forma base.":/^(He|She|It)\b/i.test(prompt)?"Con he/she/it, la afirmación usa la forma de tercera persona.":"Con I/you/we/they, la afirmación usa la forma base.";
+   return baseRule+' Por eso la respuesta es “'+answer+'”, no “'+chosen+'”.';
+ }
+ if(a1Topic.id==="do-does")return 'Usa do con I/you/we/they y does con he/she/it. El sujeto de esta pregunta exige “'+answer+'”, no “'+chosen+'”.';
+ if(a1Topic.id==="third-person"){
+   var thirdRule=/^Does\b/i.test(prompt)?"Después de does, el verbo vuelve a la forma base.":"En una afirmación con he/she/it, el verbo lleva la terminación de tercera persona.";
+   return thirdRule+' Por eso corresponde “'+answer+'”, no “'+chosen+'”.';
+ }
+ if(a1Topic.id==="there-is-are")return 'There is se usa con singular y there are con plural. La cantidad de esta frase exige “'+answer+'”, no “'+chosen+'”.';
+ if(a1Topic.id==="present-continuous")return 'El presente continuo se forma con am/is/are + verbo en -ing, y el auxiliar debe concordar con el sujeto. Aquí corresponde “'+answer+'”, no “'+chosen+'”.';
+ return x.tip+' La forma correcta en esta frase es “'+answer+'”, no “'+chosen+'”.';
+}
 function respond(ok,chosen){
  if(answered)return;answered=true;var x=current.item,p=prog();p[x.id]=ok?Math.min(GOAL,p[x.id]+1):0;save(storageKind());
  var buttons=app.querySelectorAll(".opt");buttons.forEach(function(b){b.disabled=true;var good=isPronouns()?b.dataset.value===x.answer:(isA1Match()?b.dataset.id===x.id:(screen==="a1"?b.dataset.value===current.example.answer:b.dataset.id===x.id));if(good)b.classList.add("correct");else if(b.dataset.id===chosen||b.dataset.value===chosen)b.classList.add("wrong");else b.classList.add("dim")});
  var input=document.getElementById("answerInput");if(input){input.disabled=true;input.classList.add(ok?"correct":"wrong")}
  var mastered=ok&&p[x.id]>=GOAL,answer=isPronouns()?x.answer:(isA1Write()?current.vocab.english:(isA1Match()?(vocabFor(x)||{}).spanish:(screen==="a1"?current.example.answer:x.english)));
  var message=mastered?"<strong>¡Dominado!</strong> Completaste 10 seguidas.":ok?"<strong>¡Correcto!</strong> Racha: "+p[x.id]+"/"+GOAL+".":"<strong>La respuesta era “"+esc(answer)+"”.</strong> Su contador vuelve a 0.";
- var matchedVocab=isA1Match()?vocabFor(x):null;
- var tip=isPronouns()?x.tip:(isA1Write()?(esc(current.vocab.english)+" · "+esc(current.vocab.spanish)):(isA1Match()?(esc(x.label)+" · "+esc(matchedVocab?matchedVocab.spanish:"")):(screen==="a1"?x.tip:(esc(current.example.en)+" · "+esc(current.example.es)))));
- document.getElementById("feedback").innerHTML='<div class="fb"><div><div class="'+(ok?"good":"bad")+'">'+message+'</div><div class="tip">'+tip+'</div></div><button class="primary" id="nextBtn">Siguiente →</button></div>';
+ var tip=ok?correctTip():wrongExplanation(chosen);
+ document.getElementById("feedback").innerHTML='<div class="fb"><div><div class="'+(ok?"good":"bad")+'">'+message+'</div><div class="tip">'+esc(tip)+'</div></div><button class="primary" id="nextBtn">Siguiente →</button></div>';
  document.getElementById("nextBtn").focus();renderRail();
 }
 function renderRail(){
