@@ -1,0 +1,493 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "B1",
+  "items": [
+    {
+      "id": "b1-communication-give-a-daily-stand-up-update",
+      "level": "B1",
+      "type": "communication",
+      "english": "give a daily stand-up update",
+      "spanish": "Daily stand-up",
+      "pronunciation": "",
+      "categories": [
+        "remote-work",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can give a daily stand-up update clearly and concisely.",
+        "es": "Puedo daily stand-up con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Daily stand-up"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-report-progress-next-steps-and-blockers",
+      "level": "B1",
+      "type": "communication",
+      "english": "report progress, next steps, and blockers",
+      "spanish": "Progreso, siguiente paso y bloqueo",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can report progress, next steps, and blockers clearly and concisely.",
+        "es": "Puedo progreso, siguiente paso y bloqueo con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Progreso, siguiente paso y bloqueo"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-write-actionable-tickets",
+      "level": "B1",
+      "type": "communication",
+      "english": "write actionable tickets",
+      "spanish": "Tickets",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can write actionable tickets clearly and concisely.",
+        "es": "Puedo tickets con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Tickets"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-define-acceptance-criteria",
+      "level": "B1",
+      "type": "communication",
+      "english": "define acceptance criteria",
+      "spanish": "Acceptance criteria",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can define acceptance criteria clearly and concisely.",
+        "es": "Puedo acceptance criteria con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Acceptance criteria"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-discuss-estimates",
+      "level": "B1",
+      "type": "communication",
+      "english": "discuss estimates",
+      "spanish": "Estimaciones",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can discuss estimates clearly and concisely.",
+        "es": "Puedo estimaciones con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Estimaciones"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-clarify-scope",
+      "level": "B1",
+      "type": "communication",
+      "english": "clarify scope",
+      "spanish": "Alcance",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can clarify scope clearly and concisely.",
+        "es": "Puedo alcance con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Alcance"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-explain-dependencies",
+      "level": "B1",
+      "type": "communication",
+      "english": "explain dependencies",
+      "spanish": "Dependencias",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can explain dependencies clearly and concisely.",
+        "es": "Puedo dependencias con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Dependencias"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-write-pull-request-descriptions",
+      "level": "B1",
+      "type": "communication",
+      "english": "write pull request descriptions",
+      "spanish": "Pull requests",
+      "pronunciation": "",
+      "categories": [
+        "git",
+        "automation",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can write pull request descriptions clearly and concisely.",
+        "es": "Puedo pull requests con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Pull requests"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-give-code-review-feedback",
+      "level": "B1",
+      "type": "communication",
+      "english": "give code review feedback",
+      "spanish": "Code review",
+      "pronunciation": "",
+      "categories": [
+        "backend",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can give code review feedback clearly and concisely.",
+        "es": "Puedo code review con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Code review"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-communicate-breaking-changes",
+      "level": "B1",
+      "type": "communication",
+      "english": "communicate breaking changes",
+      "spanish": "Breaking changes",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can communicate breaking changes clearly and concisely.",
+        "es": "Puedo breaking changes con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Breaking changes"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-discuss-tests-and-edge-cases",
+      "level": "B1",
+      "type": "communication",
+      "english": "discuss tests and edge cases",
+      "spanish": "Pruebas y edge cases",
+      "pronunciation": "",
+      "categories": [
+        "testing",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can discuss tests and edge cases clearly and concisely.",
+        "es": "Puedo pruebas y edge cases con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Pruebas y edge cases"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-explain-an-api",
+      "level": "B1",
+      "type": "communication",
+      "english": "explain an API",
+      "spanish": "APIs",
+      "pronunciation": "",
+      "categories": [
+        "backend",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can explain an API clearly and concisely.",
+        "es": "Puedo apis con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "APIs"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-explain-database-decisions",
+      "level": "B1",
+      "type": "communication",
+      "english": "explain database decisions",
+      "spanish": "Bases de datos",
+      "pronunciation": "",
+      "categories": [
+        "databases",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can explain database decisions clearly and concisely.",
+        "es": "Puedo bases de datos con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Bases de datos"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-write-readme-instructions",
+      "level": "B1",
+      "type": "communication",
+      "english": "write README instructions",
+      "spanish": "README",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can write README instructions clearly and concisely.",
+        "es": "Puedo readme con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "README"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-explain-a-ci-cd-pipeline",
+      "level": "B1",
+      "type": "communication",
+      "english": "explain a CI/CD pipeline",
+      "spanish": "CI/CD",
+      "pronunciation": "",
+      "categories": [
+        "devops",
+        "cicd",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can explain a CI/CD pipeline clearly and concisely.",
+        "es": "Puedo ci/cd con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "CI/CD"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-report-an-incident",
+      "level": "B1",
+      "type": "communication",
+      "english": "report an incident",
+      "spanish": "Incidentes",
+      "pronunciation": "",
+      "categories": [
+        "devops",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can report an incident clearly and concisely.",
+        "es": "Puedo incidentes con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Incidentes"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-propose-a-workaround",
+      "level": "B1",
+      "type": "communication",
+      "english": "propose a workaround",
+      "spanish": "Workarounds",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can propose a workaround clearly and concisely.",
+        "es": "Puedo workarounds con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Workarounds"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-coordinate-a-rollback",
+      "level": "B1",
+      "type": "communication",
+      "english": "coordinate a rollback",
+      "spanish": "Rollback",
+      "pronunciation": "",
+      "categories": [
+        "backend",
+        "devops",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can coordinate a rollback clearly and concisely.",
+        "es": "Puedo rollback con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Rollback"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-communicate-risks",
+      "level": "B1",
+      "type": "communication",
+      "english": "communicate risks",
+      "spanish": "Riesgos",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can communicate risks clearly and concisely.",
+        "es": "Puedo riesgos con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Riesgos"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-give-a-clear-handoff",
+      "level": "B1",
+      "type": "communication",
+      "english": "give a clear handoff",
+      "spanish": "Handoff",
+      "pronunciation": "",
+      "categories": [
+        "remote-work",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can give a clear handoff clearly and concisely.",
+        "es": "Puedo handoff con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Handoff"
+      },
+      "active": true
+    },
+    {
+      "id": "b1-communication-handle-an-initial-interview",
+      "level": "B1",
+      "type": "communication",
+      "english": "handle an initial interview",
+      "spanish": "Entrevista inicial",
+      "pronunciation": "",
+      "categories": [
+        "interviews",
+        "professional",
+        "b1"
+      ],
+      "example": {
+        "en": "I can handle an initial interview clearly and concisely.",
+        "es": "Puedo entrevista inicial con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Entrevista inicial"
+      },
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "A1",
+  "items": [
+    {
+      "id": "a1-communication-introduce-yourself",
+      "level": "A1",
+      "type": "communication",
+      "english": "introduce yourself",
+      "spanish": "Presentarse",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a1"
+      ],
+      "example": {
+        "en": "I can introduce yourself clearly and concisely.",
+        "es": "Puedo presentarse con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Presentarse"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-communication-say-that-you-work-from-home",
+      "level": "A1",
+      "type": "communication",
+      "english": "say that you work from home",
+      "spanish": "Decir que trabaja desde casa",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a1"
+      ],
+      "example": {
+        "en": "I can say that you work from home clearly and concisely.",
+        "es": "Puedo decir que trabaja desde casa con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Decir que trabaja desde casa"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-communication-describe-your-technology-stack",
+      "level": "A1",
+      "type": "communication",
+      "english": "describe your technology stack",
+      "spanish": "Describir su stack",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a1"
+      ],
+      "example": {
+        "en": "I can describe your technology stack clearly and concisely.",
+        "es": "Puedo describir su stack con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Describir su stack"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-communication-describe-your-current-task",
+      "level": "A1",
+      "type": "communication",
+      "english": "describe your current task",
+      "spanish": "Describir su tarea actual",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a1"
+      ],
+      "example": {
+        "en": "I can describe your current task clearly and concisely.",
+        "es": "Puedo describir su tarea actual con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Describir su tarea actual"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-communication-ask-for-help",
+      "level": "A1",
+      "type": "communication",
+      "english": "ask for help",
+      "spanish": "Pedir ayuda",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a1"
+      ],
+      "example": {
+        "en": "I can ask for help clearly and concisely.",
+        "es": "Puedo pedir ayuda con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Pedir ayuda"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-communication-ask-someone-to-repeat",
+      "level": "A1",
+      "type": "communication",
+      "english": "ask someone to repeat",
+      "spanish": "Pedir repetición",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a1"
+      ],
+      "example": {
+        "en": "I can ask someone to repeat clearly and concisely.",
+        "es": "Puedo pedir repetición con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Pedir repetición"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-communication-ask-someone-to-share-their-screen",
+      "level": "A1",
+      "type": "communication",
+      "english": "ask someone to share their screen",
+      "spanish": "Pedir que compartan pantalla",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a1"
+      ],
+      "example": {
+        "en": "I can ask someone to share their screen clearly and concisely.",
+        "es": "Puedo pedir que compartan pantalla con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Pedir que compartan pantalla"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-communication-report-a-simple-error",
+      "level": "A1",
+      "type": "communication",
+      "english": "report a simple error",
+      "spanish": "Reportar un error sencillo",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a1"
+      ],
+      "example": {
+        "en": "I can report a simple error clearly and concisely.",
+        "es": "Puedo reportar un error sencillo con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Reportar un error sencillo"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-communication-talk-about-files-folders-and-access",
+      "level": "A1",
+      "type": "communication",
+      "english": "talk about files, folders, and access",
+      "spanish": "Hablar de archivos, carpetas y acceso",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a1"
+      ],
+      "example": {
+        "en": "I can talk about files, folders, and access clearly and concisely.",
+        "es": "Puedo hablar de archivos, carpetas y acceso con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Hablar de archivos, carpetas y acceso"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-communication-explain-what-you-can-and-cannot-do",
+      "level": "A1",
+      "type": "communication",
+      "english": "explain what you can and cannot do",
+      "spanish": "Decir qué puede y qué no puede hacer",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a1"
+      ],
+      "example": {
+        "en": "I can explain what you can and cannot do clearly and concisely.",
+        "es": "Puedo decir qué puede y qué no puede hacer con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Decir qué puede y qué no puede hacer"
+      },
+      "active": true
+    }
+  ]
+}

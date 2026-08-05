@@ -1,4 +1,4 @@
-const CACHE = "english-drill-2026.08.1";
+const CACHE = "english-drill-2026.08.2-r1";
 const SHELL = [
   "./",
   "./index.html",
@@ -7,12 +7,9 @@ const SHELL = [
   "./src/content-service.js",
   "./src/storage-service.js",
   "./data/manifest.json",
-  "./data/levels/a1/grammar.json",
-  "./data/levels/a1/verbs.json",
-  "./data/levels/a1/pronouns.json",
-  "./data/levels/a1/grammar-items.json",
-  "./data/levels/a1/expressions.json",
-  "./data/professional/modals.json",
+  "./data/curriculum.json",
+  "./data/import-report.json",
+  ...["a1", "a2", "b1", "b2"].flatMap((level) => ["verbs", "pronouns", "vocabulary", "expressions", "grammar-items", "communication"].map((catalog) => `./data/levels/${level}/${catalog}.json`)),
   "./manifest.webmanifest",
   "./icons/icon-192.png",
   "./icons/icon-512.png",

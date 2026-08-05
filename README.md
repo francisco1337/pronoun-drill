@@ -1,63 +1,55 @@
 # English Drill
 
-Aplicación web progresiva para estudiar inglés por niveles. Es completamente
-estática: no tiene backend, cuentas, base de datos, sincronización en la nube ni
-IA en tiempo de ejecución. El contenido educativo se publica como JSON y la
-actividad de cada estudiante permanece exclusivamente en su navegador.
+Aplicación web progresiva para aprender inglés A1–B2 orientado a desarrollo full-stack, DevOps, automatización y trabajo remoto. Es completamente estática: no tiene backend, cuentas, base de datos remota ni IA en tiempo de ejecución.
+
+## Contenido implementado
+
+- Cuatro niveles completos: A1, A2, B1 y B2.
+- Nueve áreas por nivel: gramática, verbos, vocabulario, expresiones, listening, writing, comunicación laboral, simulaciones y evaluaciones.
+- Teoría por tema, formas verbales, errores comunes y ejemplos contextualizados.
+- 27 modalidades: traducción en ambos sentidos, completar, relacionar, opción múltiple, orden, conjugación, transformaciones, corrección de errores, dictado, pronunciación, escritura y escenarios profesionales.
+- Selección exacta de contenido por nivel, área, tema, tipo, categoría, estado, errores y repasos.
+- Práctica adaptativa, repetición espaciada, cuaderno de errores y dominio simple o robusto.
+- Progreso, sesiones y respaldos guardados exclusivamente en `localStorage`.
+
+El banco generado actualmente contiene 1,032 elementos y 34,651 ejercicios. El reporte de importación enlaza 905 filas de las hojas fuente y documenta las filas duplicadas o inválidas omitidas.
 
 ## Arquitectura
 
 | Ruta | Responsabilidad |
 |---|---|
-| `index.html`, `styles.css`, `src/app.js` | Interfaz y sesiones de estudio. |
-| `src/content-service.js` | Carga bajo demanda el manifiesto, catálogos y ejemplos seleccionados. |
-| `src/storage-service.js` | Único acceso a `localStorage`: configuración, progreso, errores, sesiones, migración e importación/exportación. |
+| `index.html`, `styles.css`, `src/app.js` | Interfaz, navegación y motor de práctica. |
+| `src/content-service.js` | Carga bajo demanda manifiesto, currículo, catálogos y ejemplos. |
+| `src/storage-service.js` | Acceso único a `localStorage`, migración, progreso e importación/exportación. |
 | `data/manifest.json` | Punto de entrada y versión del contenido. |
-| `data/levels/a1/` | Catálogos A1, definición de temas y archivos de ejemplos por elemento. |
-| `data/professional/` | Catálogo y ejemplos de modales/auxiliares. |
-| `generar-arquitectura.js` | Genera el árbol normalizado desde los JSON fuente. Solo se ejecuta durante desarrollo. |
-| `scripts/validate-data.js` | Comprueba rutas, versiones, IDs, relaciones, esquemas y el máximo de 200 ejemplos por elemento. |
+| `data/curriculum.json` | Niveles, áreas, temas, teoría y relaciones por ID. |
+| `data/levels/{a1,a2,b1,b2}/` | Catálogos pequeños y ejemplos separados por elemento. |
+| `data/import-report.json` | Trazabilidad y omisiones de la importación. |
+| `sources/google-sheets/` | Instantánea versionada de las fuentes importadas. |
+| `scripts/build-curriculum.js` | Normaliza las fuentes y genera los cuatro niveles. |
+| `scripts/validate-data.js` | Comprueba esquemas, IDs, rutas, relaciones, duplicados y límites. |
 | `sw.js`, `manifest.webmanifest`, `icons/` | Instalación y funcionamiento sin conexión. |
 
-Los archivos `a1.json`, `frases.json` y `modales.json` se conservan como fuentes
-de generación. La aplicación publicada no los descarga ni los importa. Tampoco
-carga un paquete global con todo el banco: primero obtiene el manifiesto, después
-el catálogo necesario y finalmente solo los archivos correspondientes a la
-selección de la sesión.
+La aplicación primero descarga los catálogos pequeños y solo carga los JSON de ejemplos necesarios para la sesión elegida. Ninguna vista descarga de golpe el banco completo de ejercicios.
 
-## Desarrollo
+## Desarrollo y validación
 
-Se requiere Node.js. Para regenerar y validar todo el contenido:
+Se requiere Node.js:
 
 ```bash
 npm run generate:data
 npm run validate:data
-```
-
-Para probar la aplicación y el service worker, sírvela por HTTP (abrir el HTML
-con doble clic no permite usar `fetch` ni la PWA correctamente):
-
-```bash
 npm start
 ```
 
-Después abre `http://127.0.0.1:4173`.
+Abre `http://127.0.0.1:4173`. Servir por HTTP es necesario para `fetch`, el service worker y la instalación PWA.
 
 ## Datos locales y privacidad
 
-Las claves usan el espacio `englishTrainer:v1:*`. Se guardan preferencias,
-selecciones por tema, progreso por ID estable, errores recientes, sesión en curso
-y hasta 100 resúmenes. La pantalla de configuración permite exportar un respaldo
-JSON, importarlo con validación, restablecer áreas concretas y cambiar la regla de
-dominio. Si `localStorage` no está disponible o se llena, la app avisa y continúa
-en modo temporal cuando es posible.
+Las claves usan el espacio `englishTrainer:v1:*`. Se guardan preferencias, selección, progreso por ID estable, errores, sesiones, listas personalizadas y reportes de contenido. Configuración permite exportar e importar un respaldo JSON validado y restablecer por nivel o todo el progreso. Los estados iniciales importados como dominados se conservan.
 
-El contenido educativo nunca forma parte del respaldo del usuario. No se envía
-información a ningún servidor.
+El contenido educativo no forma parte del respaldo del usuario y ningún dato se envía a servidores.
 
 ## Publicación
 
-El repositorio puede publicarse directamente con GitHub Pages desde la rama
-`main`. Al cambiar recursos de la interfaz o el contenido, actualiza
-`contentVersion` y el nombre de `CACHE` en `sw.js` para que las instalaciones
-reciban la nueva versión.
+El repositorio puede publicarse directamente en GitHub Pages desde `main`. Al cambiar contenido o recursos, actualiza `contentVersion` y el nombre de caché en `sw.js`.

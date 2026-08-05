@@ -1,0 +1,2279 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "A2",
+  "items": [
+    {
+      "id": "a2-expression-can",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "can",
+      "spanish": "poder (capacidad)",
+      "pronunciation": "kan",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I can swim.",
+        "es": "Puedo nadar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 4
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-cannot-can-not",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "cannot / can not",
+      "spanish": "no poder",
+      "pronunciation": "kant",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I cannot come today.",
+        "es": "No puedo venir hoy."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 5
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-could",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "could",
+      "spanish": "podría / pude",
+      "pronunciation": "kud",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Could you help me?",
+        "es": "¿Podrías ayudarme?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 6
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-may",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "may",
+      "spanish": "poder (permiso)",
+      "pronunciation": "méi",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "May I come in?",
+        "es": "¿Puedo pasar?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 7
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-might",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "might",
+      "spanish": "quizá / podría",
+      "pronunciation": "máit",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "It might rain.",
+        "es": "Quizá llueva."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 8
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-must",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "must",
+      "spanish": "deber (obligación)",
+      "pronunciation": "mast",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "You must stop here.",
+        "es": "Debes detenerte aquí."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 9
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-should",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "should",
+      "spanish": "deber (consejo)",
+      "pronunciation": "shud",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "You should rest.",
+        "es": "Deberías descansar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 10
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-should-not",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "should not",
+      "spanish": "no deberías",
+      "pronunciation": "shúdent",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "You should not smoke.",
+        "es": "No deberías fumar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 11
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-will",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "will",
+      "spanish": "(futuro)",
+      "pronunciation": "uíl",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I will call you.",
+        "es": "Te llamaré."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 12
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-would",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "would",
+      "spanish": "(condicional)",
+      "pronunciation": "uúd",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I would like a coffee.",
+        "es": "Quisiera un café."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 13
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-shall",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "shall",
+      "spanish": "(sugerencia formal)",
+      "pronunciation": "shal",
+      "categories": [
+        "interviews",
+        "a2"
+      ],
+      "example": {
+        "en": "Shall we start?",
+        "es": "¿Empezamos?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 14
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-how-often",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "how often",
+      "spanish": "con qué frecuencia",
+      "pronunciation": "jáu-ófen",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "How often do you train?",
+        "es": "¿Con qué frecuencia entrenas?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 15
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-how-old",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "how old",
+      "spanish": "qué edad",
+      "pronunciation": "jáu-óuld",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "How old are you?",
+        "es": "¿Cuántos años tienes?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 16
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-what-time",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "what time",
+      "spanish": "a qué hora",
+      "pronunciation": "uót-táim",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "What time is it?",
+        "es": "¿Qué hora es?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 17
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-what-kind-of",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "what kind of",
+      "spanish": "qué tipo de",
+      "pronunciation": "uót-káind-ov",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "What kind of music?",
+        "es": "¿Qué tipo de música?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 18
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-do-you",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "Do you...?",
+      "spanish": "¿(tú) haces...?",
+      "pronunciation": "du-yu",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Do you speak English?",
+        "es": "¿Hablas inglés?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 19
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-are-you",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "Are you...?",
+      "spanish": "¿estás/eres...?",
+      "pronunciation": "ar-yu",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Are you ready?",
+        "es": "¿Estás listo?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 20
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-can-you",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "Can you...?",
+      "spanish": "¿puedes...?",
+      "pronunciation": "kan-yu",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Can you help me?",
+        "es": "¿Puedes ayudarme?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 21
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-could-you",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "Could you...?",
+      "spanish": "¿podrías...? (cortés)",
+      "pronunciation": "kud-yu",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Could you repeat that?",
+        "es": "¿Podrías repetir eso?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 22
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-is-there",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "Is there...?",
+      "spanish": "¿hay...?",
+      "pronunciation": "is-dér",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Is there a bathroom?",
+        "es": "¿Hay un baño?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 23
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-above",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "above",
+      "spanish": "por encima de",
+      "pronunciation": "abóv",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "The sky above us.",
+        "es": "El cielo sobre nosotros."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 24
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-below",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "below",
+      "spanish": "por debajo de",
+      "pronunciation": "bilóu",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Below zero.",
+        "es": "Bajo cero."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 25
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-between",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "between",
+      "spanish": "entre (dos)",
+      "pronunciation": "bituín",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Between you and me.",
+        "es": "Entre tú y yo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 26
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-through",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "through",
+      "spanish": "a través de",
+      "pronunciation": "zru",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Walk through the park.",
+        "es": "Camina por el parque."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 27
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-across",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "across",
+      "spanish": "al otro lado",
+      "pronunciation": "akrós",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Walk across the street.",
+        "es": "Cruza la calle."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 28
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-behind",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "behind",
+      "spanish": "detrás de",
+      "pronunciation": "bijáind",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Behind the door.",
+        "es": "Detrás de la puerta."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 29
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-in-front-of",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "in front of",
+      "spanish": "enfrente de",
+      "pronunciation": "in-front-ov",
+      "categories": [
+        "frontend",
+        "a2"
+      ],
+      "example": {
+        "en": "In front of the house.",
+        "es": "Enfrente de la casa."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 30
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-next-to",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "next to",
+      "spanish": "al lado de",
+      "pronunciation": "nekst-tu",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Next to the bank.",
+        "es": "Al lado del banco."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 31
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-near",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "near",
+      "spanish": "cerca de",
+      "pronunciation": "níar",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Near the station.",
+        "es": "Cerca de la estación."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 32
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-during",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "during",
+      "spanish": "durante",
+      "pronunciation": "diúring",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "During the movie.",
+        "es": "Durante la película."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 33
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-until",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "until",
+      "spanish": "hasta",
+      "pronunciation": "antíl",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Wait until Monday.",
+        "es": "Espera hasta el lunes."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 34
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-since",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "since",
+      "spanish": "desde",
+      "pronunciation": "sins",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Since 2020.",
+        "es": "Desde 2020."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 35
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-before",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "before",
+      "spanish": "antes de",
+      "pronunciation": "bifór",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Before lunch.",
+        "es": "Antes del almuerzo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 36
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-after",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "after",
+      "spanish": "después de",
+      "pronunciation": "áfter",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "After work.",
+        "es": "Después del trabajo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 37
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-later",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "later",
+      "spanish": "más tarde",
+      "pronunciation": "léiter",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Talk to you later.",
+        "es": "Hablamos más tarde."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 38
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-already",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "already",
+      "spanish": "ya",
+      "pronunciation": "olrédi",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I already ate.",
+        "es": "Ya comí."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 39
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-yet",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "yet",
+      "spanish": "todavía (neg./preg.)",
+      "pronunciation": "yet",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Not yet.",
+        "es": "Todavía no."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 40
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-still",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "still",
+      "spanish": "todavía / aún",
+      "pronunciation": "stil",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I still love it.",
+        "es": "Todavía me encanta."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 41
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-just",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "just",
+      "spanish": "recién / justo",
+      "pronunciation": "yast",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I just arrived.",
+        "es": "Recién llegué."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 42
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-very",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "very",
+      "spanish": "muy",
+      "pronunciation": "véri",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Very good.",
+        "es": "Muy bien."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 43
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-really",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "really",
+      "spanish": "realmente",
+      "pronunciation": "ríali",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I really like it.",
+        "es": "Realmente me gusta."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 44
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-too",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "too",
+      "spanish": "demasiado",
+      "pronunciation": "tu",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "It is too hot.",
+        "es": "Hace demasiado calor."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 45
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-a-lot",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "a lot",
+      "spanish": "mucho",
+      "pronunciation": "a-lót",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I read a lot.",
+        "es": "Leo mucho."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 46
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-a-little",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "a little",
+      "spanish": "un poco",
+      "pronunciation": "a-lítel",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I am a little tired.",
+        "es": "Estoy un poco cansado."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 47
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-well",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "well",
+      "spanish": "bien",
+      "pronunciation": "uél",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "She speaks well.",
+        "es": "Ella habla bien."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 48
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-fast",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "fast",
+      "spanish": "rápido",
+      "pronunciation": "fast",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Do not drive fast.",
+        "es": "No manejes rápido."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 49
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-here",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "here",
+      "spanish": "aquí",
+      "pronunciation": "jíar",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Come here.",
+        "es": "Ven aquí."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 50
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-there",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "there",
+      "spanish": "ahí / allá",
+      "pronunciation": "déar",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Put it there.",
+        "es": "Ponlo ahí."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 51
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-big",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "big",
+      "spanish": "grande",
+      "pronunciation": "big",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A big house.",
+        "es": "Una casa grande."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 52
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-small",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "small",
+      "spanish": "pequeño",
+      "pronunciation": "smol",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A small dog.",
+        "es": "Un perro pequeño."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 53
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-good",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "good",
+      "spanish": "bueno",
+      "pronunciation": "gud",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A good idea.",
+        "es": "Una buena idea."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 54
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-bad",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "bad",
+      "spanish": "malo",
+      "pronunciation": "bad",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Bad weather.",
+        "es": "Mal clima."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 55
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-new",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "new",
+      "spanish": "nuevo",
+      "pronunciation": "niú",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A new phone.",
+        "es": "Un teléfono nuevo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 56
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-old",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "old",
+      "spanish": "viejo / antiguo",
+      "pronunciation": "óuld",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "An old car.",
+        "es": "Un coche viejo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 57
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-young",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "young",
+      "spanish": "joven",
+      "pronunciation": "yang",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A young man.",
+        "es": "Un hombre joven."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 58
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-hot",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "hot",
+      "spanish": "caliente / calor",
+      "pronunciation": "jot",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "The soup is hot.",
+        "es": "La sopa está caliente."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 59
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-cold",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "cold",
+      "spanish": "frío",
+      "pronunciation": "kóuld",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Cold water.",
+        "es": "Agua fría."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 60
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-long",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "long",
+      "spanish": "largo",
+      "pronunciation": "long",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A long day.",
+        "es": "Un día largo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 61
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-short",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "short",
+      "spanish": "corto / bajo",
+      "pronunciation": "short",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A short break.",
+        "es": "Un descanso corto."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 62
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-slow",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "slow",
+      "spanish": "lento",
+      "pronunciation": "slóu",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A slow computer.",
+        "es": "Una computadora lenta."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 64
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-easy",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "easy",
+      "spanish": "fácil",
+      "pronunciation": "ísi",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "An easy question.",
+        "es": "Una pregunta fácil."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 65
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-difficult",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "difficult",
+      "spanish": "difícil",
+      "pronunciation": "dífikolt",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A difficult task.",
+        "es": "Una tarea difícil."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 66
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-happy",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "happy",
+      "spanish": "feliz / contento",
+      "pronunciation": "jápi",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I am happy.",
+        "es": "Estoy feliz."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 67
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-sad",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "sad",
+      "spanish": "triste",
+      "pronunciation": "sad",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "She looks sad.",
+        "es": "Ella se ve triste."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 68
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-early",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "early",
+      "spanish": "temprano",
+      "pronunciation": "érli",
+      "categories": [
+        "remote-work",
+        "a2"
+      ],
+      "example": {
+        "en": "An early meeting.",
+        "es": "Una reunión temprano."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 69
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-late",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "late",
+      "spanish": "tarde",
+      "pronunciation": "léit",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I am late.",
+        "es": "Llego tarde."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 70
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-cheap",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "cheap",
+      "spanish": "barato",
+      "pronunciation": "chip",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A cheap hotel.",
+        "es": "Un hotel barato."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 71
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-expensive",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "expensive",
+      "spanish": "caro",
+      "pronunciation": "ekspénsiv",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "An expensive car.",
+        "es": "Un coche caro."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 72
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-clean",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "clean",
+      "spanish": "limpio",
+      "pronunciation": "klin",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "A clean room.",
+        "es": "Un cuarto limpio."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 73
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-dirty",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "dirty",
+      "spanish": "sucio",
+      "pronunciation": "dérti",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Dirty shoes.",
+        "es": "Zapatos sucios."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 74
+      },
+      "active": true
+    },
+    {
+      "id": "a2-expression-full",
+      "level": "A2",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "full",
+      "spanish": "lleno",
+      "pronunciation": "ful",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "The cup is full.",
+        "es": "La taza está llena."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 75
+      },
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "A2",
+  "items": [
+    {
+      "id": "a2-communication-describe-a-bug",
+      "level": "A2",
+      "type": "communication",
+      "english": "describe a bug",
+      "spanish": "Describir un bug",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can describe a bug clearly and concisely.",
+        "es": "Puedo describir un bug con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Describir un bug"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-explain-when-an-issue-started",
+      "level": "A2",
+      "type": "communication",
+      "english": "explain when an issue started",
+      "spanish": "Explicar cuándo comenzó",
+      "pronunciation": "",
+      "categories": [
+        "interviews",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can explain when an issue started clearly and concisely.",
+        "es": "Puedo explicar cuándo comenzó con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Explicar cuándo comenzó"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-explain-what-you-tried",
+      "level": "A2",
+      "type": "communication",
+      "english": "explain what you tried",
+      "spanish": "Explicar qué se intentó",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can explain what you tried clearly and concisely.",
+        "es": "Puedo explicar qué se intentó con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Explicar qué se intentó"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-report-a-failed-deployment",
+      "level": "A2",
+      "type": "communication",
+      "english": "report a failed deployment",
+      "spanish": "Reportar un deployment fallido",
+      "pronunciation": "",
+      "categories": [
+        "devops",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can report a failed deployment clearly and concisely.",
+        "es": "Puedo reportar un deployment fallido con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Reportar un deployment fallido"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-communicate-plans",
+      "level": "A2",
+      "type": "communication",
+      "english": "communicate plans",
+      "spanish": "Comunicar planes",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can communicate plans clearly and concisely.",
+        "es": "Puedo comunicar planes con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Comunicar planes"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-compare-options",
+      "level": "A2",
+      "type": "communication",
+      "english": "compare options",
+      "spanish": "Comparar opciones",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can compare options clearly and concisely.",
+        "es": "Puedo comparar opciones con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Comparar opciones"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-ask-for-clarification",
+      "level": "A2",
+      "type": "communication",
+      "english": "ask for clarification",
+      "spanish": "Pedir aclaraciones",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can ask for clarification clearly and concisely.",
+        "es": "Puedo pedir aclaraciones con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Pedir aclaraciones"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-ask-about-dates",
+      "level": "A2",
+      "type": "communication",
+      "english": "ask about dates",
+      "spanish": "Preguntar fechas",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can ask about dates clearly and concisely.",
+        "es": "Puedo preguntar fechas con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Preguntar fechas"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-request-a-review",
+      "level": "A2",
+      "type": "communication",
+      "english": "request a review",
+      "spanish": "Solicitar una revisión",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can request a review clearly and concisely.",
+        "es": "Puedo solicitar una revisión con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Solicitar una revisión"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-ask-for-more-time",
+      "level": "A2",
+      "type": "communication",
+      "english": "ask for more time",
+      "spanish": "Pedir más tiempo",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can ask for more time clearly and concisely.",
+        "es": "Puedo pedir más tiempo con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Pedir más tiempo"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-schedule-a-call",
+      "level": "A2",
+      "type": "communication",
+      "english": "schedule a call",
+      "spanish": "Coordinar una llamada",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can schedule a call clearly and concisely.",
+        "es": "Puedo coordinar una llamada con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Coordinar una llamada"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-write-slack-messages",
+      "level": "A2",
+      "type": "communication",
+      "english": "write Slack messages",
+      "spanish": "Escribir mensajes de Slack",
+      "pronunciation": "",
+      "categories": [
+        "remote-work",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can write Slack messages clearly and concisely.",
+        "es": "Puedo escribir mensajes de slack con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Escribir mensajes de Slack"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-communication-create-simple-tickets",
+      "level": "A2",
+      "type": "communication",
+      "english": "create simple tickets",
+      "spanish": "Crear tickets sencillos",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "a2"
+      ],
+      "example": {
+        "en": "I can create simple tickets clearly and concisely.",
+        "es": "Puedo crear tickets sencillos con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Crear tickets sencillos"
+      },
+      "active": true
+    }
+  ]
+}

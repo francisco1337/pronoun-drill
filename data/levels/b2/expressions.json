@@ -1,0 +1,5326 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "B2",
+  "items": [
+    {
+      "id": "b2-expression-first",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "first",
+      "spanish": "primero",
+      "pronunciation": "ferst",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "First, open the app.",
+        "es": "Primero, abre la app."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 4
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-next",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "next",
+      "spanish": "luego / siguiente",
+      "pronunciation": "nekst",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Next, click save.",
+        "es": "Luego, haz clic en guardar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 5
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-finally",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "finally",
+      "spanish": "finalmente",
+      "pronunciation": "fáinali",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Finally, we arrived.",
+        "es": "Finalmente, llegamos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 6
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-meanwhile",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "meanwhile",
+      "spanish": "mientras tanto",
+      "pronunciation": "mín-uail",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Meanwhile, I cooked.",
+        "es": "Mientras tanto, cociné."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 7
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-as-soon-as",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "as soon as",
+      "spanish": "tan pronto como",
+      "pronunciation": "as-sún-as",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Call me as soon as you can.",
+        "es": "Llámame tan pronto puedas."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 8
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-if",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "if",
+      "spanish": "si (condición)",
+      "pronunciation": "if",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "If it rains, stay home.",
+        "es": "Si llueve, quédate en casa."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 9
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-unless",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "unless",
+      "spanish": "a menos que",
+      "pronunciation": "anlés",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I will go unless it rains.",
+        "es": "Iré a menos que llueva."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 10
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-in-case",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "in case",
+      "spanish": "por si acaso",
+      "pronunciation": "in-kéis",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Take a coat in case it is cold.",
+        "es": "Lleva abrigo por si hace frío."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 11
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-as-long-as",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "as long as",
+      "spanish": "siempre que",
+      "pronunciation": "as-long-as",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "You can stay as long as you are quiet.",
+        "es": "Puedes quedarte siempre que estés callado."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 12
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-for-example",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "for example",
+      "spanish": "por ejemplo",
+      "pronunciation": "for-eksámpol",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Fruits, for example apples.",
+        "es": "Frutas, por ejemplo manzanas."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 13
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-such-as",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "such as",
+      "spanish": "tales como",
+      "pronunciation": "sach-as",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Pets such as dogs.",
+        "es": "Mascotas tales como perros."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 14
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-in-short",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "in short",
+      "spanish": "en resumen",
+      "pronunciation": "in-short",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "In short, it works.",
+        "es": "En resumen, funciona."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 15
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-by-the-way",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "by the way",
+      "spanish": "por cierto",
+      "pronunciation": "bai-di-uéi",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "By the way, nice shirt.",
+        "es": "Por cierto, linda camisa."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 16
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-actually",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "actually",
+      "spanish": "en realidad",
+      "pronunciation": "ákchuali",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Actually, I disagree.",
+        "es": "En realidad, no estoy de acuerdo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 17
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-of-course",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "of course",
+      "spanish": "por supuesto",
+      "pronunciation": "ov-kórs",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Of course you can.",
+        "es": "Por supuesto que puedes."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 18
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-fill-out",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "fill out",
+      "spanish": "completar (formulario)",
+      "pronunciation": "fil-áut",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Fill out the application.",
+        "es": "Completa la solicitud."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 19
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-hand-in",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "hand in",
+      "spanish": "entregar",
+      "pronunciation": "jand-ín",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Hand in your homework.",
+        "es": "Entrega tu tarea."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 20
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-hand-out",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "hand out",
+      "spanish": "repartir",
+      "pronunciation": "jand-áut",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Hand out the papers.",
+        "es": "Reparte los papeles."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 21
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-hang-on",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "hang on",
+      "spanish": "esperar / aguantar",
+      "pronunciation": "jang-ón",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Hang on a second.",
+        "es": "Espera un segundo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 22
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-hang-up",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "hang up",
+      "spanish": "colgar (teléfono)",
+      "pronunciation": "jang-áp",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Don't hang up on me.",
+        "es": "No me cuelgues."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 23
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-hold-on",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "hold on",
+      "spanish": "esperar",
+      "pronunciation": "jóuld-ón",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Hold on, please.",
+        "es": "Espera, por favor."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 24
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-keep-on",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "keep on",
+      "spanish": "seguir haciendo",
+      "pronunciation": "kip-ón",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Keep on trying.",
+        "es": "Sigue intentando."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 25
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-keep-up",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "keep up",
+      "spanish": "mantener el ritmo",
+      "pronunciation": "kip-áp",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Keep up the good work.",
+        "es": "Sigue con el buen trabajo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 26
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-show-up",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "show up",
+      "spanish": "aparecer / presentarse",
+      "pronunciation": "shóu-áp",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "He showed up late.",
+        "es": "Él llegó tarde."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 27
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-shut-down",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "shut down",
+      "spanish": "apagar (sistema)",
+      "pronunciation": "shat-dáun",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Shut down the computer.",
+        "es": "Apaga la computadora."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 28
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-sign-up",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "sign up",
+      "spanish": "registrarse / inscribirse",
+      "pronunciation": "sáin-áp",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Sign up for the course.",
+        "es": "Inscríbete al curso."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 29
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-sign-in",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "sign in",
+      "spanish": "iniciar sesión",
+      "pronunciation": "sáin-ín",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Sign in with your email.",
+        "es": "Inicia sesión con tu correo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 30
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-log-in",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "log in",
+      "spanish": "iniciar sesión",
+      "pronunciation": "log-ín",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Log in to your account.",
+        "es": "Inicia sesión en tu cuenta."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 31
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-log-out",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "log out",
+      "spanish": "cerrar sesión",
+      "pronunciation": "log-áut",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Log out when you finish.",
+        "es": "Cierra sesión al terminar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 32
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-run-into",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "run into",
+      "spanish": "toparse con",
+      "pronunciation": "ran-íntu",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I ran into my boss.",
+        "es": "Me topé con mi jefe."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 33
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-back-up",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "back up",
+      "spanish": "respaldar / dar marcha atrás",
+      "pronunciation": "bak-áp",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Back up your files.",
+        "es": "Respalda tus archivos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 34
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-work-out",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "work out",
+      "spanish": "resolver / ejercitarse",
+      "pronunciation": "uérk-áut",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "It will work out fine.",
+        "es": "Todo saldrá bien."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 35
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-turn-up",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "turn up",
+      "spanish": "subir (volumen) / aparecer",
+      "pronunciation": "tern-áp",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Turn up the music.",
+        "es": "Sube la música."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 36
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-turn-down",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "turn down",
+      "spanish": "bajar / rechazar",
+      "pronunciation": "tern-dáun",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Turn down the offer.",
+        "es": "Rechaza la oferta."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 37
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-put-off",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "put off",
+      "spanish": "posponer",
+      "pronunciation": "put-óf",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Don't put off the task.",
+        "es": "No pospongas la tarea."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 38
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-put-out",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "put out",
+      "spanish": "apagar (fuego)",
+      "pronunciation": "put-áut",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Put out the fire.",
+        "es": "Apaga el fuego."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 39
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-look-forward-to",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "look forward to",
+      "spanish": "esperar con ganas",
+      "pronunciation": "luk-fóruard-tu",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I look forward to the trip.",
+        "es": "Espero el viaje con ganas."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 40
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-wake-up",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "wake up",
+      "spanish": "despertarse",
+      "pronunciation": "uéik-áp",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Wake up early.",
+        "es": "Despiértate temprano."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 41
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-throw-away",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "throw away",
+      "spanish": "tirar / desechar",
+      "pronunciation": "zróu-auéi",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Throw away the trash.",
+        "es": "Tira la basura."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 42
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-calm-down",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "calm down",
+      "spanish": "calmarse",
+      "pronunciation": "kam-dáun",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Calm down and relax.",
+        "es": "Cálmate y relájate."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 43
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-cheer-up",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "cheer up",
+      "spanish": "animarse",
+      "pronunciation": "chíar-áp",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Cheer up, it's okay.",
+        "es": "Anímate, está bien."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 44
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-move-on",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "move on",
+      "spanish": "seguir adelante",
+      "pronunciation": "múv-ón",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "It's time to move on.",
+        "es": "Es hora de seguir adelante."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 45
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-give-back",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "give back",
+      "spanish": "devolver",
+      "pronunciation": "guiv-bák",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Give back the money.",
+        "es": "Devuelve el dinero."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 46
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-point-out",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "point out",
+      "spanish": "señalar / destacar",
+      "pronunciation": "póint-áut",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "She pointed out the error.",
+        "es": "Ella señaló el error."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 47
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-set-off",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "set off",
+      "spanish": "partir / provocar",
+      "pronunciation": "set-óf",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "We set off at dawn.",
+        "es": "Partimos al amanecer."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 48
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-take-over",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "take over",
+      "spanish": "tomar el control",
+      "pronunciation": "téik-óuver",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "She took over the project.",
+        "es": "Ella tomó el control del proyecto."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 49
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-count-on",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "count on",
+      "spanish": "contar con",
+      "pronunciation": "káunt-ón",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "You can count on me.",
+        "es": "Puedes contar conmigo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 50
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-run-out-of",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "run out of",
+      "spanish": "quedarse sin",
+      "pronunciation": "ran-áut-ov",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "We ran out of milk.",
+        "es": "Nos quedamos sin leche."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 51
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-take-care-of",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "take care of",
+      "spanish": "cuidar de / encargarse",
+      "pronunciation": "téik-kéar-ov",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Take care of yourself.",
+        "es": "Cuídate."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 52
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-have-to",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "have to",
+      "spanish": "tener que",
+      "pronunciation": "jav-tu",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I have to work.",
+        "es": "Tengo que trabajar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 53
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-need-to",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "need to",
+      "spanish": "necesitar",
+      "pronunciation": "nid-tu",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "You need to sleep.",
+        "es": "Necesitas dormir."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 54
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-ought-to",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "ought to",
+      "spanish": "deber (moral)",
+      "pronunciation": "ót-tu",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "You ought to apologize.",
+        "es": "Deberías disculparte."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 55
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-do-does",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "do / does",
+      "spanish": "(auxiliar presente)",
+      "pronunciation": "du / das",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Do you know? / She does.",
+        "es": "¿Sabes? / Ella sí."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 56
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-did",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "did",
+      "spanish": "(auxiliar pasado)",
+      "pronunciation": "did",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Did you call?",
+        "es": "¿Llamaste?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 57
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-am-is-are",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "am / is / are",
+      "spanish": "(ser/estar presente)",
+      "pronunciation": "am / is / ar",
+      "categories": [
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "I am, he is, we are.",
+        "es": "Yo soy, él es, nosotros somos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 58
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-was-were",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "was / were",
+      "spanish": "(ser/estar pasado)",
+      "pronunciation": "uós / uér",
+      "categories": [
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "I was there.",
+        "es": "Yo estaba ahí."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 59
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-have-has",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "modal",
+      "english": "have / has",
+      "spanish": "(haber - perfecto)",
+      "pronunciation": "jav / jas",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I have finished.",
+        "es": "He terminado."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 60
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-hash",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "hash",
+      "spanish": "aplicar hash",
+      "pronunciation": "jash",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Hash the password with bcrypt.",
+        "es": "Aplica hash a la contraseña con bcrypt."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 61
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-cache",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "cache",
+      "spanish": "almacenar en caché",
+      "pronunciation": "kash",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Cache the results for speed.",
+        "es": "Guarda los resultados en caché para velocidad."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 62
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-revert",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "revert",
+      "spanish": "revertir un cambio",
+      "pronunciation": "rivért",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Revert the last commit.",
+        "es": "Revierte el último commit."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 63
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-respond",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "respond",
+      "spanish": "responder",
+      "pronunciation": "rispónd",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "The server responds with JSON.",
+        "es": "El servidor responde con JSON."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 64
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-import",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "import",
+      "spanish": "importar",
+      "pronunciation": "impórt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Import the module at the top.",
+        "es": "Importa el módulo al inicio."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 65
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-export",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "export",
+      "spanish": "exportar",
+      "pronunciation": "ekspórt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Export the function for reuse.",
+        "es": "Exporta la función para reutilizarla."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 66
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-insert",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "insert",
+      "spanish": "insertar",
+      "pronunciation": "insért",
+      "categories": [
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Insert a new row into the table.",
+        "es": "Inserta una nueva fila en la tabla."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 67
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-install",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "install",
+      "spanish": "instalar",
+      "pronunciation": "instól",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Install the dependencies first.",
+        "es": "Instala las dependencias primero."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 68
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-index",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "index",
+      "spanish": "indexar",
+      "pronunciation": "índeks",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Index the column to speed up queries.",
+        "es": "Indexa la columna para acelerar consultas."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 69
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-log",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "log",
+      "spanish": "registrar (logs)",
+      "pronunciation": "log",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Log every error to the console.",
+        "es": "Registra cada error en la consola."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 70
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-clone",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "clone",
+      "spanish": "clonar (un repo)",
+      "pronunciation": "klóun",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Clone the repository locally.",
+        "es": "Clona el repositorio localmente."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 71
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-map",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "map",
+      "spanish": "mapear",
+      "pronunciation": "map",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Map the array to a new list.",
+        "es": "Mapea el arreglo a una nueva lista."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 72
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-render",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "render",
+      "spanish": "renderizar",
+      "pronunciation": "rénder",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The component renders the list.",
+        "es": "El componente renderiza la lista."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 73
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-mount",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "mount",
+      "spanish": "montar (unidad/volumen)",
+      "pronunciation": "máunt",
+      "categories": [
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "Mount the drive at startup.",
+        "es": "Monta la unidad al arrancar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 74
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-format",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "format",
+      "spanish": "formatear",
+      "pronunciation": "fórmat",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Format the date before display.",
+        "es": "Formatea la fecha antes de mostrarla."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 75
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-compile",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "compile",
+      "spanish": "compilar",
+      "pronunciation": "kompáil",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The code compiles without errors.",
+        "es": "El código compila sin errores."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 76
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-filter",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "filter",
+      "spanish": "filtrar",
+      "pronunciation": "fílter",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Filter the results by category.",
+        "es": "Filtra los resultados por categoría."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 77
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-extend",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "extend",
+      "spanish": "extender",
+      "pronunciation": "iksténd",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Extend the base class.",
+        "es": "Extiende la clase base."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 78
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-refactor",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "refactor",
+      "spanish": "refactorizar",
+      "pronunciation": "rifáktor",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Refactor the function for clarity.",
+        "es": "Refactoriza la función para más claridad."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 79
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-connect",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "connect",
+      "spanish": "conectar",
+      "pronunciation": "konékt",
+      "categories": [
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Connect to the database.",
+        "es": "Conéctate a la base de datos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 80
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-emit",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "emit",
+      "spanish": "emitir",
+      "pronunciation": "imít",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Emit an event when done.",
+        "es": "Emite un evento al terminar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 81
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-process",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "process",
+      "spanish": "procesar",
+      "pronunciation": "próses",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Process the payments in batches.",
+        "es": "Procesa los pagos por lotes."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 82
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-branch",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "branch",
+      "spanish": "ramificar / crear rama",
+      "pronunciation": "branch",
+      "categories": [
+        "git",
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "Branch off before you start.",
+        "es": "Crea una rama antes de empezar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 83
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-stream",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "stream",
+      "spanish": "transmitir",
+      "pronunciation": "strim",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Stream the video in real time.",
+        "es": "Transmite el video en tiempo real."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 84
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-scale",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "scale",
+      "spanish": "escalar",
+      "pronunciation": "skéil",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Scale the service horizontally.",
+        "es": "Escala el servicio horizontalmente."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 85
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-return",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "return",
+      "spanish": "retornar / devolver",
+      "pronunciation": "ritérn",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Return the result to the caller.",
+        "es": "Devuelve el resultado a quien llama."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 86
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-deploy",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "deploy",
+      "spanish": "desplegar / poner en producción",
+      "pronunciation": "diplói",
+      "categories": [
+        "devops",
+        "b2"
+      ],
+      "example": {
+        "en": "We deploy to production on Fridays.",
+        "es": "Desplegamos a producción los viernes."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 87
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-monitor",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "monitor",
+      "spanish": "monitorear",
+      "pronunciation": "mónitor",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Monitor the server load.",
+        "es": "Monitorea la carga del servidor."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 88
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-select",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "select",
+      "spanish": "seleccionar (consultar)",
+      "pronunciation": "silékt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Select all active clients.",
+        "es": "Selecciona todos los clientes activos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 89
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-fork",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "fork",
+      "spanish": "bifurcar (un repo)",
+      "pronunciation": "fork",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Fork the project to contribute.",
+        "es": "Bifurca el proyecto para contribuir."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 90
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-migrate",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "migrate",
+      "spanish": "migrar",
+      "pronunciation": "máigreit",
+      "categories": [
+        "devops",
+        "b2"
+      ],
+      "example": {
+        "en": "Migrate the schema before deploy.",
+        "es": "Migra el esquema antes de desplegar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 91
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-build",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "build",
+      "spanish": "construir / compilar",
+      "pronunciation": "bild",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "We build the app before release.",
+        "es": "Compilamos la app antes de lanzarla."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 92
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-sync",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "sync",
+      "spanish": "sincronizar",
+      "pronunciation": "sink",
+      "categories": [
+        "cloud",
+        "b2"
+      ],
+      "example": {
+        "en": "Sync the local data with the cloud.",
+        "es": "Sincroniza los datos locales con la nube."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 93
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-debug",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "debug",
+      "spanish": "depurar",
+      "pronunciation": "dibág",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I debug the code step by step.",
+        "es": "Depuro el código paso a paso."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 94
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-catch",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "catch",
+      "spanish": "capturar (un error)",
+      "pronunciation": "kach",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Catch the exception in a block.",
+        "es": "Captura la excepción en un bloque."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 95
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-provision",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "provision",
+      "spanish": "aprovisionar (recursos)",
+      "pronunciation": "províshon",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Provision a new server.",
+        "es": "Aprovisiona un servidor nuevo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 96
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-publish",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "publish",
+      "spanish": "publicar",
+      "pronunciation": "páblish",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Publish the new version to npm.",
+        "es": "Publica la nueva versión en npm."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 97
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-transpile",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "transpile",
+      "spanish": "transpilar",
+      "pronunciation": "transpáil",
+      "categories": [
+        "automation",
+        "b2"
+      ],
+      "example": {
+        "en": "Transpile TypeScript to JavaScript.",
+        "es": "Transpila TypeScript a JavaScript."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 98
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-implement",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "implement",
+      "spanish": "implementar",
+      "pronunciation": "ímplement",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Implement the interface.",
+        "es": "Implementa la interfaz."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 99
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-inject",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "inject",
+      "spanish": "inyectar (dependencias)",
+      "pronunciation": "inyékt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Inject the service into the component.",
+        "es": "Inyecta el servicio en el componente."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 100
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-spy",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "spy",
+      "spanish": "espiar (pruebas)",
+      "pronunciation": "spái",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Spy on the function calls.",
+        "es": "Espía las llamadas a la función."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 101
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-push",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "push",
+      "spanish": "subir (al repositorio)",
+      "pronunciation": "push",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Push your branch to the remote.",
+        "es": "Sube tu rama al remoto."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 102
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-reduce",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "reduce",
+      "spanish": "reducir (acumular)",
+      "pronunciation": "ridiús",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Reduce the list to a total.",
+        "es": "Reduce la lista a un total."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 103
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-pull",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "pull",
+      "spanish": "bajar (del repositorio)",
+      "pronunciation": "pul",
+      "categories": [
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "Pull the latest changes first.",
+        "es": "Baja los últimos cambios primero."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 104
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-configure",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "configure",
+      "spanish": "configurar",
+      "pronunciation": "konfíguiur",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Configure the environment variables.",
+        "es": "Configura las variables de entorno."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 105
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-call",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "call",
+      "spanish": "llamar (una función)",
+      "pronunciation": "kol",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Call the function with two arguments.",
+        "es": "Llama la función con dos argumentos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 106
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-commit",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "commit",
+      "spanish": "confirmar cambios (git)",
+      "pronunciation": "komít",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Commit your changes with a message.",
+        "es": "Confirma tus cambios con un mensaje."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 107
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-subscribe",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "subscribe",
+      "spanish": "suscribirse",
+      "pronunciation": "sabskráib",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Subscribe to the event stream.",
+        "es": "Suscríbete al flujo de eventos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 108
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-sort",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "sort",
+      "spanish": "ordenar",
+      "pronunciation": "sort",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Sort the users by name.",
+        "es": "Ordena los usuarios por nombre."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 109
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-stash",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "stash",
+      "spanish": "guardar cambios temporalmente",
+      "pronunciation": "stash",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Stash your work before switching.",
+        "es": "Guarda tu trabajo antes de cambiar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 110
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-uninstall",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "uninstall",
+      "spanish": "desinstalar",
+      "pronunciation": "aninstól",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Uninstall the old package.",
+        "es": "Desinstala el paquete viejo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 111
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-profile",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "profile",
+      "spanish": "perfilar (rendimiento)",
+      "pronunciation": "próufail",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Profile the app to find bottlenecks.",
+        "es": "Perfila la app para hallar cuellos de botella."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 112
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-throw",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "throw",
+      "spanish": "lanzar (un error)",
+      "pronunciation": "zróu",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Throw an error if it fails.",
+        "es": "Lanza un error si falla."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 113
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-decrypt",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "decrypt",
+      "spanish": "descifrar",
+      "pronunciation": "dikrípt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Decrypt the message with the key.",
+        "es": "Descifra el mensaje con la clave."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 114
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-disconnect",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "disconnect",
+      "spanish": "desconectar",
+      "pronunciation": "diskonékt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Disconnect idle clients.",
+        "es": "Desconecta a los clientes inactivos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 115
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-trace",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "trace",
+      "spanish": "rastrear",
+      "pronunciation": "tréis",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Trace the request through the system.",
+        "es": "Rastrea la petición por el sistema."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 116
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-join",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "join",
+      "spanish": "unir (tablas)",
+      "pronunciation": "yóin",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Join the orders with the customers.",
+        "es": "Une los pedidos con los clientes."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 117
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-restore",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "restore",
+      "spanish": "restaurar",
+      "pronunciation": "ristór",
+      "categories": [
+        "backend",
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "Restore from the latest backup.",
+        "es": "Restaura desde el último respaldo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 118
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-optimize",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "optimize",
+      "spanish": "optimizar",
+      "pronunciation": "óptimais",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Optimize the loading time.",
+        "es": "Optimiza el tiempo de carga."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 119
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-initialize",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "initialize",
+      "spanish": "inicializar",
+      "pronunciation": "iníshalais",
+      "categories": [
+        "databases",
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "Initialize the database on startup.",
+        "es": "Inicializa la base de datos al arrancar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 120
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-verify",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "verify",
+      "spanish": "verificar",
+      "pronunciation": "vérifai",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Verify the email address.",
+        "es": "Verifica la dirección de correo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 121
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-serialize",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "serialize",
+      "spanish": "serializar",
+      "pronunciation": "síarialais",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Serialize the object to a string.",
+        "es": "Serializa el objeto a una cadena."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 122
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-run",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "run",
+      "spanish": "ejecutar",
+      "pronunciation": "ran",
+      "categories": [
+        "automation",
+        "b2"
+      ],
+      "example": {
+        "en": "Run the script from the terminal.",
+        "es": "Ejecuta el script desde la terminal."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 123
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-lint",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "lint",
+      "spanish": "analizar estilo de código",
+      "pronunciation": "lint",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Lint the code before committing.",
+        "es": "Analiza el estilo antes de confirmar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 124
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-authenticate",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "authenticate",
+      "spanish": "autenticar",
+      "pronunciation": "ozéntikeit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Authenticate the user with a token.",
+        "es": "Autentica al usuario con un token."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 125
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-validate",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "validate",
+      "spanish": "validar",
+      "pronunciation": "válideit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Validate the form input.",
+        "es": "Valida la entrada del formulario."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 126
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-seed",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "seed",
+      "spanish": "poblar (datos de prueba)",
+      "pronunciation": "sid",
+      "categories": [
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Seed the database with sample data.",
+        "es": "Puebla la base con datos de ejemplo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 127
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-minify",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "minify",
+      "spanish": "minificar",
+      "pronunciation": "mínifai",
+      "categories": [
+        "automation",
+        "b2"
+      ],
+      "example": {
+        "en": "Minify the JavaScript files.",
+        "es": "Minifica los archivos JavaScript."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 128
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-fetch",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "fetch",
+      "spanish": "obtener (datos)",
+      "pronunciation": "fech",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Fetch the data from the API.",
+        "es": "Obtén los datos de la API."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 129
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-handle",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "handle",
+      "spanish": "manejar",
+      "pronunciation": "jándel",
+      "categories": [
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "Handle the edge cases carefully.",
+        "es": "Maneja los casos límite con cuidado."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 130
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-authorize",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "authorize",
+      "spanish": "autorizar",
+      "pronunciation": "ózorais",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Authorize access by role.",
+        "es": "Autoriza el acceso por rol."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 131
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-execute",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "execute",
+      "spanish": "ejecutar",
+      "pronunciation": "éksekiut",
+      "categories": [
+        "backend",
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Execute the query on the server.",
+        "es": "Ejecuta la consulta en el servidor."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 132
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-load",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "load",
+      "spanish": "cargar",
+      "pronunciation": "lóud",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The page loads in one second.",
+        "es": "La página carga en un segundo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 133
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-restart",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "restart",
+      "spanish": "reiniciar",
+      "pronunciation": "ristárt",
+      "categories": [
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "Restart the service to apply changes.",
+        "es": "Reinicia el servicio para aplicar cambios."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 134
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-crash",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "crash",
+      "spanish": "fallar / colapsar",
+      "pronunciation": "krash",
+      "categories": [
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "The app crashed on startup.",
+        "es": "La app colapsó al arrancar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 135
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-iterate",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "iterate",
+      "spanish": "iterar",
+      "pronunciation": "íterreit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Iterate over each item.",
+        "es": "Itera sobre cada elemento."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 136
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-parse",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "parse",
+      "spanish": "analizar / interpretar",
+      "pronunciation": "pars",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Parse the JSON response.",
+        "es": "Analiza la respuesta JSON."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 137
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-query",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "query",
+      "spanish": "consultar",
+      "pronunciation": "kuíri",
+      "categories": [
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Query the users table.",
+        "es": "Consulta la tabla de usuarios."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 138
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-loop",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "loop",
+      "spanish": "iterar / repetir",
+      "pronunciation": "lup",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Loop through the records.",
+        "es": "Itera sobre los registros."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 139
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-mock",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "mock",
+      "spanish": "simular (pruebas)",
+      "pronunciation": "mok",
+      "categories": [
+        "backend",
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "Mock the API in the tests.",
+        "es": "Simula la API en las pruebas."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 140
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-encrypt",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "encrypt",
+      "spanish": "cifrar",
+      "pronunciation": "inkrípt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Encrypt the passwords before storing.",
+        "es": "Cifra las contraseñas antes de guardarlas."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 141
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-rebase",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "rebase",
+      "spanish": "reorganizar commits",
+      "pronunciation": "ribéis",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Rebase your branch onto main.",
+        "es": "Reorganiza tu rama sobre main."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 142
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-merge",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "merge",
+      "spanish": "fusionar (ramas)",
+      "pronunciation": "merch",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Merge the feature branch into main.",
+        "es": "Fusiona la rama de la función en main."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 143
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-test",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "test",
+      "spanish": "probar",
+      "pronunciation": "test",
+      "categories": [
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "We test every new feature.",
+        "es": "Probamos cada función nueva."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 144
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-stub",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "stub",
+      "spanish": "reemplazar (pruebas)",
+      "pronunciation": "stab",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Stub the network request.",
+        "es": "Reemplaza la petición de red."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 145
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-instantiate",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "instantiate",
+      "spanish": "instanciar",
+      "pronunciation": "instánshieit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Instantiate the object.",
+        "es": "Instancia el objeto."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 146
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-queue",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "queue",
+      "spanish": "encolar",
+      "pronunciation": "kiú",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Queue the task for later.",
+        "es": "Encola la tarea para después."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 147
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-assert",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "assert",
+      "spanish": "afirmar / comprobar",
+      "pronunciation": "asért",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Assert that the value is true.",
+        "es": "Comprueba que el valor sea verdadero."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 148
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-checkout",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "checkout",
+      "spanish": "cambiar de rama",
+      "pronunciation": "chékaut",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Checkout the develop branch.",
+        "es": "Cámbiate a la rama develop."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 149
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-download",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "download",
+      "spanish": "descargar",
+      "pronunciation": "dáunloud",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Download the report as PDF.",
+        "es": "Descarga el reporte en PDF."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 150
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-upgrade",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "upgrade",
+      "spanish": "mejorar / subir de versión",
+      "pronunciation": "apgréid",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Upgrade the server to Node 20.",
+        "es": "Sube el servidor a Node 20."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 151
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-trigger",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "trigger",
+      "spanish": "disparar / activar",
+      "pronunciation": "tríguer",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Trigger the workflow on push.",
+        "es": "Dispara el flujo al hacer push."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 152
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-upload",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "upload",
+      "spanish": "subir (archivos)",
+      "pronunciation": "áploud",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Upload the image to the server.",
+        "es": "Sube la imagen al servidor."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 153
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-request",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "request",
+      "spanish": "solicitar",
+      "pronunciation": "rikuést",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The client requests a token.",
+        "es": "El cliente solicita un token."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 154
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-bundle",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "bundle",
+      "spanish": "empaquetar",
+      "pronunciation": "bándel",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Bundle the assets for production.",
+        "es": "Empaqueta los recursos para producción."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 155
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-backup",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "backup",
+      "spanish": "respaldar",
+      "pronunciation": "bákap",
+      "categories": [
+        "backend",
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Backup the database every night.",
+        "es": "Respalda la base cada noche."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 156
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-delete",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "delete",
+      "spanish": "eliminar",
+      "pronunciation": "dilít",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Delete the temporary files.",
+        "es": "Elimina los archivos temporales."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 157
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-reboot",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "reboot",
+      "spanish": "reiniciar (sistema)",
+      "pronunciation": "ribút",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Reboot the server after updates.",
+        "es": "Reinicia el servidor tras las actualizaciones."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 158
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-update",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "update",
+      "spanish": "actualizar",
+      "pronunciation": "apdéit",
+      "categories": [
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "Update the library to the latest version.",
+        "es": "Actualiza la librería a la última versión."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 159
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-downgrade",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "downgrade",
+      "spanish": "bajar de versión",
+      "pronunciation": "dáungreid",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Downgrade if the new version breaks.",
+        "es": "Baja de versión si la nueva falla."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 160
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-freeze",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "freeze",
+      "spanish": "congelarse (colgarse)",
+      "pronunciation": "fris",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The screen froze for a moment.",
+        "es": "La pantalla se congeló un momento."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 161
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-inherit",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "inherit",
+      "spanish": "heredar",
+      "pronunciation": "injérit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The class inherits from Animal.",
+        "es": "La clase hereda de Animal."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 162
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-package",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "package",
+      "spanish": "empaquetar / publicar",
+      "pronunciation": "pákich",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Package the module for npm.",
+        "es": "Empaqueta el módulo para npm."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 163
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-boot",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "boot",
+      "spanish": "arrancar",
+      "pronunciation": "but",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The system boots in ten seconds.",
+        "es": "El sistema arranca en diez segundos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 164
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-rollback",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "rollback",
+      "spanish": "revertir despliegue",
+      "pronunciation": "róulbak",
+      "categories": [
+        "backend",
+        "devops",
+        "b2"
+      ],
+      "example": {
+        "en": "Rollback if production fails.",
+        "es": "Revierte si producción falla."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 165
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-release",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "release",
+      "spanish": "liberar / lanzar",
+      "pronunciation": "rilís",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Release version 2.0 today.",
+        "es": "Lanza la versión 2.0 hoy."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 166
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-override",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "override",
+      "spanish": "sobrescribir (anular)",
+      "pronunciation": "ouverráid",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Override the default method.",
+        "es": "Anula el método por defecto."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 167
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-schedule",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "schedule",
+      "spanish": "programar (tareas)",
+      "pronunciation": "skédyul",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Schedule the job every hour.",
+        "es": "Programa la tarea cada hora."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 168
+      },
+      "active": true
+    },
+    {
+      "id": "b2-expression-allocate",
+      "level": "B2",
+      "type": "expression",
+      "subtype": "técnico",
+      "english": "allocate",
+      "spanish": "asignar (memoria)",
+      "pronunciation": "álokeit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Allocate memory for the buffer.",
+        "es": "Asigna memoria para el búfer."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Expresiones",
+        "row": 169
+      },
+      "active": true
+    }
+  ]
+}

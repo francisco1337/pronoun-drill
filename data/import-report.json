@@ -1,0 +1,476 @@
+{
+  "importedAt": "2026-08-05T00:00:00.000Z",
+  "contentVersion": "2026.08.2",
+  "validRows": {
+    "A1": {
+      "grammar": 8,
+      "vocabulary": 80,
+      "expressions": 74,
+      "route": 6,
+      "evaluations": 12,
+      "live": 0
+    },
+    "A2": {
+      "grammar": 8,
+      "vocabulary": 90,
+      "expressions": 72,
+      "route": 6,
+      "evaluations": 12,
+      "live": 0
+    },
+    "B1": {
+      "grammar": 8,
+      "vocabulary": 115,
+      "expressions": 93,
+      "route": 6,
+      "evaluations": 12,
+      "live": 0
+    },
+    "B2": {
+      "grammar": 8,
+      "vocabulary": 212,
+      "expressions": 166,
+      "route": 6,
+      "evaluations": 12,
+      "live": 0
+    }
+  },
+  "importedItems": {
+    "A1": 183,
+    "A2": 188,
+    "B1": 243,
+    "B2": 418
+  },
+  "newItemsAdded": {
+    "A1": 69,
+    "A2": 188,
+    "B1": 243,
+    "B2": 418
+  },
+  "duplicatesDetected": [
+    {
+      "id": "a2-expression-fast",
+      "kept": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 49
+      },
+      "omitted": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Expresiones",
+        "row": 63
+      }
+    },
+    {
+      "id": "b2-verb-build",
+      "kept": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 5
+      },
+      "omitted": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 105
+      }
+    },
+    {
+      "id": "b2-verb-catch",
+      "kept": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 18
+      },
+      "omitted": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 108
+      }
+    },
+    {
+      "id": "b2-verb-throw",
+      "kept": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 21
+      },
+      "omitted": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 126
+      }
+    },
+    {
+      "id": "b2-verb-freeze",
+      "kept": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 72
+      },
+      "omitted": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 174
+      }
+    },
+    {
+      "id": "b2-verb-schedule",
+      "kept": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 46
+      },
+      "omitted": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 181
+      }
+    }
+  ],
+  "omittedRows": [
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 4,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 5,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 6,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 7,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 8,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 9,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 10,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 11,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 12,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 13,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 14,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 15,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 16,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 17,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 18,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 19,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 20,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 21,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 22,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 24,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 25,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 26,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A1",
+      "sheet": "Expresiones",
+      "row": 27,
+      "reason": "source-row-missing-english; covered-by-existing-pronoun-id"
+    },
+    {
+      "level": "A2",
+      "sheet": "Expresiones",
+      "row": 63,
+      "reason": "duplicate-of-a2-expression-fast"
+    },
+    {
+      "level": "B2",
+      "sheet": "Vocabulario",
+      "row": 105,
+      "reason": "duplicate-of-b2-verb-build"
+    },
+    {
+      "level": "B2",
+      "sheet": "Vocabulario",
+      "row": 108,
+      "reason": "duplicate-of-b2-verb-catch"
+    },
+    {
+      "level": "B2",
+      "sheet": "Vocabulario",
+      "row": 126,
+      "reason": "duplicate-of-b2-verb-throw"
+    },
+    {
+      "level": "B2",
+      "sheet": "Vocabulario",
+      "row": 174,
+      "reason": "duplicate-of-b2-verb-freeze"
+    },
+    {
+      "level": "B2",
+      "sheet": "Vocabulario",
+      "row": 181,
+      "reason": "duplicate-of-b2-verb-schedule"
+    }
+  ],
+  "masteredItemsPreserved": {
+    "A1": 44,
+    "A2": 0,
+    "B1": 0,
+    "B2": 0
+  },
+  "differences": [
+    {
+      "level": "A1",
+      "type": "required-grammar-added",
+      "title": "There is/there are"
+    },
+    {
+      "level": "A1",
+      "type": "required-grammar-added",
+      "title": "Have/has"
+    },
+    {
+      "level": "A1",
+      "type": "required-grammar-added",
+      "title": "Can/can’t"
+    },
+    {
+      "level": "A1",
+      "type": "required-grammar-added",
+      "title": "WH questions"
+    },
+    {
+      "level": "A1",
+      "type": "required-grammar-added",
+      "title": "Imperativos"
+    },
+    {
+      "level": "A1",
+      "type": "required-grammar-added",
+      "title": "Preposiciones de tiempo y lugar"
+    },
+    {
+      "level": "A1",
+      "type": "required-grammar-added",
+      "title": "Posesivos"
+    },
+    {
+      "level": "A1",
+      "type": "required-grammar-added",
+      "title": "Pronombres de objeto"
+    },
+    {
+      "level": "A2",
+      "type": "required-grammar-added",
+      "title": "Pasado simple"
+    },
+    {
+      "level": "A2",
+      "type": "required-grammar-added",
+      "title": "Pasado continuo"
+    },
+    {
+      "level": "A2",
+      "type": "required-grammar-added",
+      "title": "Can, could, should y must"
+    },
+    {
+      "level": "A2",
+      "type": "required-grammar-added",
+      "title": "Contables e incontables"
+    },
+    {
+      "level": "A2",
+      "type": "required-grammar-added",
+      "title": "Peticiones con could/would"
+    },
+    {
+      "level": "A2",
+      "type": "required-grammar-added",
+      "title": "Secuenciación"
+    },
+    {
+      "level": "A2",
+      "type": "required-grammar-added",
+      "title": "Too/enough"
+    },
+    {
+      "level": "A2",
+      "type": "required-grammar-added",
+      "title": "Infinitivo de propósito"
+    },
+    {
+      "level": "A2",
+      "type": "required-grammar-added",
+      "title": "Causa, resultado y contraste"
+    },
+    {
+      "level": "A2",
+      "type": "required-grammar-added",
+      "title": "Formación de preguntas"
+    },
+    {
+      "level": "B1",
+      "type": "required-grammar-added",
+      "title": "Modales de deducción"
+    },
+    {
+      "level": "B1",
+      "type": "required-grammar-added",
+      "title": "Tiempos narrativos"
+    },
+    {
+      "level": "B1",
+      "type": "required-grammar-added",
+      "title": "Propósito y resultado"
+    },
+    {
+      "level": "B1",
+      "type": "required-grammar-added",
+      "title": "Sugerencias corteses"
+    },
+    {
+      "level": "B1",
+      "type": "required-grammar-added",
+      "title": "Fechas, arreglos y compromisos"
+    },
+    {
+      "level": "B1",
+      "type": "required-grammar-added",
+      "title": "Preguntas técnicas"
+    },
+    {
+      "level": "B2",
+      "type": "required-grammar-added",
+      "title": "Reporting verbs"
+    },
+    {
+      "level": "B2",
+      "type": "required-grammar-added",
+      "title": "Contraste avanzado"
+    },
+    {
+      "level": "B2",
+      "type": "required-grammar-added",
+      "title": "Grados de certeza"
+    },
+    {
+      "level": "B2",
+      "type": "required-grammar-added",
+      "title": "Lenguaje de negociación"
+    },
+    {
+      "level": "B2",
+      "type": "required-grammar-added",
+      "title": "Frases nominales complejas"
+    },
+    {
+      "level": "B2",
+      "type": "required-grammar-added",
+      "title": "Organización del discurso"
+    }
+  ]
+}

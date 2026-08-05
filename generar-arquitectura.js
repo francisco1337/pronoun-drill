@@ -6,7 +6,7 @@ const crypto = require("node:crypto");
 
 const ROOT = __dirname;
 const DATA = path.join(ROOT, "data");
-const CONTENT_VERSION = "2026.08.1";
+const CONTENT_VERSION = "2026.08.2";
 const INITIAL_EXAMPLES_PER_ITEM = 30;
 const MAX_EXAMPLES_PER_ITEM = 200;
 if (fs.existsSync(DATA)) fs.rmSync(DATA, { recursive: true, force: true });
@@ -25,7 +25,8 @@ const chunks = (array, size) => Array.from({ length: Math.ceil(array.length / si
 const uniqueExamples = (examples) => {
   const seen = new Set();
   return examples.filter((example) => {
-    const key = `${example.itemId}\u0000${example.prompt}\u0000${example.answer}`.toLowerCase();
+    const canonical = (value) => String(value).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\bcan not\b/g, "cannot").replace(/[^a-z0-9]+/g, " ").trim();
+    const key = `${example.itemId}\u0000${canonical(example.prompt)}\u0000${canonical(example.answer)}`;
     if (seen.has(key)) return false;
     seen.add(key);
     return true;

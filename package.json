@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node scripts/dev-server.js",
-    "generate:data": "node generar-a1.js && node generar-arquitectura.js",
+    "generate:data": "node generar-a1.js && node generar-arquitectura.js && node scripts/build-curriculum.js && node scripts/validate-data.js",
     "validate:data": "node scripts/validate-data.js"
   }
 }

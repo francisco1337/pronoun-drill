@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.08.1",
+  "contentVersion": "2026.08.2",
   "level": "A1",
   "topics": [
     {
@@ -254,21 +254,21 @@
           "itemIds": [
             "a1-grammar-to-be-be-am"
           ],
-          "count": 3
+          "count": 2
         },
         {
           "path": "./data/levels/a1/examples/to-be-002.json",
           "itemIds": [
             "a1-grammar-to-be-be-is"
           ],
-          "count": 9
+          "count": 6
         },
         {
           "path": "./data/levels/a1/examples/to-be-003.json",
           "itemIds": [
             "a1-grammar-to-be-be-are"
           ],
-          "count": 9
+          "count": 6
         }
       ]
     },

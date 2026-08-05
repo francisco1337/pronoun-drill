@@ -1,0 +1,435 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "A2",
+  "items": [
+    {
+      "id": "a2-grammar-pasado-simple",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Pasado simple",
+      "spanish": "Usar Pasado simple en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Use Pasado simple in a clear work message.",
+        "es": "Usar Pasado simple en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Pasado simple"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-did",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Did",
+      "spanish": "Preguntar en pasado",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Did you deploy it?",
+        "es": "Preguntar en pasado"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Gramática",
+        "row": 5
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-pasado-continuo",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Pasado continuo",
+      "spanish": "Usar Pasado continuo en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Use Pasado continuo in a clear work message.",
+        "es": "Usar Pasado continuo en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Pasado continuo"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-will",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Will",
+      "spanish": "Decisiones y predicciones",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "I will check the logs.",
+        "es": "Decisiones y predicciones"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Gramática",
+        "row": 7
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-going-to",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Going to",
+      "spanish": "Planes e intención",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "We are going to migrate.",
+        "es": "Planes e intención"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Gramática",
+        "row": 8
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-can-could-should-y-must",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Can, could, should y must",
+      "spanish": "Usar Can, could, should y must en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Use Can, could, should y must in a clear work message.",
+        "es": "Usar Can, could, should y must en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Can, could, should y must"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-comparativos-y-superlativos",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Comparativos y superlativos",
+      "spanish": "Comparar",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "This option is safer.",
+        "es": "Comparar"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Gramática",
+        "row": 10
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-contables-e-incontables",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Contables e incontables",
+      "spanish": "Usar Contables e incontables en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "databases",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Use Contables e incontables in a clear work message.",
+        "es": "Usar Contables e incontables en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Contables e incontables"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-peticiones-con-could-would",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Peticiones con could/would",
+      "spanish": "Usar Peticiones con could/would en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Use Peticiones con could/would in a clear work message.",
+        "es": "Usar Peticiones con could/would en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Peticiones con could/would"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-secuenciacion",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Secuenciación",
+      "spanish": "Usar Secuenciación en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Use Secuenciación in a clear work message.",
+        "es": "Usar Secuenciación en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Secuenciación"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-too-enough",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Too/enough",
+      "spanish": "Usar Too/enough en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Use Too/enough in a clear work message.",
+        "es": "Usar Too/enough en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Too/enough"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-infinitivo-de-proposito",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Infinitivo de propósito",
+      "spanish": "Usar Infinitivo de propósito en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Use Infinitivo de propósito in a clear work message.",
+        "es": "Usar Infinitivo de propósito en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Infinitivo de propósito"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-causa-resultado-y-contraste",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Causa, resultado y contraste",
+      "spanish": "Usar Causa, resultado y contraste en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Use Causa, resultado y contraste in a clear work message.",
+        "es": "Usar Causa, resultado y contraste en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Causa, resultado y contraste"
+      },
+      "active": true
+    },
+    {
+      "id": "a2-grammar-formacion-de-preguntas",
+      "level": "A2",
+      "type": "grammar",
+      "english": "Formación de preguntas",
+      "spanish": "Usar Formación de preguntas en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a2"
+      ],
+      "example": {
+        "en": "Use Formación de preguntas in a clear work message.",
+        "es": "Usar Formación de preguntas en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Formación de preguntas"
+      },
+      "active": true
+    }
+  ]
+}

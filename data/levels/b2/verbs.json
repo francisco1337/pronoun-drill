@@ -1,0 +1,6800 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "B2",
+  "items": [
+    {
+      "id": "b2-verb-motivate",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "motivate",
+      "spanish": "motivar",
+      "pronunciation": "móutiveit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Good coaches motivate.",
+        "es": "Los buenos entrenadores motivan."
+      },
+      "forms": {
+        "base": "motivate",
+        "thirdPerson": "motivates",
+        "past": "motivated",
+        "pastParticiple": "motivated",
+        "gerund": "motivating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 4
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-build",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "build",
+      "spanish": "construir",
+      "pronunciation": "bild",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "They build houses.",
+        "es": "Construyen casas."
+      },
+      "forms": {
+        "base": "build",
+        "thirdPerson": "builds",
+        "past": "built",
+        "pastParticiple": "built",
+        "gerund": "building"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 5
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-break",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "break",
+      "spanish": "romper",
+      "pronunciation": "bréik",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Don't break it.",
+        "es": "No lo rompas."
+      },
+      "forms": {
+        "base": "break",
+        "thirdPerson": "breaks",
+        "past": "broke",
+        "pastParticiple": "broken",
+        "gerund": "breaking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 6
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-organize",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "organize",
+      "spanish": "organizar",
+      "pronunciation": "órganais",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Organize the files.",
+        "es": "Organiza los archivos."
+      },
+      "forms": {
+        "base": "organize",
+        "thirdPerson": "organizes",
+        "past": "organized",
+        "pastParticiple": "organized",
+        "gerund": "organizing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 7
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-spend",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "spend",
+      "spanish": "gastar / pasar (tiempo)",
+      "pronunciation": "spend",
+      "categories": [
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "I spend little money.",
+        "es": "Gasto poco dinero."
+      },
+      "forms": {
+        "base": "spend",
+        "thirdPerson": "spends",
+        "past": "spended",
+        "pastParticiple": "spended",
+        "gerund": "spending"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 8
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-grow",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "grow",
+      "spanish": "crecer / cultivar",
+      "pronunciation": "gróu",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Plants grow fast.",
+        "es": "Las plantas crecen rápido."
+      },
+      "forms": {
+        "base": "grow",
+        "thirdPerson": "grows",
+        "past": "grew",
+        "pastParticiple": "grown",
+        "gerund": "growing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 9
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-write",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "write",
+      "spanish": "escribir",
+      "pronunciation": "ráit",
+      "categories": [
+        "remote-work",
+        "b2"
+      ],
+      "example": {
+        "en": "I write emails daily.",
+        "es": "Escribo correos a diario."
+      },
+      "forms": {
+        "base": "write",
+        "thirdPerson": "writes",
+        "past": "wrote",
+        "pastParticiple": "written",
+        "gerund": "writing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 10
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-exercise",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "exercise",
+      "spanish": "ejercitar",
+      "pronunciation": "éksersais",
+      "categories": [
+        "remote-work",
+        "b2"
+      ],
+      "example": {
+        "en": "I exercise daily.",
+        "es": "Hago ejercicio a diario."
+      },
+      "forms": {
+        "base": "exercise",
+        "thirdPerson": "exercises",
+        "past": "exercised",
+        "pastParticiple": "exercised",
+        "gerund": "exercising"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 11
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-speak",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "speak",
+      "spanish": "hablar",
+      "pronunciation": "spik",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I speak Spanish.",
+        "es": "Hablo español."
+      },
+      "forms": {
+        "base": "speak",
+        "thirdPerson": "speaks",
+        "past": "spoke",
+        "pastParticiple": "spoken",
+        "gerund": "speaking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 12
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-concentrate",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "concentrate",
+      "spanish": "concentrarse",
+      "pronunciation": "kónsentreit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Concentrate harder.",
+        "es": "Concéntrate más."
+      },
+      "forms": {
+        "base": "concentrate",
+        "thirdPerson": "concentrates",
+        "past": "concentrated",
+        "pastParticiple": "concentrated",
+        "gerund": "concentrating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 13
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-trust",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "trust",
+      "spanish": "confiar",
+      "pronunciation": "trast",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I trust you.",
+        "es": "Confío en ti."
+      },
+      "forms": {
+        "base": "trust",
+        "thirdPerson": "trusts",
+        "past": "trusted",
+        "pastParticiple": "trusted",
+        "gerund": "trusting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 14
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-fall",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "fall",
+      "spanish": "caer",
+      "pronunciation": "fol",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Leaves fall in autumn.",
+        "es": "Las hojas caen en otoño."
+      },
+      "forms": {
+        "base": "fall",
+        "thirdPerson": "falls",
+        "past": "falled",
+        "pastParticiple": "falled",
+        "gerund": "falling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 15
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-draw",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "draw",
+      "spanish": "dibujar",
+      "pronunciation": "dro",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I draw pictures.",
+        "es": "Dibujo imágenes."
+      },
+      "forms": {
+        "base": "draw",
+        "thirdPerson": "draws",
+        "past": "drawed",
+        "pastParticiple": "drawed",
+        "gerund": "drawing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 16
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-determine",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "determine",
+      "spanish": "determinar",
+      "pronunciation": "ditérmin",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Determine the cause.",
+        "es": "Determina la causa."
+      },
+      "forms": {
+        "base": "determine",
+        "thirdPerson": "determines",
+        "past": "determined",
+        "pastParticiple": "determined",
+        "gerund": "determining"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 17
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-catch",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "catch",
+      "spanish": "atrapar / agarrar",
+      "pronunciation": "kach",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Catch the ball.",
+        "es": "Atrapa la pelota."
+      },
+      "forms": {
+        "base": "catch",
+        "thirdPerson": "catches",
+        "past": "catched",
+        "pastParticiple": "catched",
+        "gerund": "catching"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 18
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-become",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "become",
+      "spanish": "convertirse / llegar a ser",
+      "pronunciation": "bikám",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "She became a doctor.",
+        "es": "Ella se convirtió en doctora."
+      },
+      "forms": {
+        "base": "become",
+        "thirdPerson": "becomes",
+        "past": "becomed",
+        "pastParticiple": "becomed",
+        "gerund": "becoming"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 19
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-spill",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "spill",
+      "spanish": "derramar",
+      "pronunciation": "spil",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Don't spill the juice.",
+        "es": "No derrames el jugo."
+      },
+      "forms": {
+        "base": "spill",
+        "thirdPerson": "spills",
+        "past": "spilled",
+        "pastParticiple": "spilled",
+        "gerund": "spilling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 20
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-throw",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "throw",
+      "spanish": "lanzar / tirar",
+      "pronunciation": "zróu",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Throw the ball.",
+        "es": "Lanza la pelota."
+      },
+      "forms": {
+        "base": "throw",
+        "thirdPerson": "throws",
+        "past": "throwed",
+        "pastParticiple": "throwed",
+        "gerund": "throwing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 21
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-calculate",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "calculate",
+      "spanish": "calcular",
+      "pronunciation": "kálkiuleit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Calculate the total.",
+        "es": "Calcula el total."
+      },
+      "forms": {
+        "base": "calculate",
+        "thirdPerson": "calculates",
+        "past": "calculated",
+        "pastParticiple": "calculated",
+        "gerund": "calculating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 22
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-attempt",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "attempt",
+      "spanish": "intentar",
+      "pronunciation": "atémpt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Attempt the exam.",
+        "es": "Intenta el examen."
+      },
+      "forms": {
+        "base": "attempt",
+        "thirdPerson": "attempts",
+        "past": "attempted",
+        "pastParticiple": "attempted",
+        "gerund": "attempting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 23
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-squeeze",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "squeeze",
+      "spanish": "exprimir / apretar",
+      "pronunciation": "skuís",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Squeeze the lemon.",
+        "es": "Exprime el limón."
+      },
+      "forms": {
+        "base": "squeeze",
+        "thirdPerson": "squeezes",
+        "past": "squeezed",
+        "pastParticiple": "squeezed",
+        "gerund": "squeezing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 24
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-wave",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "wave",
+      "spanish": "saludar / agitar",
+      "pronunciation": "uéiv",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "She waved goodbye.",
+        "es": "Ella se despidió con la mano."
+      },
+      "forms": {
+        "base": "wave",
+        "thirdPerson": "waves",
+        "past": "waved",
+        "pastParticiple": "waved",
+        "gerund": "waving"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 25
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-estimate",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "estimate",
+      "spanish": "estimar",
+      "pronunciation": "éstimeit",
+      "categories": [
+        "cloud",
+        "b2"
+      ],
+      "example": {
+        "en": "Estimate the cost.",
+        "es": "Estima el costo."
+      },
+      "forms": {
+        "base": "estimate",
+        "thirdPerson": "estimates",
+        "past": "estimated",
+        "pastParticiple": "estimated",
+        "gerund": "estimating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 26
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-sell",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "sell",
+      "spanish": "vender",
+      "pronunciation": "sel",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "We sell shoes.",
+        "es": "Vendemos zapatos."
+      },
+      "forms": {
+        "base": "sell",
+        "thirdPerson": "sells",
+        "past": "selled",
+        "pastParticiple": "selled",
+        "gerund": "selling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 27
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-delay",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "delay",
+      "spanish": "retrasar",
+      "pronunciation": "diléi",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The flight was delayed.",
+        "es": "El vuelo se retrasó."
+      },
+      "forms": {
+        "base": "delay",
+        "thirdPerson": "delays",
+        "past": "delayed",
+        "pastParticiple": "delayed",
+        "gerund": "delaying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 28
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-understand",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "understand",
+      "spanish": "entender",
+      "pronunciation": "anderstánd",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I understand now.",
+        "es": "Ahora entiendo."
+      },
+      "forms": {
+        "base": "understand",
+        "thirdPerson": "understands",
+        "past": "understanded",
+        "pastParticiple": "understanded",
+        "gerund": "understanding"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 29
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-lose",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "lose",
+      "spanish": "perder",
+      "pronunciation": "lus",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Don't lose hope.",
+        "es": "No pierdas la esperanza."
+      },
+      "forms": {
+        "base": "lose",
+        "thirdPerson": "loses",
+        "past": "losed",
+        "pastParticiple": "losed",
+        "gerund": "losing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 30
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-eat",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "eat",
+      "spanish": "comer",
+      "pronunciation": "it",
+      "categories": [
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "I eat vegetables.",
+        "es": "Como verduras."
+      },
+      "forms": {
+        "base": "eat",
+        "thirdPerson": "eats",
+        "past": "eated",
+        "pastParticiple": "eated",
+        "gerund": "eating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 31
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-succeed",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "succeed",
+      "spanish": "tener éxito",
+      "pronunciation": "saksíd",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "You will succeed.",
+        "es": "Tendrás éxito."
+      },
+      "forms": {
+        "base": "succeed",
+        "thirdPerson": "succeeds",
+        "past": "succeeded",
+        "pastParticiple": "succeeded",
+        "gerund": "succeeding"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 32
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-hug",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "hug",
+      "spanish": "abrazar",
+      "pronunciation": "jag",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Hug your mom.",
+        "es": "Abraza a tu mamá."
+      },
+      "forms": {
+        "base": "hug",
+        "thirdPerson": "hugs",
+        "past": "huged",
+        "pastParticiple": "huged",
+        "gerund": "huging"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 33
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-miss",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "miss",
+      "spanish": "extrañar / perder",
+      "pronunciation": "mis",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I miss you.",
+        "es": "Te extraño."
+      },
+      "forms": {
+        "base": "miss",
+        "thirdPerson": "misses",
+        "past": "missed",
+        "pastParticiple": "missed",
+        "gerund": "missing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 34
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-afford",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "afford",
+      "spanish": "permitirse (pagar)",
+      "pronunciation": "afórd",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I can't afford it.",
+        "es": "No puedo pagarlo."
+      },
+      "forms": {
+        "base": "afford",
+        "thirdPerson": "affords",
+        "past": "afforded",
+        "pastParticiple": "afforded",
+        "gerund": "affording"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 35
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-advise",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "advise",
+      "spanish": "aconsejar",
+      "pronunciation": "adváis",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I advise caution.",
+        "es": "Aconsejo precaución."
+      },
+      "forms": {
+        "base": "advise",
+        "thirdPerson": "advises",
+        "past": "advised",
+        "pastParticiple": "advised",
+        "gerund": "advising"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 36
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-give",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "give",
+      "spanish": "dar",
+      "pronunciation": "guiv",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Give me a hand.",
+        "es": "Dame una mano."
+      },
+      "forms": {
+        "base": "give",
+        "thirdPerson": "gives",
+        "past": "gived",
+        "pastParticiple": "gived",
+        "gerund": "giving"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 37
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-rely",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "rely",
+      "spanish": "depender / contar con",
+      "pronunciation": "rilái",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I rely on my team.",
+        "es": "Cuento con mi equipo."
+      },
+      "forms": {
+        "base": "rely",
+        "thirdPerson": "relies",
+        "past": "relied",
+        "pastParticiple": "relied",
+        "gerund": "relying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 38
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-apologize",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "apologize",
+      "spanish": "disculparse",
+      "pronunciation": "apóloyais",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I apologize.",
+        "es": "Me disculpo."
+      },
+      "forms": {
+        "base": "apologize",
+        "thirdPerson": "apologizes",
+        "past": "apologized",
+        "pastParticiple": "apologized",
+        "gerund": "apologizing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 39
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-buy",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "buy",
+      "spanish": "comprar",
+      "pronunciation": "bái",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I buy groceries.",
+        "es": "Compro comida."
+      },
+      "forms": {
+        "base": "buy",
+        "thirdPerson": "buys",
+        "past": "buyed",
+        "pastParticiple": "buyed",
+        "gerund": "buying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 40
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-welcome",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "welcome",
+      "spanish": "dar la bienvenida",
+      "pronunciation": "uélkam",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Welcome our guests.",
+        "es": "Da la bienvenida a los invitados."
+      },
+      "forms": {
+        "base": "welcome",
+        "thirdPerson": "welcomes",
+        "past": "welcomed",
+        "pastParticiple": "welcomed",
+        "gerund": "welcoming"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 41
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-waste",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "waste",
+      "spanish": "desperdiciar",
+      "pronunciation": "uéist",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Don't waste water.",
+        "es": "No desperdicies agua."
+      },
+      "forms": {
+        "base": "waste",
+        "thirdPerson": "wastes",
+        "past": "wasted",
+        "pastParticiple": "wasted",
+        "gerund": "wasting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 42
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-fly",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "fly",
+      "spanish": "volar",
+      "pronunciation": "flái",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Birds fly south.",
+        "es": "Los pájaros vuelan al sur."
+      },
+      "forms": {
+        "base": "fly",
+        "thirdPerson": "flies",
+        "past": "flied",
+        "pastParticiple": "flied",
+        "gerund": "flying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 43
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-drive",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "drive",
+      "spanish": "conducir / manejar",
+      "pronunciation": "dráiv",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I drive to work.",
+        "es": "Manejo al trabajo."
+      },
+      "forms": {
+        "base": "drive",
+        "thirdPerson": "drives",
+        "past": "drived",
+        "pastParticiple": "drived",
+        "gerund": "driving"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 44
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-arrange",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "arrange",
+      "spanish": "organizar / acomodar",
+      "pronunciation": "aréinch",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Arrange the chairs.",
+        "es": "Acomoda las sillas."
+      },
+      "forms": {
+        "base": "arrange",
+        "thirdPerson": "arranges",
+        "past": "arranged",
+        "pastParticiple": "arranged",
+        "gerund": "arranging"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 45
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-schedule",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "schedule",
+      "spanish": "agendar / programar",
+      "pronunciation": "skédyul",
+      "categories": [
+        "remote-work",
+        "b2"
+      ],
+      "example": {
+        "en": "Schedule a meeting.",
+        "es": "Agenda una reunión."
+      },
+      "forms": {
+        "base": "schedule",
+        "thirdPerson": "schedules",
+        "past": "scheduled",
+        "pastParticiple": "scheduled",
+        "gerund": "scheduling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 46
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-manage",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "manage",
+      "spanish": "administrar / lograr",
+      "pronunciation": "mánich",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "She manages a store.",
+        "es": "Ella administra una tienda."
+      },
+      "forms": {
+        "base": "manage",
+        "thirdPerson": "manages",
+        "past": "managed",
+        "pastParticiple": "managed",
+        "gerund": "managing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 47
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-hit",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "hit",
+      "spanish": "golpear / pegar",
+      "pronunciation": "jit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Don't hit the wall.",
+        "es": "No golpees la pared."
+      },
+      "forms": {
+        "base": "hit",
+        "thirdPerson": "hits",
+        "past": "hited",
+        "pastParticiple": "hited",
+        "gerund": "hiting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 48
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-drink",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "drink",
+      "spanish": "beber / tomar",
+      "pronunciation": "drink",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Drink water.",
+        "es": "Bebe agua."
+      },
+      "forms": {
+        "base": "drink",
+        "thirdPerson": "drinks",
+        "past": "drinked",
+        "pastParticiple": "drinked",
+        "gerund": "drinking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 49
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-encourage",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "encourage",
+      "spanish": "alentar",
+      "pronunciation": "inkárich",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Encourage your friends.",
+        "es": "Alienta a tus amigos."
+      },
+      "forms": {
+        "base": "encourage",
+        "thirdPerson": "encourages",
+        "past": "encouraged",
+        "pastParticiple": "encouraged",
+        "gerund": "encouraging"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 50
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-sing",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "sing",
+      "spanish": "cantar",
+      "pronunciation": "sing",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "She sings well.",
+        "es": "Ella canta bien."
+      },
+      "forms": {
+        "base": "sing",
+        "thirdPerson": "sings",
+        "past": "singed",
+        "pastParticiple": "singed",
+        "gerund": "singing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 51
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-choose",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "choose",
+      "spanish": "elegir",
+      "pronunciation": "chus",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Choose a color.",
+        "es": "Elige un color."
+      },
+      "forms": {
+        "base": "choose",
+        "thirdPerson": "chooses",
+        "past": "choosed",
+        "pastParticiple": "choosed",
+        "gerund": "choosing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 52
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-achieve",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "achieve",
+      "spanish": "lograr",
+      "pronunciation": "achív",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Achieve your goals.",
+        "es": "Logra tus metas."
+      },
+      "forms": {
+        "base": "achieve",
+        "thirdPerson": "achieves",
+        "past": "achieved",
+        "pastParticiple": "achieved",
+        "gerund": "achieving"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 53
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-sleep",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "sleep",
+      "spanish": "dormir",
+      "pronunciation": "slip",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I sleep eight hours.",
+        "es": "Duermo ocho horas."
+      },
+      "forms": {
+        "base": "sleep",
+        "thirdPerson": "sleeps",
+        "past": "sleeped",
+        "pastParticiple": "sleeped",
+        "gerund": "sleeping"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 54
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-forget",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "forget",
+      "spanish": "olvidar",
+      "pronunciation": "forguét",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Don't forget the keys.",
+        "es": "No olvides las llaves."
+      },
+      "forms": {
+        "base": "forget",
+        "thirdPerson": "forgets",
+        "past": "forgeted",
+        "pastParticiple": "forgeted",
+        "gerund": "forgeting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 55
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-swim",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "swim",
+      "spanish": "nadar",
+      "pronunciation": "suím",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I swim on weekends.",
+        "es": "Nado los fines de semana."
+      },
+      "forms": {
+        "base": "swim",
+        "thirdPerson": "swims",
+        "past": "swimed",
+        "pastParticiple": "swimed",
+        "gerund": "swiming"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 56
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-fight",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "fight",
+      "spanish": "pelear / luchar",
+      "pronunciation": "fáit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Fight for your rights.",
+        "es": "Lucha por tus derechos."
+      },
+      "forms": {
+        "base": "fight",
+        "thirdPerson": "fights",
+        "past": "fighted",
+        "pastParticiple": "fighted",
+        "gerund": "fighting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 57
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-hide",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "hide",
+      "spanish": "esconder",
+      "pronunciation": "jáid",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Hide the gift.",
+        "es": "Esconde el regalo."
+      },
+      "forms": {
+        "base": "hide",
+        "thirdPerson": "hides",
+        "past": "hided",
+        "pastParticiple": "hided",
+        "gerund": "hiding"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 58
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-lend",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "lend",
+      "spanish": "prestar",
+      "pronunciation": "lend",
+      "categories": [
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "Lend me your car.",
+        "es": "Préstame tu coche."
+      },
+      "forms": {
+        "base": "lend",
+        "thirdPerson": "lends",
+        "past": "lended",
+        "pastParticiple": "lended",
+        "gerund": "lending"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 59
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-hurt",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "hurt",
+      "spanish": "doler / lastimar",
+      "pronunciation": "jert",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "My leg hurts.",
+        "es": "Me duele la pierna."
+      },
+      "forms": {
+        "base": "hurt",
+        "thirdPerson": "hurts",
+        "past": "hurted",
+        "pastParticiple": "hurted",
+        "gerund": "hurting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 60
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-shake",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "shake",
+      "spanish": "sacudir / temblar",
+      "pronunciation": "shéik",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Shake the bottle.",
+        "es": "Agita la botella."
+      },
+      "forms": {
+        "base": "shake",
+        "thirdPerson": "shakes",
+        "past": "shaked",
+        "pastParticiple": "shaked",
+        "gerund": "shaking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 61
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-hang",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "hang",
+      "spanish": "colgar",
+      "pronunciation": "jang",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Hang the picture.",
+        "es": "Cuelga el cuadro."
+      },
+      "forms": {
+        "base": "hang",
+        "thirdPerson": "hangs",
+        "past": "hanged",
+        "pastParticiple": "hanged",
+        "gerund": "hanging"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 62
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-spin",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "spin",
+      "spanish": "girar",
+      "pronunciation": "spin",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The wheel spins.",
+        "es": "La rueda gira."
+      },
+      "forms": {
+        "base": "spin",
+        "thirdPerson": "spins",
+        "past": "spined",
+        "pastParticiple": "spined",
+        "gerund": "spining"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 63
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-bend",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "bend",
+      "spanish": "doblar",
+      "pronunciation": "bend",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Bend your knees.",
+        "es": "Dobla las rodillas."
+      },
+      "forms": {
+        "base": "bend",
+        "thirdPerson": "bends",
+        "past": "bended",
+        "pastParticiple": "bended",
+        "gerund": "bending"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 64
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-ring",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "ring",
+      "spanish": "sonar / timbrar",
+      "pronunciation": "ring",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The phone rang.",
+        "es": "El teléfono sonó."
+      },
+      "forms": {
+        "base": "ring",
+        "thirdPerson": "rings",
+        "past": "ringed",
+        "pastParticiple": "ringed",
+        "gerund": "ringing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 65
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-fit",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "fit",
+      "spanish": "quedar / caber",
+      "pronunciation": "fit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The shirt fits well.",
+        "es": "La camisa queda bien."
+      },
+      "forms": {
+        "base": "fit",
+        "thirdPerson": "fits",
+        "past": "fited",
+        "pastParticiple": "fited",
+        "gerund": "fiting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 66
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-sink",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "sink",
+      "spanish": "hundirse",
+      "pronunciation": "sink",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The boat sank.",
+        "es": "El barco se hundió."
+      },
+      "forms": {
+        "base": "sink",
+        "thirdPerson": "sinks",
+        "past": "sinked",
+        "pastParticiple": "sinked",
+        "gerund": "sinking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 67
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-dig",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "dig",
+      "spanish": "cavar",
+      "pronunciation": "dig",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Dig a hole.",
+        "es": "Cava un hoyo."
+      },
+      "forms": {
+        "base": "dig",
+        "thirdPerson": "digs",
+        "past": "diged",
+        "pastParticiple": "diged",
+        "gerund": "diging"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 68
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-ride",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "ride",
+      "spanish": "montar",
+      "pronunciation": "ráid",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Ride a horse.",
+        "es": "Monta a caballo."
+      },
+      "forms": {
+        "base": "ride",
+        "thirdPerson": "rides",
+        "past": "rided",
+        "pastParticiple": "rided",
+        "gerund": "riding"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 69
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-bite",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "bite",
+      "spanish": "morder",
+      "pronunciation": "báit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The dog bit me.",
+        "es": "El perro me mordió."
+      },
+      "forms": {
+        "base": "bite",
+        "thirdPerson": "bites",
+        "past": "bited",
+        "pastParticiple": "bited",
+        "gerund": "biting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 70
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-forgive",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "forgive",
+      "spanish": "perdonar",
+      "pronunciation": "forguív",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Please forgive me.",
+        "es": "Por favor perdóname."
+      },
+      "forms": {
+        "base": "forgive",
+        "thirdPerson": "forgives",
+        "past": "forgived",
+        "pastParticiple": "forgived",
+        "gerund": "forgiving"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 71
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-freeze",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "freeze",
+      "spanish": "congelar",
+      "pronunciation": "fris",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Freeze the meat.",
+        "es": "Congela la carne."
+      },
+      "forms": {
+        "base": "freeze",
+        "thirdPerson": "freezes",
+        "past": "freezed",
+        "pastParticiple": "freezed",
+        "gerund": "freezing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 72
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-shine",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "shine",
+      "spanish": "brillar",
+      "pronunciation": "sháin",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The sun shines.",
+        "es": "El sol brilla."
+      },
+      "forms": {
+        "base": "shine",
+        "thirdPerson": "shines",
+        "past": "shined",
+        "pastParticiple": "shined",
+        "gerund": "shining"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 73
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-hash",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "hash",
+      "spanish": "aplicar hash",
+      "pronunciation": "jash",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Hash the password with bcrypt.",
+        "es": "Aplica hash a la contraseña con bcrypt."
+      },
+      "forms": {
+        "base": "hash",
+        "thirdPerson": "hashes",
+        "past": "hashed",
+        "pastParticiple": "hashed",
+        "gerund": "hashing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 74
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-cache",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "cache",
+      "spanish": "almacenar en caché",
+      "pronunciation": "kash",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Cache the results for speed.",
+        "es": "Guarda los resultados en caché para velocidad."
+      },
+      "forms": {
+        "base": "cache",
+        "thirdPerson": "caches",
+        "past": "cached",
+        "pastParticiple": "cached",
+        "gerund": "caching"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 75
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-revert",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "revert",
+      "spanish": "revertir un cambio",
+      "pronunciation": "rivért",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Revert the last commit.",
+        "es": "Revierte el último commit."
+      },
+      "forms": {
+        "base": "revert",
+        "thirdPerson": "reverts",
+        "past": "reverted",
+        "pastParticiple": "reverted",
+        "gerund": "reverting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 76
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-respond",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "respond",
+      "spanish": "responder",
+      "pronunciation": "rispónd",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "The server responds with JSON.",
+        "es": "El servidor responde con JSON."
+      },
+      "forms": {
+        "base": "respond",
+        "thirdPerson": "responds",
+        "past": "responded",
+        "pastParticiple": "responded",
+        "gerund": "responding"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 77
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-import",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "import",
+      "spanish": "importar",
+      "pronunciation": "impórt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Import the module at the top.",
+        "es": "Importa el módulo al inicio."
+      },
+      "forms": {
+        "base": "import",
+        "thirdPerson": "imports",
+        "past": "imported",
+        "pastParticiple": "imported",
+        "gerund": "importing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 78
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-export",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "export",
+      "spanish": "exportar",
+      "pronunciation": "ekspórt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Export the function for reuse.",
+        "es": "Exporta la función para reutilizarla."
+      },
+      "forms": {
+        "base": "export",
+        "thirdPerson": "exports",
+        "past": "exported",
+        "pastParticiple": "exported",
+        "gerund": "exporting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 79
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-insert",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "insert",
+      "spanish": "insertar",
+      "pronunciation": "insért",
+      "categories": [
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Insert a new row into the table.",
+        "es": "Inserta una nueva fila en la tabla."
+      },
+      "forms": {
+        "base": "insert",
+        "thirdPerson": "inserts",
+        "past": "inserted",
+        "pastParticiple": "inserted",
+        "gerund": "inserting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 80
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-install",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "install",
+      "spanish": "instalar",
+      "pronunciation": "instól",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Install the dependencies first.",
+        "es": "Instala las dependencias primero."
+      },
+      "forms": {
+        "base": "install",
+        "thirdPerson": "installs",
+        "past": "installed",
+        "pastParticiple": "installed",
+        "gerund": "installing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 81
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-index",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "index",
+      "spanish": "indexar",
+      "pronunciation": "índeks",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Index the column to speed up queries.",
+        "es": "Indexa la columna para acelerar consultas."
+      },
+      "forms": {
+        "base": "index",
+        "thirdPerson": "indexes",
+        "past": "indexed",
+        "pastParticiple": "indexed",
+        "gerund": "indexing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 82
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-log",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "log",
+      "spanish": "registrar (logs)",
+      "pronunciation": "log",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Log every error to the console.",
+        "es": "Registra cada error en la consola."
+      },
+      "forms": {
+        "base": "log",
+        "thirdPerson": "logs",
+        "past": "loged",
+        "pastParticiple": "loged",
+        "gerund": "loging"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 83
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-clone",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "clone",
+      "spanish": "clonar (un repo)",
+      "pronunciation": "klóun",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Clone the repository locally.",
+        "es": "Clona el repositorio localmente."
+      },
+      "forms": {
+        "base": "clone",
+        "thirdPerson": "clones",
+        "past": "cloned",
+        "pastParticiple": "cloned",
+        "gerund": "cloning"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 84
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-map",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "map",
+      "spanish": "mapear",
+      "pronunciation": "map",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Map the array to a new list.",
+        "es": "Mapea el arreglo a una nueva lista."
+      },
+      "forms": {
+        "base": "map",
+        "thirdPerson": "maps",
+        "past": "maped",
+        "pastParticiple": "maped",
+        "gerund": "maping"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 85
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-render",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "render",
+      "spanish": "renderizar",
+      "pronunciation": "rénder",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The component renders the list.",
+        "es": "El componente renderiza la lista."
+      },
+      "forms": {
+        "base": "render",
+        "thirdPerson": "renders",
+        "past": "rendered",
+        "pastParticiple": "rendered",
+        "gerund": "rendering"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 86
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-mount",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "mount",
+      "spanish": "montar (unidad/volumen)",
+      "pronunciation": "máunt",
+      "categories": [
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "Mount the drive at startup.",
+        "es": "Monta la unidad al arrancar."
+      },
+      "forms": {
+        "base": "mount",
+        "thirdPerson": "mounts",
+        "past": "mounted",
+        "pastParticiple": "mounted",
+        "gerund": "mounting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 87
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-format",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "format",
+      "spanish": "formatear",
+      "pronunciation": "fórmat",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Format the date before display.",
+        "es": "Formatea la fecha antes de mostrarla."
+      },
+      "forms": {
+        "base": "format",
+        "thirdPerson": "formats",
+        "past": "formated",
+        "pastParticiple": "formated",
+        "gerund": "formating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 88
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-compile",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "compile",
+      "spanish": "compilar",
+      "pronunciation": "kompáil",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The code compiles without errors.",
+        "es": "El código compila sin errores."
+      },
+      "forms": {
+        "base": "compile",
+        "thirdPerson": "compiles",
+        "past": "compiled",
+        "pastParticiple": "compiled",
+        "gerund": "compiling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 89
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-filter",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "filter",
+      "spanish": "filtrar",
+      "pronunciation": "fílter",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Filter the results by category.",
+        "es": "Filtra los resultados por categoría."
+      },
+      "forms": {
+        "base": "filter",
+        "thirdPerson": "filters",
+        "past": "filtered",
+        "pastParticiple": "filtered",
+        "gerund": "filtering"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 90
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-extend",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "extend",
+      "spanish": "extender",
+      "pronunciation": "iksténd",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Extend the base class.",
+        "es": "Extiende la clase base."
+      },
+      "forms": {
+        "base": "extend",
+        "thirdPerson": "extends",
+        "past": "extended",
+        "pastParticiple": "extended",
+        "gerund": "extending"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 91
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-refactor",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "refactor",
+      "spanish": "refactorizar",
+      "pronunciation": "rifáktor",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Refactor the function for clarity.",
+        "es": "Refactoriza la función para más claridad."
+      },
+      "forms": {
+        "base": "refactor",
+        "thirdPerson": "refactors",
+        "past": "refactored",
+        "pastParticiple": "refactored",
+        "gerund": "refactoring"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 92
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-connect",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "connect",
+      "spanish": "conectar",
+      "pronunciation": "konékt",
+      "categories": [
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Connect to the database.",
+        "es": "Conéctate a la base de datos."
+      },
+      "forms": {
+        "base": "connect",
+        "thirdPerson": "connects",
+        "past": "connected",
+        "pastParticiple": "connected",
+        "gerund": "connecting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 93
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-emit",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "emit",
+      "spanish": "emitir",
+      "pronunciation": "imít",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Emit an event when done.",
+        "es": "Emite un evento al terminar."
+      },
+      "forms": {
+        "base": "emit",
+        "thirdPerson": "emits",
+        "past": "emited",
+        "pastParticiple": "emited",
+        "gerund": "emiting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 94
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-process",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "process",
+      "spanish": "procesar",
+      "pronunciation": "próses",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Process the payments in batches.",
+        "es": "Procesa los pagos por lotes."
+      },
+      "forms": {
+        "base": "process",
+        "thirdPerson": "processes",
+        "past": "processed",
+        "pastParticiple": "processed",
+        "gerund": "processing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 95
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-branch",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "branch",
+      "spanish": "ramificar / crear rama",
+      "pronunciation": "branch",
+      "categories": [
+        "git",
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "Branch off before you start.",
+        "es": "Crea una rama antes de empezar."
+      },
+      "forms": {
+        "base": "branch",
+        "thirdPerson": "branches",
+        "past": "branched",
+        "pastParticiple": "branched",
+        "gerund": "branching"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 96
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-stream",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "stream",
+      "spanish": "transmitir",
+      "pronunciation": "strim",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Stream the video in real time.",
+        "es": "Transmite el video en tiempo real."
+      },
+      "forms": {
+        "base": "stream",
+        "thirdPerson": "streams",
+        "past": "streamed",
+        "pastParticiple": "streamed",
+        "gerund": "streaming"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 97
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-scale",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "scale",
+      "spanish": "escalar",
+      "pronunciation": "skéil",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Scale the service horizontally.",
+        "es": "Escala el servicio horizontalmente."
+      },
+      "forms": {
+        "base": "scale",
+        "thirdPerson": "scales",
+        "past": "scaled",
+        "pastParticiple": "scaled",
+        "gerund": "scaling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 98
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-return",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "return",
+      "spanish": "retornar / devolver",
+      "pronunciation": "ritérn",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Return the result to the caller.",
+        "es": "Devuelve el resultado a quien llama."
+      },
+      "forms": {
+        "base": "return",
+        "thirdPerson": "returns",
+        "past": "returned",
+        "pastParticiple": "returned",
+        "gerund": "returning"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 99
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-deploy",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "deploy",
+      "spanish": "desplegar / poner en producción",
+      "pronunciation": "diplói",
+      "categories": [
+        "devops",
+        "b2"
+      ],
+      "example": {
+        "en": "We deploy to production on Fridays.",
+        "es": "Desplegamos a producción los viernes."
+      },
+      "forms": {
+        "base": "deploy",
+        "thirdPerson": "deploys",
+        "past": "deployed",
+        "pastParticiple": "deployed",
+        "gerund": "deploying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 100
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-monitor",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "monitor",
+      "spanish": "monitorear",
+      "pronunciation": "mónitor",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Monitor the server load.",
+        "es": "Monitorea la carga del servidor."
+      },
+      "forms": {
+        "base": "monitor",
+        "thirdPerson": "monitors",
+        "past": "monitored",
+        "pastParticiple": "monitored",
+        "gerund": "monitoring"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 101
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-select",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "select",
+      "spanish": "seleccionar (consultar)",
+      "pronunciation": "silékt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Select all active clients.",
+        "es": "Selecciona todos los clientes activos."
+      },
+      "forms": {
+        "base": "select",
+        "thirdPerson": "selects",
+        "past": "selected",
+        "pastParticiple": "selected",
+        "gerund": "selecting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 102
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-fork",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "fork",
+      "spanish": "bifurcar (un repo)",
+      "pronunciation": "fork",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Fork the project to contribute.",
+        "es": "Bifurca el proyecto para contribuir."
+      },
+      "forms": {
+        "base": "fork",
+        "thirdPerson": "forks",
+        "past": "forked",
+        "pastParticiple": "forked",
+        "gerund": "forking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 103
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-migrate",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "migrate",
+      "spanish": "migrar",
+      "pronunciation": "máigreit",
+      "categories": [
+        "devops",
+        "b2"
+      ],
+      "example": {
+        "en": "Migrate the schema before deploy.",
+        "es": "Migra el esquema antes de desplegar."
+      },
+      "forms": {
+        "base": "migrate",
+        "thirdPerson": "migrates",
+        "past": "migrated",
+        "pastParticiple": "migrated",
+        "gerund": "migrating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 104
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-sync",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "sync",
+      "spanish": "sincronizar",
+      "pronunciation": "sink",
+      "categories": [
+        "cloud",
+        "b2"
+      ],
+      "example": {
+        "en": "Sync the local data with the cloud.",
+        "es": "Sincroniza los datos locales con la nube."
+      },
+      "forms": {
+        "base": "sync",
+        "thirdPerson": "syncs",
+        "past": "synced",
+        "pastParticiple": "synced",
+        "gerund": "syncing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 106
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-debug",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "debug",
+      "spanish": "depurar",
+      "pronunciation": "dibág",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "I debug the code step by step.",
+        "es": "Depuro el código paso a paso."
+      },
+      "forms": {
+        "base": "debug",
+        "thirdPerson": "debugs",
+        "past": "debuged",
+        "pastParticiple": "debuged",
+        "gerund": "debuging"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 107
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-provision",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "provision",
+      "spanish": "aprovisionar (recursos)",
+      "pronunciation": "províshon",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Provision a new server.",
+        "es": "Aprovisiona un servidor nuevo."
+      },
+      "forms": {
+        "base": "provision",
+        "thirdPerson": "provisions",
+        "past": "provisioned",
+        "pastParticiple": "provisioned",
+        "gerund": "provisioning"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 109
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-publish",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "publish",
+      "spanish": "publicar",
+      "pronunciation": "páblish",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Publish the new version to npm.",
+        "es": "Publica la nueva versión en npm."
+      },
+      "forms": {
+        "base": "publish",
+        "thirdPerson": "publishes",
+        "past": "published",
+        "pastParticiple": "published",
+        "gerund": "publishing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 110
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-transpile",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "transpile",
+      "spanish": "transpilar",
+      "pronunciation": "transpáil",
+      "categories": [
+        "automation",
+        "b2"
+      ],
+      "example": {
+        "en": "Transpile TypeScript to JavaScript.",
+        "es": "Transpila TypeScript a JavaScript."
+      },
+      "forms": {
+        "base": "transpile",
+        "thirdPerson": "transpiles",
+        "past": "transpiled",
+        "pastParticiple": "transpiled",
+        "gerund": "transpiling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 111
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-implement",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "implement",
+      "spanish": "implementar",
+      "pronunciation": "ímplement",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Implement the interface.",
+        "es": "Implementa la interfaz."
+      },
+      "forms": {
+        "base": "implement",
+        "thirdPerson": "implements",
+        "past": "implemented",
+        "pastParticiple": "implemented",
+        "gerund": "implementing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 112
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-inject",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "inject",
+      "spanish": "inyectar (dependencias)",
+      "pronunciation": "inyékt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Inject the service into the component.",
+        "es": "Inyecta el servicio en el componente."
+      },
+      "forms": {
+        "base": "inject",
+        "thirdPerson": "injects",
+        "past": "injected",
+        "pastParticiple": "injected",
+        "gerund": "injecting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 113
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-spy",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "spy",
+      "spanish": "espiar (pruebas)",
+      "pronunciation": "spái",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Spy on the function calls.",
+        "es": "Espía las llamadas a la función."
+      },
+      "forms": {
+        "base": "spy",
+        "thirdPerson": "spies",
+        "past": "spied",
+        "pastParticiple": "spied",
+        "gerund": "spying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 114
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-push",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "push",
+      "spanish": "subir (al repositorio)",
+      "pronunciation": "push",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Push your branch to the remote.",
+        "es": "Sube tu rama al remoto."
+      },
+      "forms": {
+        "base": "push",
+        "thirdPerson": "pushes",
+        "past": "pushed",
+        "pastParticiple": "pushed",
+        "gerund": "pushing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 115
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-reduce",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "reduce",
+      "spanish": "reducir (acumular)",
+      "pronunciation": "ridiús",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Reduce the list to a total.",
+        "es": "Reduce la lista a un total."
+      },
+      "forms": {
+        "base": "reduce",
+        "thirdPerson": "reduces",
+        "past": "reduced",
+        "pastParticiple": "reduced",
+        "gerund": "reducing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 116
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-pull",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "pull",
+      "spanish": "bajar (del repositorio)",
+      "pronunciation": "pul",
+      "categories": [
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "Pull the latest changes first.",
+        "es": "Baja los últimos cambios primero."
+      },
+      "forms": {
+        "base": "pull",
+        "thirdPerson": "pulls",
+        "past": "pulled",
+        "pastParticiple": "pulled",
+        "gerund": "pulling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 117
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-configure",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "configure",
+      "spanish": "configurar",
+      "pronunciation": "konfíguiur",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Configure the environment variables.",
+        "es": "Configura las variables de entorno."
+      },
+      "forms": {
+        "base": "configure",
+        "thirdPerson": "configures",
+        "past": "configured",
+        "pastParticiple": "configured",
+        "gerund": "configuring"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 118
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-call",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "call",
+      "spanish": "llamar (una función)",
+      "pronunciation": "kol",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Call the function with two arguments.",
+        "es": "Llama la función con dos argumentos."
+      },
+      "forms": {
+        "base": "call",
+        "thirdPerson": "calls",
+        "past": "called",
+        "pastParticiple": "called",
+        "gerund": "calling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 119
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-commit",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "commit",
+      "spanish": "confirmar cambios (git)",
+      "pronunciation": "komít",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Commit your changes with a message.",
+        "es": "Confirma tus cambios con un mensaje."
+      },
+      "forms": {
+        "base": "commit",
+        "thirdPerson": "commits",
+        "past": "commited",
+        "pastParticiple": "commited",
+        "gerund": "commiting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 120
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-subscribe",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "subscribe",
+      "spanish": "suscribirse",
+      "pronunciation": "sabskráib",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Subscribe to the event stream.",
+        "es": "Suscríbete al flujo de eventos."
+      },
+      "forms": {
+        "base": "subscribe",
+        "thirdPerson": "subscribes",
+        "past": "subscribed",
+        "pastParticiple": "subscribed",
+        "gerund": "subscribing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 121
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-sort",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "sort",
+      "spanish": "ordenar",
+      "pronunciation": "sort",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Sort the users by name.",
+        "es": "Ordena los usuarios por nombre."
+      },
+      "forms": {
+        "base": "sort",
+        "thirdPerson": "sorts",
+        "past": "sorted",
+        "pastParticiple": "sorted",
+        "gerund": "sorting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 122
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-stash",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "stash",
+      "spanish": "guardar cambios temporalmente",
+      "pronunciation": "stash",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Stash your work before switching.",
+        "es": "Guarda tu trabajo antes de cambiar."
+      },
+      "forms": {
+        "base": "stash",
+        "thirdPerson": "stashes",
+        "past": "stashed",
+        "pastParticiple": "stashed",
+        "gerund": "stashing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 123
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-uninstall",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "uninstall",
+      "spanish": "desinstalar",
+      "pronunciation": "aninstól",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Uninstall the old package.",
+        "es": "Desinstala el paquete viejo."
+      },
+      "forms": {
+        "base": "uninstall",
+        "thirdPerson": "uninstalls",
+        "past": "uninstalled",
+        "pastParticiple": "uninstalled",
+        "gerund": "uninstalling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 124
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-profile",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "profile",
+      "spanish": "perfilar (rendimiento)",
+      "pronunciation": "próufail",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Profile the app to find bottlenecks.",
+        "es": "Perfila la app para hallar cuellos de botella."
+      },
+      "forms": {
+        "base": "profile",
+        "thirdPerson": "profiles",
+        "past": "profiled",
+        "pastParticiple": "profiled",
+        "gerund": "profiling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 125
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-decrypt",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "decrypt",
+      "spanish": "descifrar",
+      "pronunciation": "dikrípt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Decrypt the message with the key.",
+        "es": "Descifra el mensaje con la clave."
+      },
+      "forms": {
+        "base": "decrypt",
+        "thirdPerson": "decrypts",
+        "past": "decrypted",
+        "pastParticiple": "decrypted",
+        "gerund": "decrypting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 127
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-disconnect",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "disconnect",
+      "spanish": "desconectar",
+      "pronunciation": "diskonékt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Disconnect idle clients.",
+        "es": "Desconecta a los clientes inactivos."
+      },
+      "forms": {
+        "base": "disconnect",
+        "thirdPerson": "disconnects",
+        "past": "disconnected",
+        "pastParticiple": "disconnected",
+        "gerund": "disconnecting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 128
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-trace",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "trace",
+      "spanish": "rastrear",
+      "pronunciation": "tréis",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Trace the request through the system.",
+        "es": "Rastrea la petición por el sistema."
+      },
+      "forms": {
+        "base": "trace",
+        "thirdPerson": "traces",
+        "past": "traced",
+        "pastParticiple": "traced",
+        "gerund": "tracing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 129
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-join",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "join",
+      "spanish": "unir (tablas)",
+      "pronunciation": "yóin",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Join the orders with the customers.",
+        "es": "Une los pedidos con los clientes."
+      },
+      "forms": {
+        "base": "join",
+        "thirdPerson": "joins",
+        "past": "joined",
+        "pastParticiple": "joined",
+        "gerund": "joining"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 130
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-restore",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "restore",
+      "spanish": "restaurar",
+      "pronunciation": "ristór",
+      "categories": [
+        "backend",
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "Restore from the latest backup.",
+        "es": "Restaura desde el último respaldo."
+      },
+      "forms": {
+        "base": "restore",
+        "thirdPerson": "restores",
+        "past": "restored",
+        "pastParticiple": "restored",
+        "gerund": "restoring"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 131
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-optimize",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "optimize",
+      "spanish": "optimizar",
+      "pronunciation": "óptimais",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Optimize the loading time.",
+        "es": "Optimiza el tiempo de carga."
+      },
+      "forms": {
+        "base": "optimize",
+        "thirdPerson": "optimizes",
+        "past": "optimized",
+        "pastParticiple": "optimized",
+        "gerund": "optimizing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 132
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-initialize",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "initialize",
+      "spanish": "inicializar",
+      "pronunciation": "iníshalais",
+      "categories": [
+        "databases",
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "Initialize the database on startup.",
+        "es": "Inicializa la base de datos al arrancar."
+      },
+      "forms": {
+        "base": "initialize",
+        "thirdPerson": "initializes",
+        "past": "initialized",
+        "pastParticiple": "initialized",
+        "gerund": "initializing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 133
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-verify",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "verify",
+      "spanish": "verificar",
+      "pronunciation": "vérifai",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Verify the email address.",
+        "es": "Verifica la dirección de correo."
+      },
+      "forms": {
+        "base": "verify",
+        "thirdPerson": "verifies",
+        "past": "verified",
+        "pastParticiple": "verified",
+        "gerund": "verifying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 134
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-serialize",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "serialize",
+      "spanish": "serializar",
+      "pronunciation": "síarialais",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Serialize the object to a string.",
+        "es": "Serializa el objeto a una cadena."
+      },
+      "forms": {
+        "base": "serialize",
+        "thirdPerson": "serializes",
+        "past": "serialized",
+        "pastParticiple": "serialized",
+        "gerund": "serializing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 135
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-run",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "run",
+      "spanish": "ejecutar",
+      "pronunciation": "ran",
+      "categories": [
+        "automation",
+        "b2"
+      ],
+      "example": {
+        "en": "Run the script from the terminal.",
+        "es": "Ejecuta el script desde la terminal."
+      },
+      "forms": {
+        "base": "run",
+        "thirdPerson": "runs",
+        "past": "runed",
+        "pastParticiple": "runed",
+        "gerund": "runing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 136
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-lint",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "lint",
+      "spanish": "analizar estilo de código",
+      "pronunciation": "lint",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Lint the code before committing.",
+        "es": "Analiza el estilo antes de confirmar."
+      },
+      "forms": {
+        "base": "lint",
+        "thirdPerson": "lints",
+        "past": "linted",
+        "pastParticiple": "linted",
+        "gerund": "linting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 137
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-authenticate",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "authenticate",
+      "spanish": "autenticar",
+      "pronunciation": "ozéntikeit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Authenticate the user with a token.",
+        "es": "Autentica al usuario con un token."
+      },
+      "forms": {
+        "base": "authenticate",
+        "thirdPerson": "authenticates",
+        "past": "authenticated",
+        "pastParticiple": "authenticated",
+        "gerund": "authenticating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 138
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-validate",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "validate",
+      "spanish": "validar",
+      "pronunciation": "válideit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Validate the form input.",
+        "es": "Valida la entrada del formulario."
+      },
+      "forms": {
+        "base": "validate",
+        "thirdPerson": "validates",
+        "past": "validated",
+        "pastParticiple": "validated",
+        "gerund": "validating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 139
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-seed",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "seed",
+      "spanish": "poblar (datos de prueba)",
+      "pronunciation": "sid",
+      "categories": [
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Seed the database with sample data.",
+        "es": "Puebla la base con datos de ejemplo."
+      },
+      "forms": {
+        "base": "seed",
+        "thirdPerson": "seeds",
+        "past": "seeded",
+        "pastParticiple": "seeded",
+        "gerund": "seeding"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 140
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-minify",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "minify",
+      "spanish": "minificar",
+      "pronunciation": "mínifai",
+      "categories": [
+        "automation",
+        "b2"
+      ],
+      "example": {
+        "en": "Minify the JavaScript files.",
+        "es": "Minifica los archivos JavaScript."
+      },
+      "forms": {
+        "base": "minify",
+        "thirdPerson": "minifies",
+        "past": "minified",
+        "pastParticiple": "minified",
+        "gerund": "minifying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 141
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-fetch",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "fetch",
+      "spanish": "obtener (datos)",
+      "pronunciation": "fech",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Fetch the data from the API.",
+        "es": "Obtén los datos de la API."
+      },
+      "forms": {
+        "base": "fetch",
+        "thirdPerson": "fetches",
+        "past": "fetched",
+        "pastParticiple": "fetched",
+        "gerund": "fetching"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 142
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-handle",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "handle",
+      "spanish": "manejar",
+      "pronunciation": "jándel",
+      "categories": [
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "Handle the edge cases carefully.",
+        "es": "Maneja los casos límite con cuidado."
+      },
+      "forms": {
+        "base": "handle",
+        "thirdPerson": "handles",
+        "past": "handled",
+        "pastParticiple": "handled",
+        "gerund": "handling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 143
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-authorize",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "authorize",
+      "spanish": "autorizar",
+      "pronunciation": "ózorais",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Authorize access by role.",
+        "es": "Autoriza el acceso por rol."
+      },
+      "forms": {
+        "base": "authorize",
+        "thirdPerson": "authorizes",
+        "past": "authorized",
+        "pastParticiple": "authorized",
+        "gerund": "authorizing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 144
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-execute",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "execute",
+      "spanish": "ejecutar",
+      "pronunciation": "éksekiut",
+      "categories": [
+        "backend",
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Execute the query on the server.",
+        "es": "Ejecuta la consulta en el servidor."
+      },
+      "forms": {
+        "base": "execute",
+        "thirdPerson": "executes",
+        "past": "executed",
+        "pastParticiple": "executed",
+        "gerund": "executing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 145
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-load",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "load",
+      "spanish": "cargar",
+      "pronunciation": "lóud",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The page loads in one second.",
+        "es": "La página carga en un segundo."
+      },
+      "forms": {
+        "base": "load",
+        "thirdPerson": "loads",
+        "past": "loaded",
+        "pastParticiple": "loaded",
+        "gerund": "loading"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 146
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-restart",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "restart",
+      "spanish": "reiniciar",
+      "pronunciation": "ristárt",
+      "categories": [
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "Restart the service to apply changes.",
+        "es": "Reinicia el servicio para aplicar cambios."
+      },
+      "forms": {
+        "base": "restart",
+        "thirdPerson": "restarts",
+        "past": "restarted",
+        "pastParticiple": "restarted",
+        "gerund": "restarting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 147
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-crash",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "crash",
+      "spanish": "fallar / colapsar",
+      "pronunciation": "krash",
+      "categories": [
+        "interviews",
+        "b2"
+      ],
+      "example": {
+        "en": "The app crashed on startup.",
+        "es": "La app colapsó al arrancar."
+      },
+      "forms": {
+        "base": "crash",
+        "thirdPerson": "crashes",
+        "past": "crashed",
+        "pastParticiple": "crashed",
+        "gerund": "crashing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 148
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-iterate",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "iterate",
+      "spanish": "iterar",
+      "pronunciation": "íterreit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Iterate over each item.",
+        "es": "Itera sobre cada elemento."
+      },
+      "forms": {
+        "base": "iterate",
+        "thirdPerson": "iterates",
+        "past": "iterated",
+        "pastParticiple": "iterated",
+        "gerund": "iterating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 149
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-parse",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "parse",
+      "spanish": "analizar / interpretar",
+      "pronunciation": "pars",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Parse the JSON response.",
+        "es": "Analiza la respuesta JSON."
+      },
+      "forms": {
+        "base": "parse",
+        "thirdPerson": "parses",
+        "past": "parsed",
+        "pastParticiple": "parsed",
+        "gerund": "parsing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 150
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-query",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "query",
+      "spanish": "consultar",
+      "pronunciation": "kuíri",
+      "categories": [
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Query the users table.",
+        "es": "Consulta la tabla de usuarios."
+      },
+      "forms": {
+        "base": "query",
+        "thirdPerson": "queries",
+        "past": "queried",
+        "pastParticiple": "queried",
+        "gerund": "querying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 151
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-loop",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "loop",
+      "spanish": "iterar / repetir",
+      "pronunciation": "lup",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Loop through the records.",
+        "es": "Itera sobre los registros."
+      },
+      "forms": {
+        "base": "loop",
+        "thirdPerson": "loops",
+        "past": "looped",
+        "pastParticiple": "looped",
+        "gerund": "looping"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 152
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-mock",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "mock",
+      "spanish": "simular (pruebas)",
+      "pronunciation": "mok",
+      "categories": [
+        "backend",
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "Mock the API in the tests.",
+        "es": "Simula la API en las pruebas."
+      },
+      "forms": {
+        "base": "mock",
+        "thirdPerson": "mocks",
+        "past": "mocked",
+        "pastParticiple": "mocked",
+        "gerund": "mocking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 153
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-encrypt",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "encrypt",
+      "spanish": "cifrar",
+      "pronunciation": "inkrípt",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Encrypt the passwords before storing.",
+        "es": "Cifra las contraseñas antes de guardarlas."
+      },
+      "forms": {
+        "base": "encrypt",
+        "thirdPerson": "encrypts",
+        "past": "encrypted",
+        "pastParticiple": "encrypted",
+        "gerund": "encrypting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 154
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-rebase",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "rebase",
+      "spanish": "reorganizar commits",
+      "pronunciation": "ribéis",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Rebase your branch onto main.",
+        "es": "Reorganiza tu rama sobre main."
+      },
+      "forms": {
+        "base": "rebase",
+        "thirdPerson": "rebases",
+        "past": "rebased",
+        "pastParticiple": "rebased",
+        "gerund": "rebasing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 155
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-merge",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "merge",
+      "spanish": "fusionar (ramas)",
+      "pronunciation": "merch",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Merge the feature branch into main.",
+        "es": "Fusiona la rama de la función en main."
+      },
+      "forms": {
+        "base": "merge",
+        "thirdPerson": "merges",
+        "past": "merged",
+        "pastParticiple": "merged",
+        "gerund": "merging"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 156
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-test",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "test",
+      "spanish": "probar",
+      "pronunciation": "test",
+      "categories": [
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "We test every new feature.",
+        "es": "Probamos cada función nueva."
+      },
+      "forms": {
+        "base": "test",
+        "thirdPerson": "tests",
+        "past": "tested",
+        "pastParticiple": "tested",
+        "gerund": "testing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 157
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-stub",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "stub",
+      "spanish": "reemplazar (pruebas)",
+      "pronunciation": "stab",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Stub the network request.",
+        "es": "Reemplaza la petición de red."
+      },
+      "forms": {
+        "base": "stub",
+        "thirdPerson": "stubs",
+        "past": "stubed",
+        "pastParticiple": "stubed",
+        "gerund": "stubing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 158
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-instantiate",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "instantiate",
+      "spanish": "instanciar",
+      "pronunciation": "instánshieit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Instantiate the object.",
+        "es": "Instancia el objeto."
+      },
+      "forms": {
+        "base": "instantiate",
+        "thirdPerson": "instantiates",
+        "past": "instantiated",
+        "pastParticiple": "instantiated",
+        "gerund": "instantiating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 159
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-queue",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "queue",
+      "spanish": "encolar",
+      "pronunciation": "kiú",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Queue the task for later.",
+        "es": "Encola la tarea para después."
+      },
+      "forms": {
+        "base": "queue",
+        "thirdPerson": "queues",
+        "past": "queued",
+        "pastParticiple": "queued",
+        "gerund": "queuing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 160
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-assert",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "assert",
+      "spanish": "afirmar / comprobar",
+      "pronunciation": "asért",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Assert that the value is true.",
+        "es": "Comprueba que el valor sea verdadero."
+      },
+      "forms": {
+        "base": "assert",
+        "thirdPerson": "asserts",
+        "past": "asserted",
+        "pastParticiple": "asserted",
+        "gerund": "asserting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 161
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-checkout",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "checkout",
+      "spanish": "cambiar de rama",
+      "pronunciation": "chékaut",
+      "categories": [
+        "git",
+        "b2"
+      ],
+      "example": {
+        "en": "Checkout the develop branch.",
+        "es": "Cámbiate a la rama develop."
+      },
+      "forms": {
+        "base": "checkout",
+        "thirdPerson": "checkouts",
+        "past": "checkouted",
+        "pastParticiple": "checkouted",
+        "gerund": "checkouting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 162
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-download",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "download",
+      "spanish": "descargar",
+      "pronunciation": "dáunloud",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Download the report as PDF.",
+        "es": "Descarga el reporte en PDF."
+      },
+      "forms": {
+        "base": "download",
+        "thirdPerson": "downloads",
+        "past": "downloaded",
+        "pastParticiple": "downloaded",
+        "gerund": "downloading"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 163
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-upgrade",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "upgrade",
+      "spanish": "mejorar / subir de versión",
+      "pronunciation": "apgréid",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Upgrade the server to Node 20.",
+        "es": "Sube el servidor a Node 20."
+      },
+      "forms": {
+        "base": "upgrade",
+        "thirdPerson": "upgrades",
+        "past": "upgraded",
+        "pastParticiple": "upgraded",
+        "gerund": "upgrading"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 164
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-trigger",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "trigger",
+      "spanish": "disparar / activar",
+      "pronunciation": "tríguer",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Trigger the workflow on push.",
+        "es": "Dispara el flujo al hacer push."
+      },
+      "forms": {
+        "base": "trigger",
+        "thirdPerson": "triggers",
+        "past": "triggered",
+        "pastParticiple": "triggered",
+        "gerund": "triggering"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 165
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-upload",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "upload",
+      "spanish": "subir (archivos)",
+      "pronunciation": "áploud",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Upload the image to the server.",
+        "es": "Sube la imagen al servidor."
+      },
+      "forms": {
+        "base": "upload",
+        "thirdPerson": "uploads",
+        "past": "uploaded",
+        "pastParticiple": "uploaded",
+        "gerund": "uploading"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 166
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-request",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "request",
+      "spanish": "solicitar",
+      "pronunciation": "rikuést",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The client requests a token.",
+        "es": "El cliente solicita un token."
+      },
+      "forms": {
+        "base": "request",
+        "thirdPerson": "requests",
+        "past": "requested",
+        "pastParticiple": "requested",
+        "gerund": "requesting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 167
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-bundle",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "bundle",
+      "spanish": "empaquetar",
+      "pronunciation": "bándel",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Bundle the assets for production.",
+        "es": "Empaqueta los recursos para producción."
+      },
+      "forms": {
+        "base": "bundle",
+        "thirdPerson": "bundles",
+        "past": "bundled",
+        "pastParticiple": "bundled",
+        "gerund": "bundling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 168
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-backup",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "backup",
+      "spanish": "respaldar",
+      "pronunciation": "bákap",
+      "categories": [
+        "backend",
+        "databases",
+        "b2"
+      ],
+      "example": {
+        "en": "Backup the database every night.",
+        "es": "Respalda la base cada noche."
+      },
+      "forms": {
+        "base": "backup",
+        "thirdPerson": "backups",
+        "past": "backuped",
+        "pastParticiple": "backuped",
+        "gerund": "backuping"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 169
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-delete",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "delete",
+      "spanish": "eliminar",
+      "pronunciation": "dilít",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Delete the temporary files.",
+        "es": "Elimina los archivos temporales."
+      },
+      "forms": {
+        "base": "delete",
+        "thirdPerson": "deletes",
+        "past": "deleted",
+        "pastParticiple": "deleted",
+        "gerund": "deleting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 170
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-reboot",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "reboot",
+      "spanish": "reiniciar (sistema)",
+      "pronunciation": "ribút",
+      "categories": [
+        "backend",
+        "b2"
+      ],
+      "example": {
+        "en": "Reboot the server after updates.",
+        "es": "Reinicia el servidor tras las actualizaciones."
+      },
+      "forms": {
+        "base": "reboot",
+        "thirdPerson": "reboots",
+        "past": "rebooted",
+        "pastParticiple": "rebooted",
+        "gerund": "rebooting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 171
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-update",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "update",
+      "spanish": "actualizar",
+      "pronunciation": "apdéit",
+      "categories": [
+        "testing",
+        "b2"
+      ],
+      "example": {
+        "en": "Update the library to the latest version.",
+        "es": "Actualiza la librería a la última versión."
+      },
+      "forms": {
+        "base": "update",
+        "thirdPerson": "updates",
+        "past": "updated",
+        "pastParticiple": "updated",
+        "gerund": "updating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 172
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-downgrade",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "downgrade",
+      "spanish": "bajar de versión",
+      "pronunciation": "dáungreid",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Downgrade if the new version breaks.",
+        "es": "Baja de versión si la nueva falla."
+      },
+      "forms": {
+        "base": "downgrade",
+        "thirdPerson": "downgrades",
+        "past": "downgraded",
+        "pastParticiple": "downgraded",
+        "gerund": "downgrading"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 173
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-inherit",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "inherit",
+      "spanish": "heredar",
+      "pronunciation": "injérit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The class inherits from Animal.",
+        "es": "La clase hereda de Animal."
+      },
+      "forms": {
+        "base": "inherit",
+        "thirdPerson": "inherits",
+        "past": "inherited",
+        "pastParticiple": "inherited",
+        "gerund": "inheriting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 175
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-package",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "package",
+      "spanish": "empaquetar / publicar",
+      "pronunciation": "pákich",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Package the module for npm.",
+        "es": "Empaqueta el módulo para npm."
+      },
+      "forms": {
+        "base": "package",
+        "thirdPerson": "packages",
+        "past": "packaged",
+        "pastParticiple": "packaged",
+        "gerund": "packaging"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 176
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-boot",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "boot",
+      "spanish": "arrancar",
+      "pronunciation": "but",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "The system boots in ten seconds.",
+        "es": "El sistema arranca en diez segundos."
+      },
+      "forms": {
+        "base": "boot",
+        "thirdPerson": "boots",
+        "past": "booted",
+        "pastParticiple": "booted",
+        "gerund": "booting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 177
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-rollback",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "rollback",
+      "spanish": "revertir despliegue",
+      "pronunciation": "róulbak",
+      "categories": [
+        "backend",
+        "devops",
+        "b2"
+      ],
+      "example": {
+        "en": "Rollback if production fails.",
+        "es": "Revierte si producción falla."
+      },
+      "forms": {
+        "base": "rollback",
+        "thirdPerson": "rollbacks",
+        "past": "rollbacked",
+        "pastParticiple": "rollbacked",
+        "gerund": "rollbacking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 178
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-release",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "release",
+      "spanish": "liberar / lanzar",
+      "pronunciation": "rilís",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Release version 2.0 today.",
+        "es": "Lanza la versión 2.0 hoy."
+      },
+      "forms": {
+        "base": "release",
+        "thirdPerson": "releases",
+        "past": "released",
+        "pastParticiple": "released",
+        "gerund": "releasing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 179
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-override",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "override",
+      "spanish": "sobrescribir (anular)",
+      "pronunciation": "ouverráid",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Override the default method.",
+        "es": "Anula el método por defecto."
+      },
+      "forms": {
+        "base": "override",
+        "thirdPerson": "overrides",
+        "past": "overrided",
+        "pastParticiple": "overrided",
+        "gerund": "overriding"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 180
+      },
+      "active": true
+    },
+    {
+      "id": "b2-verb-allocate",
+      "level": "B2",
+      "type": "verb",
+      "subtype": "verbo técnico",
+      "english": "allocate",
+      "spanish": "asignar (memoria)",
+      "pronunciation": "álokeit",
+      "categories": [
+        "general",
+        "b2"
+      ],
+      "example": {
+        "en": "Allocate memory for the buffer.",
+        "es": "Asigna memoria para el búfer."
+      },
+      "forms": {
+        "base": "allocate",
+        "thirdPerson": "allocates",
+        "past": "allocated",
+        "pastParticiple": "allocated",
+        "gerund": "allocating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Vocabulario",
+        "row": 182
+      },
+      "active": true
+    }
+  ]
+}

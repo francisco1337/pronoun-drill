@@ -1,52 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.08.1",
+  "contentVersion": "2026.08.2",
   "level": "A1",
-  "groups": {
-    "first_sing": [
-      "I",
-      "me",
-      "my",
-      "mine"
-    ],
-    "second": [
-      "you",
-      "your",
-      "yours"
-    ],
-    "third_m": [
-      "he",
-      "him",
-      "his"
-    ],
-    "third_f": [
-      "she",
-      "her",
-      "hers"
-    ],
-    "first_pl": [
-      "we",
-      "us",
-      "our"
-    ],
-    "third_pl": [
-      "they",
-      "them",
-      "their"
-    ],
-    "it": [
-      "it",
-      "he",
-      "she",
-      "this"
-    ],
-    "dem": [
-      "this",
-      "that",
-      "these",
-      "those"
-    ]
-  },
   "items": [
     {
       "id": "a1-pronoun-i",
@@ -60,7 +15,7 @@
       "role": "sujeto",
       "category": "1.ª persona (yo)",
       "explanation": "Sujeto: hace la acción y va antes del verbo.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -75,7 +30,7 @@
       "role": "objeto",
       "category": "1.ª persona (yo)",
       "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -90,7 +45,7 @@
       "role": "posesivo (adjetivo)",
       "category": "1.ª persona (yo)",
       "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -105,7 +60,7 @@
       "role": "posesivo (solo)",
       "category": "1.ª persona (yo)",
       "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -120,7 +75,7 @@
       "role": "sujeto / objeto",
       "category": "2.ª persona (tú/ustedes)",
       "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -135,7 +90,7 @@
       "role": "posesivo (adjetivo)",
       "category": "2.ª persona (tú/ustedes)",
       "explanation": "Posesivo antes de un sustantivo: your + cosa.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -150,7 +105,7 @@
       "role": "posesivo (solo)",
       "category": "2.ª persona (tú/ustedes)",
       "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -165,7 +120,7 @@
       "role": "sujeto",
       "category": "3.ª persona masc. (él)",
       "explanation": "Sujeto masculino: va antes del verbo.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -180,7 +135,7 @@
       "role": "objeto",
       "category": "3.ª persona masc. (él)",
       "explanation": "Objeto masculino: tras el verbo o la preposición.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -195,7 +150,7 @@
       "role": "posesivo",
       "category": "3.ª persona masc. (él)",
       "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -210,7 +165,7 @@
       "role": "sujeto",
       "category": "3.ª persona fem. (ella)",
       "explanation": "Sujeto femenino: va antes del verbo.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -225,7 +180,7 @@
       "role": "objeto",
       "category": "3.ª persona fem. (ella)",
       "explanation": "'her' como OBJETO: tras el verbo o la preposición (I saw her).",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -240,7 +195,7 @@
       "role": "posesivo (adjetivo)",
       "category": "3.ª persona fem. (ella)",
       "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -255,7 +210,7 @@
       "role": "sujeto",
       "category": "1.ª plural (nosotros)",
       "explanation": "Sujeto plural: va antes del verbo.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -270,7 +225,7 @@
       "role": "objeto",
       "category": "1.ª plural (nosotros)",
       "explanation": "Objeto plural: tras el verbo o la preposición.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -285,7 +240,7 @@
       "role": "posesivo (adjetivo)",
       "category": "1.ª plural (nosotros)",
       "explanation": "Posesivo antes de un sustantivo: our + cosa.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -300,7 +255,7 @@
       "role": "sujeto",
       "category": "3.ª plural (ellos)",
       "explanation": "Sujeto plural: va antes del verbo.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -315,7 +270,7 @@
       "role": "objeto",
       "category": "3.ª plural (ellos)",
       "explanation": "Objeto plural: tras el verbo o la preposición.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -330,7 +285,7 @@
       "role": "posesivo (adjetivo)",
       "category": "3.ª plural (ellos)",
       "explanation": "Posesivo antes de un sustantivo: their + cosa.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -345,7 +300,7 @@
       "role": "cosa / animal / clima",
       "category": "Neutro (ello)",
       "explanation": "'it' para cosas, animales o el clima (no personas).",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -360,7 +315,7 @@
       "role": "demostrativo · cerca · singular",
       "category": "Demostrativos",
       "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -375,7 +330,7 @@
       "role": "demostrativo · lejos · singular",
       "category": "Demostrativos",
       "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -390,7 +345,7 @@
       "role": "demostrativo · cerca · plural",
       "category": "Demostrativos",
       "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     },
     {
@@ -405,7 +360,7 @@
       "role": "demostrativo · lejos · plural",
       "category": "Demostrativos",
       "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
-      "defaultStatus": "new",
+      "defaultStatus": "mastered",
       "active": true
     }
   ]

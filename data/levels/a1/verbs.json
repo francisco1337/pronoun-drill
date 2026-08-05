@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.08.1",
+  "contentVersion": "2026.08.2",
   "level": "A1",
   "items": [
     {
@@ -25,8 +25,22 @@
         "en": "Move your car.",
         "es": "Mueve tu coche."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 4
+      }
     },
     {
       "id": "a1-verb-need",
@@ -50,8 +64,22 @@
         "en": "I need help.",
         "es": "Necesito ayuda."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 5
+      }
     },
     {
       "id": "a1-verb-call",
@@ -75,8 +103,22 @@
         "en": "Call me tonight.",
         "es": "Llámame esta noche."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 6
+      }
     },
     {
       "id": "a1-verb-use",
@@ -86,7 +128,7 @@
       "spanish": "usar",
       "pronunciation": "yús",
       "categories": [
-        "general",
+        "remote-work",
         "a1"
       ],
       "forms": {
@@ -100,8 +142,22 @@
         "en": "I use my laptop daily.",
         "es": "Uso mi laptop a diario."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 7
+      }
     },
     {
       "id": "a1-verb-lead",
@@ -125,8 +181,22 @@
         "en": "She leads the team.",
         "es": "Ella lidera el equipo."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 8
+      }
     },
     {
       "id": "a1-verb-try",
@@ -150,8 +220,22 @@
         "en": "I try to eat healthy.",
         "es": "Intento comer sano."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 9
+      }
     },
     {
       "id": "a1-verb-pass",
@@ -175,8 +259,22 @@
         "en": "Pass the salt.",
         "es": "Pasa la sal."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 10
+      }
     },
     {
       "id": "a1-verb-talk",
@@ -184,7 +282,7 @@
       "type": "verb",
       "english": "talk",
       "spanish": "hablar / conversar",
-      "pronunciation": "tok",
+      "pronunciation": "",
       "categories": [
         "general",
         "a1"
@@ -200,8 +298,22 @@
         "en": "We talk every day.",
         "es": "Hablamos todos los días."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 11
+      }
     },
     {
       "id": "a1-verb-create",
@@ -225,8 +337,22 @@
         "en": "I create designs.",
         "es": "Creo diseños."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 12
+      }
     },
     {
       "id": "a1-verb-report",
@@ -250,8 +376,22 @@
         "en": "Report the issue.",
         "es": "Reporta el problema."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 13
+      }
     },
     {
       "id": "a1-verb-seem",
@@ -275,8 +415,22 @@
         "en": "You seem happy.",
         "es": "Pareces feliz."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 14
+      }
     },
     {
       "id": "a1-verb-turn",
@@ -300,8 +454,22 @@
         "en": "Turn left here.",
         "es": "Gira a la izquierda aquí."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 15
+      }
     },
     {
       "id": "a1-verb-continue",
@@ -325,8 +493,22 @@
         "en": "Please continue.",
         "es": "Por favor continúa."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 16
+      }
     },
     {
       "id": "a1-verb-serve",
@@ -350,8 +532,22 @@
         "en": "We serve breakfast.",
         "es": "Servimos desayuno."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 17
+      }
     },
     {
       "id": "a1-verb-start",
@@ -361,7 +557,7 @@
       "spanish": "empezar",
       "pronunciation": "start",
       "categories": [
-        "general",
+        "interviews",
         "a1"
       ],
       "forms": {
@@ -375,8 +571,22 @@
         "en": "Let's start now.",
         "es": "Empecemos ahora."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 18
+      }
     },
     {
       "id": "a1-verb-consider",
@@ -400,8 +610,22 @@
         "en": "Consider the options.",
         "es": "Considera las opciones."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 19
+      }
     },
     {
       "id": "a1-verb-plan",
@@ -425,8 +649,22 @@
         "en": "Plan the trip.",
         "es": "Planea el viaje."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 20
+      }
     },
     {
       "id": "a1-verb-offer",
@@ -450,8 +688,22 @@
         "en": "They offer discounts.",
         "es": "Ofrecen descuentos."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 21
+      }
     },
     {
       "id": "a1-verb-act",
@@ -475,8 +727,22 @@
         "en": "Act quickly.",
         "es": "Actúa rápido."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 22
+      }
     },
     {
       "id": "a1-verb-count",
@@ -500,8 +766,22 @@
         "en": "Count to ten.",
         "es": "Cuenta hasta diez."
       },
-      "defaultStatus": "new",
-      "active": true
+      "defaultStatus": "mastered",
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 23
+      }
     },
     {
       "id": "a1-verb-provide",
@@ -526,7 +806,21 @@
         "es": "Proporcionamos comida."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 24
+      }
     },
     {
       "id": "a1-verb-visit",
@@ -551,7 +845,21 @@
         "es": "Visita a tu familia."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 25
+      }
     },
     {
       "id": "a1-verb-work",
@@ -576,7 +884,21 @@
         "es": "Trabajo desde casa."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 26
+      }
     },
     {
       "id": "a1-verb-carry",
@@ -601,7 +923,21 @@
         "es": "Carga las bolsas."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 27
+      }
     },
     {
       "id": "a1-verb-include",
@@ -626,7 +962,21 @@
         "es": "El precio incluye impuestos."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 28
+      }
     },
     {
       "id": "a1-verb-ask",
@@ -651,7 +1001,21 @@
         "es": "Haz una pregunta."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 29
+      }
     },
     {
       "id": "a1-verb-live",
@@ -676,7 +1040,21 @@
         "es": "Vivo en México."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 30
+      }
     },
     {
       "id": "a1-verb-learn",
@@ -701,7 +1079,21 @@
         "es": "Aprendo inglés."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 31
+      }
     },
     {
       "id": "a1-verb-play",
@@ -726,7 +1118,21 @@
         "es": "Toco la guitarra."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 32
+      }
     },
     {
       "id": "a1-verb-appear",
@@ -736,7 +1142,7 @@
       "spanish": "aparecer",
       "pronunciation": "apíar",
       "categories": [
-        "general",
+        "interviews",
         "a1"
       ],
       "forms": {
@@ -751,7 +1157,21 @@
         "es": "Apareció una estrella."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 33
+      }
     },
     {
       "id": "a1-verb-explain",
@@ -776,7 +1196,21 @@
         "es": "Explica las reglas."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 34
+      }
     },
     {
       "id": "a1-verb-cause",
@@ -801,7 +1235,21 @@
         "es": "La lluvia causó retrasos."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 35
+      }
     },
     {
       "id": "a1-verb-show",
@@ -826,7 +1274,21 @@
         "es": "Muéstrame el camino."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 36
+      }
     },
     {
       "id": "a1-verb-support",
@@ -851,7 +1313,21 @@
         "es": "Apoyo tu idea."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 37
+      }
     },
     {
       "id": "a1-verb-point",
@@ -876,7 +1352,21 @@
         "es": "Señala el mapa."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 38
+      }
     },
     {
       "id": "a1-verb-require",
@@ -901,7 +1391,21 @@
         "es": "Esto requiere tiempo."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 39
+      }
     },
     {
       "id": "a1-verb-suggest",
@@ -926,7 +1430,21 @@
         "es": "Sugiero que esperemos."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 40
+      }
     },
     {
       "id": "a1-verb-touch",
@@ -951,7 +1469,21 @@
         "es": "No toques eso."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 41
+      }
     },
     {
       "id": "a1-verb-decide",
@@ -976,7 +1508,21 @@
         "es": "Decidí ir."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 42
+      }
     },
     {
       "id": "a1-verb-want",
@@ -1001,7 +1547,21 @@
         "es": "Quiero un poco de agua."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 43
+      }
     },
     {
       "id": "a1-verb-stop",
@@ -1026,7 +1586,21 @@
         "es": "Detén el coche."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 44
+      }
     },
     {
       "id": "a1-verb-look",
@@ -1051,7 +1625,21 @@
         "es": "Mira el cielo."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 45
+      }
     },
     {
       "id": "a1-verb-produce",
@@ -1076,7 +1664,21 @@
         "es": "Producimos autos."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 46
+      }
     },
     {
       "id": "a1-verb-remain",
@@ -1101,7 +1703,21 @@
         "es": "Permanece en calma."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 47
+      }
     },
     {
       "id": "a1-verb-add",
@@ -1126,7 +1742,21 @@
         "es": "Agrega un poco de azúcar."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 48
+      }
     },
     {
       "id": "a1-verb-die",
@@ -1151,7 +1781,21 @@
         "es": "La planta murió."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 49
+      }
     },
     {
       "id": "a1-verb-prefer",
@@ -1176,7 +1820,21 @@
         "es": "Prefiero el té."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 50
+      }
     },
     {
       "id": "a1-verb-watch",
@@ -1201,7 +1859,21 @@
         "es": "Veo películas."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 51
+      }
     },
     {
       "id": "a1-verb-walk",
@@ -1226,7 +1898,21 @@
         "es": "Camino al trabajo."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 52
+      }
     },
     {
       "id": "a1-verb-help",
@@ -1251,7 +1937,21 @@
         "es": "¿Puedes ayudarme?"
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 53
+      }
     },
     {
       "id": "a1-verb-rent",
@@ -1276,7 +1976,21 @@
         "es": "Rentamos una casa."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 54
+      }
     },
     {
       "id": "a1-verb-change",
@@ -1301,7 +2015,21 @@
         "es": "Cambia de opinión."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 55
+      }
     },
     {
       "id": "a1-verb-wait",
@@ -1326,7 +2054,21 @@
         "es": "Espérame."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 56
+      }
     },
     {
       "id": "a1-verb-drop",
@@ -1351,7 +2093,21 @@
         "es": "No lo dejes caer."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 57
+      }
     },
     {
       "id": "a1-verb-fill",
@@ -1376,7 +2132,21 @@
         "es": "Llena el vaso."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 58
+      }
     },
     {
       "id": "a1-verb-plant",
@@ -1401,7 +2171,21 @@
         "es": "Planta un árbol."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 59
+      }
     },
     {
       "id": "a1-verb-raise",
@@ -1426,7 +2210,21 @@
         "es": "Levanta la mano."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 60
+      }
     },
     {
       "id": "a1-verb-reach",
@@ -1451,7 +2249,21 @@
         "es": "Alcanza la cima."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 61
+      }
     },
     {
       "id": "a1-verb-return",
@@ -1476,7 +2288,21 @@
         "es": "Devuelve el libro."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 62
+      }
     },
     {
       "id": "a1-verb-stay",
@@ -1501,7 +2327,21 @@
         "es": "Quédate en casa."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 63
+      }
     },
     {
       "id": "a1-verb-pull",
@@ -1526,7 +2366,21 @@
         "es": "Jala la cuerda."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 64
+      }
     },
     {
       "id": "a1-verb-prepare",
@@ -1551,7 +2405,21 @@
         "es": "Prepara la cena."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 65
+      }
     },
     {
       "id": "a1-verb-push",
@@ -1576,7 +2444,21 @@
         "es": "Empuja el botón."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 66
+      }
     },
     {
       "id": "a1-verb-defend",
@@ -1601,7 +2483,21 @@
         "es": "Defiende tus ideas."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 67
+      }
     },
     {
       "id": "a1-verb-happen",
@@ -1626,7 +2522,21 @@
         "es": "¿Qué pasó?"
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 68
+      }
     },
     {
       "id": "a1-verb-repeat",
@@ -1651,7 +2561,21 @@
         "es": "Repite después de mí."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 69
+      }
     },
     {
       "id": "a1-verb-mention",
@@ -1676,7 +2600,21 @@
         "es": "Lo mencionaste antes."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 70
+      }
     },
     {
       "id": "a1-verb-study",
@@ -1701,7 +2639,21 @@
         "es": "Estudio de noche."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 71
+      }
     },
     {
       "id": "a1-verb-believe",
@@ -1726,7 +2678,21 @@
         "es": "Te creo."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 72
+      }
     },
     {
       "id": "a1-verb-prevent",
@@ -1751,7 +2717,21 @@
         "es": "Previene accidentes."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 73
+      }
     },
     {
       "id": "a1-verb-agree",
@@ -1761,7 +2741,7 @@
       "spanish": "estar de acuerdo",
       "pronunciation": "agrí",
       "categories": [
-        "general",
+        "interviews",
         "a1"
       ],
       "forms": {
@@ -1776,7 +2756,21 @@
         "es": "Estoy de acuerdo contigo."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 74
+      }
     },
     {
       "id": "a1-verb-paint",
@@ -1801,7 +2795,21 @@
         "es": "Pinta la pared."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 75
+      }
     },
     {
       "id": "a1-verb-prove",
@@ -1826,7 +2834,21 @@
         "es": "Demuestra tu punto."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 76
+      }
     },
     {
       "id": "a1-verb-hope",
@@ -1851,7 +2873,21 @@
         "es": "Espero que funcione."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 77
+      }
     },
     {
       "id": "a1-verb-receive",
@@ -1876,7 +2912,21 @@
         "es": "Recibí un regalo."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 78
+      }
     },
     {
       "id": "a1-verb-admit",
@@ -1901,7 +2951,21 @@
         "es": "Admito mi error."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 79
+      }
     },
     {
       "id": "a1-verb-cook",
@@ -1926,7 +2990,21 @@
         "es": "Cocino todos los días."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 80
+      }
     },
     {
       "id": "a1-verb-order",
@@ -1951,7 +3029,21 @@
         "es": "Pide una pizza."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 81
+      }
     },
     {
       "id": "a1-verb-cover",
@@ -1976,7 +3068,21 @@
         "es": "Cubre la olla."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 82
+      }
     },
     {
       "id": "a1-verb-apply",
@@ -2001,7 +3107,21 @@
         "es": "Postula al trabajo."
       },
       "defaultStatus": "new",
-      "active": true
+      "active": true,
+      "subtype": "verbo",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Vocabulario",
+        "row": 83
+      }
     }
   ]
 }

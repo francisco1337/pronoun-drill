@@ -1,0 +1,3517 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "A2",
+  "items": [
+    {
+      "id": "a2-verb-clean",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "clean",
+      "spanish": "limpiar",
+      "pronunciation": "klin",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Clean your room.",
+        "es": "Limpia tu cuarto."
+      },
+      "forms": {
+        "base": "clean",
+        "thirdPerson": "cleans",
+        "past": "cleaned",
+        "pastParticiple": "cleaned",
+        "gerund": "cleaning"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 4
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-collect",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "collect",
+      "spanish": "coleccionar / recolectar",
+      "pronunciation": "kolékt",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I collect stamps.",
+        "es": "Colecciono estampillas."
+      },
+      "forms": {
+        "base": "collect",
+        "thirdPerson": "collects",
+        "past": "collected",
+        "pastParticiple": "collected",
+        "gerund": "collecting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 5
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-involve",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "involve",
+      "spanish": "involucrar",
+      "pronunciation": "inválv",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "This involves risk.",
+        "es": "Esto implica riesgo."
+      },
+      "forms": {
+        "base": "involve",
+        "thirdPerson": "involves",
+        "past": "involved",
+        "pastParticiple": "involved",
+        "gerund": "involving"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 6
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-cross",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "cross",
+      "spanish": "cruzar",
+      "pronunciation": "kros",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Cross the street.",
+        "es": "Cruza la calle."
+      },
+      "forms": {
+        "base": "cross",
+        "thirdPerson": "crosses",
+        "past": "crossed",
+        "pastParticiple": "crossed",
+        "gerund": "crossing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 7
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-remember",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "remember",
+      "spanish": "recordar",
+      "pronunciation": "rimémber",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I remember you.",
+        "es": "Te recuerdo."
+      },
+      "forms": {
+        "base": "remember",
+        "thirdPerson": "remembers",
+        "past": "remembered",
+        "pastParticiple": "remembered",
+        "gerund": "remembering"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 8
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-close",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "close",
+      "spanish": "cerrar",
+      "pronunciation": "klóus",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Close the window.",
+        "es": "Cierra la ventana."
+      },
+      "forms": {
+        "base": "close",
+        "thirdPerson": "closes",
+        "past": "closed",
+        "pastParticiple": "closed",
+        "gerund": "closing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 9
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-accept",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "accept",
+      "spanish": "aceptar",
+      "pronunciation": "aksépt",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Accept the offer.",
+        "es": "Acepta la oferta."
+      },
+      "forms": {
+        "base": "accept",
+        "thirdPerson": "accepts",
+        "past": "accepted",
+        "pastParticiple": "accepted",
+        "gerund": "accepting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 10
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-describe",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "describe",
+      "spanish": "describir",
+      "pronunciation": "diskráib",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Describe the scene.",
+        "es": "Describe la escena."
+      },
+      "forms": {
+        "base": "describe",
+        "thirdPerson": "describes",
+        "past": "described",
+        "pastParticiple": "described",
+        "gerund": "describing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 11
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-climb",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "climb",
+      "spanish": "escalar / trepar",
+      "pronunciation": "kláim",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "We climb mountains.",
+        "es": "Escalamos montañas."
+      },
+      "forms": {
+        "base": "climb",
+        "thirdPerson": "climbs",
+        "past": "climbed",
+        "pastParticiple": "climbed",
+        "gerund": "climbing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 12
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-complete",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "complete",
+      "spanish": "completar",
+      "pronunciation": "komplít",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Complete the form.",
+        "es": "Completa el formulario."
+      },
+      "forms": {
+        "base": "complete",
+        "thirdPerson": "completes",
+        "past": "completed",
+        "pastParticiple": "completed",
+        "gerund": "completing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 13
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-like",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "like",
+      "spanish": "gustar",
+      "pronunciation": "láik",
+      "categories": [
+        "interviews",
+        "a2"
+      ],
+      "example": {
+        "en": "I like coffee.",
+        "es": "Me gusta el café."
+      },
+      "forms": {
+        "base": "like",
+        "thirdPerson": "likes",
+        "past": "liked",
+        "pastParticiple": "liked",
+        "gerund": "liking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 14
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-place",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "place",
+      "spanish": "colocar",
+      "pronunciation": "pléis",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Place it here.",
+        "es": "Colócalo aquí."
+      },
+      "forms": {
+        "base": "place",
+        "thirdPerson": "places",
+        "past": "placed",
+        "pastParticiple": "placed",
+        "gerund": "placing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 15
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-kill",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "kill",
+      "spanish": "matar",
+      "pronunciation": "kil",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Frost killed the crops.",
+        "es": "La helada mató los cultivos."
+      },
+      "forms": {
+        "base": "kill",
+        "thirdPerson": "kills",
+        "past": "killed",
+        "pastParticiple": "killed",
+        "gerund": "killing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 16
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-search",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "search",
+      "spanish": "buscar",
+      "pronunciation": "serch",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Search everywhere.",
+        "es": "Busca por todas partes."
+      },
+      "forms": {
+        "base": "search",
+        "thirdPerson": "searches",
+        "past": "searched",
+        "pastParticiple": "searched",
+        "gerund": "searching"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 17
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-join",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "join",
+      "spanish": "unirse",
+      "pronunciation": "yóin",
+      "categories": [
+        "remote-work",
+        "a2"
+      ],
+      "example": {
+        "en": "Join the meeting.",
+        "es": "Únete a la reunión."
+      },
+      "forms": {
+        "base": "join",
+        "thirdPerson": "joins",
+        "past": "joined",
+        "pastParticiple": "joined",
+        "gerund": "joining"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 18
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-protect",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "protect",
+      "spanish": "proteger",
+      "pronunciation": "protékt",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Protect the children.",
+        "es": "Protege a los niños."
+      },
+      "forms": {
+        "base": "protect",
+        "thirdPerson": "protects",
+        "past": "protected",
+        "pastParticiple": "protected",
+        "gerund": "protecting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 19
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-attack",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "attack",
+      "spanish": "atacar",
+      "pronunciation": "aták",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "They attacked the base.",
+        "es": "Atacaron la base."
+      },
+      "forms": {
+        "base": "attack",
+        "thirdPerson": "attacks",
+        "past": "attacked",
+        "pastParticiple": "attacked",
+        "gerund": "attacking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 20
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-wish",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "wish",
+      "spanish": "desear",
+      "pronunciation": "uísh",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I wish you luck.",
+        "es": "Te deseo suerte."
+      },
+      "forms": {
+        "base": "wish",
+        "thirdPerson": "wishes",
+        "past": "wished",
+        "pastParticiple": "wished",
+        "gerund": "wishing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 21
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-check",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "check",
+      "spanish": "revisar / verificar",
+      "pronunciation": "chek",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Check your email.",
+        "es": "Revisa tu correo."
+      },
+      "forms": {
+        "base": "check",
+        "thirdPerson": "checks",
+        "past": "checked",
+        "pastParticiple": "checked",
+        "gerund": "checking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 22
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-wash",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "wash",
+      "spanish": "lavar",
+      "pronunciation": "uósh",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Wash your hands.",
+        "es": "Lávate las manos."
+      },
+      "forms": {
+        "base": "wash",
+        "thirdPerson": "washes",
+        "past": "washed",
+        "pastParticiple": "washed",
+        "gerund": "washing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 23
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-float",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "float",
+      "spanish": "flotar",
+      "pronunciation": "flóut",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Wood floats on water.",
+        "es": "La madera flota en el agua."
+      },
+      "forms": {
+        "base": "float",
+        "thirdPerson": "floats",
+        "past": "floated",
+        "pastParticiple": "floated",
+        "gerund": "floating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 24
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-repair",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "repair",
+      "spanish": "reparar",
+      "pronunciation": "ripéar",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Repair the roof.",
+        "es": "Repara el techo."
+      },
+      "forms": {
+        "base": "repair",
+        "thirdPerson": "repairs",
+        "past": "repaired",
+        "pastParticiple": "repaired",
+        "gerund": "repairing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 25
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-compare",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "compare",
+      "spanish": "comparar",
+      "pronunciation": "kompéar",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Compare the prices.",
+        "es": "Compara los precios."
+      },
+      "forms": {
+        "base": "compare",
+        "thirdPerson": "compares",
+        "past": "compared",
+        "pastParticiple": "compared",
+        "gerund": "comparing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 26
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-cry",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "cry",
+      "spanish": "llorar",
+      "pronunciation": "krái",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "The baby cried.",
+        "es": "El bebé lloró."
+      },
+      "forms": {
+        "base": "cry",
+        "thirdPerson": "cries",
+        "past": "cried",
+        "pastParticiple": "cried",
+        "gerund": "crying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 27
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-discuss",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "discuss",
+      "spanish": "discutir / debatir",
+      "pronunciation": "diskás",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Let's discuss it.",
+        "es": "Discutámoslo."
+      },
+      "forms": {
+        "base": "discuss",
+        "thirdPerson": "discusses",
+        "past": "discussed",
+        "pastParticiple": "discussed",
+        "gerund": "discussing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 28
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-argue",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "argue",
+      "spanish": "discutir / argumentar",
+      "pronunciation": "árguiu",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "They argue a lot.",
+        "es": "Discuten mucho."
+      },
+      "forms": {
+        "base": "argue",
+        "thirdPerson": "argues",
+        "past": "argued",
+        "pastParticiple": "argued",
+        "gerund": "arguing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 29
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-reduce",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "reduce",
+      "spanish": "reducir",
+      "pronunciation": "ridiús",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Reduce the speed.",
+        "es": "Reduce la velocidad."
+      },
+      "forms": {
+        "base": "reduce",
+        "thirdPerson": "reduces",
+        "past": "reduced",
+        "pastParticiple": "reduced",
+        "gerund": "reducing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 30
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-select",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "select",
+      "spanish": "seleccionar",
+      "pronunciation": "silékt",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Select an option.",
+        "es": "Selecciona una opción."
+      },
+      "forms": {
+        "base": "select",
+        "thirdPerson": "selects",
+        "past": "selected",
+        "pastParticiple": "selected",
+        "gerund": "selecting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 31
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-promise",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "promise",
+      "spanish": "prometer",
+      "pronunciation": "prómis",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I promise to come.",
+        "es": "Prometo venir."
+      },
+      "forms": {
+        "base": "promise",
+        "thirdPerson": "promises",
+        "past": "promised",
+        "pastParticiple": "promised",
+        "gerund": "promising"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 32
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-answer",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "answer",
+      "spanish": "responder",
+      "pronunciation": "ánser",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Answer the phone.",
+        "es": "Contesta el teléfono."
+      },
+      "forms": {
+        "base": "answer",
+        "thirdPerson": "answers",
+        "past": "answered",
+        "pastParticiple": "answered",
+        "gerund": "answering"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 33
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-roll",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "roll",
+      "spanish": "rodar / enrollar",
+      "pronunciation": "róul",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Roll the dice.",
+        "es": "Lanza los dados."
+      },
+      "forms": {
+        "base": "roll",
+        "thirdPerson": "rolls",
+        "past": "rolled",
+        "pastParticiple": "rolled",
+        "gerund": "rolling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 34
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-follow",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "follow",
+      "spanish": "seguir",
+      "pronunciation": "fólou",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Follow me.",
+        "es": "Sígueme."
+      },
+      "forms": {
+        "base": "follow",
+        "thirdPerson": "follows",
+        "past": "followed",
+        "pastParticiple": "followed",
+        "gerund": "following"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 35
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-share",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "share",
+      "spanish": "compartir",
+      "pronunciation": "shéar",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Share the file.",
+        "es": "Comparte el archivo."
+      },
+      "forms": {
+        "base": "share",
+        "thirdPerson": "shares",
+        "past": "shared",
+        "pastParticiple": "shared",
+        "gerund": "sharing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 36
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-open",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "open",
+      "spanish": "abrir",
+      "pronunciation": "óupen",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Open the door.",
+        "es": "Abre la puerta."
+      },
+      "forms": {
+        "base": "open",
+        "thirdPerson": "opens",
+        "past": "opened",
+        "pastParticiple": "opened",
+        "gerund": "opening"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 37
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-wonder",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "wonder",
+      "spanish": "preguntarse",
+      "pronunciation": "uánder",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I wonder why.",
+        "es": "Me pregunto por qué."
+      },
+      "forms": {
+        "base": "wonder",
+        "thirdPerson": "wonders",
+        "past": "wondered",
+        "pastParticiple": "wondered",
+        "gerund": "wondering"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 38
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-develop",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "develop",
+      "spanish": "desarrollar",
+      "pronunciation": "divélop",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "We develop apps.",
+        "es": "Desarrollamos apps."
+      },
+      "forms": {
+        "base": "develop",
+        "thirdPerson": "develops",
+        "past": "developed",
+        "pastParticiple": "developed",
+        "gerund": "developing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 39
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-escape",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "escape",
+      "spanish": "escapar",
+      "pronunciation": "iskéip",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "The dog escaped.",
+        "es": "El perro escapó."
+      },
+      "forms": {
+        "base": "escape",
+        "thirdPerson": "escapes",
+        "past": "escaped",
+        "pastParticiple": "escaped",
+        "gerund": "escaping"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 40
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-expect",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "expect",
+      "spanish": "esperar (anticipar)",
+      "pronunciation": "ikspékt",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I expect good news.",
+        "es": "Espero buenas noticias."
+      },
+      "forms": {
+        "base": "expect",
+        "thirdPerson": "expects",
+        "past": "expected",
+        "pastParticiple": "expected",
+        "gerund": "expecting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 41
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-smile",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "smile",
+      "spanish": "sonreír",
+      "pronunciation": "smáil",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "She smiled at me.",
+        "es": "Ella me sonrió."
+      },
+      "forms": {
+        "base": "smile",
+        "thirdPerson": "smiles",
+        "past": "smiled",
+        "pastParticiple": "smiled",
+        "gerund": "smiling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 42
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-have",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "have",
+      "spanish": "tener / haber",
+      "pronunciation": "jav",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I have two brothers.",
+        "es": "Tengo dos hermanos."
+      },
+      "forms": {
+        "base": "have",
+        "thirdPerson": "has",
+        "past": "had",
+        "pastParticiple": "had",
+        "gerund": "having"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 43
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-shout",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "shout",
+      "spanish": "gritar",
+      "pronunciation": "sháut",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Don't shout.",
+        "es": "No grites."
+      },
+      "forms": {
+        "base": "shout",
+        "thirdPerson": "shouts",
+        "past": "shouted",
+        "pastParticiple": "shouted",
+        "gerund": "shouting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 44
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-press",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "press",
+      "spanish": "presionar",
+      "pronunciation": "pres",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Press here.",
+        "es": "Presiona aquí."
+      },
+      "forms": {
+        "base": "press",
+        "thirdPerson": "presses",
+        "past": "pressed",
+        "pastParticiple": "pressed",
+        "gerund": "pressing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 45
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-introduce",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "introduce",
+      "spanish": "presentar / introducir",
+      "pronunciation": "introdiús",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Introduce yourself.",
+        "es": "Preséntate."
+      },
+      "forms": {
+        "base": "introduce",
+        "thirdPerson": "introduces",
+        "past": "introduced",
+        "pastParticiple": "introduced",
+        "gerund": "introducing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 46
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-fry",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "fry",
+      "spanish": "freír",
+      "pronunciation": "frái",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Fry the eggs.",
+        "es": "Fríe los huevos."
+      },
+      "forms": {
+        "base": "fry",
+        "thirdPerson": "fries",
+        "past": "fried",
+        "pastParticiple": "fried",
+        "gerund": "frying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 47
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-listen",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "listen",
+      "spanish": "escuchar",
+      "pronunciation": "lísen",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Listen to me.",
+        "es": "Escúchame."
+      },
+      "forms": {
+        "base": "listen",
+        "thirdPerson": "listens",
+        "past": "listened",
+        "pastParticiple": "listened",
+        "gerund": "listening"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 48
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-save",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "save",
+      "spanish": "ahorrar / guardar",
+      "pronunciation": "séiv",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Save your money.",
+        "es": "Ahorra tu dinero."
+      },
+      "forms": {
+        "base": "save",
+        "thirdPerson": "saves",
+        "past": "saved",
+        "pastParticiple": "saved",
+        "gerund": "saving"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 49
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-imagine",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "imagine",
+      "spanish": "imaginar",
+      "pronunciation": "imáyin",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Imagine a world.",
+        "es": "Imagina un mundo."
+      },
+      "forms": {
+        "base": "imagine",
+        "thirdPerson": "imagines",
+        "past": "imagined",
+        "pastParticiple": "imagined",
+        "gerund": "imagining"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 50
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-realize",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "realize",
+      "spanish": "darse cuenta",
+      "pronunciation": "ríalais",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I realized my mistake.",
+        "es": "Me di cuenta de mi error."
+      },
+      "forms": {
+        "base": "realize",
+        "thirdPerson": "realizes",
+        "past": "realized",
+        "pastParticiple": "realized",
+        "gerund": "realizing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 51
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-thank",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "thank",
+      "spanish": "agradecer",
+      "pronunciation": "zank",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I thank you.",
+        "es": "Te lo agradezco."
+      },
+      "forms": {
+        "base": "thank",
+        "thirdPerson": "thanks",
+        "past": "thanked",
+        "pastParticiple": "thanked",
+        "gerund": "thanking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 52
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-be",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "be",
+      "spanish": "ser / estar",
+      "pronunciation": "bi",
+      "categories": [
+        "interviews",
+        "a2"
+      ],
+      "example": {
+        "en": "I am tired today.",
+        "es": "Estoy cansado hoy."
+      },
+      "forms": {
+        "base": "be",
+        "thirdPerson": "is",
+        "past": "was",
+        "pastParticiple": "been",
+        "gerund": "being"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 53
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-marry",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "marry",
+      "spanish": "casarse",
+      "pronunciation": "méri",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "They got married.",
+        "es": "Se casaron."
+      },
+      "forms": {
+        "base": "marry",
+        "thirdPerson": "marries",
+        "past": "married",
+        "pastParticiple": "married",
+        "gerund": "marrying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 54
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-stand",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "stand",
+      "spanish": "estar de pie / pararse",
+      "pronunciation": "stand",
+      "categories": [
+        "interviews",
+        "a2"
+      ],
+      "example": {
+        "en": "Stand up.",
+        "es": "Ponte de pie."
+      },
+      "forms": {
+        "base": "stand",
+        "thirdPerson": "stands",
+        "past": "standed",
+        "pastParticiple": "standed",
+        "gerund": "standing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 55
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-burn",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "burn",
+      "spanish": "quemar",
+      "pronunciation": "bern",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Don't burn the toast.",
+        "es": "No quemes el pan."
+      },
+      "forms": {
+        "base": "burn",
+        "thirdPerson": "burns",
+        "past": "burned",
+        "pastParticiple": "burned",
+        "gerund": "burning"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 56
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-control",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "control",
+      "spanish": "controlar",
+      "pronunciation": "kontról",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Control your temper.",
+        "es": "Controla tu temperamento."
+      },
+      "forms": {
+        "base": "control",
+        "thirdPerson": "controls",
+        "past": "controled",
+        "pastParticiple": "controled",
+        "gerund": "controling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 57
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-weigh",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "weigh",
+      "spanish": "pesar",
+      "pronunciation": "uéi",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Weigh the fruit.",
+        "es": "Pesa la fruta."
+      },
+      "forms": {
+        "base": "weigh",
+        "thirdPerson": "weighs",
+        "past": "weighed",
+        "pastParticiple": "weighed",
+        "gerund": "weighing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 58
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-depend",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "depend",
+      "spanish": "depender",
+      "pronunciation": "dipénd",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "It depends on you.",
+        "es": "Depende de ti."
+      },
+      "forms": {
+        "base": "depend",
+        "thirdPerson": "depends",
+        "past": "depended",
+        "pastParticiple": "depended",
+        "gerund": "depending"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 59
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-laugh",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "laugh",
+      "spanish": "reír",
+      "pronunciation": "laf",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "We laugh a lot.",
+        "es": "Reímos mucho."
+      },
+      "forms": {
+        "base": "laugh",
+        "thirdPerson": "laughs",
+        "past": "laughed",
+        "pastParticiple": "laughed",
+        "gerund": "laughing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 60
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-confirm",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "confirm",
+      "spanish": "confirmar",
+      "pronunciation": "konférm",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Confirm your seat.",
+        "es": "Confirma tu asiento."
+      },
+      "forms": {
+        "base": "confirm",
+        "thirdPerson": "confirms",
+        "past": "confirmed",
+        "pastParticiple": "confirmed",
+        "gerund": "confirming"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 61
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-whisper",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "whisper",
+      "spanish": "susurrar",
+      "pronunciation": "uísper",
+      "categories": [
+        "security",
+        "a2"
+      ],
+      "example": {
+        "en": "She whispered a secret.",
+        "es": "Ella susurró un secreto."
+      },
+      "forms": {
+        "base": "whisper",
+        "thirdPerson": "whispers",
+        "past": "whispered",
+        "pastParticiple": "whispered",
+        "gerund": "whispering"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 62
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-match",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "match",
+      "spanish": "combinar / coincidir",
+      "pronunciation": "mach",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "The colors match.",
+        "es": "Los colores combinan."
+      },
+      "forms": {
+        "base": "match",
+        "thirdPerson": "matches",
+        "past": "matched",
+        "pastParticiple": "matched",
+        "gerund": "matching"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 63
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-know",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "know",
+      "spanish": "saber / conocer",
+      "pronunciation": "nóu",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I know the answer.",
+        "es": "Sé la respuesta."
+      },
+      "forms": {
+        "base": "know",
+        "thirdPerson": "knows",
+        "past": "knowed",
+        "pastParticiple": "knowed",
+        "gerund": "knowing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 64
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-cancel",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "cancel",
+      "spanish": "cancelar",
+      "pronunciation": "kánsel",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Cancel the order.",
+        "es": "Cancela el pedido."
+      },
+      "forms": {
+        "base": "cancel",
+        "thirdPerson": "cancels",
+        "past": "canceled",
+        "pastParticiple": "canceled",
+        "gerund": "canceling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 65
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-increase",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "increase",
+      "spanish": "aumentar",
+      "pronunciation": "inkrís",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Prices increased.",
+        "es": "Los precios aumentaron."
+      },
+      "forms": {
+        "base": "increase",
+        "thirdPerson": "increases",
+        "past": "increased",
+        "pastParticiple": "increased",
+        "gerund": "increasing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 66
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-respect",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "respect",
+      "spanish": "respetar",
+      "pronunciation": "rispékt",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Respect others.",
+        "es": "Respeta a los demás."
+      },
+      "forms": {
+        "base": "respect",
+        "thirdPerson": "respects",
+        "past": "respected",
+        "pastParticiple": "respected",
+        "gerund": "respecting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 67
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-worry",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "worry",
+      "spanish": "preocuparse",
+      "pronunciation": "uéri",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Don't worry.",
+        "es": "No te preocupes."
+      },
+      "forms": {
+        "base": "worry",
+        "thirdPerson": "worries",
+        "past": "worried",
+        "pastParticiple": "worried",
+        "gerund": "worrying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 68
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-tie",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "tie",
+      "spanish": "atar",
+      "pronunciation": "tái",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Tie your shoes.",
+        "es": "Átate los zapatos."
+      },
+      "forms": {
+        "base": "tie",
+        "thirdPerson": "ties",
+        "past": "tied",
+        "pastParticiple": "tied",
+        "gerund": "tying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 69
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-rush",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "rush",
+      "spanish": "apresurarse",
+      "pronunciation": "rash",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Don't rush.",
+        "es": "No te apresures."
+      },
+      "forms": {
+        "base": "rush",
+        "thirdPerson": "rushes",
+        "past": "rushed",
+        "pastParticiple": "rushed",
+        "gerund": "rushing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 70
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-melt",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "melt",
+      "spanish": "derretir",
+      "pronunciation": "melt",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "The ice melted.",
+        "es": "El hielo se derritió."
+      },
+      "forms": {
+        "base": "melt",
+        "thirdPerson": "melts",
+        "past": "melted",
+        "pastParticiple": "melted",
+        "gerund": "melting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 71
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-stretch",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "stretch",
+      "spanish": "estirar",
+      "pronunciation": "strech",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Stretch before running.",
+        "es": "Estírate antes de correr."
+      },
+      "forms": {
+        "base": "stretch",
+        "thirdPerson": "stretches",
+        "past": "stretched",
+        "pastParticiple": "stretched",
+        "gerund": "stretching"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 72
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-travel",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "travel",
+      "spanish": "viajar",
+      "pronunciation": "trável",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I love to travel.",
+        "es": "Me encanta viajar."
+      },
+      "forms": {
+        "base": "travel",
+        "thirdPerson": "travels",
+        "past": "traveled",
+        "pastParticiple": "traveled",
+        "gerund": "traveling"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 73
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-gather",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "gather",
+      "spanish": "reunir / juntar",
+      "pronunciation": "gáder",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Gather the team.",
+        "es": "Reúne al equipo."
+      },
+      "forms": {
+        "base": "gather",
+        "thirdPerson": "gathers",
+        "past": "gathered",
+        "pastParticiple": "gathered",
+        "gerund": "gathering"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 74
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-relax",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "relax",
+      "spanish": "relajarse",
+      "pronunciation": "riláks",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Relax and breathe.",
+        "es": "Relájate y respira."
+      },
+      "forms": {
+        "base": "relax",
+        "thirdPerson": "relaxes",
+        "past": "relaxed",
+        "pastParticiple": "relaxed",
+        "gerund": "relaxing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 75
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-recognize",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "recognize",
+      "spanish": "reconocer",
+      "pronunciation": "rékognais",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I recognize you.",
+        "es": "Te reconozco."
+      },
+      "forms": {
+        "base": "recognize",
+        "thirdPerson": "recognizes",
+        "past": "recognized",
+        "pastParticiple": "recognized",
+        "gerund": "recognizing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 76
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-see",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "see",
+      "spanish": "ver",
+      "pronunciation": "si",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I see the mountains.",
+        "es": "Veo las montañas."
+      },
+      "forms": {
+        "base": "see",
+        "thirdPerson": "sees",
+        "past": "seed",
+        "pastParticiple": "seed",
+        "gerund": "seeing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 77
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-jump",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "jump",
+      "spanish": "saltar",
+      "pronunciation": "yamp",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Jump over it.",
+        "es": "Salta sobre él."
+      },
+      "forms": {
+        "base": "jump",
+        "thirdPerson": "jumps",
+        "past": "jumped",
+        "pastParticiple": "jumped",
+        "gerund": "jumping"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 78
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-discover",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "discover",
+      "spanish": "descubrir",
+      "pronunciation": "diskáver",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "We discovered a cave.",
+        "es": "Descubrimos una cueva."
+      },
+      "forms": {
+        "base": "discover",
+        "thirdPerson": "discovers",
+        "past": "discovered",
+        "pastParticiple": "discovered",
+        "gerund": "discovering"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 79
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-refuse",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "refuse",
+      "spanish": "rehusar / negarse",
+      "pronunciation": "rifiús",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "She refused to go.",
+        "es": "Ella se negó a ir."
+      },
+      "forms": {
+        "base": "refuse",
+        "thirdPerson": "refuses",
+        "past": "refused",
+        "pastParticiple": "refused",
+        "gerund": "refusing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 80
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-kick",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "kick",
+      "spanish": "patear",
+      "pronunciation": "kik",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Kick the ball.",
+        "es": "Patea la pelota."
+      },
+      "forms": {
+        "base": "kick",
+        "thirdPerson": "kicks",
+        "past": "kicked",
+        "pastParticiple": "kicked",
+        "gerund": "kicking"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 81
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-dance",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "dance",
+      "spanish": "bailar",
+      "pronunciation": "dans",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Let's dance.",
+        "es": "Bailemos."
+      },
+      "forms": {
+        "base": "dance",
+        "thirdPerson": "dances",
+        "past": "danced",
+        "pastParticiple": "danced",
+        "gerund": "dancing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 82
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-finish",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "finish",
+      "spanish": "terminar",
+      "pronunciation": "fínish",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Finish your work.",
+        "es": "Termina tu trabajo."
+      },
+      "forms": {
+        "base": "finish",
+        "thirdPerson": "finishes",
+        "past": "finished",
+        "pastParticiple": "finished",
+        "gerund": "finishing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 83
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-measure",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "measure",
+      "spanish": "medir",
+      "pronunciation": "méshur",
+      "categories": [
+        "databases",
+        "a2"
+      ],
+      "example": {
+        "en": "Measure the table.",
+        "es": "Mide la mesa."
+      },
+      "forms": {
+        "base": "measure",
+        "thirdPerson": "measures",
+        "past": "measured",
+        "pastParticiple": "measured",
+        "gerund": "measuring"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 84
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-fold",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "fold",
+      "spanish": "doblar (papel/ropa)",
+      "pronunciation": "fóuld",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Fold the clothes.",
+        "es": "Dobla la ropa."
+      },
+      "forms": {
+        "base": "fold",
+        "thirdPerson": "folds",
+        "past": "folded",
+        "pastParticiple": "folded",
+        "gerund": "folding"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 85
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-pay",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "pay",
+      "spanish": "pagar",
+      "pronunciation": "péi",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I paid the bill.",
+        "es": "Pagué la cuenta."
+      },
+      "forms": {
+        "base": "pay",
+        "thirdPerson": "pays",
+        "past": "payed",
+        "pastParticiple": "payed",
+        "gerund": "paying"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 86
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-hate",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "hate",
+      "spanish": "odiar",
+      "pronunciation": "jéit",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I hate waiting.",
+        "es": "Odio esperar."
+      },
+      "forms": {
+        "base": "hate",
+        "thirdPerson": "hates",
+        "past": "hated",
+        "pastParticiple": "hated",
+        "gerund": "hating"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 87
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-own",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "own",
+      "spanish": "poseer",
+      "pronunciation": "óun",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "I own a bike.",
+        "es": "Poseo una bicicleta."
+      },
+      "forms": {
+        "base": "own",
+        "thirdPerson": "owns",
+        "past": "owned",
+        "pastParticiple": "owned",
+        "gerund": "owning"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 88
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-arrive",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "arrive",
+      "spanish": "llegar",
+      "pronunciation": "aráiv",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "The train arrived.",
+        "es": "El tren llegó."
+      },
+      "forms": {
+        "base": "arrive",
+        "thirdPerson": "arrives",
+        "past": "arrived",
+        "pastParticiple": "arrived",
+        "gerund": "arriving"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 89
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-blame",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "blame",
+      "spanish": "culpar",
+      "pronunciation": "bléim",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Don't blame me.",
+        "es": "No me culpes."
+      },
+      "forms": {
+        "base": "blame",
+        "thirdPerson": "blames",
+        "past": "blamed",
+        "pastParticiple": "blamed",
+        "gerund": "blaming"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 90
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-guess",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "guess",
+      "spanish": "adivinar",
+      "pronunciation": "gues",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Guess my age.",
+        "es": "Adivina mi edad."
+      },
+      "forms": {
+        "base": "guess",
+        "thirdPerson": "guesses",
+        "past": "guessed",
+        "pastParticiple": "guessed",
+        "gerund": "guessing"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 91
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-let",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "let",
+      "spanish": "dejar / permitir",
+      "pronunciation": "let",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Let me help you.",
+        "es": "Déjame ayudarte."
+      },
+      "forms": {
+        "base": "let",
+        "thirdPerson": "lets",
+        "past": "leted",
+        "pastParticiple": "leted",
+        "gerund": "leting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 92
+      },
+      "active": true
+    },
+    {
+      "id": "a2-verb-rest",
+      "level": "A2",
+      "type": "verb",
+      "subtype": "verbo",
+      "english": "rest",
+      "spanish": "descansar",
+      "pronunciation": "rest",
+      "categories": [
+        "general",
+        "a2"
+      ],
+      "example": {
+        "en": "Rest a while.",
+        "es": "Descansa un rato."
+      },
+      "forms": {
+        "base": "rest",
+        "thirdPerson": "rests",
+        "past": "rested",
+        "pastParticiple": "rested",
+        "gerund": "resting"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A2",
+        "spreadsheetId": "1CsogsZ02v2ajeuYQeG_0ZIz21rjB4UTBLwxccH7SbuM",
+        "sheet": "Vocabulario",
+        "row": 93
+      },
+      "active": true
+    }
+  ]
+}

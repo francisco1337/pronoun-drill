@@ -1,0 +1,721 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "B2",
+  "items": [
+    {
+      "id": "b2-communication-lead-a-daily-meeting",
+      "level": "B2",
+      "type": "communication",
+      "english": "lead a daily meeting",
+      "spanish": "Daily",
+      "pronunciation": "",
+      "categories": [
+        "remote-work",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can lead a daily meeting clearly and concisely.",
+        "es": "Puedo daily con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Daily"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-facilitate-backlog-refinement",
+      "level": "B2",
+      "type": "communication",
+      "english": "facilitate backlog refinement",
+      "spanish": "Refinement",
+      "pronunciation": "",
+      "categories": [
+        "backend",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can facilitate backlog refinement clearly and concisely.",
+        "es": "Puedo refinement con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Refinement"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-contribute-to-sprint-planning",
+      "level": "B2",
+      "type": "communication",
+      "english": "contribute to sprint planning",
+      "spanish": "Planning",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can contribute to sprint planning clearly and concisely.",
+        "es": "Puedo planning con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Planning"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-facilitate-a-retrospective",
+      "level": "B2",
+      "type": "communication",
+      "english": "facilitate a retrospective",
+      "spanish": "Retrospectiva",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can facilitate a retrospective clearly and concisely.",
+        "es": "Puedo retrospectiva con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Retrospectiva"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-facilitate-remote-meetings",
+      "level": "B2",
+      "type": "communication",
+      "english": "facilitate remote meetings",
+      "spanish": "Facilitación de reuniones",
+      "pronunciation": "",
+      "categories": [
+        "remote-work",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can facilitate remote meetings clearly and concisely.",
+        "es": "Puedo facilitación de reuniones con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Facilitación de reuniones"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-disagree-diplomatically",
+      "level": "B2",
+      "type": "communication",
+      "english": "disagree diplomatically",
+      "spanish": "Discrepar diplomáticamente",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can disagree diplomatically clearly and concisely.",
+        "es": "Puedo discrepar diplomáticamente con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Discrepar diplomáticamente"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-confirm-requirements",
+      "level": "B2",
+      "type": "communication",
+      "english": "confirm requirements",
+      "spanish": "Confirmar requisitos",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can confirm requirements clearly and concisely.",
+        "es": "Puedo confirmar requisitos con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Confirmar requisitos"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-communicate-with-stakeholders",
+      "level": "B2",
+      "type": "communication",
+      "english": "communicate with stakeholders",
+      "spanish": "Stakeholders",
+      "pronunciation": "",
+      "categories": [
+        "remote-work",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can communicate with stakeholders clearly and concisely.",
+        "es": "Puedo stakeholders con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Stakeholders"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-explain-software-architecture",
+      "level": "B2",
+      "type": "communication",
+      "english": "explain software architecture",
+      "spanish": "Arquitectura",
+      "pronunciation": "",
+      "categories": [
+        "architecture",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can explain software architecture clearly and concisely.",
+        "es": "Puedo arquitectura con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Arquitectura"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-present-a-system-design",
+      "level": "B2",
+      "type": "communication",
+      "english": "present a system design",
+      "spanish": "System design",
+      "pronunciation": "",
+      "categories": [
+        "architecture",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can present a system design clearly and concisely.",
+        "es": "Puedo system design con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "System design"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-defend-technical-trade-offs",
+      "level": "B2",
+      "type": "communication",
+      "english": "defend technical trade-offs",
+      "spanish": "Trade-offs",
+      "pronunciation": "",
+      "categories": [
+        "architecture",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can defend technical trade-offs clearly and concisely.",
+        "es": "Puedo trade-offs con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Trade-offs"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-discuss-scalability",
+      "level": "B2",
+      "type": "communication",
+      "english": "discuss scalability",
+      "spanish": "Escalabilidad",
+      "pronunciation": "",
+      "categories": [
+        "cloud",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can discuss scalability clearly and concisely.",
+        "es": "Puedo escalabilidad con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Escalabilidad"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-discuss-performance",
+      "level": "B2",
+      "type": "communication",
+      "english": "discuss performance",
+      "spanish": "Rendimiento",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can discuss performance clearly and concisely.",
+        "es": "Puedo rendimiento con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Rendimiento"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-discuss-infrastructure-costs",
+      "level": "B2",
+      "type": "communication",
+      "english": "discuss infrastructure costs",
+      "spanish": "Costos",
+      "pronunciation": "",
+      "categories": [
+        "cloud",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can discuss infrastructure costs clearly and concisely.",
+        "es": "Puedo costos con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Costos"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-discuss-security",
+      "level": "B2",
+      "type": "communication",
+      "english": "discuss security",
+      "spanish": "Seguridad",
+      "pronunciation": "",
+      "categories": [
+        "security",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can discuss security clearly and concisely.",
+        "es": "Puedo seguridad con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Seguridad"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-manage-secrets",
+      "level": "B2",
+      "type": "communication",
+      "english": "manage secrets",
+      "spanish": "Secretos",
+      "pronunciation": "",
+      "categories": [
+        "security",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can manage secrets clearly and concisely.",
+        "es": "Puedo secretos con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Secretos"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-apply-least-privilege",
+      "level": "B2",
+      "type": "communication",
+      "english": "apply least privilege",
+      "spanish": "Menor privilegio",
+      "pronunciation": "",
+      "categories": [
+        "security",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can apply least privilege clearly and concisely.",
+        "es": "Puedo menor privilegio con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Menor privilegio"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-design-a-ci-cd-strategy",
+      "level": "B2",
+      "type": "communication",
+      "english": "design a CI/CD strategy",
+      "spanish": "CI/CD",
+      "pronunciation": "",
+      "categories": [
+        "cicd",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can design a CI/CD strategy clearly and concisely.",
+        "es": "Puedo ci/cd con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "CI/CD"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-explain-infrastructure-as-code",
+      "level": "B2",
+      "type": "communication",
+      "english": "explain infrastructure as code",
+      "spanish": "Infraestructura como código",
+      "pronunciation": "",
+      "categories": [
+        "cloud",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can explain infrastructure as code clearly and concisely.",
+        "es": "Puedo infraestructura como código con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Infraestructura como código"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-design-observability",
+      "level": "B2",
+      "type": "communication",
+      "english": "design observability",
+      "spanish": "Observabilidad",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can design observability clearly and concisely.",
+        "es": "Puedo observabilidad con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Observabilidad"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-choose-operational-metrics",
+      "level": "B2",
+      "type": "communication",
+      "english": "choose operational metrics",
+      "spanish": "Métricas",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can choose operational metrics clearly and concisely.",
+        "es": "Puedo métricas con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Métricas"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-define-useful-alerts",
+      "level": "B2",
+      "type": "communication",
+      "english": "define useful alerts",
+      "spanish": "Alertas",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can define useful alerts clearly and concisely.",
+        "es": "Puedo alertas con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Alertas"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-lead-incident-communication",
+      "level": "B2",
+      "type": "communication",
+      "english": "lead incident communication",
+      "spanish": "Incidentes",
+      "pronunciation": "",
+      "categories": [
+        "devops",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can lead incident communication clearly and concisely.",
+        "es": "Puedo incidentes con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Incidentes"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-decide-on-a-rollback",
+      "level": "B2",
+      "type": "communication",
+      "english": "decide on a rollback",
+      "spanish": "Rollback",
+      "pronunciation": "",
+      "categories": [
+        "backend",
+        "devops",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can decide on a rollback clearly and concisely.",
+        "es": "Puedo rollback con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Rollback"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-present-a-postmortem",
+      "level": "B2",
+      "type": "communication",
+      "english": "present a postmortem",
+      "spanish": "Postmortems",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can present a postmortem clearly and concisely.",
+        "es": "Puedo postmortems con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Postmortems"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-explain-root-cause",
+      "level": "B2",
+      "type": "communication",
+      "english": "explain root cause",
+      "spanish": "Causa raíz",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can explain root cause clearly and concisely.",
+        "es": "Puedo causa raíz con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Causa raíz"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-propose-automation",
+      "level": "B2",
+      "type": "communication",
+      "english": "propose automation",
+      "spanish": "Automatización",
+      "pronunciation": "",
+      "categories": [
+        "automation",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can propose automation clearly and concisely.",
+        "es": "Puedo automatización con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Automatización"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-explain-idempotency",
+      "level": "B2",
+      "type": "communication",
+      "english": "explain idempotency",
+      "spanish": "Idempotencia",
+      "pronunciation": "",
+      "categories": [
+        "automation",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can explain idempotency clearly and concisely.",
+        "es": "Puedo idempotencia con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Idempotencia"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-answer-technical-interview-questions",
+      "level": "B2",
+      "type": "communication",
+      "english": "answer technical interview questions",
+      "spanish": "Entrevistas técnicas",
+      "pronunciation": "",
+      "categories": [
+        "interviews",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can answer technical interview questions clearly and concisely.",
+        "es": "Puedo entrevistas técnicas con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Entrevistas técnicas"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-give-star-interview-answers",
+      "level": "B2",
+      "type": "communication",
+      "english": "give STAR interview answers",
+      "spanish": "Respuestas STAR",
+      "pronunciation": "",
+      "categories": [
+        "interviews",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can give STAR interview answers clearly and concisely.",
+        "es": "Puedo respuestas star con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Respuestas STAR"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-communication-discuss-availability-and-time-zones",
+      "level": "B2",
+      "type": "communication",
+      "english": "discuss availability and time zones",
+      "spanish": "Disponibilidad y zona horaria",
+      "pronunciation": "",
+      "categories": [
+        "remote-work",
+        "professional",
+        "b2"
+      ],
+      "example": {
+        "en": "I can discuss availability and time zones clearly and concisely.",
+        "es": "Puedo disponibilidad y zona horaria con claridad y concisión."
+      },
+      "defaultStatus": "new",
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Disponibilidad y zona horaria"
+      },
+      "active": true
+    }
+  ]
+}

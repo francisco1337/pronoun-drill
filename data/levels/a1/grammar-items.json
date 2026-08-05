@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.08.1",
+  "contentVersion": "2026.08.2",
   "level": "A1",
   "items": [
     {
@@ -131,6 +131,246 @@
       "category": "There is / are",
       "explanation": "There is introduce una cosa; there are introduce dos o más.",
       "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-there-are",
+      "level": "A1",
+      "type": "grammar",
+      "english": "There is/there are",
+      "spanish": "Usar There is/there are en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a1"
+      ],
+      "example": {
+        "en": "Use There is/there are in a clear work message.",
+        "es": "Usar There is/there are en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "There is/there are"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-grammar-have-has",
+      "level": "A1",
+      "type": "grammar",
+      "english": "Have/has",
+      "spanish": "Usar Have/has en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a1"
+      ],
+      "example": {
+        "en": "Use Have/has in a clear work message.",
+        "es": "Usar Have/has en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Have/has"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-grammar-can-can-t",
+      "level": "A1",
+      "type": "grammar",
+      "english": "Can/can’t",
+      "spanish": "Usar Can/can’t en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a1"
+      ],
+      "example": {
+        "en": "Use Can/can’t in a clear work message.",
+        "es": "Usar Can/can’t en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Can/can’t"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-grammar-wh-questions",
+      "level": "A1",
+      "type": "grammar",
+      "english": "WH questions",
+      "spanish": "Usar WH questions en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a1"
+      ],
+      "example": {
+        "en": "Use WH questions in a clear work message.",
+        "es": "Usar WH questions en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "WH questions"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-grammar-imperativos",
+      "level": "A1",
+      "type": "grammar",
+      "english": "Imperativos",
+      "spanish": "Usar Imperativos en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a1"
+      ],
+      "example": {
+        "en": "Use Imperativos in a clear work message.",
+        "es": "Usar Imperativos en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Imperativos"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-grammar-preposiciones-de-tiempo-y-lugar",
+      "level": "A1",
+      "type": "grammar",
+      "english": "Preposiciones de tiempo y lugar",
+      "spanish": "Usar Preposiciones de tiempo y lugar en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a1"
+      ],
+      "example": {
+        "en": "Use Preposiciones de tiempo y lugar in a clear work message.",
+        "es": "Usar Preposiciones de tiempo y lugar en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Preposiciones de tiempo y lugar"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-grammar-posesivos",
+      "level": "A1",
+      "type": "grammar",
+      "english": "Posesivos",
+      "spanish": "Usar Posesivos en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a1"
+      ],
+      "example": {
+        "en": "Use Posesivos in a clear work message.",
+        "es": "Usar Posesivos en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Posesivos"
+      },
+      "active": true
+    },
+    {
+      "id": "a1-grammar-pronombres-de-objeto",
+      "level": "A1",
+      "type": "grammar",
+      "english": "Pronombres de objeto",
+      "spanish": "Usar Pronombres de objeto en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "a1"
+      ],
+      "example": {
+        "en": "Use Pronombres de objeto in a clear work message.",
+        "es": "Usar Pronombres de objeto en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Pronombres de objeto"
+      },
       "active": true
     }
   ]

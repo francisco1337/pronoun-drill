@@ -1,17 +1,49 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.08.1",
+  "contentVersion": "2026.08.2",
   "appName": "English Trainer",
+  "curriculum": "./data/curriculum.json",
+  "importReport": "./data/import-report.json",
   "levels": {
     "A1": {
-      "grammar": "./data/levels/a1/grammar.json",
-      "verbs": "./data/levels/a1/verbs.json",
-      "pronouns": "./data/levels/a1/pronouns.json",
-      "grammarItems": "./data/levels/a1/grammar-items.json",
-      "expressions": "./data/levels/a1/expressions.json"
+      "catalogs": {
+        "verbs": "./data/levels/a1/verbs.json",
+        "pronouns": "./data/levels/a1/pronouns.json",
+        "vocabulary": "./data/levels/a1/vocabulary.json",
+        "expressions": "./data/levels/a1/expressions.json",
+        "grammar": "./data/levels/a1/grammar-items.json",
+        "communication": "./data/levels/a1/communication.json"
+      }
+    },
+    "A2": {
+      "catalogs": {
+        "verbs": "./data/levels/a2/verbs.json",
+        "pronouns": "./data/levels/a2/pronouns.json",
+        "vocabulary": "./data/levels/a2/vocabulary.json",
+        "expressions": "./data/levels/a2/expressions.json",
+        "grammar": "./data/levels/a2/grammar-items.json",
+        "communication": "./data/levels/a2/communication.json"
+      }
+    },
+    "B1": {
+      "catalogs": {
+        "verbs": "./data/levels/b1/verbs.json",
+        "pronouns": "./data/levels/b1/pronouns.json",
+        "vocabulary": "./data/levels/b1/vocabulary.json",
+        "expressions": "./data/levels/b1/expressions.json",
+        "grammar": "./data/levels/b1/grammar-items.json",
+        "communication": "./data/levels/b1/communication.json"
+      }
+    },
+    "B2": {
+      "catalogs": {
+        "verbs": "./data/levels/b2/verbs.json",
+        "pronouns": "./data/levels/b2/pronouns.json",
+        "vocabulary": "./data/levels/b2/vocabulary.json",
+        "expressions": "./data/levels/b2/expressions.json",
+        "grammar": "./data/levels/b2/grammar-items.json",
+        "communication": "./data/levels/b2/communication.json"
+      }
     }
-  },
-  "professional": {
-    "modals": "./data/professional/modals.json"
   }
 }

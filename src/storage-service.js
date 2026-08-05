@@ -5,21 +5,27 @@ const MAX_RECENT_EXAMPLES = 12;
 const MAX_REVIEW_DAYS = 30;
 
 const DEFAULT_SETTINGS = Object.freeze({
-  masteryMode: "streak",
+  masteryMode: "simple",
   correctAnswersToMaster: 10,
   requireConsecutiveCorrect: true,
   minimumAccuracy: 80,
-  minimumExerciseModes: 1,
-  minimumReviewDays: 1,
+  minimumExerciseModes: 3,
+  minimumReviewDays: 2,
   excludeMastered: true,
   includeMasteredInReview: true,
   questionsPerSession: 20,
+  durationMinutes: 0,
   difficulty: "adaptive",
   translationDirection: "both",
   selectedLevels: ["A1"],
+  activeLevel: "A1",
+  selectedItemIds: [],
   selectedItemsByTopic: {},
   itemFiltersByTopic: {},
-  enabledExerciseModes: ["matching", "translate-es-en", "fill-blank"],
+  enabledExerciseModes: ["matching", "translate-es-en", "fill-blank", "word-order", "error-correction"],
+  showHints: true,
+  feedbackMode: "immediate",
+  targetDate: "2026-12-01",
   preserveMasteredOnGoalChange: true,
   theme: null
 });
@@ -187,7 +193,10 @@ class StorageService {
       const availableModeCount = Math.max(1, record.availableModes?.length || record.practicedModes?.length || 1);
       const meetsModes = (record.practicedModes?.length || 0) >= Math.min(settings.minimumExerciseModes, availableModeCount);
       const meetsDays = (record.reviewDays?.length || 0) >= settings.minimumReviewDays;
-      const mastered = settings.masteryMode === "robust" ? meetsGoal && meetsAccuracy && meetsModes && meetsDays : meetsGoal;
+      const hasDistinctExamples = new Set(record.recentExampleIds || []).size >= Math.min(5, settings.correctAnswersToMaster);
+      const recent = (record.recentResults || []).slice(-3);
+      const noRecentErrors = recent.length >= 3 && recent.every(Boolean);
+      const mastered = settings.masteryMode === "robust" ? meetsGoal && meetsAccuracy && meetsModes && meetsDays && hasDistinctExamples && noRecentErrors : meetsGoal;
       record.status = mastered ? "mastered" : record.timesSeen ? "learning" : "new";
       if (mastered) record.masteredAt ||= nowIso();
       else record.masteredAt = null;
@@ -200,7 +209,28 @@ class StorageService {
   getAllProgress() { return this.#read("progress", {}) }
   getProgress(itemId) { return this.getAllProgress()[itemId] || this.#newProgress(itemId) }
 
-  recordAttempt({ itemId, mode, correct, exampleId, availableModes = [mode] }) {
+  seedInitialProgress(items) {
+    const all = this.getAllProgress();
+    let changed = false;
+    items.forEach((item) => {
+      if (all[item.id] || item.defaultStatus === "new") return;
+      const initial = item.initialProgress || {};
+      const streak = item.defaultStatus === "mastered" ? Math.max(this.getSettings().correctAnswersToMaster, initial.correctTotal || 0) : initial.correctTotal || 0;
+      const record = this.#newProgress(item.id, streak);
+      record.status = item.defaultStatus;
+      record.correctTotal = Math.max(record.correctTotal, initial.correctTotal || 0);
+      record.errorTotal = initial.errorTotal || 0;
+      record.lastReviewedAt = initial.lastReviewedAt || null;
+      record.nextReviewAt = initial.nextReviewAt || null;
+      record.notes = initial.notes || "";
+      all[item.id] = record;
+      changed = true;
+    });
+    if (changed) this.#write("progress", all);
+    return changed;
+  }
+
+  recordAttempt({ itemId, mode, correct, exampleId, availableModes = [mode], givenAnswer = "", correctAnswer = "", rule = "", level = null, topicId = null }) {
     const settings = this.getSettings();
     const all = this.getAllProgress();
     const record = all[itemId] || this.#newProgress(itemId);
@@ -212,6 +242,10 @@ class StorageService {
     record.recentResults = [...(record.recentResults || []), !!correct].slice(-20);
     record.recentAccuracy = Math.round(record.recentResults.filter(Boolean).length / record.recentResults.length * 100);
     record.practicedModes = [...new Set([...(record.practicedModes || []), mode])];
+    record.modeStats ||= {};
+    record.modeStats[mode] ||= { attempts: 0, correct: 0 };
+    record.modeStats[mode].attempts += 1;
+    record.modeStats[mode].correct += correct ? 1 : 0;
     record.availableModes = [...new Set([...(record.availableModes || []), ...availableModes])];
     record.reviewDays = [...new Set([...(record.reviewDays || []), dateOnly(timestamp)])].slice(-MAX_REVIEW_DAYS);
     record.recentExampleIds = [...(record.recentExampleIds || []).filter((id) => id !== exampleId), exampleId].filter(Boolean).slice(-MAX_RECENT_EXAMPLES);
@@ -225,7 +259,9 @@ class StorageService {
     const meetsModes = record.practicedModes.filter((value) => availableModes.includes(value)).length >= requiredModes;
     const meetsDays = record.reviewDays.length >= settings.minimumReviewDays;
     const wasMastered = record.status === "mastered";
-    const meetsMastery = settings.masteryMode === "robust" ? meetsGoal && meetsAccuracy && meetsModes && meetsDays : meetsGoal;
+    const hasDistinctExamples = new Set(record.recentExampleIds).size >= Math.min(5, settings.correctAnswersToMaster);
+    const noRecentErrors = record.recentResults.slice(-3).length >= 3 && record.recentResults.slice(-3).every(Boolean);
+    const meetsMastery = settings.masteryMode === "robust" ? meetsGoal && meetsAccuracy && meetsModes && meetsDays && hasDistinctExamples && noRecentErrors : meetsGoal;
     if (meetsMastery || (wasMastered && settings.preserveMasteredOnGoalChange)) {
       record.status = "mastered";
       record.masteredAt ||= timestamp;
@@ -233,8 +269,8 @@ class StorageService {
     all[itemId] = record;
     this.#write("progress", all);
     const errors = this.#read("errors", {});
-    if (correct) delete errors[itemId];
-    else errors[itemId] = { itemId, count: (errors[itemId]?.count || 0) + 1, lastExampleId: exampleId, lastAt: timestamp };
+    if (correct && errors[itemId]) errors[itemId] = { ...errors[itemId], status: "corrected", lastReviewedAt: timestamp, nextReviewAt: record.nextReviewAt };
+    else if (!correct) errors[itemId] = { itemId, level, topicId, exampleId, givenAnswer, correctAnswer, rule, count: (errors[itemId]?.count || 0) + 1, firstAt: errors[itemId]?.firstAt || timestamp, lastAt: timestamp, lastReviewedAt: timestamp, nextReviewAt: record.nextReviewAt, status: "pending" };
     this.#write("errors", errors);
     const daily = this.#read("dailySummary", {});
     const day = dateOnly(timestamp);
@@ -249,6 +285,21 @@ class StorageService {
   }
 
   getActiveErrors() { return this.#read("errors", {}) }
+  getErrors({ pendingOnly = false } = {}) {
+    const values = Object.values(this.getActiveErrors());
+    return pendingOnly ? values.filter((value) => value.status !== "corrected") : values;
+  }
+  getSessionSummaries() { return this.#read("sessions", this.#read("sessionSummary", [])) }
+  getDailySummaries() { return this.#read("dailySummary", {}) }
+  reactivateItem(itemId) {
+    const all = this.getAllProgress();
+    const record = all[itemId] || this.#newProgress(itemId);
+    record.status = "learning";
+    record.masteredAt = null;
+    all[itemId] = record;
+    this.#write("progress", all);
+    return record;
+  }
   getCustomLists() { return this.#read("customLists", []) }
   saveCustomList(list) {
     if (!list?.id || !list?.name || !Array.isArray(list.itemIds)) throw new Error("La lista personalizada no es válida.");
@@ -262,6 +313,12 @@ class StorageService {
     this.#write("customLists", lists);
     return lists;
   }
+  reportContentIssue(issue) {
+    const reports = this.#read("contentReports", []);
+    reports.push({ ...issue, id: `report-${Date.now()}`, createdAt: nowIso(), status: "pending" });
+    this.#write("contentReports", reports.slice(-100));
+    return reports.at(-1);
+  }
   getCurrentSession() { return this.#read("currentSession", null) }
   saveCurrentSession(session) { this.#write("currentSession", { ...session, savedAt: nowIso() }) }
   clearCurrentSession() {
@@ -269,9 +326,9 @@ class StorageService {
     else this.memory.delete("currentSession");
   }
   completeSession(session) {
-    const summaries = this.#read("sessionSummary", []);
+    const summaries = this.getSessionSummaries();
     summaries.push({ ...session, completedAt: nowIso() });
-    this.#write("sessionSummary", summaries.slice(-MAX_SESSIONS));
+    this.#write("sessions", summaries.slice(-MAX_SESSIONS));
     this.clearCurrentSession();
   }
 
@@ -280,11 +337,12 @@ class StorageService {
       this.#write("progress", {});
       this.#write("errors", {});
       this.#write("sessionSummary", []);
+      this.#write("sessions", []);
       this.#write("dailySummary", {});
       return;
     }
     const progress = this.getAllProgress();
-    const prefixes = scope === "A1" ? ["a1-"] : [scope];
+    const prefixes = scope === "all" ? [] : [`${String(scope).toLowerCase().replace(/-$/, "")}-`];
     Object.keys(progress).forEach((id) => { if (prefixes.some((prefix) => id.startsWith(prefix))) delete progress[id] });
     this.#write("progress", progress);
     const errors = this.getActiveErrors();
@@ -302,8 +360,9 @@ class StorageService {
       progress: this.getAllProgress(),
       customLists: this.#read("customLists", []),
       errors: this.getActiveErrors(),
-      sessionSummary: this.#read("sessionSummary", []),
-      dailySummary: this.#read("dailySummary", {})
+      sessions: this.getSessionSummaries(),
+      dailySummary: this.#read("dailySummary", {}),
+      contentReports: this.#read("contentReports", [])
     };
   }
 
@@ -314,8 +373,9 @@ class StorageService {
     this.#write("progress", data.progress || {});
     this.#write("customLists", Array.isArray(data.customLists) ? data.customLists : []);
     this.#write("errors", data.errors || {});
-    this.#write("sessionSummary", Array.isArray(data.sessionSummary) ? data.sessionSummary.slice(-MAX_SESSIONS) : []);
+    this.#write("sessions", Array.isArray(data.sessions || data.sessionSummary) ? (data.sessions || data.sessionSummary).slice(-MAX_SESSIONS) : []);
     this.#write("dailySummary", data.dailySummary && typeof data.dailySummary === "object" ? data.dailySummary : {});
+    this.#write("contentReports", Array.isArray(data.contentReports) ? data.contentReports.slice(-100) : []);
     return true;
   }
 }

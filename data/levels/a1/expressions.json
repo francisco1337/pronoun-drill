@@ -1,6 +1,1639 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.08.1",
+  "contentVersion": "2026.08.2",
   "level": "A1",
-  "items": []
+  "items": [
+    {
+      "id": "a1-expression-it",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pronombre",
+      "english": "it",
+      "spanish": "It is raining.",
+      "pronunciation": "ello (cosa/animal)",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Está lloviendo.",
+        "es": "Sí"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 23
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-what",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "what",
+      "spanish": "qué",
+      "pronunciation": "uót",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "What is your name?",
+        "es": "¿Cuál es tu nombre?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 28
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-who",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "who",
+      "spanish": "quién",
+      "pronunciation": "ju",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Who is she?",
+        "es": "¿Quién es ella?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 29
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-where",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "where",
+      "spanish": "dónde",
+      "pronunciation": "uér",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Where are you?",
+        "es": "¿Dónde estás?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 30
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-when",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "when",
+      "spanish": "cuándo",
+      "pronunciation": "uén",
+      "categories": [
+        "interviews",
+        "a1"
+      ],
+      "example": {
+        "en": "When does it start?",
+        "es": "¿Cuándo empieza?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 31
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-why",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "why",
+      "spanish": "por qué",
+      "pronunciation": "uái",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Why are you late?",
+        "es": "¿Por qué llegas tarde?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 32
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-how",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "how",
+      "spanish": "cómo",
+      "pronunciation": "jáu",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "How are you?",
+        "es": "¿Cómo estás?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 33
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-which",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "which",
+      "spanish": "cuál (de varios)",
+      "pronunciation": "uích",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Which one do you want?",
+        "es": "¿Cuál quieres?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 34
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-whose",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "whose",
+      "spanish": "de quién",
+      "pronunciation": "jus",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Whose bag is this?",
+        "es": "¿De quién es esta bolsa?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 35
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-how-much",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "how much",
+      "spanish": "cuánto (incontable)",
+      "pronunciation": "jáu-mach",
+      "categories": [
+        "databases",
+        "a1"
+      ],
+      "example": {
+        "en": "How much is it?",
+        "es": "¿Cuánto cuesta?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 36
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-how-many",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "how many",
+      "spanish": "cuántos (contable)",
+      "pronunciation": "jáu-méni",
+      "categories": [
+        "databases",
+        "a1"
+      ],
+      "example": {
+        "en": "How many people came?",
+        "es": "¿Cuántas personas vinieron?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 37
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-how-long",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "pregunta",
+      "english": "how long",
+      "spanish": "cuánto tiempo",
+      "pronunciation": "jáu-long",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "How long does it take?",
+        "es": "¿Cuánto tarda?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 38
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-in",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "in",
+      "spanish": "en (dentro)",
+      "pronunciation": "in",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "The keys are in the box.",
+        "es": "Las llaves están en la caja."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 39
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-on",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "on",
+      "spanish": "en (sobre)",
+      "pronunciation": "on",
+      "categories": [
+        "databases",
+        "a1"
+      ],
+      "example": {
+        "en": "The book is on the table.",
+        "es": "El libro está sobre la mesa."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 40
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-at",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "at",
+      "spanish": "en (punto/lugar)",
+      "pronunciation": "at",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I am at home.",
+        "es": "Estoy en casa."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 41
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-to",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "to",
+      "spanish": "a / hacia",
+      "pronunciation": "tu",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I go to work.",
+        "es": "Voy al trabajo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 42
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-from",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "from",
+      "spanish": "de / desde",
+      "pronunciation": "from",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I am from Mexico.",
+        "es": "Soy de México."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 43
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-for",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "for",
+      "spanish": "para / por",
+      "pronunciation": "for",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "This is for you.",
+        "es": "Esto es para ti."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 44
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-with",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "with",
+      "spanish": "con",
+      "pronunciation": "uíz",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Come with me.",
+        "es": "Ven conmigo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 45
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-without",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "without",
+      "spanish": "sin",
+      "pronunciation": "uizáut",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Coffee without sugar.",
+        "es": "Café sin azúcar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 46
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-about",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "about",
+      "spanish": "sobre / acerca de",
+      "pronunciation": "abáut",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "We talked about you.",
+        "es": "Hablamos sobre ti."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 47
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-of",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "of",
+      "spanish": "de",
+      "pronunciation": "ov",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "A cup of tea.",
+        "es": "Una taza de té."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 48
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-by",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "by",
+      "spanish": "por / junto a",
+      "pronunciation": "bai",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Made by hand.",
+        "es": "Hecho a mano."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 49
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-into",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "into",
+      "spanish": "hacia dentro",
+      "pronunciation": "íntu",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Go into the room.",
+        "es": "Entra a la habitación."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 50
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-over",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "over",
+      "spanish": "sobre / encima",
+      "pronunciation": "óuver",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "A bridge over the river.",
+        "es": "Un puente sobre el río."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 51
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-under",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "preposición",
+      "english": "under",
+      "spanish": "debajo de",
+      "pronunciation": "ánder",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "The cat is under the bed.",
+        "es": "El gato está bajo la cama."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 52
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-always",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "always",
+      "spanish": "siempre",
+      "pronunciation": "ólueis",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I always drink coffee.",
+        "es": "Siempre tomo café."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 53
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-usually",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "usually",
+      "spanish": "normalmente",
+      "pronunciation": "yúshuali",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I usually walk.",
+        "es": "Normalmente camino."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 54
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-often",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "often",
+      "spanish": "a menudo",
+      "pronunciation": "ófen",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "We often talk.",
+        "es": "A menudo hablamos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 55
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-sometimes",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "sometimes",
+      "spanish": "a veces",
+      "pronunciation": "sámtaims",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Sometimes I cook.",
+        "es": "A veces cocino."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 56
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-rarely",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "rarely",
+      "spanish": "rara vez",
+      "pronunciation": "réarli",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I rarely watch TV.",
+        "es": "Rara vez veo la tele."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 57
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-never",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "never",
+      "spanish": "nunca",
+      "pronunciation": "néver",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I never lie.",
+        "es": "Nunca miento."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 58
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-now",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "now",
+      "spanish": "ahora",
+      "pronunciation": "náu",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Do it now.",
+        "es": "Hazlo ahora."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 59
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-today",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "today",
+      "spanish": "hoy",
+      "pronunciation": "tudéi",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I am busy today.",
+        "es": "Hoy estoy ocupado."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 60
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-tomorrow",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "tomorrow",
+      "spanish": "mañana",
+      "pronunciation": "tumórou",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "See you tomorrow.",
+        "es": "Nos vemos mañana."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 61
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-yesterday",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "yesterday",
+      "spanish": "ayer",
+      "pronunciation": "yésterdei",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I called yesterday.",
+        "es": "Llamé ayer."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 62
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-soon",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "adverbio",
+      "english": "soon",
+      "spanish": "pronto",
+      "pronunciation": "sun",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I will be there soon.",
+        "es": "Llegaré pronto."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 63
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-hi-how-are-you",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "Hi, how are you?",
+      "spanish": "Hola, ¿cómo estás?",
+      "pronunciation": "jái jáu ar yu",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Hi, how are you?",
+        "es": "Hola, ¿cómo estás?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 64
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-nice-to-meet-you",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "Nice to meet you.",
+      "spanish": "Mucho gusto.",
+      "pronunciation": "náis tu mit yu",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Nice to meet you.",
+        "es": "Mucho gusto."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 65
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-see-you-later",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "See you later.",
+      "spanish": "Nos vemos luego.",
+      "pronunciation": "si yu léiter",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "See you later.",
+        "es": "Nos vemos luego."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 66
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-thank-you-so-much",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "Thank you so much.",
+      "spanish": "Muchas gracias.",
+      "pronunciation": "zénkiu sou mach",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Thank you so much.",
+        "es": "Muchas gracias."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 67
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-you-are-welcome",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "You are welcome.",
+      "spanish": "De nada.",
+      "pronunciation": "yor uélcom",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "You are welcome.",
+        "es": "De nada."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 68
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-excuse-me",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "Excuse me.",
+      "spanish": "Disculpe / permiso.",
+      "pronunciation": "ekskiús mi",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Excuse me.",
+        "es": "Disculpe / permiso."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 69
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-i-am-sorry",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "I am sorry.",
+      "spanish": "Lo siento.",
+      "pronunciation": "áim sóri",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I am sorry.",
+        "es": "Lo siento."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 70
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-sorry-i-did-not-understand",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "Sorry, I did not understand.",
+      "spanish": "Perdón, no entendí.",
+      "pronunciation": "sóri ai dídent anderstánd",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Sorry, I did not understand.",
+        "es": "Perdón, no entendí."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 71
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-could-you-repeat-that-please",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "Could you repeat that, please?",
+      "spanish": "¿Podría repetir, por favor?",
+      "pronunciation": "kud yu ripít dat plis",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Could you repeat that, please?",
+        "es": "¿Podría repetir, por favor?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 72
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-can-you-speak-slower-please",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "Can you speak slower, please?",
+      "spanish": "¿Puede hablar más lento?",
+      "pronunciation": "kan yu spik slóuer plis",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Can you speak slower, please?",
+        "es": "¿Puede hablar más lento?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 73
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-what-does-this-mean",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "What does this mean?",
+      "spanish": "¿Qué significa esto?",
+      "pronunciation": "uót das dis min",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "What does this mean?",
+        "es": "¿Qué significa esto?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 74
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-how-do-you-say-in-english",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "How do you say ... in English?",
+      "spanish": "¿Cómo se dice ... en inglés?",
+      "pronunciation": "jáu du yu séi ... in ínglish",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "How do you say ... in English?",
+        "es": "¿Cómo se dice ... en inglés?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 75
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-can-you-help-me",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "Can you help me?",
+      "spanish": "¿Puedes ayudarme?",
+      "pronunciation": "kan yu jelp mi",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "Can you help me?",
+        "es": "¿Puedes ayudarme?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 76
+      },
+      "active": true
+    },
+    {
+      "id": "a1-expression-i-would-like-please",
+      "level": "A1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "I would like ... , please.",
+      "spanish": "Quisiera ... , por favor.",
+      "pronunciation": "áid láik ... plis",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "example": {
+        "en": "I would like ... , please.",
+        "es": "Quisiera ... , por favor."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés A1",
+        "spreadsheetId": "135EAMed-iR5dkYt5Epl1A_V47HAtV_p59bFLFYbIanM",
+        "sheet": "Expresiones",
+        "row": 77
+      },
+      "active": true
+    }
+  ]
 }

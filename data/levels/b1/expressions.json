@@ -1,0 +1,2983 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "B1",
+  "items": [
+    {
+      "id": "b1-expression-and",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "and",
+      "spanish": "y",
+      "pronunciation": "and",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I have a dog and a cat.",
+        "es": "Tengo un perro y un gato."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 4
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-also",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "also",
+      "spanish": "también",
+      "pronunciation": "ólso",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "She also speaks French.",
+        "es": "Ella también habla francés."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 5
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-too",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "too",
+      "spanish": "también (al final)",
+      "pronunciation": "tu",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I want one too.",
+        "es": "Yo también quiero uno."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 6
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-as-well",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "as well",
+      "spanish": "igualmente / también",
+      "pronunciation": "as-uél",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "He came as well.",
+        "es": "Él vino también."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 7
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-besides",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "besides",
+      "spanish": "además",
+      "pronunciation": "bisáids",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Besides, it is cheaper.",
+        "es": "Además, es más barato."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 8
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-in-addition",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "in addition",
+      "spanish": "adicionalmente",
+      "pronunciation": "in-adíshon",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "In addition, we save time.",
+        "es": "Adicionalmente, ahorramos tiempo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 9
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-but",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "but",
+      "spanish": "pero",
+      "pronunciation": "bat",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I am tired but happy.",
+        "es": "Estoy cansado pero feliz."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 10
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-however",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "however",
+      "spanish": "sin embargo",
+      "pronunciation": "jaué-ver",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "It is late; however, I will finish.",
+        "es": "Es tarde; sin embargo, terminaré."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 11
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-although",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "although",
+      "spanish": "aunque",
+      "pronunciation": "ol-zóu",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Although it rains, we go.",
+        "es": "Aunque llueva, vamos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 12
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-even-though",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "even though",
+      "spanish": "aun cuando",
+      "pronunciation": "íven-zóu",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Even though it is hard, I try.",
+        "es": "Aun cuando es difícil, lo intento."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 13
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-though",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "though",
+      "spanish": "aunque (informal)",
+      "pronunciation": "zóu",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "It is good, though.",
+        "es": "Está bien, aunque."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 14
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-yet",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "yet",
+      "spanish": "sin embargo / todavía",
+      "pronunciation": "yet",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Simple yet powerful.",
+        "es": "Simple pero potente."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 15
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-while",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "while",
+      "spanish": "mientras / en cambio",
+      "pronunciation": "uáil",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I read while she sleeps.",
+        "es": "Leo mientras ella duerme."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 16
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-whereas",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "whereas",
+      "spanish": "mientras que",
+      "pronunciation": "uér-as",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I like tea, whereas he likes coffee.",
+        "es": "Me gusta el té, mientras que a él el café."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 17
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-on-the-other-hand",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "on the other hand",
+      "spanish": "por otro lado",
+      "pronunciation": "on-di-óder-jand",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "On the other hand, it is risky.",
+        "es": "Por otro lado, es arriesgado."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 18
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-because",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "because",
+      "spanish": "porque",
+      "pronunciation": "bikós",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I stayed because I was sick.",
+        "es": "Me quedé porque estaba enfermo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 19
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-because-of",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "because of",
+      "spanish": "debido a",
+      "pronunciation": "bikós-ov",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "We are late because of traffic.",
+        "es": "Llegamos tarde debido al tráfico."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 20
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-since",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "since",
+      "spanish": "ya que / desde",
+      "pronunciation": "sins",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Since it is free, let us go.",
+        "es": "Ya que es gratis, vamos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 21
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-so",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "so",
+      "spanish": "así que / entonces",
+      "pronunciation": "sóu",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "It is late, so let us go.",
+        "es": "Es tarde, así que vámonos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 22
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-therefore",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "therefore",
+      "spanish": "por lo tanto",
+      "pronunciation": "dér-for",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "It failed; therefore, we retry.",
+        "es": "Falló; por lo tanto, reintentamos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 23
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-that-is-why",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "that is why",
+      "spanish": "por eso",
+      "pronunciation": "dats-uái",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "That is why I called you.",
+        "es": "Por eso te llamé."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 24
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-as-a-result",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "as a result",
+      "spanish": "como resultado",
+      "pronunciation": "as-a-risólt",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "As a result, sales grew.",
+        "es": "Como resultado, las ventas crecieron."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 25
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-then",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "then",
+      "spanish": "luego / entonces",
+      "pronunciation": "den",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "First eat, then rest.",
+        "es": "Primero come, luego descansa."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 26
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-after-that",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "conector",
+      "english": "after that",
+      "spanish": "después de eso",
+      "pronunciation": "áfter-dat",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "After that, we left.",
+        "es": "Después de eso, nos fuimos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 27
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-give-up",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "give up",
+      "spanish": "rendirse / dejar de",
+      "pronunciation": "guiv-áp",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Don't give up on your dreams.",
+        "es": "No te rindas con tus sueños."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 28
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-set-up",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "set up",
+      "spanish": "configurar / montar",
+      "pronunciation": "set-áp",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Set up the new printer.",
+        "es": "Configura la impresora nueva."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 29
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-turn-on",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "turn on",
+      "spanish": "encender",
+      "pronunciation": "tern-ón",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Turn on the lights.",
+        "es": "Enciende las luces."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 30
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-turn-off",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "turn off",
+      "spanish": "apagar",
+      "pronunciation": "tern-óf",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Turn off the TV.",
+        "es": "Apaga la televisión."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 31
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-carry-out",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "carry out",
+      "spanish": "llevar a cabo",
+      "pronunciation": "kéri-áut",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "We carry out the plan today.",
+        "es": "Llevamos a cabo el plan hoy."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 32
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-find-out",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "find out",
+      "spanish": "averiguar / enterarse",
+      "pronunciation": "fáind-áut",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Find out the truth.",
+        "es": "Averigua la verdad."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 33
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-look-for",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "look for",
+      "spanish": "buscar",
+      "pronunciation": "luk-fór",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I'm looking for my keys.",
+        "es": "Estoy buscando mis llaves."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 34
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-look-up",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "look up",
+      "spanish": "buscar (información)",
+      "pronunciation": "luk-áp",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Look up the word in a dictionary.",
+        "es": "Busca la palabra en un diccionario."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 35
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-figure-out",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "figure out",
+      "spanish": "descubrir / resolver",
+      "pronunciation": "fíguer-áut",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I figured out the problem.",
+        "es": "Descubrí el problema."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 36
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-pick-up",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "pick up",
+      "spanish": "recoger / levantar",
+      "pronunciation": "pik-áp",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Pick up the kids at three.",
+        "es": "Recoge a los niños a las tres."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 37
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-put-on",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "put on",
+      "spanish": "ponerse (ropa)",
+      "pronunciation": "put-ón",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Put on your jacket.",
+        "es": "Ponte la chaqueta."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 38
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-take-off",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "take off",
+      "spanish": "quitarse / despegar",
+      "pronunciation": "téik-óf",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "The plane takes off soon.",
+        "es": "El avión despega pronto."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 39
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-go-on",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "go on",
+      "spanish": "continuar / suceder",
+      "pronunciation": "góu-ón",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Go on, I'm listening.",
+        "es": "Continúa, te escucho."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 40
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-get-up",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "get up",
+      "spanish": "levantarse",
+      "pronunciation": "guet-áp",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I get up at six.",
+        "es": "Me levanto a las seis."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 41
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-look-after",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "look after",
+      "spanish": "cuidar",
+      "pronunciation": "luk-áfter",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Look after your sister.",
+        "es": "Cuida a tu hermana."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 42
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-go-out",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "go out",
+      "spanish": "salir (a divertirse)",
+      "pronunciation": "góu-áut",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "We go out on Fridays.",
+        "es": "Salimos los viernes."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 43
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-get-back",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "get back",
+      "spanish": "regresar / recuperar",
+      "pronunciation": "guet-bák",
+      "categories": [
+        "backend",
+        "b1"
+      ],
+      "example": {
+        "en": "I'll get back tonight.",
+        "es": "Regresaré esta noche."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 44
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-get-in",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "get in",
+      "spanish": "entrar / subir",
+      "pronunciation": "guet-ín",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Get in the car.",
+        "es": "Sube al coche."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 45
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-get-out",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "get out",
+      "spanish": "salir",
+      "pronunciation": "guet-áut",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Get out of here.",
+        "es": "Sal de aquí."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 46
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-go-back",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "go back",
+      "spanish": "regresar",
+      "pronunciation": "góu-bák",
+      "categories": [
+        "backend",
+        "b1"
+      ],
+      "example": {
+        "en": "Let's go back home.",
+        "es": "Regresemos a casa."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 47
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-get-along",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "get along",
+      "spanish": "llevarse bien",
+      "pronunciation": "guet-alóng",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "They get along well.",
+        "es": "Se llevan bien."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 48
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-get-over",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "get over",
+      "spanish": "superar",
+      "pronunciation": "guet-óuver",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "She got over the flu.",
+        "es": "Ella superó la gripe."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 49
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-come-in",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "come in",
+      "spanish": "entrar",
+      "pronunciation": "kam-ín",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Please come in.",
+        "es": "Pasa, por favor."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 50
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-bring-up",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "bring up",
+      "spanish": "mencionar / criar",
+      "pronunciation": "bring-áp",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Don't bring up that topic.",
+        "es": "No menciones ese tema."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 51
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-bring-back",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "bring back",
+      "spanish": "traer de vuelta",
+      "pronunciation": "bring-bák",
+      "categories": [
+        "backend",
+        "b1"
+      ],
+      "example": {
+        "en": "Bring back my book.",
+        "es": "Devuélveme mi libro."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 52
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-break-down",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "break down",
+      "spanish": "averiarse / descomponerse",
+      "pronunciation": "bréik-dáun",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "My car broke down.",
+        "es": "Mi coche se descompuso."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 53
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-break-up",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "break up",
+      "spanish": "terminar (relación)",
+      "pronunciation": "bréik-áp",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "They broke up last week.",
+        "es": "Terminaron la semana pasada."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 54
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-come-back",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "come back",
+      "spanish": "volver",
+      "pronunciation": "kam-bák",
+      "categories": [
+        "backend",
+        "b1"
+      ],
+      "example": {
+        "en": "Come back soon.",
+        "es": "Vuelve pronto."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 55
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-call-off",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "call off",
+      "spanish": "cancelar",
+      "pronunciation": "kol-óf",
+      "categories": [
+        "remote-work",
+        "b1"
+      ],
+      "example": {
+        "en": "They called off the meeting.",
+        "es": "Cancelaron la reunión."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 56
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-call-back",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "call back",
+      "spanish": "devolver la llamada",
+      "pronunciation": "kol-bák",
+      "categories": [
+        "backend",
+        "b1"
+      ],
+      "example": {
+        "en": "I'll call you back later.",
+        "es": "Te devuelvo la llamada después."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 57
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-come-across",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "come across",
+      "spanish": "encontrarse con",
+      "pronunciation": "kam-akrós",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I came across an old friend.",
+        "es": "Me encontré con un viejo amigo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 58
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-check-in",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "check in",
+      "spanish": "registrarse",
+      "pronunciation": "chek-ín",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Check in at the hotel.",
+        "es": "Regístrate en el hotel."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 59
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-check-out",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "check out",
+      "spanish": "salir / revisar",
+      "pronunciation": "chek-áut",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Check out this website.",
+        "es": "Revisa este sitio web."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 60
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-fill-in",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "phrasal verb",
+      "english": "fill in",
+      "spanish": "rellenar",
+      "pronunciation": "fil-ín",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Fill in the form.",
+        "es": "Rellena el formulario."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 61
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-i-need",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "I need ...",
+      "spanish": "Necesito ...",
+      "pronunciation": "ai nid",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I need ...",
+        "es": "Necesito ..."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 62
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-i-am-looking-for",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "I am looking for ...",
+      "spanish": "Estoy buscando ...",
+      "pronunciation": "áim lúking for",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I am looking for ...",
+        "es": "Estoy buscando ..."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 63
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-where-is",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "Where is ...?",
+      "spanish": "¿Dónde está ...?",
+      "pronunciation": "uér is",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Where is ...?",
+        "es": "¿Dónde está ...?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 64
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-how-much-is-it",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "How much is it?",
+      "spanish": "¿Cuánto cuesta?",
+      "pronunciation": "jáu mach is it",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "How much is it?",
+        "es": "¿Cuánto cuesta?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 65
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-i-think-that",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "I think that ...",
+      "spanish": "Creo que ...",
+      "pronunciation": "ai zink dat",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I think that ...",
+        "es": "Creo que ..."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 66
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-in-my-opinion",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "In my opinion ...",
+      "spanish": "En mi opinión ...",
+      "pronunciation": "in mai opínion",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "In my opinion ...",
+        "es": "En mi opinión ..."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 67
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-i-am-not-sure",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "I am not sure.",
+      "spanish": "No estoy seguro.",
+      "pronunciation": "áim not shúar",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I am not sure.",
+        "es": "No estoy seguro."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 68
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-i-agree",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "I agree.",
+      "spanish": "Estoy de acuerdo.",
+      "pronunciation": "ai agrí",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I agree.",
+        "es": "Estoy de acuerdo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 69
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-i-do-not-agree",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "I do not agree.",
+      "spanish": "No estoy de acuerdo.",
+      "pronunciation": "ai dont agrí",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I do not agree.",
+        "es": "No estoy de acuerdo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 70
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-let-me-think",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "Let me think.",
+      "spanish": "Déjame pensar.",
+      "pronunciation": "let mi zink",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Let me think.",
+        "es": "Déjame pensar."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 71
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-no-problem",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "frase",
+      "english": "No problem.",
+      "spanish": "No hay problema.",
+      "pronunciation": "nou próblem",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "No problem.",
+        "es": "No hay problema."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 72
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-empty",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "empty",
+      "spanish": "vacío",
+      "pronunciation": "émpti",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "An empty box.",
+        "es": "Una caja vacía."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 73
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-strong",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "strong",
+      "spanish": "fuerte",
+      "pronunciation": "strong",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "A strong coffee.",
+        "es": "Un café fuerte."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 74
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-weak",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "weak",
+      "spanish": "débil",
+      "pronunciation": "uík",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "A weak signal.",
+        "es": "Una señal débil."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 75
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-right",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "right",
+      "spanish": "correcto / derecho",
+      "pronunciation": "ráit",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "The right answer.",
+        "es": "La respuesta correcta."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 76
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-wrong",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "wrong",
+      "spanish": "incorrecto",
+      "pronunciation": "rong",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "The wrong number.",
+        "es": "El número equivocado."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 77
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-open",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "open",
+      "spanish": "abierto",
+      "pronunciation": "óupen",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "The store is open.",
+        "es": "La tienda está abierta."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 78
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-closed",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "closed",
+      "spanish": "cerrado",
+      "pronunciation": "klóusd",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "The door is closed.",
+        "es": "La puerta está cerrada."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 79
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-beautiful",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "beautiful",
+      "spanish": "hermoso / bonito",
+      "pronunciation": "biútiful",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "A beautiful place.",
+        "es": "Un lugar hermoso."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 80
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-important",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "important",
+      "spanish": "importante",
+      "pronunciation": "impórtant",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "An important call.",
+        "es": "Una llamada importante."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 81
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-different",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "different",
+      "spanish": "diferente",
+      "pronunciation": "díferent",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "A different idea.",
+        "es": "Una idea diferente."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 82
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-same",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "same",
+      "spanish": "mismo / igual",
+      "pronunciation": "séim",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "The same day.",
+        "es": "El mismo día."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 83
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-ready",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "ready",
+      "spanish": "listo",
+      "pronunciation": "rédi",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I am ready.",
+        "es": "Estoy listo."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 84
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-tired",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "tired",
+      "spanish": "cansado",
+      "pronunciation": "táierd",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I am very tired.",
+        "es": "Estoy muy cansado."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 85
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-busy",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "busy",
+      "spanish": "ocupado",
+      "pronunciation": "bísi",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "She is busy.",
+        "es": "Ella está ocupada."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 86
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-free",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "free",
+      "spanish": "libre / gratis",
+      "pronunciation": "fri",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Are you free today?",
+        "es": "¿Estás libre hoy?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 87
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-sure",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "sure",
+      "spanish": "seguro",
+      "pronunciation": "shúar",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "I am not sure.",
+        "es": "No estoy seguro."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 88
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-nice",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "nice",
+      "spanish": "agradable / lindo",
+      "pronunciation": "náis",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "A nice person.",
+        "es": "Una persona agradable."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 89
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-great",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "great",
+      "spanish": "genial / estupendo",
+      "pronunciation": "gréit",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Great news.",
+        "es": "Excelentes noticias."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 90
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-true",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "true",
+      "spanish": "verdadero / cierto",
+      "pronunciation": "tru",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "Is it true?",
+        "es": "¿Es verdad?"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 91
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-possible",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "possible",
+      "spanish": "posible",
+      "pronunciation": "pósibol",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "It is possible.",
+        "es": "Es posible."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 92
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-dark",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "dark",
+      "spanish": "oscuro",
+      "pronunciation": "dark",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "A dark room.",
+        "es": "Un cuarto oscuro."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 93
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-light",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "light",
+      "spanish": "claro / ligero",
+      "pronunciation": "láit",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "A light bag.",
+        "es": "Una bolsa ligera."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 94
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-near",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "near",
+      "spanish": "cercano / cerca",
+      "pronunciation": "níar",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "The store is near.",
+        "es": "La tienda está cerca."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 95
+      },
+      "active": true
+    },
+    {
+      "id": "b1-expression-far",
+      "level": "B1",
+      "type": "expression",
+      "subtype": "adjetivo",
+      "english": "far",
+      "spanish": "lejano / lejos",
+      "pronunciation": "far",
+      "categories": [
+        "general",
+        "b1"
+      ],
+      "example": {
+        "en": "The airport is far.",
+        "es": "El aeropuerto está lejos."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B1",
+        "spreadsheetId": "1OTPgSvKTBUWB6WF4Mi5F1f9PyBR-lBzEiGzx_e8dnGk",
+        "sheet": "Expresiones",
+        "row": 96
+      },
+      "active": true
+    }
+  ]
+}

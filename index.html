@@ -3,32 +3,46 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <title>English Drill · Entrenamiento de inglés</title>
-  <meta name="description" content="Practica inglés por niveles con teoría, ejercicios, progreso local y repaso espaciado.">
-  <meta name="theme-color" content="#5b5bd6">
+  <title>English Drill · Inglés profesional</title>
+  <meta name="description" content="Aprende inglés A1–B2 para desarrollo full-stack, DevOps, automatización y trabajo remoto.">
+  <meta name="theme-color" content="#4f46e5">
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="icon" href="./icons/icon-192.png">
   <link rel="apple-touch-icon" href="./icons/icon-192.png">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-  <div class="wrap">
-    <header class="top">
-      <button class="brand" id="brandBtn" type="button">
-        <h1>English <b>Drill</b></h1>
-        <p>Aprende · practica · repasa</p>
-      </button>
-      <div class="tools">
-        <button class="tool" id="installBtn" type="button" hidden>↓ Instalar</button>
-        <button class="tool" id="settingsBtn" type="button" title="Configuración" aria-label="Configuración">⚙</button>
-        <button class="tool" id="themeBtn" type="button" title="Cambiar tema" aria-label="Cambiar tema">◐</button>
-        <button class="tool" id="resetBtn" type="button" hidden>↻ Reiniciar</button>
-      </div>
-    </header>
-    <main id="app" aria-live="polite">
-      <div class="card loading">Cargando contenido…</div>
-    </main>
+  <div class="app-shell">
+    <aside class="side-nav" aria-label="Navegación principal">
+      <button class="brand" type="button" data-route="/"><span>ED</span><div><b>English Drill</b><small>Remote Work English</small></div></button>
+      <nav id="mainNav">
+        <button data-route="/" type="button"><span>⌂</span>Inicio</button>
+        <button data-route="/practice/setup" type="button"><span>▶</span>Practicar</button>
+        <button data-route="/levels" type="button"><span>▦</span>Niveles</button>
+        <button data-route="/content/select" type="button"><span>☑</span>Seleccionar contenido</button>
+        <button data-route="/evaluations" type="button"><span>◇</span>Evaluaciones</button>
+        <button data-route="/errors" type="button"><span>!</span>Errores</button>
+        <button data-route="/progress" type="button"><span>↗</span>Progreso</button>
+        <button data-route="/settings" type="button"><span>⚙</span>Configuración</button>
+      </nav>
+      <p class="local-note">Sin backend · Datos privados en este dispositivo</p>
+    </aside>
+    <section class="main-shell">
+      <header class="topbar">
+        <button class="mobile-menu" id="menuBtn" type="button" aria-label="Abrir menú">☰</button>
+        <div><b id="pageTitle">English Drill</b><small id="pageContext">Preparación profesional</small></div>
+        <div class="top-tools"><button id="installBtn" type="button" hidden>↓ Instalar</button><button id="themeBtn" type="button" aria-label="Cambiar tema">◐</button></div>
+      </header>
+      <main id="app" aria-live="polite"><div class="panel loading">Cargando currículo…</div></main>
+    </section>
   </div>
+  <nav class="bottom-nav" aria-label="Navegación móvil">
+    <button data-route="/" type="button">⌂<small>Inicio</small></button>
+    <button data-route="/practice/setup" type="button">▶<small>Practicar</small></button>
+    <button data-route="/levels" type="button">▦<small>Niveles</small></button>
+    <button data-route="/progress" type="button">↗<small>Progreso</small></button>
+    <button data-route="/settings" type="button">⚙<small>Ajustes</small></button>
+  </nav>
   <script type="module" src="./src/app.js"></script>
 </body>
 </html>

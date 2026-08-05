@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026.08.1",
+  "contentVersion": "2026.08.2",
   "level": "A1",
   "topicId": "to-be",
   "examples": [
@@ -22,33 +22,6 @@
         "are"
       ],
       "translation": "Tú está listo/a.",
-      "hint": "I usa am; he/she/it usa is; you/we/they usa are.",
-      "explanation": "I usa am; he/she/it usa is; you/we/they usa are.",
-      "grammarTags": [
-        "to-be"
-      ],
-      "subject": null,
-      "polarity": "affirmative",
-      "active": true
-    },
-    {
-      "id": "a1-grammar-to-be-be-are-to-be-example-24fd8f32b183",
-      "itemId": "a1-grammar-to-be-be-are",
-      "level": "A1",
-      "topicId": "to-be",
-      "mode": "fill-blank",
-      "difficulty": 1,
-      "context": "general",
-      "instruction": "Completa la frase.",
-      "prompt": "___ you ready?",
-      "answer": "Are",
-      "acceptableAnswers": [],
-      "options": [
-        "Am",
-        "Is",
-        "Are"
-      ],
-      "translation": "¿Tú está listo/a?",
       "hint": "I usa am; he/she/it usa is; you/we/they usa are.",
       "explanation": "I usa am; he/she/it usa is; you/we/they usa are.",
       "grammarTags": [
@@ -113,33 +86,6 @@
       "active": true
     },
     {
-      "id": "a1-grammar-to-be-be-are-to-be-example-e88412c969a3",
-      "itemId": "a1-grammar-to-be-be-are",
-      "level": "A1",
-      "topicId": "to-be",
-      "mode": "fill-blank",
-      "difficulty": 1,
-      "context": "general",
-      "instruction": "Completa la frase.",
-      "prompt": "___ we ready?",
-      "answer": "Are",
-      "acceptableAnswers": [],
-      "options": [
-        "Am",
-        "Is",
-        "Are"
-      ],
-      "translation": "¿Nosotros está listo/a?",
-      "hint": "I usa am; he/she/it usa is; you/we/they usa are.",
-      "explanation": "I usa am; he/she/it usa is; you/we/they usa are.",
-      "grammarTags": [
-        "to-be"
-      ],
-      "subject": null,
-      "polarity": "affirmative",
-      "active": true
-    },
-    {
       "id": "a1-grammar-to-be-be-are-to-be-example-205fcff575a6",
       "itemId": "a1-grammar-to-be-be-are",
       "level": "A1",
@@ -184,33 +130,6 @@
         "are"
       ],
       "translation": "Ellos está listo/a.",
-      "hint": "I usa am; he/she/it usa is; you/we/they usa are.",
-      "explanation": "I usa am; he/she/it usa is; you/we/they usa are.",
-      "grammarTags": [
-        "to-be"
-      ],
-      "subject": null,
-      "polarity": "affirmative",
-      "active": true
-    },
-    {
-      "id": "a1-grammar-to-be-be-are-to-be-example-b71e55ff4a4e",
-      "itemId": "a1-grammar-to-be-be-are",
-      "level": "A1",
-      "topicId": "to-be",
-      "mode": "fill-blank",
-      "difficulty": 1,
-      "context": "general",
-      "instruction": "Completa la frase.",
-      "prompt": "___ they ready?",
-      "answer": "Are",
-      "acceptableAnswers": [],
-      "options": [
-        "Am",
-        "Is",
-        "Are"
-      ],
-      "translation": "¿Ellos está listo/a?",
       "hint": "I usa am; he/she/it usa is; you/we/they usa are.",
       "explanation": "I usa am; he/she/it usa is; you/we/they usa are.",
       "grammarTags": [

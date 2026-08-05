@@ -1,0 +1,443 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.2",
+  "level": "B2",
+  "items": [
+    {
+      "id": "b2-grammar-present-perfect-continuous",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Present perfect continuous",
+      "spanish": "Duración hasta el presente",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "I have been working on the migration.",
+        "es": "Duración hasta el presente"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Gramática",
+        "row": 4
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-past-perfect",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Past perfect",
+      "spanish": "Secuencia en el pasado",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "The service had failed before we deployed.",
+        "es": "Secuencia en el pasado"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Gramática",
+        "row": 5
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-reported-speech",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Reported speech",
+      "spanish": "Reportar mensajes",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "She said the fix was ready.",
+        "es": "Reportar mensajes"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Gramática",
+        "row": 6
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-indirect-questions",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Indirect questions",
+      "spanish": "Preguntar con cortesía",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "Could you explain how it works?",
+        "es": "Preguntar con cortesía"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Gramática",
+        "row": 7
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-past-modals",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Past modals",
+      "spanish": "Evaluar decisiones pasadas",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "We should have tested it earlier.",
+        "es": "Evaluar decisiones pasadas"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Gramática",
+        "row": 8
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-advanced-passive",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Advanced passive",
+      "spanish": "Explicar procesos complejos",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "The request is being processed.",
+        "es": "Explicar procesos complejos"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Gramática",
+        "row": 9
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-mixed-conditionals",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Mixed conditionals",
+      "spanish": "Conectar pasado y presente",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "If we had migrated, we would be safer now.",
+        "es": "Conectar pasado y presente"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Gramática",
+        "row": 10
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-hedging-and-diplomacy",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Hedging and diplomacy",
+      "spanish": "Opinar sin sonar agresivo",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "I may be missing something, but...",
+        "es": "Opinar sin sonar agresivo"
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "spreadsheet": "Inglés B2 laboral",
+        "spreadsheetId": "1utFFBnzkQqFX34Th1ds4480-Xk5Yw2cDdkZ0kb8NF9U",
+        "sheet": "Gramática",
+        "row": 11
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-reporting-verbs",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Reporting verbs",
+      "spanish": "Usar Reporting verbs en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "Use Reporting verbs in a clear work message.",
+        "es": "Usar Reporting verbs en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Reporting verbs"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-contraste-avanzado",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Contraste avanzado",
+      "spanish": "Usar Contraste avanzado en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "Use Contraste avanzado in a clear work message.",
+        "es": "Usar Contraste avanzado en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Contraste avanzado"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-grados-de-certeza",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Grados de certeza",
+      "spanish": "Usar Grados de certeza en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "Use Grados de certeza in a clear work message.",
+        "es": "Usar Grados de certeza en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Grados de certeza"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-lenguaje-de-negociacion",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Lenguaje de negociación",
+      "spanish": "Usar Lenguaje de negociación en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "Use Lenguaje de negociación in a clear work message.",
+        "es": "Usar Lenguaje de negociación en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Lenguaje de negociación"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-frases-nominales-complejas",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Frases nominales complejas",
+      "spanish": "Usar Frases nominales complejas en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "Use Frases nominales complejas in a clear work message.",
+        "es": "Usar Frases nominales complejas en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Frases nominales complejas"
+      },
+      "active": true
+    },
+    {
+      "id": "b2-grammar-organizacion-del-discurso",
+      "level": "B2",
+      "type": "grammar",
+      "english": "Organización del discurso",
+      "spanish": "Usar Organización del discurso en comunicación profesional.",
+      "pronunciation": "",
+      "categories": [
+        "general",
+        "grammar",
+        "b2"
+      ],
+      "example": {
+        "en": "Use Organización del discurso in a clear work message.",
+        "es": "Usar Organización del discurso en comunicación profesional."
+      },
+      "defaultStatus": "new",
+      "initialProgress": {
+        "correctTotal": 0,
+        "errorTotal": 0,
+        "lastReviewedAt": null,
+        "nextReviewAt": null,
+        "notes": ""
+      },
+      "source": {
+        "addedBy": "curriculum-requirement",
+        "requirement": "Organización del discurso"
+      },
+      "active": true
+    }
+  ]
+}
