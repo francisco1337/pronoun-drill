@@ -1,4 +1,4 @@
-const CACHE = "english-drill-2026.08.2-r1";
+const CACHE = "english-drill-2026.08.2-r2";
 const SHELL = [
   "./",
   "./index.html",

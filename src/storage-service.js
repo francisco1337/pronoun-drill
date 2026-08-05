@@ -351,32 +351,75 @@ class StorageService {
   }
 
   exportData() {
+    const progress = this.getAllProgress();
+    const sessions = this.getSessionSummaries();
+    const errors = this.getActiveErrors();
     return {
       schema: "englishTrainer-backup",
+      schemaVersion: 1,
       storageVersion: STORAGE_VERSION,
       exportedAt: nowIso(),
       meta: this.#read("meta", {}),
+      summary: {
+        itemsWithProgress: Object.keys(progress).length,
+        masteredItems: Object.values(progress).filter((record) => record?.status === "mastered").length,
+        errors: Object.keys(errors).length,
+        sessions: sessions.length
+      },
       settings: this.getSettings(),
-      progress: this.getAllProgress(),
+      progress,
       customLists: this.#read("customLists", []),
-      errors: this.getActiveErrors(),
-      sessions: this.getSessionSummaries(),
+      errors,
+      sessions,
       dailySummary: this.#read("dailySummary", {}),
-      contentReports: this.#read("contentReports", [])
+      contentReports: this.#read("contentReports", []),
+      currentSession: this.getCurrentSession()
     };
   }
 
   importData(data) {
-    if (!data || data.schema !== "englishTrainer-backup" || typeof data.progress !== "object" || typeof data.settings !== "object") throw new Error("El archivo no es una copia válida de English Trainer.");
-    this.#write("backup", { createdAt: nowIso(), reason: "before-import", values: this.exportData() });
-    this.#write("settings", { ...DEFAULT_SETTINGS, ...data.settings });
-    this.#write("progress", data.progress || {});
-    this.#write("customLists", Array.isArray(data.customLists) ? data.customLists : []);
-    this.#write("errors", data.errors || {});
-    this.#write("sessions", Array.isArray(data.sessions || data.sessionSummary) ? (data.sessions || data.sessionSummary).slice(-MAX_SESSIONS) : []);
-    this.#write("dailySummary", data.dailySummary && typeof data.dailySummary === "object" ? data.dailySummary : {});
-    this.#write("contentReports", Array.isArray(data.contentReports) ? data.contentReports.slice(-100) : []);
-    return true;
+    const plainObject = (value) => value && typeof value === "object" && !Array.isArray(value);
+    if (!plainObject(data) || data.schema !== "englishTrainer-backup" || !plainObject(data.progress) || !plainObject(data.settings)) throw new Error("El archivo no es una copia válida de English Drill.");
+    if (data.schemaVersion != null && data.schemaVersion !== 1) throw new Error("La versión de este respaldo todavía no es compatible.");
+    const invalidProgress = Object.entries(data.progress).some(([id, record]) => !id || !plainObject(record) || (record.itemId && record.itemId !== id));
+    if (invalidProgress) throw new Error("El respaldo contiene registros de progreso inválidos.");
+
+    const previous = this.exportData();
+    const importedSessions = Array.isArray(data.sessions || data.sessionSummary) ? (data.sessions || data.sessionSummary).slice(-MAX_SESSIONS) : [];
+    const values = {
+      settings: { ...DEFAULT_SETTINGS, ...data.settings },
+      progress: data.progress,
+      customLists: Array.isArray(data.customLists) ? data.customLists : [],
+      errors: plainObject(data.errors) ? data.errors : {},
+      sessions: importedSessions,
+      dailySummary: plainObject(data.dailySummary) ? data.dailySummary : {},
+      contentReports: Array.isArray(data.contentReports) ? data.contentReports.slice(-100) : [],
+      currentSession: plainObject(data.currentSession) ? data.currentSession : null
+    };
+    const failed = Object.entries(values).filter(([name, value]) => name !== "currentSession" && !this.#write(name, value)).map(([name]) => name);
+    if (values.currentSession) {
+      if (!this.#write("currentSession", values.currentSession)) failed.push("currentSession");
+    } else this.clearCurrentSession();
+
+    if (failed.length) {
+      this.#write("settings", previous.settings);
+      this.#write("progress", previous.progress);
+      this.#write("customLists", previous.customLists);
+      this.#write("errors", previous.errors);
+      this.#write("sessions", previous.sessions);
+      this.#write("dailySummary", previous.dailySummary);
+      this.#write("contentReports", previous.contentReports);
+      if (previous.currentSession) this.#write("currentSession", previous.currentSession); else this.clearCurrentSession();
+      throw new Error("No hubo espacio suficiente para importar el respaldo. El avance anterior fue restaurado.");
+    }
+    this.#write("backup", { createdAt: nowIso(), reason: "before-import", values: previous });
+    this.#write("meta", { ...this.#read("meta", {}), storageVersion: STORAGE_VERSION, importedAt: nowIso(), importedFrom: data.exportedAt || null });
+    return {
+      itemsWithProgress: Object.keys(values.progress).length,
+      masteredItems: Object.values(values.progress).filter((record) => record.status === "mastered").length,
+      errors: Object.keys(values.errors).length,
+      sessions: values.sessions.length
+    };
   }
 }
 

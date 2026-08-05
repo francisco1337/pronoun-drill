@@ -11,6 +11,7 @@ Aplicación web progresiva para aprender inglés A1–B2 orientado a desarrollo 
 - Selección exacta de contenido por nivel, área, tema, tipo, categoría, estado, errores y repasos.
 - Práctica adaptativa, repetición espaciada, cuaderno de errores y dominio simple o robusto.
 - Progreso, sesiones y respaldos guardados exclusivamente en `localStorage`.
+- Transferencia de avance entre dispositivos mediante exportación e importación JSON validada.
 
 El banco generado actualmente contiene 1,032 elementos y 34,651 ejercicios. El reporte de importación enlaza 905 filas de las hojas fuente y documenta las filas duplicadas o inválidas omitidas.
 
@@ -46,7 +47,7 @@ Abre `http://127.0.0.1:4173`. Servir por HTTP es necesario para `fetch`, el serv
 
 ## Datos locales y privacidad
 
-Las claves usan el espacio `englishTrainer:v1:*`. Se guardan preferencias, selección, progreso por ID estable, errores, sesiones, listas personalizadas y reportes de contenido. Configuración permite exportar e importar un respaldo JSON validado y restablecer por nivel o todo el progreso. Los estados iniciales importados como dominados se conservan.
+Las claves usan el espacio `englishTrainer:v1:*`. Se guardan preferencias, selección, progreso por ID estable, errores, sesiones, listas personalizadas y reportes de contenido. La pantalla **Transferir avance** descarga un JSON con todo el estado personal —incluida una sesión en curso— y permite restaurarlo en el `localStorage` de otro navegador. La importación valida el esquema, conserva una copia preventiva del avance anterior y actualiza la interfaz inmediatamente. Los estados iniciales importados como dominados se conservan.
 
 El contenido educativo no forma parte del respaldo del usuario y ningún dato se envía a servidores.
 
