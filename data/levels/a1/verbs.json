@@ -1,0 +1,2007 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "items": [
+    {
+      "id": "a1-verb-move",
+      "level": "A1",
+      "type": "verb",
+      "english": "move",
+      "spanish": "mover / mudarse",
+      "pronunciation": "múv",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "move",
+        "thirdPerson": "moves",
+        "past": "moved",
+        "pastParticiple": "moved",
+        "gerund": "moving"
+      },
+      "example": {
+        "en": "Move your car.",
+        "es": "Mueve tu coche."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-need",
+      "level": "A1",
+      "type": "verb",
+      "english": "need",
+      "spanish": "necesitar",
+      "pronunciation": "nid",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "need",
+        "thirdPerson": "needs",
+        "past": "needed",
+        "pastParticiple": "needed",
+        "gerund": "needing"
+      },
+      "example": {
+        "en": "I need help.",
+        "es": "Necesito ayuda."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-call",
+      "level": "A1",
+      "type": "verb",
+      "english": "call",
+      "spanish": "llamar",
+      "pronunciation": "kol",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "call",
+        "thirdPerson": "calls",
+        "past": "called",
+        "pastParticiple": "called",
+        "gerund": "calling"
+      },
+      "example": {
+        "en": "Call me tonight.",
+        "es": "Llámame esta noche."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-use",
+      "level": "A1",
+      "type": "verb",
+      "english": "use",
+      "spanish": "usar",
+      "pronunciation": "yús",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "use",
+        "thirdPerson": "uses",
+        "past": "used",
+        "pastParticiple": "used",
+        "gerund": "using"
+      },
+      "example": {
+        "en": "I use my laptop daily.",
+        "es": "Uso mi laptop a diario."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead",
+      "level": "A1",
+      "type": "verb",
+      "english": "lead",
+      "spanish": "liderar / conducir",
+      "pronunciation": "lid",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "lead",
+        "thirdPerson": "leads",
+        "past": "led",
+        "pastParticiple": "led",
+        "gerund": "leading"
+      },
+      "example": {
+        "en": "She leads the team.",
+        "es": "Ella lidera el equipo."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-try",
+      "level": "A1",
+      "type": "verb",
+      "english": "try",
+      "spanish": "intentar / probar",
+      "pronunciation": "trái",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "try",
+        "thirdPerson": "tries",
+        "past": "tried",
+        "pastParticiple": "tried",
+        "gerund": "trying"
+      },
+      "example": {
+        "en": "I try to eat healthy.",
+        "es": "Intento comer sano."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass",
+      "level": "A1",
+      "type": "verb",
+      "english": "pass",
+      "spanish": "pasar / aprobar",
+      "pronunciation": "pas",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "pass",
+        "thirdPerson": "passes",
+        "past": "passed",
+        "pastParticiple": "passed",
+        "gerund": "passing"
+      },
+      "example": {
+        "en": "Pass the salt.",
+        "es": "Pasa la sal."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk",
+      "level": "A1",
+      "type": "verb",
+      "english": "talk",
+      "spanish": "hablar / conversar",
+      "pronunciation": "tok",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "talk",
+        "thirdPerson": "talks",
+        "past": "talked",
+        "pastParticiple": "talked",
+        "gerund": "talking"
+      },
+      "example": {
+        "en": "We talk every day.",
+        "es": "Hablamos todos los días."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create",
+      "level": "A1",
+      "type": "verb",
+      "english": "create",
+      "spanish": "crear",
+      "pronunciation": "kriéit",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "create",
+        "thirdPerson": "creates",
+        "past": "created",
+        "pastParticiple": "created",
+        "gerund": "creating"
+      },
+      "example": {
+        "en": "I create designs.",
+        "es": "Creo diseños."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-report",
+      "level": "A1",
+      "type": "verb",
+      "english": "report",
+      "spanish": "reportar / informar",
+      "pronunciation": "ripórt",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "report",
+        "thirdPerson": "reports",
+        "past": "reported",
+        "pastParticiple": "reported",
+        "gerund": "reporting"
+      },
+      "example": {
+        "en": "Report the issue.",
+        "es": "Reporta el problema."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-seem",
+      "level": "A1",
+      "type": "verb",
+      "english": "seem",
+      "spanish": "parecer",
+      "pronunciation": "sim",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "seem",
+        "thirdPerson": "seems",
+        "past": "seemed",
+        "pastParticiple": "seemed",
+        "gerund": "seeming"
+      },
+      "example": {
+        "en": "You seem happy.",
+        "es": "Pareces feliz."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn",
+      "level": "A1",
+      "type": "verb",
+      "english": "turn",
+      "spanish": "girar / voltear",
+      "pronunciation": "tern",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "turn",
+        "thirdPerson": "turns",
+        "past": "turned",
+        "pastParticiple": "turned",
+        "gerund": "turning"
+      },
+      "example": {
+        "en": "Turn left here.",
+        "es": "Gira a la izquierda aquí."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-continue",
+      "level": "A1",
+      "type": "verb",
+      "english": "continue",
+      "spanish": "continuar",
+      "pronunciation": "continiú",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "continue",
+        "thirdPerson": "continues",
+        "past": "continued",
+        "pastParticiple": "continued",
+        "gerund": "continuing"
+      },
+      "example": {
+        "en": "Please continue.",
+        "es": "Por favor continúa."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve",
+      "level": "A1",
+      "type": "verb",
+      "english": "serve",
+      "spanish": "servir",
+      "pronunciation": "serv",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "serve",
+        "thirdPerson": "serves",
+        "past": "served",
+        "pastParticiple": "served",
+        "gerund": "serving"
+      },
+      "example": {
+        "en": "We serve breakfast.",
+        "es": "Servimos desayuno."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-start",
+      "level": "A1",
+      "type": "verb",
+      "english": "start",
+      "spanish": "empezar",
+      "pronunciation": "start",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "start",
+        "thirdPerson": "starts",
+        "past": "started",
+        "pastParticiple": "started",
+        "gerund": "starting"
+      },
+      "example": {
+        "en": "Let's start now.",
+        "es": "Empecemos ahora."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-consider",
+      "level": "A1",
+      "type": "verb",
+      "english": "consider",
+      "spanish": "considerar",
+      "pronunciation": "consíder",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "consider",
+        "thirdPerson": "considers",
+        "past": "considered",
+        "pastParticiple": "considered",
+        "gerund": "considering"
+      },
+      "example": {
+        "en": "Consider the options.",
+        "es": "Considera las opciones."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-plan",
+      "level": "A1",
+      "type": "verb",
+      "english": "plan",
+      "spanish": "planear",
+      "pronunciation": "plan",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "plan",
+        "thirdPerson": "plans",
+        "past": "planned",
+        "pastParticiple": "planned",
+        "gerund": "planning"
+      },
+      "example": {
+        "en": "Plan the trip.",
+        "es": "Planea el viaje."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-offer",
+      "level": "A1",
+      "type": "verb",
+      "english": "offer",
+      "spanish": "ofrecer",
+      "pronunciation": "ófer",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "offer",
+        "thirdPerson": "offers",
+        "past": "offered",
+        "pastParticiple": "offered",
+        "gerund": "offering"
+      },
+      "example": {
+        "en": "They offer discounts.",
+        "es": "Ofrecen descuentos."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-act",
+      "level": "A1",
+      "type": "verb",
+      "english": "act",
+      "spanish": "actuar",
+      "pronunciation": "akt",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "act",
+        "thirdPerson": "acts",
+        "past": "acted",
+        "pastParticiple": "acted",
+        "gerund": "acting"
+      },
+      "example": {
+        "en": "Act quickly.",
+        "es": "Actúa rápido."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-count",
+      "level": "A1",
+      "type": "verb",
+      "english": "count",
+      "spanish": "contar",
+      "pronunciation": "káunt",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "count",
+        "thirdPerson": "counts",
+        "past": "counted",
+        "pastParticiple": "counted",
+        "gerund": "counting"
+      },
+      "example": {
+        "en": "Count to ten.",
+        "es": "Cuenta hasta diez."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide",
+      "level": "A1",
+      "type": "verb",
+      "english": "provide",
+      "spanish": "proveer / proporcionar",
+      "pronunciation": "prováid",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "provide",
+        "thirdPerson": "provides",
+        "past": "provided",
+        "pastParticiple": "provided",
+        "gerund": "providing"
+      },
+      "example": {
+        "en": "We provide food.",
+        "es": "Proporcionamos comida."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit",
+      "level": "A1",
+      "type": "verb",
+      "english": "visit",
+      "spanish": "visitar",
+      "pronunciation": "vísit",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "visit",
+        "thirdPerson": "visits",
+        "past": "visited",
+        "pastParticiple": "visited",
+        "gerund": "visiting"
+      },
+      "example": {
+        "en": "Visit your family.",
+        "es": "Visita a tu familia."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-work",
+      "level": "A1",
+      "type": "verb",
+      "english": "work",
+      "spanish": "trabajar",
+      "pronunciation": "uérk",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "work",
+        "thirdPerson": "works",
+        "past": "worked",
+        "pastParticiple": "worked",
+        "gerund": "working"
+      },
+      "example": {
+        "en": "I work from home.",
+        "es": "Trabajo desde casa."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry",
+      "level": "A1",
+      "type": "verb",
+      "english": "carry",
+      "spanish": "cargar / llevar",
+      "pronunciation": "kéri",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "carry",
+        "thirdPerson": "carries",
+        "past": "carried",
+        "pastParticiple": "carried",
+        "gerund": "carrying"
+      },
+      "example": {
+        "en": "Carry the bags.",
+        "es": "Carga las bolsas."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include",
+      "level": "A1",
+      "type": "verb",
+      "english": "include",
+      "spanish": "incluir",
+      "pronunciation": "inclúd",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "include",
+        "thirdPerson": "includes",
+        "past": "included",
+        "pastParticiple": "included",
+        "gerund": "including"
+      },
+      "example": {
+        "en": "The price includes tax.",
+        "es": "El precio incluye impuestos."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask",
+      "level": "A1",
+      "type": "verb",
+      "english": "ask",
+      "spanish": "preguntar / pedir",
+      "pronunciation": "ask",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "ask",
+        "thirdPerson": "asks",
+        "past": "asked",
+        "pastParticiple": "asked",
+        "gerund": "asking"
+      },
+      "example": {
+        "en": "Ask a question.",
+        "es": "Haz una pregunta."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-live",
+      "level": "A1",
+      "type": "verb",
+      "english": "live",
+      "spanish": "vivir",
+      "pronunciation": "liv",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "live",
+        "thirdPerson": "lives",
+        "past": "lived",
+        "pastParticiple": "lived",
+        "gerund": "living"
+      },
+      "example": {
+        "en": "I live in Mexico.",
+        "es": "Vivo en México."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-learn",
+      "level": "A1",
+      "type": "verb",
+      "english": "learn",
+      "spanish": "aprender",
+      "pronunciation": "lern",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "learn",
+        "thirdPerson": "learns",
+        "past": "learned",
+        "pastParticiple": "learned",
+        "gerund": "learning"
+      },
+      "example": {
+        "en": "I learn English.",
+        "es": "Aprendo inglés."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-play",
+      "level": "A1",
+      "type": "verb",
+      "english": "play",
+      "spanish": "jugar / tocar",
+      "pronunciation": "pléi",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "play",
+        "thirdPerson": "plays",
+        "past": "played",
+        "pastParticiple": "played",
+        "gerund": "playing"
+      },
+      "example": {
+        "en": "I play the guitar.",
+        "es": "Toco la guitarra."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-appear",
+      "level": "A1",
+      "type": "verb",
+      "english": "appear",
+      "spanish": "aparecer",
+      "pronunciation": "apíar",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "appear",
+        "thirdPerson": "appears",
+        "past": "appeared",
+        "pastParticiple": "appeared",
+        "gerund": "appearing"
+      },
+      "example": {
+        "en": "A star appeared.",
+        "es": "Apareció una estrella."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-explain",
+      "level": "A1",
+      "type": "verb",
+      "english": "explain",
+      "spanish": "explicar",
+      "pronunciation": "ikspléin",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "explain",
+        "thirdPerson": "explains",
+        "past": "explained",
+        "pastParticiple": "explained",
+        "gerund": "explaining"
+      },
+      "example": {
+        "en": "Explain the rules.",
+        "es": "Explica las reglas."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cause",
+      "level": "A1",
+      "type": "verb",
+      "english": "cause",
+      "spanish": "causar",
+      "pronunciation": "kos",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "cause",
+        "thirdPerson": "causes",
+        "past": "caused",
+        "pastParticiple": "caused",
+        "gerund": "causing"
+      },
+      "example": {
+        "en": "Rain caused delays.",
+        "es": "La lluvia causó retrasos."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show",
+      "level": "A1",
+      "type": "verb",
+      "english": "show",
+      "spanish": "mostrar",
+      "pronunciation": "shóu",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "show",
+        "thirdPerson": "shows",
+        "past": "showed",
+        "pastParticiple": "shown",
+        "gerund": "showing"
+      },
+      "example": {
+        "en": "Show me the way.",
+        "es": "Muéstrame el camino."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support",
+      "level": "A1",
+      "type": "verb",
+      "english": "support",
+      "spanish": "apoyar / soportar",
+      "pronunciation": "supórt",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "support",
+        "thirdPerson": "supports",
+        "past": "supported",
+        "pastParticiple": "supported",
+        "gerund": "supporting"
+      },
+      "example": {
+        "en": "I support your idea.",
+        "es": "Apoyo tu idea."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-point",
+      "level": "A1",
+      "type": "verb",
+      "english": "point",
+      "spanish": "señalar / apuntar",
+      "pronunciation": "póint",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "point",
+        "thirdPerson": "points",
+        "past": "pointed",
+        "pastParticiple": "pointed",
+        "gerund": "pointing"
+      },
+      "example": {
+        "en": "Point at the map.",
+        "es": "Señala el mapa."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-require",
+      "level": "A1",
+      "type": "verb",
+      "english": "require",
+      "spanish": "requerir",
+      "pronunciation": "rikuáir",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "require",
+        "thirdPerson": "requires",
+        "past": "required",
+        "pastParticiple": "required",
+        "gerund": "requiring"
+      },
+      "example": {
+        "en": "This requires time.",
+        "es": "Esto requiere tiempo."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-suggest",
+      "level": "A1",
+      "type": "verb",
+      "english": "suggest",
+      "spanish": "sugerir",
+      "pronunciation": "sagchést",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "suggest",
+        "thirdPerson": "suggests",
+        "past": "suggested",
+        "pastParticiple": "suggested",
+        "gerund": "suggesting"
+      },
+      "example": {
+        "en": "I suggest we wait.",
+        "es": "Sugiero que esperemos."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch",
+      "level": "A1",
+      "type": "verb",
+      "english": "touch",
+      "spanish": "tocar",
+      "pronunciation": "tach",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "touch",
+        "thirdPerson": "touches",
+        "past": "touched",
+        "pastParticiple": "touched",
+        "gerund": "touching"
+      },
+      "example": {
+        "en": "Don't touch that.",
+        "es": "No toques eso."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide",
+      "level": "A1",
+      "type": "verb",
+      "english": "decide",
+      "spanish": "decidir",
+      "pronunciation": "disáid",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "decide",
+        "thirdPerson": "decides",
+        "past": "decided",
+        "pastParticiple": "decided",
+        "gerund": "deciding"
+      },
+      "example": {
+        "en": "I decided to go.",
+        "es": "Decidí ir."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-want",
+      "level": "A1",
+      "type": "verb",
+      "english": "want",
+      "spanish": "querer",
+      "pronunciation": "uánt",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "want",
+        "thirdPerson": "wants",
+        "past": "wanted",
+        "pastParticiple": "wanted",
+        "gerund": "wanting"
+      },
+      "example": {
+        "en": "I want some water.",
+        "es": "Quiero un poco de agua."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stop",
+      "level": "A1",
+      "type": "verb",
+      "english": "stop",
+      "spanish": "parar / detener",
+      "pronunciation": "stop",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "stop",
+        "thirdPerson": "stops",
+        "past": "stopped",
+        "pastParticiple": "stopped",
+        "gerund": "stopping"
+      },
+      "example": {
+        "en": "Stop the car.",
+        "es": "Detén el coche."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look",
+      "level": "A1",
+      "type": "verb",
+      "english": "look",
+      "spanish": "mirar",
+      "pronunciation": "luk",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "look",
+        "thirdPerson": "looks",
+        "past": "looked",
+        "pastParticiple": "looked",
+        "gerund": "looking"
+      },
+      "example": {
+        "en": "Look at the sky.",
+        "es": "Mira el cielo."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce",
+      "level": "A1",
+      "type": "verb",
+      "english": "produce",
+      "spanish": "producir",
+      "pronunciation": "prodiús",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "produce",
+        "thirdPerson": "produces",
+        "past": "produced",
+        "pastParticiple": "produced",
+        "gerund": "producing"
+      },
+      "example": {
+        "en": "We produce cars.",
+        "es": "Producimos autos."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-remain",
+      "level": "A1",
+      "type": "verb",
+      "english": "remain",
+      "spanish": "permanecer",
+      "pronunciation": "riméin",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "remain",
+        "thirdPerson": "remains",
+        "past": "remained",
+        "pastParticiple": "remained",
+        "gerund": "remaining"
+      },
+      "example": {
+        "en": "Remain calm.",
+        "es": "Permanece en calma."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-add",
+      "level": "A1",
+      "type": "verb",
+      "english": "add",
+      "spanish": "añadir / agregar",
+      "pronunciation": "ad",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "add",
+        "thirdPerson": "adds",
+        "past": "added",
+        "pastParticiple": "added",
+        "gerund": "adding"
+      },
+      "example": {
+        "en": "Add some sugar.",
+        "es": "Agrega un poco de azúcar."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-die",
+      "level": "A1",
+      "type": "verb",
+      "english": "die",
+      "spanish": "morir",
+      "pronunciation": "dái",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "die",
+        "thirdPerson": "dies",
+        "past": "died",
+        "pastParticiple": "died",
+        "gerund": "dying"
+      },
+      "example": {
+        "en": "The plant died.",
+        "es": "La planta murió."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prefer",
+      "level": "A1",
+      "type": "verb",
+      "english": "prefer",
+      "spanish": "preferir",
+      "pronunciation": "prifér",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "prefer",
+        "thirdPerson": "prefers",
+        "past": "preferred",
+        "pastParticiple": "preferred",
+        "gerund": "preferring"
+      },
+      "example": {
+        "en": "I prefer tea.",
+        "es": "Prefiero el té."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-watch",
+      "level": "A1",
+      "type": "verb",
+      "english": "watch",
+      "spanish": "ver / observar",
+      "pronunciation": "uách",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "watch",
+        "thirdPerson": "watches",
+        "past": "watched",
+        "pastParticiple": "watched",
+        "gerund": "watching"
+      },
+      "example": {
+        "en": "I watch movies.",
+        "es": "Veo películas."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk",
+      "level": "A1",
+      "type": "verb",
+      "english": "walk",
+      "spanish": "caminar",
+      "pronunciation": "uók",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "walk",
+        "thirdPerson": "walks",
+        "past": "walked",
+        "pastParticiple": "walked",
+        "gerund": "walking"
+      },
+      "example": {
+        "en": "I walk to work.",
+        "es": "Camino al trabajo."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-help",
+      "level": "A1",
+      "type": "verb",
+      "english": "help",
+      "spanish": "ayudar",
+      "pronunciation": "jelp",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "help",
+        "thirdPerson": "helps",
+        "past": "helped",
+        "pastParticiple": "helped",
+        "gerund": "helping"
+      },
+      "example": {
+        "en": "Can you help me?",
+        "es": "¿Puedes ayudarme?"
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent",
+      "level": "A1",
+      "type": "verb",
+      "english": "rent",
+      "spanish": "rentar / alquilar",
+      "pronunciation": "rent",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "rent",
+        "thirdPerson": "rents",
+        "past": "rented",
+        "pastParticiple": "rented",
+        "gerund": "renting"
+      },
+      "example": {
+        "en": "We rent a house.",
+        "es": "Rentamos una casa."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change",
+      "level": "A1",
+      "type": "verb",
+      "english": "change",
+      "spanish": "cambiar",
+      "pronunciation": "chéinch",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "change",
+        "thirdPerson": "changes",
+        "past": "changed",
+        "pastParticiple": "changed",
+        "gerund": "changing"
+      },
+      "example": {
+        "en": "Change your mind.",
+        "es": "Cambia de opinión."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait",
+      "level": "A1",
+      "type": "verb",
+      "english": "wait",
+      "spanish": "esperar",
+      "pronunciation": "uéit",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "wait",
+        "thirdPerson": "waits",
+        "past": "waited",
+        "pastParticiple": "waited",
+        "gerund": "waiting"
+      },
+      "example": {
+        "en": "Wait for me.",
+        "es": "Espérame."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-drop",
+      "level": "A1",
+      "type": "verb",
+      "english": "drop",
+      "spanish": "soltar / dejar caer",
+      "pronunciation": "drop",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "drop",
+        "thirdPerson": "drops",
+        "past": "dropped",
+        "pastParticiple": "dropped",
+        "gerund": "dropping"
+      },
+      "example": {
+        "en": "Don't drop it.",
+        "es": "No lo dejes caer."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-fill",
+      "level": "A1",
+      "type": "verb",
+      "english": "fill",
+      "spanish": "llenar",
+      "pronunciation": "fil",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "fill",
+        "thirdPerson": "fills",
+        "past": "filled",
+        "pastParticiple": "filled",
+        "gerund": "filling"
+      },
+      "example": {
+        "en": "Fill the glass.",
+        "es": "Llena el vaso."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-plant",
+      "level": "A1",
+      "type": "verb",
+      "english": "plant",
+      "spanish": "plantar / sembrar",
+      "pronunciation": "plant",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "plant",
+        "thirdPerson": "plants",
+        "past": "planted",
+        "pastParticiple": "planted",
+        "gerund": "planting"
+      },
+      "example": {
+        "en": "Plant a tree.",
+        "es": "Planta un árbol."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-raise",
+      "level": "A1",
+      "type": "verb",
+      "english": "raise",
+      "spanish": "levantar / criar",
+      "pronunciation": "réis",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "raise",
+        "thirdPerson": "raises",
+        "past": "raised",
+        "pastParticiple": "raised",
+        "gerund": "raising"
+      },
+      "example": {
+        "en": "Raise your hand.",
+        "es": "Levanta la mano."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-reach",
+      "level": "A1",
+      "type": "verb",
+      "english": "reach",
+      "spanish": "alcanzar / llegar a",
+      "pronunciation": "rich",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "reach",
+        "thirdPerson": "reaches",
+        "past": "reached",
+        "pastParticiple": "reached",
+        "gerund": "reaching"
+      },
+      "example": {
+        "en": "Reach the top.",
+        "es": "Alcanza la cima."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-return",
+      "level": "A1",
+      "type": "verb",
+      "english": "return",
+      "spanish": "regresar / devolver",
+      "pronunciation": "ritérn",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "return",
+        "thirdPerson": "returns",
+        "past": "returned",
+        "pastParticiple": "returned",
+        "gerund": "returning"
+      },
+      "example": {
+        "en": "Return the book.",
+        "es": "Devuelve el libro."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay",
+      "level": "A1",
+      "type": "verb",
+      "english": "stay",
+      "spanish": "quedarse",
+      "pronunciation": "stéi",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "stay",
+        "thirdPerson": "stays",
+        "past": "stayed",
+        "pastParticiple": "stayed",
+        "gerund": "staying"
+      },
+      "example": {
+        "en": "Stay home.",
+        "es": "Quédate en casa."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pull",
+      "level": "A1",
+      "type": "verb",
+      "english": "pull",
+      "spanish": "jalar / tirar",
+      "pronunciation": "pul",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "pull",
+        "thirdPerson": "pulls",
+        "past": "pulled",
+        "pastParticiple": "pulled",
+        "gerund": "pulling"
+      },
+      "example": {
+        "en": "Pull the rope.",
+        "es": "Jala la cuerda."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare",
+      "level": "A1",
+      "type": "verb",
+      "english": "prepare",
+      "spanish": "preparar",
+      "pronunciation": "pripéar",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "prepare",
+        "thirdPerson": "prepares",
+        "past": "prepared",
+        "pastParticiple": "prepared",
+        "gerund": "preparing"
+      },
+      "example": {
+        "en": "Prepare dinner.",
+        "es": "Prepara la cena."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push",
+      "level": "A1",
+      "type": "verb",
+      "english": "push",
+      "spanish": "empujar",
+      "pronunciation": "push",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "push",
+        "thirdPerson": "pushes",
+        "past": "pushed",
+        "pastParticiple": "pushed",
+        "gerund": "pushing"
+      },
+      "example": {
+        "en": "Push the button.",
+        "es": "Empuja el botón."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-defend",
+      "level": "A1",
+      "type": "verb",
+      "english": "defend",
+      "spanish": "defender",
+      "pronunciation": "difénd",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "defend",
+        "thirdPerson": "defends",
+        "past": "defended",
+        "pastParticiple": "defended",
+        "gerund": "defending"
+      },
+      "example": {
+        "en": "Defend your ideas.",
+        "es": "Defiende tus ideas."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-happen",
+      "level": "A1",
+      "type": "verb",
+      "english": "happen",
+      "spanish": "suceder / pasar",
+      "pronunciation": "jápen",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "happen",
+        "thirdPerson": "happens",
+        "past": "happened",
+        "pastParticiple": "happened",
+        "gerund": "happening"
+      },
+      "example": {
+        "en": "What happened?",
+        "es": "¿Qué pasó?"
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-repeat",
+      "level": "A1",
+      "type": "verb",
+      "english": "repeat",
+      "spanish": "repetir",
+      "pronunciation": "ripít",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "repeat",
+        "thirdPerson": "repeats",
+        "past": "repeated",
+        "pastParticiple": "repeated",
+        "gerund": "repeating"
+      },
+      "example": {
+        "en": "Repeat after me.",
+        "es": "Repite después de mí."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention",
+      "level": "A1",
+      "type": "verb",
+      "english": "mention",
+      "spanish": "mencionar",
+      "pronunciation": "ménshon",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "mention",
+        "thirdPerson": "mentions",
+        "past": "mentioned",
+        "pastParticiple": "mentioned",
+        "gerund": "mentioning"
+      },
+      "example": {
+        "en": "You mentioned it before.",
+        "es": "Lo mencionaste antes."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study",
+      "level": "A1",
+      "type": "verb",
+      "english": "study",
+      "spanish": "estudiar",
+      "pronunciation": "stádi",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "study",
+        "thirdPerson": "studies",
+        "past": "studied",
+        "pastParticiple": "studied",
+        "gerund": "studying"
+      },
+      "example": {
+        "en": "I study at night.",
+        "es": "Estudio de noche."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe",
+      "level": "A1",
+      "type": "verb",
+      "english": "believe",
+      "spanish": "creer",
+      "pronunciation": "bilív",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "believe",
+        "thirdPerson": "believes",
+        "past": "believed",
+        "pastParticiple": "believed",
+        "gerund": "believing"
+      },
+      "example": {
+        "en": "I believe you.",
+        "es": "Te creo."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prevent",
+      "level": "A1",
+      "type": "verb",
+      "english": "prevent",
+      "spanish": "prevenir / impedir",
+      "pronunciation": "privént",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "prevent",
+        "thirdPerson": "prevents",
+        "past": "prevented",
+        "pastParticiple": "prevented",
+        "gerund": "preventing"
+      },
+      "example": {
+        "en": "Prevent accidents.",
+        "es": "Previene accidentes."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree",
+      "level": "A1",
+      "type": "verb",
+      "english": "agree",
+      "spanish": "estar de acuerdo",
+      "pronunciation": "agrí",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "agree",
+        "thirdPerson": "agrees",
+        "past": "agreed",
+        "pastParticiple": "agreed",
+        "gerund": "agreeing"
+      },
+      "example": {
+        "en": "I agree with you.",
+        "es": "Estoy de acuerdo contigo."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint",
+      "level": "A1",
+      "type": "verb",
+      "english": "paint",
+      "spanish": "pintar",
+      "pronunciation": "péint",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "paint",
+        "thirdPerson": "paints",
+        "past": "painted",
+        "pastParticiple": "painted",
+        "gerund": "painting"
+      },
+      "example": {
+        "en": "Paint the wall.",
+        "es": "Pinta la pared."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prove",
+      "level": "A1",
+      "type": "verb",
+      "english": "prove",
+      "spanish": "probar / demostrar",
+      "pronunciation": "pruv",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "prove",
+        "thirdPerson": "proves",
+        "past": "proved",
+        "pastParticiple": "proven",
+        "gerund": "proving"
+      },
+      "example": {
+        "en": "Prove your point.",
+        "es": "Demuestra tu punto."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-hope",
+      "level": "A1",
+      "type": "verb",
+      "english": "hope",
+      "spanish": "esperar / desear",
+      "pronunciation": "jóup",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "hope",
+        "thirdPerson": "hopes",
+        "past": "hoped",
+        "pastParticiple": "hoped",
+        "gerund": "hoping"
+      },
+      "example": {
+        "en": "I hope it works.",
+        "es": "Espero que funcione."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive",
+      "level": "A1",
+      "type": "verb",
+      "english": "receive",
+      "spanish": "recibir",
+      "pronunciation": "risív",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "receive",
+        "thirdPerson": "receives",
+        "past": "received",
+        "pastParticiple": "received",
+        "gerund": "receiving"
+      },
+      "example": {
+        "en": "I received a gift.",
+        "es": "Recibí un regalo."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit",
+      "level": "A1",
+      "type": "verb",
+      "english": "admit",
+      "spanish": "admitir",
+      "pronunciation": "admít",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "admit",
+        "thirdPerson": "admits",
+        "past": "admitted",
+        "pastParticiple": "admitted",
+        "gerund": "admitting"
+      },
+      "example": {
+        "en": "I admit my error.",
+        "es": "Admito mi error."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook",
+      "level": "A1",
+      "type": "verb",
+      "english": "cook",
+      "spanish": "cocinar",
+      "pronunciation": "kuk",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "cook",
+        "thirdPerson": "cooks",
+        "past": "cooked",
+        "pastParticiple": "cooked",
+        "gerund": "cooking"
+      },
+      "example": {
+        "en": "I cook every day.",
+        "es": "Cocino todos los días."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order",
+      "level": "A1",
+      "type": "verb",
+      "english": "order",
+      "spanish": "ordenar / pedir",
+      "pronunciation": "órder",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "order",
+        "thirdPerson": "orders",
+        "past": "ordered",
+        "pastParticiple": "ordered",
+        "gerund": "ordering"
+      },
+      "example": {
+        "en": "Order a pizza.",
+        "es": "Pide una pizza."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cover",
+      "level": "A1",
+      "type": "verb",
+      "english": "cover",
+      "spanish": "cubrir",
+      "pronunciation": "káver",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "cover",
+        "thirdPerson": "covers",
+        "past": "covered",
+        "pastParticiple": "covered",
+        "gerund": "covering"
+      },
+      "example": {
+        "en": "Cover the pot.",
+        "es": "Cubre la olla."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply",
+      "level": "A1",
+      "type": "verb",
+      "english": "apply",
+      "spanish": "aplicar / postular",
+      "pronunciation": "aplái",
+      "categories": [
+        "general",
+        "a1"
+      ],
+      "forms": {
+        "base": "apply",
+        "thirdPerson": "applies",
+        "past": "applied",
+        "pastParticiple": "applied",
+        "gerund": "applying"
+      },
+      "example": {
+        "en": "Apply for the job.",
+        "es": "Postula al trabajo."
+      },
+      "defaultStatus": "new",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-01576c1cc647",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna watches ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Anna te observa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-f6a0076381f2",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos invites ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Carlos te invita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-236b4ef5c5f4",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna visits ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Anna te visita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-d3da1bba74d8",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a camera.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves una cámara.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-6932c71ea0af",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a shirt.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas una camisa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-f839c795741f",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter needs ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Peter te necesita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-27387a66cd43",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John visits ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "John te visita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-f2e2305af109",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a hat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú limpias un sombrero.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-3817d35769f9",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a phone.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú traes un teléfono.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-137f0d7257ac",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a backpack.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas una mochila.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-09417204e0c5",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a book.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú quieres un libro.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-640351408c2b",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a laptop.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú pierdes una computadora.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-41aeca7909d0",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John needs ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "John te necesita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-617df864ebed",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a bag.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas una bolsa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-4e25595c3bab",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a car.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú encuentras un coche.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-bf6db889e5f0",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria helps ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Maria te ayuda.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-c88ff735757c",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David helps ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "David te ayuda.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-a8c3e76d7bf2",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom watches ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tom te observa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-077af3959f05",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora watches ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Nora te observa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-f195dc700990",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a dog.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú necesitas un perro.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-8ebba6dd3bb5",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma visits ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Emma te visita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-b4fb009ffd69",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a mirror.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas un espejo.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-dca6756cc442",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a shirt.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú lavas una camisa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-43353099c3de",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a bag.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú tienes una bolsa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-90db149efc09",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara misses ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Clara te extraña.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-cabbebf1ac38",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a phone.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú pierdes un teléfono.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-e01bc20aae3e",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a dog.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú quieres un perro.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-871df59e204b",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a wallet.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas una cartera.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-3981e00248bf",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use an umbrella.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas un paraguas.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-c79025fb4dc4",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a watch.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú lavas un reloj.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-0822e7eed80e",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a house.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú limpias una casa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-191851677b5c",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a backpack.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú vendes una mochila.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-24b76711c3a2",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a shirt.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú encuentras una camisa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-b361abd18d07",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a phone.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú tienes un teléfono.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-8dd7bb8b0d1d",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a pencil.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas un lápiz.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9edb98f166fc",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a cat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú lavas un gato.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-a53cf5a98554",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a cat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú encuentras un gato.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-ec5fbbd6281a",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a camera.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú necesitas una cámara.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-5bf841abad7a",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura needs ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Laura te necesita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-abc789d0f43b",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a camera.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú encuentras una cámara.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-ac141d530db8",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a book.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú tienes un libro.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-e52fd75d93ab",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a notebook.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú quieres un cuaderno.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-247dc71dbbd3",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a ball.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú quieres una pelota.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-2a0d0a5a4a85",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a notebook.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas un cuaderno.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-36b4b0f3e20e",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa helps ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Rosa te ayuda.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-8143023e523d",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a phone.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú encuentras un teléfono.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-b4d5feec4999",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a bike.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves una bicicleta.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-e5c9ff58d89a",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a chair.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú vendes una silla.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-53299077e28c",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia misses ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sofia te extraña.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-f9fed9b41d09",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a book.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú necesitas un libro.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-6d45e90b0028",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a watch.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú tienes un reloj.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9f93654bb38f",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter hears ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Peter te oye.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-dc9154825ed5",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a car.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú traes un coche.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-3e30079d510d",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a ball.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú traes una pelota.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-bc81926982a8",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark knows ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mark te conoce.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-5a41304194ae",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas invites ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Lucas te invita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-e8afc93de240",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a house.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas una casa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-e20f77188134",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a watch.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves un reloj.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-3833efd24ed1",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a mirror.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú tienes un espejo.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-a2ae7a12d469",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a house.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú vendes una casa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-b61053569665",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a dog.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas un perro.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-6f89977cceb3",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John loves ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "John te quiere.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-701bcbc2ffbd",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a pen.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú necesitas un bolígrafo.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-2e040ca65c65",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see an umbrella.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves un paraguas.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-b3e74db0ddbb",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a pen.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú compras un bolígrafo.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-e3a75a998707",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna invites ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Anna te invita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-64caff11afec",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a house.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas una casa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-3fed1c472d70",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a watch.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú quieres un reloj.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9e86356b6c27",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David misses ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "David te extraña.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-66c8353e0153",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a jacket.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas una chaqueta.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-a6e592fd971b",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a notebook.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú compras un cuaderno.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-ecb88c6c0000",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a ball.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas una pelota.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-8ae74eb81eb0",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a box.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú vendes una caja.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-94a8cacfeabb",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa invites ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Lisa te invita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-1148187d4cf8",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a table.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves una mesa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-762cd1f88ecf",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a laptop.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú encuentras una computadora.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-882576a19779",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a laptop.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas una computadora.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-1e820110adc9",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a hat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú necesitas un sombrero.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-ee33b270ac4a",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena needs ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Elena te necesita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-8360a5c981b9",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a table.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú quieres una mesa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-fccaa0772477",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos needs ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Carlos te necesita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-d031978cad90",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a shirt.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas una camisa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-5da5a4ad7ea5",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter loves ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Peter te quiere.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-d4f8aa938446",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a pencil.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú compras un lápiz.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-45d420c16c50",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a laptop.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas una computadora.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-bebff14528c6",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John watches ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "John te observa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-3c349aa6ff27",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark invites ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mark te invita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-39d95e886da0",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a box.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú traes una caja.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-076fea708c7b",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a plant.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú vendes una planta.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-741fe4ca328f",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena hears ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Elena te oye.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-7491cb0586d5",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a guitar.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas una guitarra.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-88d7e725ed70",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter sees ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Peter te ve.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-849b88f3c702",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a pen.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú lavas un bolígrafo.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-2bd67c9339e2",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia hears ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sofia te oye.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-748ecf125f0e",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas misses ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Lucas te extraña.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-c95aaab512cd",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a wallet.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú vendes una cartera.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-251b62066495",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a bike.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas una bicicleta.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-46ba22ed7c86",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a bag.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú compras una bolsa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-a6638ba567b0",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a pen.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves un bolígrafo.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-5da75dc5ee18",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria understands ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Maria te entiende.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-4473899ab259",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma misses ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Emma te extraña.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-6a199d842aeb",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark loves ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mark te quiere.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-f9c7547cd99f",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a hat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas un sombrero.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-12fda18b8b1a",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a box.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú compras una caja.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-65c6944da631",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a key.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves una llave.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-d4dbab6d4283",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter understands ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Peter te entiende.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-e6de2c3bed3c",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna understands ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Anna te entiende.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9d2cc885065b",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a cat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves un gato.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-6602a2d51a60",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a watch.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas un reloj.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-5529d46ff6e6",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is for ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esto es para ti.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-1c72ed099d9f",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a table.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú tienes una mesa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-bb6a00b345ef",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a ball.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú lavas una pelota.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-3189cb26b5d7",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a pen.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú vendes un bolígrafo.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-7974dff3b0ff",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a cup.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú limpias una taza.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-b70c08f16f53",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a mirror.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú necesitas un espejo.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-93cceff2be8e",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna loves ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Anna te quiere.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-fd4e57f1260a",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a car.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves un coche.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-4f8aebb03c04",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a shirt.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves una camisa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-7d612dccf4b0",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a cup.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves una taza.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-be5b28707c9c",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora loves ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Nora te quiere.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-43decbcb86d1",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a table.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú limpias una mesa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-868410890c2a",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a laptop.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú vendes una computadora.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-4cb2fde75c5b",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a box.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas una caja.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-bf455a516ab3",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark hears ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mark te oye.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-f343d0bde472",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a table.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú traes una mesa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-919303047e04",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a notebook.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú pierdes un cuaderno.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-30c81bcf67e7",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a hat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas un sombrero.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-2e0cf591e593",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a laptop.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú traes una computadora.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-7d873d71b2ad",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a ticket.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas un boleto.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-7f381926ada6",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a guitar.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas una guitarra.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9065532bb87a",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John calls ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "John te llama.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-605f24b10184",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a car.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas un coche.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-3dc0da2aa848",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a chair.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú quieres una silla.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-a90ebc5d74aa",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David knows ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "David te conoce.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-84af6172083c",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John understands ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "John te entiende.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-d52c3b4bdb33",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a wallet.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú pierdes una cartera.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-553e1d7275d3",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas needs ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Lucas te necesita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-a680ae43e6fb",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna helps ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Anna te ayuda.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-98d1ef34d4ed",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a dog.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú pierdes un perro.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-af5aca52fb5f",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a chair.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú necesitas una silla.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-f2dec006bbf6",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego understands ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Diego te entiende.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-d0d467d563ec",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia watches ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sofia te observa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-6f8b55f3e617",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a cup.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú encuentras una taza.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-c9f3cb5ed4a5",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a pencil.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú necesitas un lápiz.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-3e342119ab7d",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena visits ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Elena te visita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-d306350de652",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a plant.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú traes una planta.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-f776b0281597",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a camera.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú quieres una cámara.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9b11d2c1b0dd",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a guitar.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú lavas una guitarra.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-152a76d98097",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a notebook.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas un cuaderno.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-a372b399f554",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa knows ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Lisa te conoce.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-b5007d039e20",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a hat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú lavas un sombrero.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-d1c48a463e68",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a book.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas un libro.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9a0dc752a553",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a key.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas una llave.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-964230a3f631",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a bag.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas una bolsa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-3f3e56658e2d",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a camera.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas una cámara.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-547dc2d14606",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego sees ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Diego te ve.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-28e2575432fe",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora hears ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Nora te oye.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-4766b1057622",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash an umbrella.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú lavas un paraguas.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-6117697de40d",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a mirror.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú encuentras un espejo.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9529ac64ea04",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a jacket.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú compras una chaqueta.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-16a08369db28",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a backpack.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú encuentras una mochila.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9762591190d1",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a chair.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú tienes una silla.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-cd54971fe115",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a plant.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves una planta.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-081feeeaed12",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a guitar.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves una guitarra.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-2799a7ac782a",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a ticket.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas un boleto.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-079c283001d8",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a cup.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú tienes una taza.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-ae22300456ee",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a bag.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú vendes una bolsa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-68a0afa63e33",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a key.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú limpias una llave.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-93deb71d8545",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a camera.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú pierdes una cámara.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-8b979712138e",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a ball.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas una pelota.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-06492b2f71d9",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara watches ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Clara te observa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-647bfa2143ac",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a backpack.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú limpias una mochila.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-0973736a642b",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a key.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú lavas una llave.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-960be4c2a561",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a hat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú tienes un sombrero.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-0c1e79b4bf30",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora needs ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Nora te necesita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9ccb928b27dc",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a phone.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas un teléfono.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-65d03a6f7f72",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a pencil.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú usas un lápiz.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-95fb38a22f76",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a cat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú compras un gato.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-e99357d1ae1c",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a cat.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú pierdes un gato.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-36a24aed76c3",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a mirror.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú lavas un espejo.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-8f033c791776",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura invites ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Laura te invita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-49f2ce1eccb0",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David visits ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "David te visita.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-9d9164c8eab7",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a dog.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú llevas un perro.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-676d80632d88",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa misses ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Lisa te extraña.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-0f978347989e",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a ball.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves una pelota.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-24e192895512",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas understands ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Lucas te entiende.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-442414b5bff9",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a key.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú compras una llave.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-4d1c6e931dc7",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a car.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú limpias un coche.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-86dc082e7340",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a book.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú limpias un libro.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-a0546d8516e5",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos hears ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Carlos te oye.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-7c51baa607bf",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Come with ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ven con ti.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-49af2c17a4b3",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas knows ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Lucas te conoce.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-a46dbd21d1d2",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a jacket.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves una chaqueta.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-ab988c305b35",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a wallet.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú compras una cartera.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-5ddd372da9e4",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a ticket.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú ves un boleto.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-efb253897e0d",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a table.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú encuentras una mesa.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-2cf6db0011b1",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a phone.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Tú arreglas un teléfono.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-522a474797b4",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego hears ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Diego te oye.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-4378f11f1c09",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna calls ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Anna te llama.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-you-personal-pronouns-example-42fe2b14a3c9",
+      "itemId": "a1-pronoun-you",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David sees ___.",
+      "answer": "you",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "David te ve.",
+      "hint": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "explanation": "Sirve como sujeto y como objeto: You are… / I saw you.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto / objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

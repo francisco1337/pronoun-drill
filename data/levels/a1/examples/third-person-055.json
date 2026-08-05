@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "third-person",
+  "examples": [
+    {
+      "id": "a1-verb-fill-third-person-example-e263742ebea6",
+      "itemId": "a1-verb-fill",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the project.",
+      "answer": "fills",
+      "acceptableAnswers": [],
+      "options": [
+        "fill",
+        "fills",
+        "filling"
+      ],
+      "translation": "Él llenar el proyecto.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-fill-third-person-example-fe59a50f5de0",
+      "itemId": "a1-verb-fill",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does he ___ the project?",
+      "answer": "fill",
+      "acceptableAnswers": [],
+      "options": [
+        "fill",
+        "fills",
+        "filling"
+      ],
+      "translation": "¿Él llenar el proyecto?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-fill-third-person-example-90e033734931",
+      "itemId": "a1-verb-fill",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a car.",
+      "answer": "fills",
+      "acceptableAnswers": [],
+      "options": [
+        "fill",
+        "fills",
+        "filling"
+      ],
+      "translation": "Ella llenar un coche.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-fill-third-person-example-68e0394e4758",
+      "itemId": "a1-verb-fill",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does she ___ a car?",
+      "answer": "fill",
+      "acceptableAnswers": [],
+      "options": [
+        "fill",
+        "fills",
+        "filling"
+      ],
+      "translation": "¿Ella llenar un coche?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-fill-third-person-example-e1a96fd0751e",
+      "itemId": "a1-verb-fill",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an email.",
+      "answer": "fills",
+      "acceptableAnswers": [],
+      "options": [
+        "fill",
+        "fills",
+        "filling"
+      ],
+      "translation": "Eso llenar un correo.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-fill-third-person-example-afce02ae8fe2",
+      "itemId": "a1-verb-fill",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does it ___ an email?",
+      "answer": "fill",
+      "acceptableAnswers": [],
+      "options": [
+        "fill",
+        "fills",
+        "filling"
+      ],
+      "translation": "¿Eso llenar un correo?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

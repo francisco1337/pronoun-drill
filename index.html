@@ -1,305 +1,34 @@
 <!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>English Drill · Práctica de inglés</title>
-<meta name="description" content="Practica pronombres, modales y auxiliares. Diez aciertos seguidos dominan cada palabra; un error reinicia su contador.">
-<link rel="manifest" href="./manifest.webmanifest">
-<meta name="theme-color" content="#5b5bd6">
-<link rel="icon" href="./icons/icon-192.png">
-<link rel="apple-touch-icon" href="./icons/icon-192.png">
-<style>
-:root{--paper:#f6f7fb;--card:#fff;--ink:#1b1f2a;--muted:#697386;--faint:#98a0b0;--line:#e4e7ef;--iris:#5b5bd6;--iris2:#7575e8;--soft:#eeeeff;--good:#168a46;--goodsoft:#e9f7ee;--bad:#cf3030;--badsoft:#fff0f0;--shadow:0 1px 2px #1b1f2a0a,0 16px 44px #1b1f2a12;--r:16px}
-@media(prefers-color-scheme:dark){:root{--paper:#13151b;--card:#1b1e26;--ink:#eef0f5;--muted:#a0a8b8;--faint:#727b8d;--line:#303541;--iris:#9292ff;--iris2:#ababff;--soft:#292940;--good:#55d989;--goodsoft:#173323;--bad:#ff7d7d;--badsoft:#3b1c20;--shadow:0 16px 44px #0006}}
-:root[data-theme=light]{--paper:#f6f7fb;--card:#fff;--ink:#1b1f2a;--muted:#697386;--faint:#98a0b0;--line:#e4e7ef;--iris:#5b5bd6;--iris2:#7575e8;--soft:#eeeeff;--good:#168a46;--goodsoft:#e9f7ee;--bad:#cf3030;--badsoft:#fff0f0}
-:root[data-theme=dark]{--paper:#13151b;--card:#1b1e26;--ink:#eef0f5;--muted:#a0a8b8;--faint:#727b8d;--line:#303541;--iris:#9292ff;--iris2:#ababff;--soft:#292940;--good:#55d989;--goodsoft:#173323;--bad:#ff7d7d;--badsoft:#3b1c20}
-*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}.wrap{max-width:1100px;margin:auto;padding:26px 20px calc(64px + env(safe-area-inset-bottom))}button,input{font:inherit}button{color:inherit}.top{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:24px}.brand{border:0;background:none;cursor:pointer;text-align:left;padding:0}.brand h1{font-size:1.35rem;margin:0;letter-spacing:-.02em}.brand b{color:var(--iris)}.brand p{margin:3px 0 0;color:var(--muted);font-size:.82rem}.tools{display:flex;gap:8px}.tool{cursor:pointer;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px}.tool:hover{border-color:var(--iris)}[hidden]{display:none!important}.crumb{display:flex;align-items:center;gap:8px;margin:0 0 16px;color:var(--muted);font-size:.85rem}.crumb button{border:0;background:none;color:var(--iris);cursor:pointer;padding:0}.hero{padding:22px 0 30px}.eyebrow{color:var(--iris);font-weight:700;text-transform:uppercase;letter-spacing:.09em;font-size:.72rem}.hero h2{font:700 clamp(2rem,5vw,3.5rem)/1.08 Georgia,serif;letter-spacing:-.035em;max-width:720px;margin:9px 0 12px}.hero p{color:var(--muted);max-width:660px;font-size:1.03rem}.menu{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.menu-card{position:relative;overflow:hidden;text-align:left;cursor:pointer;background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:26px;min-height:210px;transition:.15s}.menu-card:hover{transform:translateY(-2px);border-color:var(--iris)}.menu-card .icon{display:grid;place-items:center;width:46px;height:46px;background:var(--soft);color:var(--iris);border-radius:13px;font-weight:800}.menu-card h3{font:700 1.45rem Georgia,serif;margin:30px 0 7px}.menu-card p{color:var(--muted);margin:0;max-width:440px}.menu-card .arrow{position:absolute;right:24px;top:24px;color:var(--iris);font-size:1.3rem}.subintro{margin:8px 0 22px}.subintro h2{font:700 2rem Georgia,serif;margin:0 0 6px}.subintro p{color:var(--muted);margin:0}.grid{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:20px;align-items:start}.card,.rail{background:var(--card);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow)}.card{padding:27px}.rail{padding:20px;max-height:calc(100vh - 130px);overflow:auto;position:sticky;top:18px}.qhead{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-bottom:22px}.pill{color:var(--iris);background:var(--soft);border-radius:999px;padding:5px 11px;font-size:.75rem;font-weight:700}.streak{color:var(--muted);font-size:.78rem;font-variant-numeric:tabular-nums}.sentence{font:1.72rem/1.42 Georgia,serif;margin:0 0 24px}.sentence .es{display:block;font:italic .92rem system-ui;color:var(--faint);margin-top:10px}.blank{display:inline-block;min-width:2.4em;text-align:center;border-bottom:3px solid var(--iris);color:var(--iris);padding:0 .12em;font-weight:700}.options{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.opt{cursor:pointer;background:var(--card);border:1.5px solid var(--line);border-radius:11px;padding:13px 15px;text-align:left;display:flex;gap:10px;align-items:center}.opt:hover:not(:disabled){border-color:var(--iris)}.opt.correct{border-color:var(--good);background:var(--goodsoft);color:var(--good);font-weight:700}.opt.wrong{border-color:var(--bad);background:var(--badsoft);color:var(--bad);font-weight:700}.opt.dim{opacity:.45}.key{font-size:.7rem;color:var(--faint);border:1px solid var(--line);border-radius:5px;padding:1px 5px}.feedback{min-height:52px;margin-top:19px}.fb{display:flex;align-items:center;gap:14px}.fb>div{flex:1}.good{color:var(--good)}.bad{color:var(--bad)}.tip{color:var(--muted);font-size:.84rem;margin-top:3px}.primary{cursor:pointer;border:0;border-radius:10px;background:var(--iris);color:#fff;padding:10px 18px;font-weight:700}.primary:hover{background:var(--iris2)}.rail h3{text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-size:.74rem;margin:0}.summary{color:var(--muted);font-size:.84rem;margin:4px 0 15px}.prow{display:grid;grid-template-columns:105px 1fr 34px;align-items:center;gap:8px;padding:4px 0}.word{font-family:Georgia,serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.bar{height:7px;background:var(--line);border-radius:20px;overflow:hidden}.bar i{display:block;height:100%;background:var(--iris)}.cnt{text-align:right;color:var(--muted);font-size:.74rem}.prow.done .word,.prow.done .cnt{color:var(--good)}.prow.done .bar i{background:var(--good)}.cat{color:var(--faint);font-size:.68rem;text-transform:uppercase;letter-spacing:.06em;margin:13px 0 4px}.formlabel{display:block;color:var(--muted);font-size:.82rem;margin:0 0 7px}.answer{width:100%;border:1.5px solid var(--line);border-radius:11px;background:var(--card);color:var(--ink);padding:14px 15px;font-size:1.08rem;outline:none}.answer:focus{border-color:var(--iris);box-shadow:0 0 0 3px var(--soft)}.answer.correct{border-color:var(--good);background:var(--goodsoft)}.answer.wrong{border-color:var(--bad);background:var(--badsoft)}.formrow{display:flex;gap:10px}.formrow .answer{flex:1}.pron{color:var(--muted);margin:-13px 0 20px;font-size:.87rem}.done{text-align:center;padding:24px}.done .trophy{font-size:2.4rem}.done h2{font:700 2rem Georgia,serif;margin:8px}.loading,.error{text-align:center;color:var(--muted);padding:42px}.note{color:var(--faint);font-size:.78rem;margin:18px 2px}.dots{display:inline-flex;gap:3px;margin:0 4px}.dots i{width:7px;height:7px;background:var(--line);border-radius:50%}.dots i.on{background:var(--iris)}
-.qtools{display:flex;align-items:center;gap:10px}.theory-btn{cursor:pointer;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--iris);padding:6px 10px;font-size:.76rem;font-weight:700}.theory-btn:hover{border-color:var(--iris);background:var(--soft)}.theory h2{font:700 2rem Georgia,serif;margin:18px 0 8px}.theory h3{margin:25px 0 8px}.theory p,.theory li{color:var(--muted)}.theory ul{padding-left:22px}.forms{width:100%;border-collapse:collapse;margin:12px 0 20px}.forms th,.forms td{text-align:left;border-bottom:1px solid var(--line);padding:9px 7px}.forms th{color:var(--muted);font-size:.74rem;text-transform:uppercase}.selector-head{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:18px}.selector-actions{display:flex;gap:8px;flex-wrap:wrap}.verb-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;max-height:55vh;overflow:auto;padding:4px}.verb-check{display:flex;align-items:flex-start;gap:9px;border:1px solid var(--line);border-radius:10px;padding:10px;cursor:pointer}.verb-check:hover{border-color:var(--iris);background:var(--soft)}.verb-check input{margin-top:4px;accent-color:var(--iris)}.verb-check b,.verb-check small{display:block}.verb-check small{color:var(--muted)}.selector-foot{display:flex;justify-content:flex-end;align-items:center;gap:10px;margin-top:18px}.selector-error{color:var(--bad);margin-right:auto}
-@media(max-width:830px){.grid{grid-template-columns:1fr}.rail{position:static;max-height:none}.menu{grid-template-columns:1fr}.verb-list{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:520px){.wrap{padding:18px 14px 50px}.brand p{display:none}.card{padding:21px 18px}.options{grid-template-columns:1fr}.sentence{font-size:1.42rem}.formrow{flex-direction:column}.fb{align-items:flex-start;flex-direction:column}.primary{width:100%}.menu-card{min-height:190px}.qhead{align-items:flex-start}.qtools{align-items:flex-end;flex-direction:column}.verb-list{grid-template-columns:1fr}.selector-head{flex-direction:column}.selector-foot{align-items:stretch;flex-direction:column}.selector-foot .primary{width:100%}}@media(prefers-reduced-motion:reduce){*{transition:none!important}}
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>English Drill · Entrenamiento de inglés</title>
+  <meta name="description" content="Practica inglés por niveles con teoría, ejercicios, progreso local y repaso espaciado.">
+  <meta name="theme-color" content="#5b5bd6">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icons/icon-192.png">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-<div class="wrap">
-  <header class="top">
-    <button class="brand" id="brandBtn"><h1>English <b>Drill</b></h1><p>10 aciertos dominan · 1 error reinicia</p></button>
-    <div class="tools"><button class="tool" id="installBtn" hidden>⬇ Instalar</button><button class="tool" id="themeBtn" title="Cambiar tema">◐</button><button class="tool" id="resetBtn" hidden>↻ Reiniciar</button></div>
-  </header>
-  <div id="app"></div>
-</div>
-<script src="./datos-client.js"></script>
-<script>
-(function(){
-"use strict";
-var GOAL=10,screen="home",mode=null,pronounData=null,modalData=null,a1Data=null,a1Topic=null,current=null,answered=false,lastId=null,theoryReturnHTML=null,selectorReturnHTML=null;
-var app=document.getElementById("app"),resetBtn=document.getElementById("resetBtn");
-var progress={pronouns:{},modals:{},a1:{}};
-var selections={};
-var KEYS={pronouns:"pronounDrill.v1",modals:"englishDrill.modals.v1"};
-function esc(v){return String(v).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
-function shuffle(a){a=a.slice();for(var i=a.length-1;i;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t}return a}
-function normalize(v){return String(v).trim().toLowerCase().replace(/[’']/g,"'").replace(/\s+/g," ")}
-function accepted(item,value){var v=normalize(value),parts=item.english.split("/").map(normalize);return v===normalize(item.english)||parts.indexOf(v)>=0}
-function load(key,target,items){try{var s=JSON.parse(localStorage.getItem(key)||"{}");items.forEach(function(x){target[x.id]=typeof s[x.id]==="number"?Math.max(0,Math.min(GOAL,s[x.id]|0)):0})}catch(e){items.forEach(function(x){target[x.id]=0})}}
-function save(kind){try{var target=kind.indexOf("a1.")===0?progress.a1[kind.slice(3)]:progress[kind];localStorage.setItem(KEYS[kind],JSON.stringify(target))}catch(e){}}
-function isPronouns(){return screen==="pronouns"||(screen==="a1"&&a1Topic&&a1Topic.kind==="pronouns")}
-function storageKind(){return screen==="a1"&&!isPronouns()?"a1."+a1Topic.id:screen}
-function crumb(label){return '<nav class="crumb"><button data-go="home">Inicio</button><span>›</span><span>'+esc(label)+'</span></nav>'}
-function home(){
- screen="home";mode=null;a1Topic=null;current=null;resetBtn.hidden=true;
- app.innerHTML='<section class="hero"><div class="eyebrow">Práctica personalizada</div><h2>Construye tu inglés, palabra por palabra.</h2><p>Elige un nivel o una sección. Cada objetivo se domina con 10 respuestas correctas consecutivas; si fallas, solo su contador vuelve a cero.</p></section><section class="menu"><button class="menu-card" data-open="a1"><span class="icon">A1</span><span class="arrow">→</span><h3>Nivel A1</h3><p>Ocho temas fundamentales y 80 verbos del plan de estudio.</p></button><button class="menu-card" data-open="modals"><span class="icon">MA</span><span class="arrow">→</span><h3>Modales y auxiliares</h3><p>Practica 19 palabras con autocompletado y relación de traducciones.</p></button></section>';
-}
-function a1Menu(){
- screen="a1-menu";mode=null;a1Topic=null;current=null;resetBtn.hidden=true;
- app.innerHTML=crumb("Nivel A1")+'<section class="subintro"><h2>Temas A1</h2><p>Selecciona un tema. Los ejercicios incorporan el vocabulario de tu plan de Drive.</p></section><section class="menu">'+a1Data.topics.map(function(t,i){return '<button class="menu-card" data-topic="'+esc(t.id)+'"><span class="icon">'+String(i+1).padStart(2,"0")+'</span><span class="arrow">→</span><h3>'+esc(t.title)+'</h3><p>'+esc(t.description)+'</p></button>'}).join("")+'</section>';
-}
-function simplePresentMenu(){
- screen="a1-simple-menu";mode=null;current=null;resetBtn.hidden=true;
- app.innerHTML=crumb("A1 · Presente simple")+'<section class="subintro"><h2>¿Cómo quieres practicar?</h2><p>Los tres ejercicios comparten el mismo progreso por verbo: 10 aciertos seguidos lo dominan y 1 error reinicia su contador.</p></section><section class="menu"><button class="menu-card" data-a1-mode="complete"><span class="icon">Aa</span><span class="arrow">→</span><h3>Completar la frase</h3><p>Elige la forma verbal correcta según el sujeto y el contexto.</p></button><button class="menu-card" data-a1-mode="match"><span class="icon">↔</span><span class="arrow">→</span><h3>Relacionar traducción</h3><p>Relaciona cada verbo en inglés con su significado en español.</p></button><button class="menu-card" data-a1-mode="write"><span class="icon">✎</span><span class="arrow">→</span><h3>Escribir la palabra</h3><p>Lee el significado en español y escribe el verbo en inglés sin opciones.</p></button></section>';
-}
-function modalMenu(){
- screen="modal-menu";mode=null;a1Topic=null;current=null;resetBtn.hidden=true;
- app.innerHTML=crumb("Modales y auxiliares")+'<section class="subintro"><h2>¿Cómo quieres practicar?</h2><p>Los dos ejercicios comparten el mismo progreso por palabra.</p></section><section class="menu"><button class="menu-card" data-mode="complete"><span class="icon">Aa</span><span class="arrow">→</span><h3>Autocompletar palabras</h3><p>Lee la traducción y el ejemplo, luego escribe el modal o auxiliar en inglés.</p></button><button class="menu-card" data-mode="match"><span class="icon">↔</span><span class="arrow">→</span><h3>Relacionar traducción</h3><p>Elige la traducción correcta para cada palabra en inglés.</p></button></section>';
-}
-function start(kind,newMode){
- screen=kind;mode=newMode||"choice";answered=false;lastId=null;resetBtn.hidden=false;
- if(kind==="modals")loadSelection("modals",modalData.items);
- next();
-}
-function startA1(topicId,newMode){
- a1Topic=a1Data.topics.find(function(t){return t.id===topicId});if(!a1Topic)return;
- if(topicId==="simple-present"&&!newMode){simplePresentMenu();return}
- screen="a1";mode=newMode||"choice";answered=false;lastId=null;resetBtn.hidden=false;
- if(isPronouns()){
-   if(!Object.keys(progress.pronouns).length)load(KEYS.pronouns,progress.pronouns,pronounData.pronouns);
- }else{
-   var key="englishDrill.a1."+a1Topic.id+".v1";KEYS["a1."+a1Topic.id]=key;progress.a1[a1Topic.id]=progress.a1[a1Topic.id]||{};
-   load(key,progress.a1[a1Topic.id],a1Topic.items);
-   if(canSelectItems())loadSelection(a1Topic.id,a1Topic.items);
- }
- next();
-}
-function canSelectItems(){return screen==="modals"||(screen==="a1"&&a1Topic&&["simple-present","third-person","present-continuous"].indexOf(a1Topic.id)>=0)}
-function selectionKey(){return screen==="modals"?"modals":a1Topic.id}
-function rawItems(){return isPronouns()?pronounData.pronouns:(screen==="a1"?a1Topic.items:modalData.items)}
-function loadSelection(key,list){
- if(selections[key])return;
- var valid=list.map(function(x){return x.id}),saved=null;
- try{saved=JSON.parse(localStorage.getItem("englishDrill.selection."+key+".v1")||"null")}catch(e){}
- var ids=Array.isArray(saved)?saved.filter(function(id){return valid.indexOf(id)>=0}):valid;
- selections[key]=new Set(ids.length?ids:valid);
-}
-function items(){
- var list=rawItems();if(!canSelectItems())return list;
- var selected=selections[selectionKey()];return selected?list.filter(function(x){return selected.has(x.id)}):list;
-}
-function prog(){return isPronouns()?progress.pronouns:(screen==="a1"?progress.a1[a1Topic.id]:progress.modals)}
-function isA1Match(){return screen==="a1"&&a1Topic&&a1Topic.id==="simple-present"&&mode==="match"}
-function isA1Write(){return screen==="a1"&&a1Topic&&a1Topic.id==="simple-present"&&mode==="write"}
-function vocabFor(item){
- var base=String(item.id).replace(/^(simple|third|continuous)-/,"");
- return a1Data.vocabulary.find(function(v){return v.english===base})||a1Data.vocabulary.find(function(v){return v.english===item.label});
-}
-function pending(){return items().filter(function(x){return prog()[x.id]<GOAL})}
-function next(){
- var pool=pending();answered=false;
- if(!pool.length){current=null;renderDone();return}
- var choices=pool.length>1&&lastId?pool.filter(function(x){return x.id!==lastId}):pool;
- var item=choices[Math.floor(Math.random()*choices.length)];lastId=item.id;
- if(isPronouns()){
-   var sen=item.sentences[Math.floor(Math.random()*item.sentences.length)];
-   var optionPool=(pronounData.groups[item.group]||[item.answer]).slice();if(optionPool.indexOf(item.answer)<0)optionPool.push(item.answer);
-   current={item:item,sentence:sen,options:shuffle(optionPool)};
- }else if(screen==="modals"){
-   var examples=item.examples||[{answer:item.english,en:item.exampleEn,es:item.exampleEs}];
-   var example=examples[Math.floor(Math.random()*examples.length)];
-   var opts=shuffle([item].concat(shuffle(items().filter(function(x){return x.id!==item.id})).slice(0,3))).map(function(x){return {id:x.id,value:x.spanish}});
-   current={item:item,example:example,options:shuffle(opts)};
- }else if(isA1Write()){
-   current={item:item,vocab:vocabFor(item)};
- }else if(isA1Match()){
-   var matchPool=[item].concat(shuffle(items().filter(function(x){return x.id!==item.id})).slice(0,3));
-   current={item:item,options:shuffle(matchPool.map(function(x){var v=vocabFor(x);return {id:x.id,value:v?v.spanish:x.label}}))};
- }else{
-   var grammarExample=item.examples[Math.floor(Math.random()*item.examples.length)];
-   current={item:item,example:grammarExample,options:shuffle(grammarExample.options.map(function(v){return {id:v,value:v}}))};
- }
- renderExercise();
-}
-function dots(n){var s='<span class="dots">';for(var i=0;i<GOAL;i++)s+='<i class="'+(i<n?"on":"")+'"></i>';return s+'</span>'}
-function shell(body,label){app.innerHTML=crumb(label)+'<div class="grid"><main class="card" id="quiz">'+body+'</main><aside class="rail" id="rail"></aside></div><p class="note">Tu progreso se guarda únicamente en este dispositivo.</p>';renderRail()}
-function listHtml(values){return '<ul>'+values.map(function(v){return '<li>'+esc(v)+'</li>'}).join("")+'</ul>'}
-function verbTheory(v){
- if(!v||!v.forms)return "";
- return '<h3>Ficha del verbo actual</h3><p><b>'+esc(v.english)+'</b> · '+esc(v.spanish)+' · pronunciación aproximada: '+esc(v.pronunciation)+'</p><table class="forms"><thead><tr><th>Forma</th><th>Inglés</th></tr></thead><tbody><tr><td>Base</td><td>'+esc(v.forms.base)+'</td></tr><tr><td>3.ª persona</td><td>'+esc(v.forms.thirdPerson)+'</td></tr><tr><td>Pasado</td><td>'+esc(v.forms.past)+'</td></tr><tr><td>Participio</td><td>'+esc(v.forms.participle)+'</td></tr><tr><td>Forma -ing</td><td>'+esc(v.forms.gerund)+'</td></tr></tbody></table><p><b>Ejemplo:</b> '+esc(v.exampleEn)+' · '+esc(v.exampleEs)+'</p>';
-}
-function theoryContent(){
- var html="",theory=a1Topic&&a1Topic.theory;
- if(theory){
-   html='<p>'+esc(theory.summary)+'</p><h3>Reglas clave</h3>'+listHtml(theory.rules)+'<h3>Ejemplos</h3>'+listHtml(theory.examples);
-   if(a1Topic.id==="simple-present"||a1Topic.id==="third-person"||a1Topic.id==="present-continuous")html+=verbTheory(vocabFor(current.item));
- }else if(screen==="modals"){
-   var x=current.item;
-   html='<p>Los modales y auxiliares ayudan a expresar capacidad, obligación, posibilidad, intención o a construir preguntas y negaciones.</p><h3>Palabra actual</h3><p><b>'+esc(x.english)+'</b> · '+esc(x.spanish)+' · pronunciación aproximada: '+esc(x.pronunciation)+'</p><h3>Reglas clave</h3>'+listHtml(["Los modales van antes del verbo principal.","Después de un modal se usa normalmente la forma base.","Los auxiliares cambian según el tiempo y el sujeto."])+'<h3>Ejemplos</h3>'+listHtml((x.examples||[]).slice(0,5).map(function(e){return e.en+" · "+e.es}));
- }else if(isPronouns()){
-   html='<p>'+esc(current.item.tip)+'</p><h3>Función</h3><p>'+esc(current.item.role||current.item.cat)+'</p><h3>Ejemplos</h3>'+listHtml(current.item.sentences.slice(0,5).map(function(s){return s.en.replace("___",current.item.answer)+" · "+s.es}));
- }
- return html;
-}
-function showTheory(){
- theoryReturnHTML=app.innerHTML;resetBtn.hidden=true;
- var title=a1Topic?a1Topic.title:(screen==="modals"?"Modales y auxiliares":"Pronombres");
- app.innerHTML=crumb(title)+'<main class="card theory"><button class="theory-btn" id="theoryBack">← Volver al ejercicio</button><h2>'+esc(title)+'</h2>'+theoryContent()+'</main>';
-}
-function closeTheory(){
- if(!theoryReturnHTML)return;app.innerHTML=theoryReturnHTML;theoryReturnHTML=null;resetBtn.hidden=false;
- var input=document.getElementById("answerInput");if(input&&!input.disabled)input.focus();
-}
-function selectionButton(){
- if(!canSelectItems())return "";
- return '<button class="theory-btn" id="selectItemsBtn">Verbos: '+items().length+'</button>';
-}
-function selectorLabel(item){
- if(screen==="modals")return {word:item.english,meaning:item.spanish};
- var v=vocabFor(item);return {word:v?v.english:item.label,meaning:v?v.spanish:""};
-}
-function showSelector(){
- selectorReturnHTML=app.innerHTML;resetBtn.hidden=true;
- var list=rawItems(),selected=selections[selectionKey()],name=screen==="modals"?"Modales y auxiliares":"Verbos para "+a1Topic.title;
- app.innerHTML=crumb(name)+'<main class="card"><div class="selector-head"><div><h2>'+esc(name)+'</h2><p class="summary">Marca al menos uno. Solo los seleccionados aparecerán en esta práctica.</p></div><div class="selector-actions"><button class="theory-btn" id="selectAllBtn">Todos</button><button class="theory-btn" id="selectNoneBtn">Ninguno</button></div></div><div class="verb-list">'+list.map(function(item){var label=selectorLabel(item);return '<label class="verb-check"><input type="checkbox" value="'+esc(item.id)+'"'+(selected.has(item.id)?" checked":"")+'><span><b>'+esc(label.word)+'</b><small>'+esc(label.meaning)+'</small></span></label>'}).join("")+'</div><div class="selector-foot"><span class="selector-error" id="selectorError"></span><button class="theory-btn" id="selectorBack">Cancelar</button><button class="primary" id="selectorApply">Practicar seleccionados</button></div></main>';
-}
-function closeSelector(){
- if(!selectorReturnHTML)return;app.innerHTML=selectorReturnHTML;selectorReturnHTML=null;resetBtn.hidden=false;
- var input=document.getElementById("answerInput");if(input&&!input.disabled)input.focus();
-}
-function applySelector(){
- var checked=Array.from(app.querySelectorAll(".verb-check input:checked")).map(function(x){return x.value});
- if(!checked.length){document.getElementById("selectorError").textContent="Selecciona al menos un verbo.";return}
- var key=selectionKey();selections[key]=new Set(checked);
- try{localStorage.setItem("englishDrill.selection."+key+".v1",JSON.stringify(checked))}catch(e){}
- selectorReturnHTML=null;resetBtn.hidden=false;lastId=null;current=null;next();
-}
-function renderExercise(){
- var x=current.item,n=prog()[x.id],head='<div class="qhead"><span class="pill">'+esc(isPronouns()?x.label:(screen==="a1"?a1Topic.title:(mode==="complete"?"Autocompletar":"Relacionar")))+'</span><div class="qtools">'+selectionButton()+'<button class="theory-btn" id="theoryBtn">Teoría</button><span class="streak">Racha '+dots(n)+n+'/'+GOAL+'</span></div></div>';
- if(isPronouns()){
-   var parts=String(current.sentence.en).split("___"),sentence=parts.map(esc).join('<span class="blank">?</span>')+'<span class="es">'+esc(current.sentence.es)+'</span>';
-   shell(head+'<div class="sentence">'+sentence+'</div>'+optionButtons(current.options.map(function(v){return {id:v,value:v}}))+'<div class="feedback" id="feedback"></div>',screen==="a1"?"A1 · Pronombres personales":"Pronombres");
- }else if(isA1Write()){
-   shell(head+'<div class="sentence">'+esc(current.vocab.spanish)+'<span class="es">Escribe el verbo correspondiente en inglés.</span></div><form id="answerForm" class="formrow"><input class="answer" id="answerInput" autocomplete="off" autocapitalize="none" spellcheck="false" aria-label="Verbo en inglés"><button class="primary" type="submit">Comprobar</button></form><div class="feedback" id="feedback"></div>',"A1 · Presente simple · Escribir");
-   document.getElementById("answerInput").focus();
- }else if(isA1Match()){
-   var vocab=vocabFor(x);
-   shell(head+'<div class="sentence">'+esc(x.label)+'<span class="es">Pronunciación aproximada: '+esc(vocab?vocab.pronunciation:"")+'</span></div>'+optionButtons(current.options)+'<div class="feedback" id="feedback"></div>',"A1 · Presente simple · Relacionar");
- }else if(screen==="a1"){
-   var grammarParts=String(current.example.prompt).split("___"),grammarSentence=grammarParts.map(esc).join('<span class="blank">?</span>')+'<span class="es">'+esc(current.example.es)+'</span>';
-   shell(head+'<div class="sentence">'+grammarSentence+'</div>'+optionButtons(current.options)+'<div class="feedback" id="feedback"></div>',"A1 · "+a1Topic.title);
- }else if(mode==="match"){
-   shell(head+'<div class="sentence">'+esc(x.english)+'<span class="es">Pronunciación aproximada: '+esc(x.pronunciation)+'</span></div>'+optionButtons(current.options)+'<div class="feedback" id="feedback"></div>',"Modales · Relacionar");
- }else{
-   var exampleParts=String(current.example.en).split(new RegExp("\\b"+current.example.answer.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"\\b","i"));
-   var exampleBlank=exampleParts.length>1?exampleParts.map(esc).join('<span class="blank">?</span>'):esc(current.example.en);
-   shell(head+'<div class="sentence">'+exampleBlank+'<span class="es">'+esc(current.example.es)+'</span></div><p class="formlabel">Escribe la palabra o expresión que falta en inglés</p><form id="answerForm" class="formrow"><input class="answer" id="answerInput" autocomplete="off" autocapitalize="none" spellcheck="false" aria-label="Respuesta en inglés"><button class="primary" type="submit">Comprobar</button></form><div class="feedback" id="feedback"></div>',"Modales · Autocompletar");
-   document.getElementById("answerInput").focus();
- }
-}
-function optionButtons(opts){return '<div class="options">'+opts.map(function(o,i){return '<button class="opt" data-id="'+esc(o.id)+'" data-value="'+esc(o.value)+'"><span class="key">'+(i+1)+'</span>'+esc(o.value)+'</button>'}).join("")+'</div>'}
-function correctTip(){
- var x=current.item;
- if(isPronouns())return x.tip;
- if(isA1Write())return current.vocab.english+" · "+current.vocab.spanish;
- if(isA1Match()){var v=vocabFor(x);return x.label+" · "+(v?v.spanish:"")}
- if(screen==="a1")return x.tip;
- return current.example.en+" · "+current.example.es;
-}
-function wrongExplanation(chosen){
- var x=current.item,answer,selected,prompt;
- if(isPronouns()){
-   selected=pronounData.pronouns.find(function(p){return p.answer===chosen});
-   return 'Aquí se necesita “'+x.answer+'” porque funciona como '+x.role+'. “'+chosen+'”'+(selected?' suele funcionar como '+selected.role:' no cumple esa función')+' en esta frase.';
- }
- if(isA1Write())return '“'+current.vocab.spanish+'” se traduce aquí como “'+current.vocab.english+'”. Tu respuesta “'+chosen+'” no coincide con la forma base del verbo.';
- if(isA1Match()){
-   selected=a1Topic.items.find(function(i){return i.id===chosen});
-   var correctVocab=vocabFor(x),selectedVocab=selected?vocabFor(selected):null;
-   return '“'+x.label+'” significa “'+(correctVocab?correctVocab.spanish:"")+'”. La opción elegida'+(selectedVocab?', “'+selectedVocab.spanish+'”, corresponde a “'+selectedVocab.english+'”':' no corresponde a ese significado')+'.';
- }
- if(screen==="modals"){
-   if(mode==="match"){
-     selected=modalData.items.find(function(i){return i.id===chosen});
-     return '“'+x.english+'” significa “'+x.spanish+'”. '+(selected?'“'+selected.spanish+'” corresponde a “'+selected.english+'”, no a “'+x.english+'”.':'La opción elegida no corresponde a ese significado.');
-   }
-   return 'La frase requiere “'+x.english+'” porque expresa “'+x.spanish+'”. “'+chosen+'” no completa esa función en este contexto.';
- }
- answer=current.example.answer;prompt=current.example.prompt;
- if(a1Topic.id==="to-be")return 'La concordancia correcta es I + am, he/she/it + is y you/we/they + are. Por eso aquí corresponde “'+answer+'”, no “'+chosen+'”.';
- if(a1Topic.id==="articles"){
-   var articleReason=answer==="a"?"el sustantivo empieza con sonido consonante":answer==="an"?"el sustantivo empieza con sonido vocálico":"se habla de algo específico o conocido";
-   return 'Se usa “'+answer+'” porque '+articleReason+'. “'+chosen+'” se emplea en un contexto diferente.';
- }
- if(a1Topic.id==="simple-present"){
-   var baseRule=/does not|do not/i.test(prompt)?"Después de do/does not, el verbo debe quedar en forma base.":/^(He|She|It)\b/i.test(prompt)?"Con he/she/it, la afirmación usa la forma de tercera persona.":"Con I/you/we/they, la afirmación usa la forma base.";
-   return baseRule+' Por eso la respuesta es “'+answer+'”, no “'+chosen+'”.';
- }
- if(a1Topic.id==="do-does")return 'Usa do con I/you/we/they y does con he/she/it. El sujeto de esta pregunta exige “'+answer+'”, no “'+chosen+'”.';
- if(a1Topic.id==="third-person"){
-   var thirdRule=/^Does\b/i.test(prompt)?"Después de does, el verbo vuelve a la forma base.":"En una afirmación con he/she/it, el verbo lleva la terminación de tercera persona.";
-   return thirdRule+' Por eso corresponde “'+answer+'”, no “'+chosen+'”.';
- }
- if(a1Topic.id==="there-is-are")return 'There is se usa con singular y there are con plural. La cantidad de esta frase exige “'+answer+'”, no “'+chosen+'”.';
- if(a1Topic.id==="present-continuous")return 'El presente continuo se forma con am/is/are + verbo en -ing, y el auxiliar debe concordar con el sujeto. Aquí corresponde “'+answer+'”, no “'+chosen+'”.';
- return x.tip+' La forma correcta en esta frase es “'+answer+'”, no “'+chosen+'”.';
-}
-function respond(ok,chosen){
- if(answered)return;answered=true;var x=current.item,p=prog();p[x.id]=ok?Math.min(GOAL,p[x.id]+1):0;save(storageKind());
- var buttons=app.querySelectorAll(".opt");buttons.forEach(function(b){b.disabled=true;var good=isPronouns()?b.dataset.value===x.answer:(isA1Match()?b.dataset.id===x.id:(screen==="a1"?b.dataset.value===current.example.answer:b.dataset.id===x.id));if(good)b.classList.add("correct");else if(b.dataset.id===chosen||b.dataset.value===chosen)b.classList.add("wrong");else b.classList.add("dim")});
- var input=document.getElementById("answerInput");if(input){input.disabled=true;input.classList.add(ok?"correct":"wrong")}
- var mastered=ok&&p[x.id]>=GOAL,answer=isPronouns()?x.answer:(isA1Write()?current.vocab.english:(isA1Match()?(vocabFor(x)||{}).spanish:(screen==="a1"?current.example.answer:x.english)));
- var message=mastered?"<strong>¡Dominado!</strong> Completaste 10 seguidas.":ok?"<strong>¡Correcto!</strong> Racha: "+p[x.id]+"/"+GOAL+".":"<strong>La respuesta era “"+esc(answer)+"”.</strong> Su contador vuelve a 0.";
- var tip=ok?correctTip():wrongExplanation(chosen);
- document.getElementById("feedback").innerHTML='<div class="fb"><div><div class="'+(ok?"good":"bad")+'">'+message+'</div><div class="tip">'+esc(tip)+'</div></div><button class="primary" id="nextBtn">Siguiente →</button></div>';
- document.getElementById("nextBtn").focus();renderRail();
-}
-function renderRail(){
- var rail=document.getElementById("rail");if(!rail)return;var list=items(),p=prog(),done=list.filter(function(x){return p[x.id]>=GOAL}).length;
- var html='<h3>Progreso</h3><p class="summary"><b>'+done+'</b> de <b>'+list.length+'</b> dominados</p>',lastCat="";
- list.forEach(function(x){var cat=isPronouns()?x.cat:(screen==="a1"?x.cat:"Modales y auxiliares");if(cat!==lastCat){html+='<div class="cat">'+esc(cat)+'</div>';lastCat=cat}var n=p[x.id],isDone=n>=GOAL,label=isPronouns()?x.label:(screen==="a1"?x.label:x.english);html+='<div class="prow'+(isDone?" done":"")+'"><span class="word" title="'+esc(label)+'">'+esc(label)+'</span><span class="bar"><i style="width:'+Math.round(n/GOAL*100)+'%"></i></span><span class="cnt">'+(isDone?"✓":n+"/"+GOAL)+'</span></div>'});rail.innerHTML=html;
-}
-function renderDone(){var label=isPronouns()?"pronombre":(screen==="a1"?"objetivo del tema":"modal y auxiliar"),title=screen==="a1"?"A1 · "+a1Topic.title:(isPronouns()?"Pronombres":"Modales y auxiliares");shell('<div class="done"><div class="trophy">🏆</div><h2>¡Todo dominado!</h2><p>Completaste 10 aciertos seguidos en cada '+label+'.</p>'+(canSelectItems()?'<button class="theory-btn" id="selectItemsBtn">Cambiar verbos</button> ':'')+'<button class="primary" id="againBtn">Practicar otra vez</button></div>',title)}
-function reset(){
- if(!confirm("¿Borrar el progreso de esta sección y empezar de cero?"))return;
- var p=prog();items().forEach(function(x){p[x.id]=0});save(storageKind());lastId=null;next();
-}
-app.addEventListener("click",function(e){
- var b=e.target.closest("button");if(!b)return;
- if(b.id==="theoryBtn"){showTheory();return}
- if(b.id==="theoryBack"){closeTheory();return}
- if(b.id==="selectItemsBtn"){showSelector();return}
- if(b.id==="selectorBack"){closeSelector();return}
- if(b.id==="selectAllBtn"||b.id==="selectNoneBtn"){app.querySelectorAll(".verb-check input").forEach(function(x){x.checked=b.id==="selectAllBtn"});return}
- if(b.id==="selectorApply"){applySelector();return}
- if(b.dataset.go==="home"){home();return}
- if(b.dataset.open==="a1"){a1Menu();return}
- if(b.dataset.open==="modals"){modalMenu();return}
- if(b.dataset.topic){startA1(b.dataset.topic);return}
- if(b.dataset.a1Mode){startA1("simple-present",b.dataset.a1Mode);return}
- if(b.dataset.mode){start("modals",b.dataset.mode);return}
- if(b.classList.contains("opt")){var ok=isPronouns()?b.dataset.value===current.item.answer:(isA1Match()?b.dataset.id===current.item.id:(screen==="a1"?b.dataset.value===current.example.answer:b.dataset.id===current.item.id));respond(ok,b.dataset.id||b.dataset.value);return}
- if(b.id==="nextBtn"){next();return}
- if(b.id==="againBtn"){var p=prog();items().forEach(function(x){p[x.id]=0});save(storageKind());lastId=null;next()}
-});
-app.addEventListener("submit",function(e){if(e.target.id!=="answerForm")return;e.preventDefault();var v=document.getElementById("answerInput").value;if(!v.trim())return;if(isA1Write()){respond(normalize(v)===normalize(current.vocab.english),v);return}respond(normalize(v)===normalize(current.example.answer)||accepted(current.item,v),v)});
-document.addEventListener("keydown",function(e){if(e.key>="1"&&e.key<="9"&&!answered){var bs=app.querySelectorAll(".opt"),i=+e.key-1;if(bs[i]){e.preventDefault();bs[i].click()}}else if((e.key==="Enter"||e.key===" ")&&answered&&document.getElementById("nextBtn")){e.preventDefault();next()}});
-document.getElementById("brandBtn").addEventListener("click",home);resetBtn.addEventListener("click",reset);
-var themeBtn=document.getElementById("themeBtn");themeBtn.addEventListener("click",function(){var root=document.documentElement,d=root.dataset.theme||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"),n=d==="dark"?"light":"dark";root.dataset.theme=n;localStorage.setItem("englishDrill.theme",n)});var savedTheme=localStorage.getItem("englishDrill.theme");if(savedTheme)document.documentElement.dataset.theme=savedTheme;
-try{
- var packaged=window.ENGLISH_DRILL_DATA;
- if(!packaged||!packaged.pronouns||!packaged.modals||!packaged.a1)throw Error("datos-client.js no está disponible");
- pronounData=packaged.pronouns;modalData=packaged.modals;a1Data=packaged.a1;GOAL=a1Data.goal||modalData.goal||10;
- load(KEYS.pronouns,progress.pronouns,pronounData.pronouns);load(KEYS.modals,progress.modals,modalData.items);home();
-}catch(e){app.innerHTML='<div class="card error"><strong>No se pudieron cargar los datos incluidos en la app.</strong><p>Comprueba que <code>datos-client.js</code> esté junto a <code>index.html</code>.</p><small>'+esc(e.message)+'</small></div>'}
-if("serviceWorker"in navigator)addEventListener("load",function(){navigator.serviceWorker.register("./sw.js").catch(function(){})});
-var promptEvent=null,installBtn=document.getElementById("installBtn");addEventListener("beforeinstallprompt",function(e){e.preventDefault();promptEvent=e;installBtn.hidden=false});installBtn.addEventListener("click",function(){if(promptEvent){promptEvent.prompt();promptEvent.userChoice.finally(function(){promptEvent=null;installBtn.hidden=true})}});
-})();
-</script>
+  <div class="wrap">
+    <header class="top">
+      <button class="brand" id="brandBtn" type="button">
+        <h1>English <b>Drill</b></h1>
+        <p>Aprende · practica · repasa</p>
+      </button>
+      <div class="tools">
+        <button class="tool" id="installBtn" type="button" hidden>↓ Instalar</button>
+        <button class="tool" id="settingsBtn" type="button" title="Configuración" aria-label="Configuración">⚙</button>
+        <button class="tool" id="themeBtn" type="button" title="Cambiar tema" aria-label="Cambiar tema">◐</button>
+        <button class="tool" id="resetBtn" type="button" hidden>↻ Reiniciar</button>
+      </div>
+    </header>
+    <main id="app" aria-live="polite">
+      <div class="card loading">Cargando contenido…</div>
+    </main>
+  </div>
+  <script type="module" src="./src/app.js"></script>
 </body>
 </html>

@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-agree-simple-present-example-4cf90d517e52",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the project every day.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Yo estar de acuerdo el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-3eff484e20a8",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the project.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Yo no estar de acuerdo el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-c5128db215d3",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a car every day.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Tú estar de acuerdo un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-77a6579ade62",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a car.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Tú no estar de acuerdo un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-33a71782322d",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ an email every day.",
+      "answer": "agrees",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Él estar de acuerdo un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-7523f7377e92",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ an email.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Él no estar de acuerdo un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-ebac261fb2dd",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the report every day.",
+      "answer": "agrees",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Ella estar de acuerdo el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-56392e410b86",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the report.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Ella no estar de acuerdo el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-8d72fc20e6ea",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a plan every day.",
+      "answer": "agrees",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Eso estar de acuerdo un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-82d8afaed738",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a plan.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Eso no estar de acuerdo un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-0db3f1fb2a0f",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the lesson every day.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Nosotros estar de acuerdo la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-f7d3fed52ed3",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the lesson.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Nosotros no estar de acuerdo la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-531deedf0881",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ an idea every day.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Ellos estar de acuerdo una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-agree-simple-present-example-f58dd2ef58cc",
+      "itemId": "a1-verb-agree",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ an idea.",
+      "answer": "agree",
+      "acceptableAnswers": [],
+      "options": [
+        "agree",
+        "agrees",
+        "agreeing"
+      ],
+      "translation": "Ellos no estar de acuerdo una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

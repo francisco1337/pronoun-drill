@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-mention-simple-present-example-cabdbff1cca8",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a plan every day.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Yo mencionar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-c7e5fbb77058",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a plan.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Yo no mencionar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-10529b2d0969",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the lesson every day.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Tú mencionar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-362062c733f8",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the lesson.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Tú no mencionar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-61055a133d14",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ an idea every day.",
+      "answer": "mentions",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Él mencionar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-930c4cf8209a",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ an idea.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Él no mencionar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-c24d05d3cb9a",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a house every day.",
+      "answer": "mentions",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Ella mencionar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-f50274d29ce2",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a house.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Ella no mencionar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-0ed1c90eb08f",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the project every day.",
+      "answer": "mentions",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Eso mencionar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-768fc2ff5dca",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the project.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Eso no mencionar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-e8097515f72e",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a car every day.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Nosotros mencionar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-e32977108ddf",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a car.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Nosotros no mencionar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-22501d870571",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ an email every day.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Ellos mencionar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-mention-simple-present-example-5aae5f664c9f",
+      "itemId": "a1-verb-mention",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ an email.",
+      "answer": "mention",
+      "acceptableAnswers": [],
+      "options": [
+        "mention",
+        "mentions",
+        "mentioning"
+      ],
+      "translation": "Ellos no mencionar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

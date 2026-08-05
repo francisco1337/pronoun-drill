@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "third-person",
+  "examples": [
+    {
+      "id": "a1-verb-report-third-person-example-3f8f5c62ef9c",
+      "itemId": "a1-verb-report",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the report.",
+      "answer": "reports",
+      "acceptableAnswers": [],
+      "options": [
+        "report",
+        "reports",
+        "reporting"
+      ],
+      "translation": "Él reportar el informe.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-report-third-person-example-c0907628522f",
+      "itemId": "a1-verb-report",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does he ___ the report?",
+      "answer": "report",
+      "acceptableAnswers": [],
+      "options": [
+        "report",
+        "reports",
+        "reporting"
+      ],
+      "translation": "¿Él reportar el informe?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-report-third-person-example-d5a64125b92e",
+      "itemId": "a1-verb-report",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a plan.",
+      "answer": "reports",
+      "acceptableAnswers": [],
+      "options": [
+        "report",
+        "reports",
+        "reporting"
+      ],
+      "translation": "Ella reportar un plan.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-report-third-person-example-ae8e85fe16c6",
+      "itemId": "a1-verb-report",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does she ___ a plan?",
+      "answer": "report",
+      "acceptableAnswers": [],
+      "options": [
+        "report",
+        "reports",
+        "reporting"
+      ],
+      "translation": "¿Ella reportar un plan?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-report-third-person-example-4afb4ddf8142",
+      "itemId": "a1-verb-report",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the lesson.",
+      "answer": "reports",
+      "acceptableAnswers": [],
+      "options": [
+        "report",
+        "reports",
+        "reporting"
+      ],
+      "translation": "Eso reportar la lección.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-report-third-person-example-4e3857d26944",
+      "itemId": "a1-verb-report",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does it ___ the lesson?",
+      "answer": "report",
+      "acceptableAnswers": [],
+      "options": [
+        "report",
+        "reports",
+        "reporting"
+      ],
+      "translation": "¿Eso reportar la lección?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-study-simple-present-example-d09eae6b63f5",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the lesson every day.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Yo estudiar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-1f32ca7ac145",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the lesson.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Yo no estudiar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-59e852d435c6",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ an idea every day.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Tú estudiar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-57da919011df",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ an idea.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Tú no estudiar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-a9da5731e02b",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a house every day.",
+      "answer": "studies",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Él estudiar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-ee42ffa1e04e",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a house.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Él no estudiar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-93fa81228b71",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the project every day.",
+      "answer": "studies",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Ella estudiar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-b2b5e711eac5",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the project.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Ella no estudiar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-8b508443f0d2",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a car every day.",
+      "answer": "studies",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Eso estudiar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-9c43f755f44f",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a car.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Eso no estudiar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-162215bfed98",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ an email every day.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Nosotros estudiar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-ef9bd89cfb00",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ an email.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Nosotros no estudiar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-f0b28a809488",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the report every day.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Ellos estudiar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-study-simple-present-example-b50d535a5635",
+      "itemId": "a1-verb-study",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the report.",
+      "answer": "study",
+      "acceptableAnswers": [],
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "translation": "Ellos no estudiar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

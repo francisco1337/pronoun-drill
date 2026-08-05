@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-provide-simple-present-example-c3ba36c6c868",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ an idea every day.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Yo proveer una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-9d861a01dac1",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ an idea.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Yo no proveer una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-f674989ceb8a",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a house every day.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Tú proveer una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-67e8ca1671cf",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a house.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Tú no proveer una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-d59e70c60a65",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the project every day.",
+      "answer": "provides",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Él proveer el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-d89104176f85",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the project.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Él no proveer el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-4dbd915147be",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a car every day.",
+      "answer": "provides",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Ella proveer un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-bff492a7f547",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a car.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Ella no proveer un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-4f6b0d529d08",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an email every day.",
+      "answer": "provides",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Eso proveer un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-81f95b71fcf0",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ an email.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Eso no proveer un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-5d6c0cf28100",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the report every day.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Nosotros proveer el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-6e0b4b4f37d3",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the report.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Nosotros no proveer el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-c7c31f142e85",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a plan every day.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Ellos proveer un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-provide-simple-present-example-66eefc907f76",
+      "itemId": "a1-verb-provide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a plan.",
+      "answer": "provide",
+      "acceptableAnswers": [],
+      "options": [
+        "provide",
+        "provides",
+        "providing"
+      ],
+      "translation": "Ellos no proveer un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

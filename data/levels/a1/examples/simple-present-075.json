@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-receive-simple-present-example-a1613fe3fd3d",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a plan every day.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Yo recibir un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-3aa9bf9bf7c3",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a plan.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Yo no recibir un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-3a9bee107a3e",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the lesson every day.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Tú recibir la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-cb89b35a185e",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the lesson.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Tú no recibir la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-7b63021380db",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ an idea every day.",
+      "answer": "receives",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Él recibir una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-3c92e2589579",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ an idea.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Él no recibir una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-2bd2ff178be2",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a house every day.",
+      "answer": "receives",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Ella recibir una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-a3920d36a197",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a house.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Ella no recibir una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-bec0d048d76f",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the project every day.",
+      "answer": "receives",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Eso recibir el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-9f73cdbbf8fa",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the project.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Eso no recibir el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-0617612e6017",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a car every day.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Nosotros recibir un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-762d26298137",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a car.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Nosotros no recibir un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-fdd334d4ebff",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ an email every day.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Ellos recibir un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-receive-simple-present-example-5e3a04ea4ef9",
+      "itemId": "a1-verb-receive",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ an email.",
+      "answer": "receive",
+      "acceptableAnswers": [],
+      "options": [
+        "receive",
+        "receives",
+        "receiving"
+      ],
+      "translation": "Ellos no recibir un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

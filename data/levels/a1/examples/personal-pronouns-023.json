@@ -1,0 +1,5808 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-690768e27835",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ dogs.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos perros.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-e33d49e215d0",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ chairs?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas sillas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d4fb6ec08590",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ keys.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas llaves.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-6ba37bf3b20c",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watches are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos relojes están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-77cd42048908",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ pencils.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos lápices.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-3d32dea168c2",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitars are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas guitarras son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-589f5705ec5c",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chairs are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas sillas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-57ef22863cd9",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ balls.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas pelotas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c0ccb7ab6855",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirts are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas camisas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-babcc255ef49",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ boxes are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas cajas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-65952bd37c91",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ shirts.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas camisas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ea57d6ffa001",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ houses.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas casas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-47f55be1b15f",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ bikes?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas bicicletas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d4e2054240cd",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ notebooks.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos cuadernos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ec438537c0c7",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ watches.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos relojes.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ed315be93e1f",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrellas are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos paraguas son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-206d60775caf",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cats.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos gatos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-e027a7d98833",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ houses are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas casas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-5f59a9d543c4",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ jackets.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas chaquetas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-4cc94048612e",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ plants?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas plantas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-f407cc8ad18f",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phones are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos teléfonos están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c5847d2b6256",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ balls are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas pelotas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-665209d58b72",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ tables.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas mesas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d6ca086ed8c2",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ books are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos libros son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-1d1f41f16c8a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ phones.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos teléfonos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-84b31a7e3ad4",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ wallets.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas carteras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-8c57512e0ef6",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jackets are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas chaquetas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-05912977bccc",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bikes are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas bicicletas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-8b8b0392dcd7",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ bikes.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas bicicletas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-338fd377f389",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ cameras.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas cámaras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-8566d1156189",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cats are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos gatos son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-0491e37ee92f",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ cars.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos coches.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-44885069d3af",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrellas are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos paraguas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-3406bd850729",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ houses.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas casas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-e078cdc4f7f8",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ backpacks.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas mochilas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b8d6112ea61c",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cameras.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas cámaras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-f8595519b1da",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ tables.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas mesas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-2123d2d5a0d9",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ pens.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos bolígrafos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-9d886223068e",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tables are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas mesas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-a533be1ccd19",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpacks are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas mochilas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b0a8e52ad773",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptops are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas computadoras están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d04d1cbbd1fd",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ umbrellas.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos paraguas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-92ceb4a85ce7",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ boxes.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas cajas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-470e220267c5",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ boxes are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas cajas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-4f46ba4e3373",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ phones.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos teléfonos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c7a4e63d9d8a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ jackets?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas chaquetas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-85a32cc7b250",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ guitars.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas guitarras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-245f69a3137f",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpacks are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas mochilas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ad295a8eb1e3",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bikes are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas bicicletas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-471e821dde68",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tickets are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos boletos están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c1c660a82414",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ books are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos libros están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-e8f705d6b474",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ pencils?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos lápices?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-88e30f4bd6be",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chairs are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas sillas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-8dbb689a6eb6",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ guitars?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas guitarras?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-82c5443ae97c",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ boxes.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas cajas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-fef75fb39c30",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ cats?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos gatos?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-68dcfa5007ac",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirts are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas camisas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-69e8b0996153",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cups are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas tazas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-7ddca5f2158e",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ tickets.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos boletos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-5d20a02c70c0",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ hats.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos sombreros.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-84aaf99679fe",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ hats.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos sombreros.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-e814d49ca197",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ hats.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos sombreros.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-34d62e01b3a8",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptops are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas computadoras son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-7d2e16639eb4",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cars.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos coches.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-70f7874b9704",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ bags.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas bolsas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-a16d17e3ca66",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dogs are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos perros están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ad2e72697ef6",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ umbrellas.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos paraguas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-945bfcc000e9",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cats are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos gatos son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-f11b68b5aeee",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ houses are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas casas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-82537505d5dd",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ watches.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos relojes.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-a2e27811293b",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cars are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos coches están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-392335f19614",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ cars?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos coches?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-acc93e126a94",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ hats?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos sombreros?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-134edf3e4d25",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ jackets.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas chaquetas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-15ff310a6d69",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ houses?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas casas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c5cb97d7c83d",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ books.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos libros.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-0ce4abc43a26",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cameras.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas cámaras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-83038f87576b",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pencils are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos lápices son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-efbbdcacdd04",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tables are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas mesas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-9c24dce53079",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ shirts?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas camisas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-7b0788930713",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ balls are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas pelotas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-6526b28c7caf",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ phones.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos teléfonos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-cbc492f4babd",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ boxes are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas cajas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-0379c09dd09f",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ guitars.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas guitarras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-80794d875736",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phones are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos teléfonos son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-78a6e07f3484",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ books are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos libros son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-897158f61550",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ hats are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos sombreros son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-90e16ded5219",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ plants.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas plantas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d0c9cd76e6ce",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ shirts.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas camisas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-e7608fba79bb",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ boxes?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas cajas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-4bc8ebe7cf7e",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ notebooks.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos cuadernos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-a46fb78dcda9",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cups.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas tazas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-724ff85dba7e",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pens.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos bolígrafos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-eed2fb731a80",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ bikes.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas bicicletas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b915e9aa3563",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jackets are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas chaquetas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b55d53fc4281",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ tickets.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos boletos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-1ee3b47202d0",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ mirrors?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos espejos?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-e7cbc828e0b0",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cups are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas tazas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ae20b1722442",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ cats.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos gatos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-7b264ac5f5d1",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ hats are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos sombreros son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-6b088f87f0ed",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ books?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos libros?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-0940add72162",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ chairs.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas sillas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-673070387772",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ watches.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos relojes.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b728e9f9b7bb",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ keys are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas llaves son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ff3e09234db6",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phones are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos teléfonos son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-9bc6579fcf70",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ chairs.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas sillas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c4d268dcce56",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jackets are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas chaquetas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ad9583f55b81",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watches are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos relojes son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-e2b9179c5296",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ notebooks?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos cuadernos?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-24b51d1275c9",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ cups.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas tazas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d839969cadcc",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ pencils.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos lápices.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-f29214b1b2b9",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ plants.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas plantas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-4588562f56de",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tickets are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos boletos son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-f4d1012cc9eb",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ pens.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos bolígrafos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-7ceebf5453ac",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bikes are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas bicicletas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-feacf3b0a8d8",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bags are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas bolsas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-01e3e15e9c65",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ mirrors.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos espejos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-4dd7d81d4ed6",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ pens?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos bolígrafos?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b7f5f63f0a1f",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cats are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos gatos están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-941270b854d6",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cups are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas tazas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-9242cd39fad4",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plants are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas plantas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-3981f55c9ea0",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cats.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos gatos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-918ccec0324a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ umbrellas.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos paraguas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-bb577ccff6bd",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ shirts.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas camisas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-0d3ef9326eb0",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pens are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos bolígrafos son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-e5099a8b6c43",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ balls.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas pelotas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-7c5d1f986f8c",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cars are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos coches son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-5e366ee5d5c5",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bags are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas bolsas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-3a3febfb9826",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ mirrors.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos espejos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ba961581ba9d",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ wallets.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas carteras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-9577b1024e11",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ laptops?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas computadoras?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-407122f5a7c1",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ plants.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas plantas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d0f3ddb3dcf3",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebooks are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos cuadernos son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ad72c351670a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ tickets.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos boletos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d0df023e8fa6",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ tickets?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos boletos?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-abf8a2e58b8a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plants are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas plantas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-7f4b533cd312",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirrors are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos espejos están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-5d0860f61a4a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallets are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas carteras son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-33098712c319",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ boxes.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas cajas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-7f5dd57218b9",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ notebooks.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos cuadernos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c27a96058e2c",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watches are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos relojes son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-bebc0462d444",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ dogs.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos perros.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b6fd80cdf611",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ balls.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas pelotas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-628d1507a6e3",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallets are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas carteras están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-969b545764ed",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ guitars.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas guitarras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-56f49d094d40",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cameras are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas cámaras son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ff6d7807b7ec",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ backpacks?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas mochilas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-79e09c92e0d3",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ balls?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas pelotas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-8f7c940fd4ba",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ laptops.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas computadoras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c191fb1167ca",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cars are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos coches son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-49d6f0d9595a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptops are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas computadoras son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-7e730e889118",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cameras are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas cámaras son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-03fa89a50c15",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ books.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos libros.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-0e962394e5a0",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cameras are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas cámaras están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d298b6e19256",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrellas are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos paraguas son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-57ba1668f3e9",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chairs are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas sillas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-332784fb51bc",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ backpacks.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas mochilas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c60f69016668",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ dogs?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos perros?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b8985d4bce6a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ keys.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas llaves.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-077a876e40c1",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ tables?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas mesas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-8803e1c4ae09",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bikes.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas bicicletas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-2e14cd373140",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirts are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas camisas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-13855056a1c4",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tickets are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos boletos son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-4a85c5eab5cf",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ chairs.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estas sillas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-90aaf5261e2b",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bags are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas bolsas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-eb928aefcce9",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pencils.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos lápices.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-82c62eed26a3",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitars are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas guitarras están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d86c25ae9b2a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ keys?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas llaves?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-de934002247e",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ keys are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas llaves son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c4d7135ddfc4",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ backpacks.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas mochilas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-9b6b25ef897c",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirrors are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos espejos son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b213311f60d0",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ wallets.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas carteras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-fdfa276318e0",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ laptops.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas computadoras.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-09c846e7528d",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plants are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas plantas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b5f1ba0b316a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ mirrors.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos espejos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-d479a65558f2",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tables are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas mesas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c4220bb1c009",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cups.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas tazas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-5989e46c6197",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ balls are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas pelotas son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-35532111da1b",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ jackets.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas chaquetas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-622041c55c3e",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebooks are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos cuadernos están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-6f828a4e0c98",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pens are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos bolígrafos son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-772dc8436078",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dogs are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos perros son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-4a319269ba6e",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cars.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira estos coches.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c41fee12a4ce",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ keys are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas llaves están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-9f926e7132b7",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpacks are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas mochilas están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-132897989876",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallets are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas carteras son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-6099d2f4d5e5",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ bags.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas bolsas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-8c79205b3037",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirrors are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos espejos son muy bonitos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-05240e0e9e9a",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pencils are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos lápices son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-e08cb25cbb09",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ cups?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas tazas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-43d86d465f13",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ books.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estos libros.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-b88680838f92",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ wallets?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estas carteras?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-cbbd465cf8b1",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebooks are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos cuadernos son míos.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-86bf3c0b0999",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ houses are mine.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas casas son mías.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-c27c7e66ed4b",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitars are very nice.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estas guitarras son muy bonitas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-8a1faba47864",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ tables.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero estas mesas.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-ce340465c7a5",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ umbrellas?",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves estos paraguas?",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-57e5e982c52e",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pens are here.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Estos bolígrafos están aquí.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-8a50433d0446",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ keys.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estas llaves.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-these-personal-pronouns-example-01fbd1a5e532",
+      "itemId": "a1-pronoun-these",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ dogs.",
+      "answer": "these",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan estos perros.",
+      "hint": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "explanation": "'these' = estos/estas: VARIAS cosas CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

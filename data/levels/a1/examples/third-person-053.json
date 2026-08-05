@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "third-person",
+  "examples": [
+    {
+      "id": "a1-verb-wait-third-person-example-9595e501fd03",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ an idea.",
+      "answer": "waits",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Él esperar una idea.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-third-person-example-69a3a5171b04",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does he ___ an idea?",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "¿Él esperar una idea?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-third-person-example-9e5ddd5fc500",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a house.",
+      "answer": "waits",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Ella esperar una casa.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-third-person-example-7abf967fc2ba",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does she ___ a house?",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "¿Ella esperar una casa?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-third-person-example-eee04588b0bd",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the project.",
+      "answer": "waits",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Eso esperar el proyecto.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-third-person-example-c712ab5c5843",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does it ___ the project?",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "¿Eso esperar el proyecto?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

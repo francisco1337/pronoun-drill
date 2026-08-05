@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-rent-simple-present-example-1309f9f046f6",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a plan every day.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Yo rentar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-32d1d589f7a7",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a plan.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Yo no rentar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-bbf816ba0398",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the lesson every day.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Tú rentar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-6ea3b1650f50",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the lesson.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Tú no rentar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-e7bce15ce1b3",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ an idea every day.",
+      "answer": "rents",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Él rentar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-d3eea8ebae6e",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ an idea.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Él no rentar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-23c29a84f9a3",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a house every day.",
+      "answer": "rents",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Ella rentar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-88e6ae388c42",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a house.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Ella no rentar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-82dbf49d271e",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the project every day.",
+      "answer": "rents",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Eso rentar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-6741e8b2d526",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the project.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Eso no rentar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-cd93809ab667",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a car every day.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Nosotros rentar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-fe27948e9ea9",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a car.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Nosotros no rentar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-0331f1da1fef",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ an email every day.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Ellos rentar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-rent-simple-present-example-d1b46602a916",
+      "itemId": "a1-verb-rent",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ an email.",
+      "answer": "rent",
+      "acceptableAnswers": [],
+      "options": [
+        "rent",
+        "rents",
+        "renting"
+      ],
+      "translation": "Ellos no rentar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

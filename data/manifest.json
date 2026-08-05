@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "appName": "English Trainer",
+  "levels": {
+    "A1": {
+      "grammar": "./data/levels/a1/grammar.json",
+      "verbs": "./data/levels/a1/verbs.json",
+      "pronouns": "./data/levels/a1/pronouns.json",
+      "grammarItems": "./data/levels/a1/grammar-items.json",
+      "expressions": "./data/levels/a1/expressions.json"
+    }
+  },
+  "professional": {
+    "modals": "./data/professional/modals.json"
+  }
+}

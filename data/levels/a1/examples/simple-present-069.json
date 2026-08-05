@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-believe-simple-present-example-dd879b217829",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ an idea every day.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Yo creer una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-b52a64939674",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ an idea.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Yo no creer una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-080b54c74a50",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a house every day.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Tú creer una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-24439b23a21f",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a house.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Tú no creer una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-9cb59b830e22",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the project every day.",
+      "answer": "believes",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Él creer el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-3be135d9bfd2",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the project.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Él no creer el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-c006112b18e0",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a car every day.",
+      "answer": "believes",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Ella creer un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-bbf2252b6f9e",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a car.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Ella no creer un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-9455eee19fb1",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an email every day.",
+      "answer": "believes",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Eso creer un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-22909cefa270",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ an email.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Eso no creer un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-bc999354c19a",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the report every day.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Nosotros creer el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-67e5013ad884",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the report.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Nosotros no creer el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-dd32674aa5b9",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a plan every day.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Ellos creer un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-believe-simple-present-example-96719a4dcd5d",
+      "itemId": "a1-verb-believe",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a plan.",
+      "answer": "believe",
+      "acceptableAnswers": [],
+      "options": [
+        "believe",
+        "believes",
+        "believing"
+      ],
+      "translation": "Ellos no creer un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

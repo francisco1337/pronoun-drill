@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ea962e38955c",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a chair.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una silla.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-6428674f9d1b",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a mirror.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-643b5574f1a1",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a ticket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos un boleto.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-4387eecac847",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a key.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una llave.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-22a99a4cdb5f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a laptop.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ecbae0c0a69a",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a bike.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-df385a2cfbca",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a guitar.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos una guitarra.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-1921e8f99d98",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a wallet.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-87f9a1aa1fa4",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a car.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-accfe02c0f1f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a cat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-35331df6973f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a plant.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-df0b7f58cd6e",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a car.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-082411fdef83",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a table.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-0a0f1d3d1370",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a key.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos una llave.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-e5c5d56c0fbb",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a plant.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-349495ba9cee",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a table.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-fed5c78beb43",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a pencil.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ee0ba5e51291",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a notebook.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-2caa26fd4cd1",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a shirt.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-30286793b9f4",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a cat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ee90acc68e35",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see an umbrella.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-1289879d110f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a bike.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-f49b05b23035",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a cup.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-eb5b38e0fa35",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a bag.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-c1cfafe35f4b",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a mirror.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros queremos un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-438a13acd743",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a backpack.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-51e42c581f21",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a hat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-192a7617c7d9",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a bike.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-36f26aa7a29b",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a ball.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-e6e862567816",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a pen.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-95f4236cb83f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a plant.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-b701308647d2",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a bag.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-a930cc0b0ccb",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a pen.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-0a66ff3586a4",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a ticket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos un boleto.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-3cd106fa059e",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a cat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-d729610e61c8",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a hat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-b75ba3b215c1",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a book.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-22671c0840e9",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix an umbrella.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-c23c32170d87",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a notebook.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-d5ca4e7f9591",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a watch.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-f6a3fa8786a3",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a ball.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-f889727676a3",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a cup.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-7c463d900719",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a plant.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros encontramos una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ca65566d3a0c",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a backpack.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-3c0c06b0a4a3",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a backpack.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-be9b6b6c24c3",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a phone.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-6b2a3e8f6750",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a mirror.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-90a8484d7592",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a cup.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-c344b1876376",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a backpack.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-1c0fa1a2e9cf",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a ball.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ec1a0ccc9d56",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a camera.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-04a619e80851",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a pencil.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros encontramos un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-1981d6e4d76d",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a book.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros encontramos un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-42f41386fc9a",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a pen.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ba6759721cf9",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a mirror.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros encontramos un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-95df64729760",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a cat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-8768057b4ad0",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a car.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros queremos un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-03878d06edeb",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a guitar.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos una guitarra.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-617e9ea3a6d4",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a jacket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-75b2b35f00f1",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a table.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-431bcb1eaa70",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a box.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ee5cf0f447e9",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a pen.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-b06aab052053",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a cat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-daa9a5ccb110",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a bike.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-859132d9c1d5",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a house.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-fac2376409e9",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a house.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-8fb6ebec52a5",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a car.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-9c522836969c",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a table.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-2f02e8f7110e",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a jacket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-1aa371db3412",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a watch.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ebd06f3deb0d",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a pen.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-f5db0fbefde7",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a ticket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos un boleto.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-af4585af729a",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a backpack.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-69b788550c7e",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a notebook.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-2163232c632e",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a laptop.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-e55431fc9959",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a backpack.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-5115b4a115d9",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a laptop.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-46e7ebe457e7",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a ticket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos un boleto.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-c613a5f8a746",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a hat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-2bd6118d9d5d",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a book.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-b6cc1284eb28",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a ticket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos un boleto.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-52e675672ee3",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a watch.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros queremos un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-917704f9a2be",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a mirror.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-eb85371b5c2f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a cup.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-65428e92ca8c",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a cat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-e70078c9ec98",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a dog.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-e2dde189ea17",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a house.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ed1bc84acc09",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a cat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-98fe078c6d42",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a car.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-d87fa962959e",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a wallet.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-98b4898e71ca",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a table.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-9758df037189",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a car.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-fa06ef7850cd",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a wallet.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-897524988bc5",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a dog.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-b7b28a5a92fb",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a laptop.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ab32ae1acf6e",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a laptop.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-1fd6e1af654f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry an umbrella.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-acfe4941ef63",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a jacket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-2f06b783118d",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a ball.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-b7345a76fa11",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a shirt.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-f33c4dd8759c",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a pencil.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-a97c6c639e7c",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a cup.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ce18b86911b3",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a bike.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-1638ce926b67",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a cat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-a362ef6262f6",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a phone.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-8e6980cda862",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a watch.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-553b0f297353",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have an umbrella.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-6471034036a7",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a pen.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros encontramos un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-d043927d5f72",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a dog.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros queremos un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-a20e8ac0832a",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a dog.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-d7f8fca549fd",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a watch.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-701e1bc0fc3c",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a camera.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-5d659b3c381a",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a dog.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ff0d6de7a8d9",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a pencil.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-37efcc58ed44",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a mirror.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-2b55f6a843b2",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a chair.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos una silla.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-afa04176adcd",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a ticket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos un boleto.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-41f6f012dcff",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a phone.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-4377904bf197",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a bag.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-203a7f5cc6e4",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a notebook.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-7ef5d2ffcc0b",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a hat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros queremos un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-f34c2fc0c30f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a cat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-16c83e9f954f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a box.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-f49252a45912",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a guitar.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos una guitarra.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-05eb9281d148",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a book.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-92cf9bf54633",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a car.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-be39ab3e3fdb",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a jacket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-bf1d507a7843",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a shirt.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-065a5cc15ca7",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a mirror.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-789c0305bfdd",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a ball.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-2370c7dbf325",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a pencil.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-3e183d481b9f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a ticket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros queremos un boleto.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ad52360a71b8",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a plant.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-9cf916d66048",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a guitar.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos una guitarra.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-431cfb3ea54c",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a box.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-52ed6c24ef23",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a camera.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-092e35765535",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a house.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros encontramos una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-848d93b77ded",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a camera.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-eb862e96b4f2",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a table.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-09de7228e341",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a car.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-c1fc7ffc8413",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a cat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-8762f2d244ba",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a laptop.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-6f2b07b53f58",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a notebook.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros queremos un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-947e9a7c2e28",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean an umbrella.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-c1f10353f93e",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a phone.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros queremos un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-006b49adb6ed",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a wallet.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-5da01ae0a227",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a mirror.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-6ec4ec3ae569",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a dog.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-3e1a5fa0990f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a phone.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-5f5f13bc2e40",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a jacket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros queremos una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-d998fd71e590",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a bag.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-4902341eb94c",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a house.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-7546a6e8439a",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a hat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-b08a8db5c03a",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a wallet.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-3e99de30bfc0",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a house.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-eb823e5b13d4",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a house.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-5b096b9c755b",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a plant.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-3fc6b9064e54",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a jacket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-b4bcbdaf4fc8",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a watch.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-9ea31567c581",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a pen.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-17718c64d4cf",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a pen.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-137983a369f5",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a ticket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos un boleto.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-8f9f29038ec0",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a ball.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-9eeb0c8229ad",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a book.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-117e5dd80b73",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a bag.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-aa7415171c90",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a backpack.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-b940b98bafc7",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a house.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ad25dd97316b",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a key.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos una llave.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-22b3fddb97ce",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a car.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-df588ee5115b",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a shirt.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-91ca353f526d",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy an umbrella.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-7f1df975d62e",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a shirt.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-8a3add9ebbc5",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a mirror.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-c28a3221a616",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a cup.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-a2e74ed8b672",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a box.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ecdfa21bc531",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a house.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros lavamos una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-87818a00a465",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a book.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-7bda62861b24",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a backpack.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-58dfab243221",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a ball.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros queremos una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-00fcbef190dc",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a bike.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros encontramos una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-59e4af31e45a",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a bag.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-de47066d14d1",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a house.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-bed9658638fa",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a mirror.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros compramos un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-60c6788a3109",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a jacket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros necesitamos una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-411b2a45afe1",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a cup.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-62699d57c6e4",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a jacket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-31cdcee5cf91",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a pencil.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros perdemos un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-8027674aadbf",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a jacket.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros traemos una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-df7994aa9811",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a car.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-5b22af069561",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a laptop.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros usamos una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-2aed64640f0c",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a hat.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-40540f14441a",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a shirt.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-f5a89cf5c1b8",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a shirt.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-e29451198875",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a box.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros limpiamos una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-131b34802671",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a pencil.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros llevamos un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-ec6a25391d1f",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a camera.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros tenemos una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-107895d25d01",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a ball.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vendemos una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-08d01828fbda",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find an umbrella.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros encontramos un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-77cfe3df1ee3",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a box.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros vemos una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-we-personal-pronouns-example-3a9f49cb427d",
+      "itemId": "a1-pronoun-we",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a camera.",
+      "answer": "we",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nosotros arreglamos una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

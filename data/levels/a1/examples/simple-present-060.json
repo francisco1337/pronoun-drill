@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-stay-simple-present-example-ce5570505b98",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the lesson every day.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Yo quedarse la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-54a9b50741a0",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the lesson.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Yo no quedarse la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-71531c2f8f30",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ an idea every day.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Tú quedarse una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-7aac22277ea0",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ an idea.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Tú no quedarse una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-7db4e70a2c69",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a house every day.",
+      "answer": "stays",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Él quedarse una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-a12330b3be60",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a house.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Él no quedarse una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-438264851428",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the project every day.",
+      "answer": "stays",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Ella quedarse el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-780ff36db8f8",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the project.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Ella no quedarse el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-04108407571f",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a car every day.",
+      "answer": "stays",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Eso quedarse un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-d8364eb281df",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a car.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Eso no quedarse un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-554326f9d7d4",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ an email every day.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Nosotros quedarse un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-b4585978062b",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ an email.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Nosotros no quedarse un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-920e74b03628",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the report every day.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Ellos quedarse el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-stay-simple-present-example-bcbc0aa5c87f",
+      "itemId": "a1-verb-stay",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the report.",
+      "answer": "stay",
+      "acceptableAnswers": [],
+      "options": [
+        "stay",
+        "stays",
+        "staying"
+      ],
+      "translation": "Ellos no quedarse el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-walk-simple-present-example-d5ffc2425363",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ an email every day.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Yo caminar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-e3e48adb94a6",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ an email.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Yo no caminar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-2d8a9282ee88",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the report every day.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Tú caminar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-60896b39a6b8",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the report.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Tú no caminar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-2099b6b76166",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a plan every day.",
+      "answer": "walks",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Él caminar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-d1bd9c7ec200",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a plan.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Él no caminar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-20efdcddd573",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the lesson every day.",
+      "answer": "walks",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Ella caminar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-ef4256f5b554",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the lesson.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Ella no caminar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-e3a34c048b10",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an idea every day.",
+      "answer": "walks",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Eso caminar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-5707fbad91e6",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ an idea.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Eso no caminar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-67077b12c905",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a house every day.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Nosotros caminar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-788449a587cf",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a house.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Nosotros no caminar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-65a4b48d6a4b",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the project every day.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Ellos caminar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-simple-present-example-8c7aba9c6888",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the project.",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Ellos no caminar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

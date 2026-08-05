@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-pass-simple-present-example-d1b661870db7",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the project every day.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Yo pasar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-d1b833b29a68",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the project.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Yo no pasar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-6f192caf8278",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a car every day.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Tú pasar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-82065a2fc2fe",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a car.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Tú no pasar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-5b62d7fa3f8d",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ an email every day.",
+      "answer": "passes",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Él pasar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-4f542e3151ff",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ an email.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Él no pasar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-795d00d9bda2",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the report every day.",
+      "answer": "passes",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Ella pasar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-97d97845ecac",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the report.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Ella no pasar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-cb2486af4434",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a plan every day.",
+      "answer": "passes",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Eso pasar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-22ae05c156b3",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a plan.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Eso no pasar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-a63f7468fa44",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the lesson every day.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Nosotros pasar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-32908d04ab75",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the lesson.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Nosotros no pasar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-974d2ffed211",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ an idea every day.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Ellos pasar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-pass-simple-present-example-5f0cee19ab59",
+      "itemId": "a1-verb-pass",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ an idea.",
+      "answer": "pass",
+      "acceptableAnswers": [],
+      "options": [
+        "pass",
+        "passes",
+        "passing"
+      ],
+      "translation": "Ellos no pasar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

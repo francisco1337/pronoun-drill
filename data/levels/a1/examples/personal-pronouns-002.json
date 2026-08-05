@@ -1,0 +1,5808 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-a544bec0e6cc",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-9bbd67c3f348",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Rosa me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-53873ab6c6ce",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-ba38187e393c",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-2cdd40eebb92",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sam me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b14b780e9ade",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Anna me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-bf3f9da4d4dc",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-fa762e37f528",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-50b0b4a93d1d",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-320ecf58e0cf",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-c02d97e309e1",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-011bb8827fde",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Rosa me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-c894fe8f6c06",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-886c72226aaf",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Clara me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-dd17e15c25c0",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Anna me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b632d305c9ce",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d328df57d903",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Carlos me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-98c448644642",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Elena me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-ffd34d6beab3",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-e0ef3646cc71",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Anna me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-3bfada93c149",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Clara me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-6d66077784ef",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Peter me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-63a9283ea51b",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He sat next to ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Se sentó junto a mí.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-07bc352fd468",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Diego me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-7ee0027b042c",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Clara me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-7755f6561039",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Tom me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-8d6ef70940f3",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "David me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-8de0d69d6d8f",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-887067b7e69d",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-215aaa816624",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Peter me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-2ae26dbc768b",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-82c6fae3c388",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sam me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-784a9ecefa7c",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-a3573c3e9be8",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sam me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-5e834966d2ed",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sam me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-7decd941410c",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sam me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-8b595e6cd8bb",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-5380c732b877",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-dfb01b372bb0",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Elena me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-3abdd38def8a",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-5d487f312200",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-aa4d95e03383",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Carlos me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-446022420261",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-06ad1501aa49",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-40183dc5649c",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Laura me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-8b3dcfd902f0",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-37d55a9c2e81",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Anna me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-01147566e5d2",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Clara me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-0e775fd718f0",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d1f0536bf4cd",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Peter me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-e65e0870ce8e",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lisa me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-a1346e7734b6",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Clara me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-0a3606db088a",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Diego me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-f5229e1f025a",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lisa me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-a8b09b41501e",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Emma me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-eaba743586f9",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Emma me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-f741e85c1c1f",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "David me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-6d4b62fe09d9",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-87cdfc609a7e",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-99e20be80dae",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lisa me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-892980d4b5cb",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Diego me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-0e81eea99cc8",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d22de286f111",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-296e5da716fa",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-82d37cdc6b82",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Emma me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-cd5d0e23dbe8",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Emma me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-1c357734e301",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Carlos me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-ab7aec053b3a",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "David me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-9c95f91e3082",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-5449f3eaf4b0",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Anna me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-0fb69ac2c4e5",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Carlos me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b4aefea7e55d",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Clara me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-920e660cff44",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-049367c7d5e8",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Rosa me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-be9fcc0d4dbe",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Emma me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b723b6fd7ddb",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-bfcc73758c81",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Laura me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-feb52c8c913e",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sam me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-82df4e51458e",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-1f5d132b7e68",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-660bbd7fd97a",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-1a4de177cac5",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "David me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-2ded330e477c",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-4ecd7f57ad19",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Carlos me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-959b06a3a043",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-6bd0c0c9799b",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-27cb57f80fe7",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-4220d4a88299",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d089364ea2a4",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sam me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-31f7f0280192",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "David me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-fc5997d6ad2a",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sam me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-077875d8bd03",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Tom me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-cb696b7f1a00",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Clara me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-979f8edcecdb",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Anna me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-9873e80e1f7d",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Carlos me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-81e8cc59fc48",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Laura me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b1bbf13a5dc4",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Laura me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-82448f2809a5",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Diego me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-11a0ad4615ff",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Peter me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-52adf595cb83",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lisa me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-10b88f9109bc",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Emma me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-1c5578bde70a",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sam me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-3d69b013d443",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Elena me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-1faefcca41ca",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Anna me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-aadb6fcc1402",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lisa me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b8b5253dafc3",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Clara me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-7e0064b8e2c8",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-1ac1e4366dcd",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b28ac8f67efb",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-bdd149da6028",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Emma me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-80aebc3a2c77",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-845e3eabf254",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Peter me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-cf88f39dfcf1",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d64f15868acd",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Elena me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-9af64709df86",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-761cb7683505",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-02f699ed6d0d",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Rosa me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-395294c738ba",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b7cf071a1ff8",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Rosa me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-db9de0c5e621",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-fd1f5e8b83db",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Rosa me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-fdc52e62f13b",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-7f430580d451",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Diego me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-a926330fee5b",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-0c18b6073bd0",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-7691b1eeb2ec",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-21c4ddd5d153",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Emma me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-dd9fcea98206",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Peter me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-a41ceac7ec23",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Diego me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d48112735cfc",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "David me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b08082539c83",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Elena me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-f8794b5177fb",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-ab6447afd505",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-8d2f3ce07979",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Rosa me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-2979cdfc9f01",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sam me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-353ac5e7d64f",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Peter me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-3215b9a81244",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Tom me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-1870bf720371",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-acc5047f4f54",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Tom me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-ca4971ba5689",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-e549607c33d3",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Laura me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-6ca2dd8b6544",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-1c09c23999be",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Emma me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-83cb6d224b58",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-5b01e21ef3dc",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She did it for ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lo hizo por mí.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-85d1d0ff1ad6",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lisa me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-20a7f3172242",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Elena me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-08cd5abb8a9f",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-2fc7f453a2a9",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Tom me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-524e8fc3a25c",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-a69a82d00966",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Laura me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b12123881d44",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Laura me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-ec0273185c24",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-55aa04c369b9",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Anna me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-1c2bd21f4f66",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Peter me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b6ccdf6eb42c",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Diego me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-1272cd380909",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mark me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-66172150b2ab",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-dbaeb424285f",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b7e6134b5006",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-159a76b61365",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Tom me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-6cc5990c9b59",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Anna me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-983ae2724f82",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lisa me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-cdf1f2554c70",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-8a5ea21fb567",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lisa me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-ccaca8bc4475",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Tom me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-82f51369a0d9",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Elena me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-58688d9d9a08",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos misses ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Carlos me extraña.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-9d4c75fa8753",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Diego me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-e80646eb8223",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Diego me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-994d9e1a1838",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Rosa me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-ec275f434962",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "David me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-0f79e77daa55",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "David me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-5a14c65f22c6",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "David me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-8c0a6da66cfd",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Rosa me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d9a142262aa1",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Carlos me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-fee041cf4fd3",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is for ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esto es para mí.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-f2c386d5abe0",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Diego me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-4a451ccfc5a6",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d5d06326d60c",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Tom me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-b8e8eab41bad",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sofia me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d8a17ac2339d",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Rosa me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-657b5cc83e38",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul loves ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Paul me quiere.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d21a1bcdd6a0",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom invites ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Tom me invita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-640a82b273b3",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora needs ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me necesita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-5bc6103a88f5",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lisa me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-e7564e9c0b00",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas knows ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me conoce.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-88d8807f29c5",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Emma me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-f6814f7b8564",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-13e6e3cec679",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria watches ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Maria me observa.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-9a52a11f809a",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas helps ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me ayuda.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-a90d81dde80b",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Laura me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-ecde2654a9ba",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-4e49415464f9",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-979494ebcea0",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John hears ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "John me oye.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-a45cf4372ce9",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Lucas me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-732fe57d884e",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora sees ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Nora me ve.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-70fe01dfbc72",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos visits ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Carlos me visita.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-358c588fd65e",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara calls ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Clara me llama.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-me-personal-pronouns-example-d971e142977f",
+      "itemId": "a1-pronoun-me",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena understands ___.",
+      "answer": "me",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Elena me entiende.",
+      "hint": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "explanation": "Objeto: recibe la acción, va tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

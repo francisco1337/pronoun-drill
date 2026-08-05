@@ -1,0 +1,521 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "modals",
+  "title": "Modales y auxiliares",
+  "description": "Capacidad, obligación, posibilidad y auxiliares.",
+  "modes": [
+    "fill-blank",
+    "matching"
+  ],
+  "theory": {
+    "summary": "Los modales y auxiliares modifican o apoyan al verbo principal.",
+    "rules": [
+      "Los modales preceden a la forma base.",
+      "Los auxiliares forman preguntas y negaciones."
+    ],
+    "examples": [
+      "I can help.",
+      "Do you work here?"
+    ]
+  },
+  "items": [
+    {
+      "id": "modal-can",
+      "legacyId": "can",
+      "level": "A1",
+      "type": "modal",
+      "english": "can",
+      "spanish": "poder (capacidad)",
+      "pronunciation": "kan",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "I can swim.",
+        "es": "Puedo nadar."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-cannot",
+      "legacyId": "cannot",
+      "level": "A1",
+      "type": "modal",
+      "english": "cannot / can not",
+      "spanish": "no poder",
+      "pronunciation": "kant",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "I cannot come today.",
+        "es": "No puedo venir hoy."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-could",
+      "legacyId": "could",
+      "level": "A1",
+      "type": "modal",
+      "english": "could",
+      "spanish": "podría / pude",
+      "pronunciation": "kud",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "Could you help me?",
+        "es": "¿Podrías ayudarme?"
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-may",
+      "legacyId": "may",
+      "level": "A1",
+      "type": "modal",
+      "english": "may",
+      "spanish": "poder (permiso)",
+      "pronunciation": "méi",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "May I come in?",
+        "es": "¿Puedo pasar?"
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-might",
+      "legacyId": "might",
+      "level": "A1",
+      "type": "modal",
+      "english": "might",
+      "spanish": "quizá / podría",
+      "pronunciation": "máit",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "It might rain.",
+        "es": "Quizá llueva."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-must",
+      "legacyId": "must",
+      "level": "A1",
+      "type": "modal",
+      "english": "must",
+      "spanish": "deber (obligación)",
+      "pronunciation": "mast",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "You must stop here.",
+        "es": "Debes detenerte aquí."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-should",
+      "legacyId": "should",
+      "level": "A1",
+      "type": "modal",
+      "english": "should",
+      "spanish": "deber (consejo)",
+      "pronunciation": "shud",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "You should rest.",
+        "es": "Deberías descansar."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-should-not",
+      "legacyId": "should-not",
+      "level": "A1",
+      "type": "modal",
+      "english": "should not",
+      "spanish": "no deberías",
+      "pronunciation": "shúdent",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "You should not smoke.",
+        "es": "No deberías fumar."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-will",
+      "legacyId": "will",
+      "level": "A1",
+      "type": "modal",
+      "english": "will",
+      "spanish": "futuro",
+      "pronunciation": "uíl",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "I will call you.",
+        "es": "Te llamaré."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-would",
+      "legacyId": "would",
+      "level": "A1",
+      "type": "modal",
+      "english": "would",
+      "spanish": "condicional",
+      "pronunciation": "uúd",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "I would like a coffee.",
+        "es": "Quisiera un café."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-shall",
+      "legacyId": "shall",
+      "level": "A1",
+      "type": "modal",
+      "english": "shall",
+      "spanish": "sugerencia formal",
+      "pronunciation": "shal",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "Shall we start?",
+        "es": "¿Empezamos?"
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-have-to",
+      "legacyId": "have-to",
+      "level": "A1",
+      "type": "modal",
+      "english": "have to",
+      "spanish": "tener que",
+      "pronunciation": "jav-tu",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "I have to work.",
+        "es": "Tengo que trabajar."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-need-to",
+      "legacyId": "need-to",
+      "level": "A1",
+      "type": "modal",
+      "english": "need to",
+      "spanish": "necesitar",
+      "pronunciation": "nid-tu",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "You need to sleep.",
+        "es": "Necesitas dormir."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-ought-to",
+      "legacyId": "ought-to",
+      "level": "A1",
+      "type": "modal",
+      "english": "ought to",
+      "spanish": "deber (moral)",
+      "pronunciation": "ót-tu",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "You ought to apologize.",
+        "es": "Deberías disculparte."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-do-does",
+      "legacyId": "do-does",
+      "level": "A1",
+      "type": "modal",
+      "english": "do / does",
+      "spanish": "auxiliar presente",
+      "pronunciation": "du / das",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "Do you know? / She does.",
+        "es": "¿Sabes? / Ella sí."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-did",
+      "legacyId": "did",
+      "level": "A1",
+      "type": "modal",
+      "english": "did",
+      "spanish": "auxiliar pasado",
+      "pronunciation": "did",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "Did you call?",
+        "es": "¿Llamaste?"
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-be-present",
+      "legacyId": "be-present",
+      "level": "A1",
+      "type": "modal",
+      "english": "am / is / are",
+      "spanish": "ser/estar presente",
+      "pronunciation": "am / is / ar",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "I am, he is, we are.",
+        "es": "Yo soy, él es, nosotros somos."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-be-past",
+      "legacyId": "be-past",
+      "level": "A1",
+      "type": "modal",
+      "english": "was / were",
+      "spanish": "ser/estar pasado",
+      "pronunciation": "uós / uér",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "I was there.",
+        "es": "Yo estaba ahí."
+      },
+      "defaultStatus": "new",
+      "active": true
+    },
+    {
+      "id": "modal-have-has",
+      "legacyId": "have-has",
+      "level": "A1",
+      "type": "modal",
+      "english": "have / has",
+      "spanish": "haber (perfecto)",
+      "pronunciation": "jav / jas",
+      "categories": [
+        "modal",
+        "auxiliary"
+      ],
+      "example": {
+        "en": "I have finished.",
+        "es": "He terminado."
+      },
+      "defaultStatus": "new",
+      "active": true
+    }
+  ],
+  "exampleChunks": [
+    {
+      "path": "./data/professional/examples/modals-001.json",
+      "itemIds": [
+        "modal-can"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-002.json",
+      "itemIds": [
+        "modal-cannot"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-003.json",
+      "itemIds": [
+        "modal-could"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-004.json",
+      "itemIds": [
+        "modal-may"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-005.json",
+      "itemIds": [
+        "modal-might"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-006.json",
+      "itemIds": [
+        "modal-must"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-007.json",
+      "itemIds": [
+        "modal-should"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-008.json",
+      "itemIds": [
+        "modal-should-not"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-009.json",
+      "itemIds": [
+        "modal-will"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-010.json",
+      "itemIds": [
+        "modal-would"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-011.json",
+      "itemIds": [
+        "modal-shall"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-012.json",
+      "itemIds": [
+        "modal-have-to"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-013.json",
+      "itemIds": [
+        "modal-need-to"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-014.json",
+      "itemIds": [
+        "modal-ought-to"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-015.json",
+      "itemIds": [
+        "modal-do-does"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-016.json",
+      "itemIds": [
+        "modal-did"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-017.json",
+      "itemIds": [
+        "modal-be-present"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-018.json",
+      "itemIds": [
+        "modal-be-past"
+      ],
+      "count": 200
+    },
+    {
+      "path": "./data/professional/examples/modals-019.json",
+      "itemIds": [
+        "modal-have-has"
+      ],
+      "count": 200
+    }
+  ]
+}

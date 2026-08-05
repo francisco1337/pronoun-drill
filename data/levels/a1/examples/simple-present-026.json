@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-ask-simple-present-example-c6131f2793b0",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the report every day.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Yo preguntar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-071fce1de19e",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the report.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Yo no preguntar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-cc6baa8ed83c",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a plan every day.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Tú preguntar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-c4aadab2c136",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a plan.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Tú no preguntar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-26ebab8c004f",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the lesson every day.",
+      "answer": "asks",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Él preguntar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-b6a41f830bdd",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the lesson.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Él no preguntar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-7d2abcb31c2c",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ an idea every day.",
+      "answer": "asks",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Ella preguntar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-233a879aa47c",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ an idea.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Ella no preguntar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-00969d9674bd",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a house every day.",
+      "answer": "asks",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Eso preguntar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-56ee9ee7e92d",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a house.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Eso no preguntar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-3743a6fe57d4",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the project every day.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Nosotros preguntar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-69eb7b2fd3ea",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the project.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Nosotros no preguntar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-cc1f548855bd",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a car every day.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Ellos preguntar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-ask-simple-present-example-ecd8e74e4769",
+      "itemId": "a1-verb-ask",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a car.",
+      "answer": "ask",
+      "acceptableAnswers": [],
+      "options": [
+        "ask",
+        "asks",
+        "asking"
+      ],
+      "translation": "Ellos no preguntar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

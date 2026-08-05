@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-decide-simple-present-example-47d14d24c5ce",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the project every day.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Yo decidir el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-1283794af229",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the project.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Yo no decidir el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-ffc826112b16",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a car every day.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Tú decidir un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-e9b22d218584",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a car.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Tú no decidir un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-718d7e3a10da",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ an email every day.",
+      "answer": "decides",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Él decidir un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-126979f11d62",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ an email.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Él no decidir un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-82abc6136fc4",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the report every day.",
+      "answer": "decides",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Ella decidir el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-f6ce5eaa8926",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the report.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Ella no decidir el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-32c8a298626b",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a plan every day.",
+      "answer": "decides",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Eso decidir un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-60bcc74b77be",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a plan.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Eso no decidir un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-ec2b2fb1ac3c",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the lesson every day.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Nosotros decidir la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-24cc9d346df3",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the lesson.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Nosotros no decidir la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-e67d69b8f197",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ an idea every day.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Ellos decidir una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-decide-simple-present-example-f06df1ba899d",
+      "itemId": "a1-verb-decide",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ an idea.",
+      "answer": "decide",
+      "acceptableAnswers": [],
+      "options": [
+        "decide",
+        "decides",
+        "deciding"
+      ],
+      "translation": "Ellos no decidir una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

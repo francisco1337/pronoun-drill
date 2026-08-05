@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-prepare-simple-present-example-0d550e4504d5",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a house every day.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Yo preparar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-272fcf49baf1",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a house.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Yo no preparar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-16498277a734",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the project every day.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Tú preparar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-f68fb9041bd7",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the project.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Tú no preparar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-31b1337608b6",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a car every day.",
+      "answer": "prepares",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Él preparar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-2a266b020bf3",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a car.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Él no preparar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-e9e899c9cbec",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ an email every day.",
+      "answer": "prepares",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Ella preparar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-d2595823b204",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ an email.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Ella no preparar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-490a75e79ab3",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the report every day.",
+      "answer": "prepares",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Eso preparar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-3eb63fe5f329",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the report.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Eso no preparar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-ac68812a1f2b",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a plan every day.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Nosotros preparar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-ea74fd9e535c",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a plan.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Nosotros no preparar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-146881ca4ed8",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the lesson every day.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Ellos preparar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-prepare-simple-present-example-5d10f44b5cba",
+      "itemId": "a1-verb-prepare",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the lesson.",
+      "answer": "prepare",
+      "acceptableAnswers": [],
+      "options": [
+        "prepare",
+        "prepares",
+        "preparing"
+      ],
+      "translation": "Ellos no preparar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

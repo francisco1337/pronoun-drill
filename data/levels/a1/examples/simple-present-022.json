@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-visit-simple-present-example-d9f2fd69768e",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a house every day.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Yo visitar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-b3486c6ee83b",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a house.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Yo no visitar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-a8b8b0455ed5",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the project every day.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Tú visitar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-e88c2b45a8af",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the project.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Tú no visitar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-bdee2e8dc07f",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a car every day.",
+      "answer": "visits",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Él visitar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-edc0933a63ee",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a car.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Él no visitar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-69bcda4a2cad",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ an email every day.",
+      "answer": "visits",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Ella visitar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-9d8ee8262e7d",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ an email.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Ella no visitar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-17154bbc2158",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the report every day.",
+      "answer": "visits",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Eso visitar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-d6182449a49f",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the report.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Eso no visitar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-1196674bf768",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a plan every day.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Nosotros visitar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-25ec8034e1dc",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a plan.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Nosotros no visitar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-a1a55cc7f68b",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the lesson every day.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Ellos visitar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-visit-simple-present-example-52d32bbd9cc5",
+      "itemId": "a1-verb-visit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the lesson.",
+      "answer": "visit",
+      "acceptableAnswers": [],
+      "options": [
+        "visit",
+        "visits",
+        "visiting"
+      ],
+      "translation": "Ellos no visitar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

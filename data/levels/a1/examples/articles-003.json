@@ -1,0 +1,2168 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "articles",
+  "examples": [
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-3179b6b70bea",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ car on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la coche que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-845ad33e2944",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ car we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la coche que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-40a9ca3dd570",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ house on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la casa que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-5f515b8f1cba",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ house we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la casa que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-01f88e5eb436",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ plan on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la plan que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-a41c61a769a2",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ plan we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la plan que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-3ff78192c55a",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ report on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la informe que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-237128308592",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ report we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la informe que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-cc61ad2e96ea",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ book on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la libro que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-8e0c31329d65",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ book we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la libro que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-c06d5bd7d6e6",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ computer on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la computadora que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-1a08a77b8f7f",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ computer we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la computadora que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-f5b5e242b3a2",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ dog on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la perro que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-66cdfd0d4c5c",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ dog we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la perro que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-bbd8972a0942",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ friend on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la amigo que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-ffff9badbe10",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ friend we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la amigo que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-a7a430199211",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ garden on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la jardín que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-dc4746026793",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ garden we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la jardín que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-644578abae0f",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ hotel on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la hotel que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-7effc94a585a",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ hotel we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la hotel que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-5936a7c85ca3",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ job on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la trabajo que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-7d91e74106b7",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ job we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la trabajo que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-81fe3e67f02a",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ key on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la llave que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-b436b68bb9e8",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ key we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la llave que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-aa8c461170f2",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ letter on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la carta que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-312f7883cd05",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ letter we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la carta que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-bb990314a4b1",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ map on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la mapa que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-216343c8daf7",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ map we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la mapa que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-3a2a229d656f",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ phone on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la teléfono que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-872f25488114",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ phone we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la teléfono que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-c64cd6b33209",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ question on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la pregunta que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-a790f44934f1",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ question we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la pregunta que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-dbf1b212c121",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ restaurant on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la restaurante que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-0d1027e45ffa",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ restaurant we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la restaurante que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-75f75227ac26",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ student on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la estudiante que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-febac71ae4e2",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ student we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la estudiante que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-7c24e31b6149",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ table on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la mesa que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-4c678542ae92",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ table we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la mesa que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-f7e982b4738a",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ window on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la ventana que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-43ccd84eed78",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ window we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la ventana que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-79ef4990bb89",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ email on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la correo que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-3e26645f3b40",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ email we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la correo que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-b182ca7a9970",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ idea on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la idea que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-c3320d8f423d",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ idea we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la idea que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-0da5ca2c765f",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ apple on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la manzana que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-a9f6d2f4e027",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ apple we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la manzana que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-072d819b2d36",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ office on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la oficina que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-b3d8b1ce7afe",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ office we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la oficina que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-d507b417075d",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ address on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la dirección que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-73f6876263b3",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ address we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la dirección que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-9321e17a9d4d",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ animal on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la animal que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-ed4033142221",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ animal we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la animal que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-cb8178c072fd",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ answer on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la respuesta que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-b74010e37d6a",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ answer we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la respuesta que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-6dfed29c2514",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ apartment on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la apartamento que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-7c1abff30673",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ apartment we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la apartamento que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-c02e18fe731f",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ egg on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la huevo que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-862d6dc7a220",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ egg we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la huevo que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-e268c35ab930",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ engine on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la motor que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-66c22d7f51b4",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ engine we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la motor que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-11914169fb04",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ example on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la ejemplo que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-91391867793d",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ example we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la ejemplo que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-1946c2884a61",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ hour on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la hora que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-63a2b6bcf460",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ hour we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la hora que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-f84974bb4d4c",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ ice cream on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la helado que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-e0d3c7f44b42",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ ice cream we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la helado que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-70be382a6b8e",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ island on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la isla que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-cb42a9529e01",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ island we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la isla que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-81dcc5cd556e",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ object on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la objeto que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-036617f0c0ee",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ object we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la objeto que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-7c9401086380",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ offer on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la oferta que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-bef6dc4099bc",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ offer we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la oferta que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-032bde1a4c25",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ orange on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la naranja que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-1173412a2c01",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ orange we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la naranja que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-05eac1c3e16c",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ umbrella on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la paraguas que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-b4edcf3ac3b3",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ umbrella we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la paraguas que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-efaeb9129883",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ uncle on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la tío que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-18d82b049fa6",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ uncle we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la tío que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-c26ae994c8db",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Open ___ artist on the desk.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Abre el/la artista que está en el escritorio.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-the-articles-example-cbefb5ab1469",
+      "itemId": "a1-grammar-articles-article-the",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Please clean ___ artist we used.",
+      "answer": "the",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Por favor limpia el/la artista que usamos.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

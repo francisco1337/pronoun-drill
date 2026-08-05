@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-support-simple-present-example-6e96f2464acd",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the report every day.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Yo apoyar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-0495eedc8659",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the report.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Yo no apoyar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-a0c22fc1e372",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a plan every day.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Tú apoyar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-a6696b978a8f",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a plan.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Tú no apoyar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-e4f2196c6d64",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the lesson every day.",
+      "answer": "supports",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Él apoyar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-cd406bc9773e",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the lesson.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Él no apoyar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-c216fb853f0e",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ an idea every day.",
+      "answer": "supports",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Ella apoyar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-e6a4da289f3d",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ an idea.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Ella no apoyar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-cc610099859e",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a house every day.",
+      "answer": "supports",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Eso apoyar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-189589620160",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a house.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Eso no apoyar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-612a29bedb7e",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the project every day.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Nosotros apoyar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-907d40cc64ef",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the project.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Nosotros no apoyar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-9ed0ddf63b85",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a car every day.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Ellos apoyar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-support-simple-present-example-bf7dd396a729",
+      "itemId": "a1-verb-support",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a car.",
+      "answer": "support",
+      "acceptableAnswers": [],
+      "options": [
+        "support",
+        "supports",
+        "supporting"
+      ],
+      "translation": "Ellos no apoyar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

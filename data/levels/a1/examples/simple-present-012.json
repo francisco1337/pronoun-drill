@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-turn-simple-present-example-7c6cbf87f5e0",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the lesson every day.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Yo girar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-d06480e4736b",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the lesson.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Yo no girar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-c83c5e1eb403",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ an idea every day.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Tú girar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-823b80ea8aaa",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ an idea.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Tú no girar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-750155fc6743",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a house every day.",
+      "answer": "turns",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Él girar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-0baef6b6b40b",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a house.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Él no girar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-20b461ee3753",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the project every day.",
+      "answer": "turns",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Ella girar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-160daeaa964b",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the project.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Ella no girar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-c6f91726d53c",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a car every day.",
+      "answer": "turns",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Eso girar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-1b1579018c8e",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a car.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Eso no girar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-9f8d2dc3d668",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ an email every day.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Nosotros girar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-5a52c334283e",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ an email.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Nosotros no girar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-e4fbca0a42b1",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the report every day.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Ellos girar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-turn-simple-present-example-b9fdc8cdab53",
+      "itemId": "a1-verb-turn",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the report.",
+      "answer": "turn",
+      "acceptableAnswers": [],
+      "options": [
+        "turn",
+        "turns",
+        "turning"
+      ],
+      "translation": "Ellos no girar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

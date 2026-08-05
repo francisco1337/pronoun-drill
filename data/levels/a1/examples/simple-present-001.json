@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-move-simple-present-example-e8b8bd20e98b",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ an email every day.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Yo mover un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-8237e6101547",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ an email.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Yo no mover un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-7fc8e67c2edb",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the report every day.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Tú mover el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-a4438c4c0a5c",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the report.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Tú no mover el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-49b52e685af3",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a plan every day.",
+      "answer": "moves",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Él mover un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-cbe7b5ccf7db",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a plan.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Él no mover un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-0ba8cdc946bb",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the lesson every day.",
+      "answer": "moves",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Ella mover la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-e94a7edf46c2",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the lesson.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Ella no mover la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-ebd727344978",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an idea every day.",
+      "answer": "moves",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Eso mover una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-5c2bd3c1128d",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ an idea.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Eso no mover una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-afffc9a00e35",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a house every day.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Nosotros mover una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-63182ac14ff9",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a house.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Nosotros no mover una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-a221f5d4e661",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the project every day.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Ellos mover el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-move-simple-present-example-6a3acd4280e1",
+      "itemId": "a1-verb-move",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the project.",
+      "answer": "move",
+      "acceptableAnswers": [],
+      "options": [
+        "move",
+        "moves",
+        "moving"
+      ],
+      "translation": "Ellos no mover el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

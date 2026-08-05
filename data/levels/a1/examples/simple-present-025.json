@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-include-simple-present-example-56eab9d7df26",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ an email every day.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Yo incluir un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-9cbca20789c1",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ an email.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Yo no incluir un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-dd360e86040f",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the report every day.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Tú incluir el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-78e70702036e",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the report.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Tú no incluir el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-b06a09e768ef",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a plan every day.",
+      "answer": "includes",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Él incluir un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-580e7397fa23",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a plan.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Él no incluir un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-40e218378e49",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the lesson every day.",
+      "answer": "includes",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Ella incluir la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-18203aa4a98a",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the lesson.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Ella no incluir la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-3c0758cbd357",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an idea every day.",
+      "answer": "includes",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Eso incluir una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-4dd7bb474155",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ an idea.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Eso no incluir una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-46c948d38ddf",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a house every day.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Nosotros incluir una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-d51a7c5e2f7d",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a house.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Nosotros no incluir una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-73575ef41a56",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the project every day.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Ellos incluir el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-include-simple-present-example-919068708752",
+      "itemId": "a1-verb-include",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the project.",
+      "answer": "include",
+      "acceptableAnswers": [],
+      "options": [
+        "include",
+        "includes",
+        "including"
+      ],
+      "translation": "Ellos no incluir el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

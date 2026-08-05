@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-wait-simple-present-example-fa8a445b795a",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ an idea every day.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Yo esperar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-0b09d3646b20",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ an idea.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Yo no esperar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-78ba7f4a94de",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a house every day.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Tú esperar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-38d36efbe072",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a house.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Tú no esperar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-b87aafcaacd0",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the project every day.",
+      "answer": "waits",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Él esperar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-5a14231b5163",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the project.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Él no esperar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-5f5abfcce098",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a car every day.",
+      "answer": "waits",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Ella esperar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-addcdc2b43d6",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a car.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Ella no esperar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-4ddd59bd82d0",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an email every day.",
+      "answer": "waits",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Eso esperar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-edb80e47029e",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ an email.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Eso no esperar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-a78a983861df",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the report every day.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Nosotros esperar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-f3ffbda7a394",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the report.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Nosotros no esperar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-a3897d1e0f66",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a plan every day.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Ellos esperar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-wait-simple-present-example-621afd22424a",
+      "itemId": "a1-verb-wait",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a plan.",
+      "answer": "wait",
+      "acceptableAnswers": [],
+      "options": [
+        "wait",
+        "waits",
+        "waiting"
+      ],
+      "translation": "Ellos no esperar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-lead-simple-present-example-3d8a92ed0caf",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ an idea every day.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Yo liderar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-47b568b9b74d",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ an idea.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Yo no liderar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-5252a917c3d1",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a house every day.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Tú liderar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-214e7dd83465",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a house.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Tú no liderar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-2a984a51bcda",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the project every day.",
+      "answer": "leads",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Él liderar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-2818e7658daf",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the project.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Él no liderar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-e113786ecda6",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a car every day.",
+      "answer": "leads",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Ella liderar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-91b55d4b9cd8",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a car.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Ella no liderar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-017eaa61e686",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an email every day.",
+      "answer": "leads",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Eso liderar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-2d1a29d4dd5f",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ an email.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Eso no liderar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-761434437b50",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the report every day.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Nosotros liderar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-4e21b3fbd4f9",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the report.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Nosotros no liderar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-7625238874fd",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a plan every day.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Ellos liderar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-lead-simple-present-example-d070fb0a16e1",
+      "itemId": "a1-verb-lead",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a plan.",
+      "answer": "lead",
+      "acceptableAnswers": [],
+      "options": [
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "translation": "Ellos no liderar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

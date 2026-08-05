@@ -1,0 +1,5808 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-30cbf045b26f",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ ticket?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi boleto?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-928762cccf90",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ cup.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi taza.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-7fdc0727e3ae",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ book.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi libro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-01e54c83d0a2",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ watch.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi reloj.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-cfac80a31750",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bike.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi bicicleta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-6d1ba36c702a",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ plant?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi planta?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-7f8e417c61ed",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ hat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi sombrero.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-45e1e987dadd",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ backpack.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi mochila.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-c0d6a9ee7dcd",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ camera.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi cámara.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-369f5d658445",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ plant.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi planta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-9ed206d82304",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ mirror.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi espejo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-8a05f85f84fe",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ laptop?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi computadora?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-a2cb99641269",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ pen.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi bolígrafo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-d53abcb531cf",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ mirror?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi espejo?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-592a313dcd5f",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ box.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi caja.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-41a210d65ee1",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ shirt.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi camisa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-94b99ee76a2e",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ wallet.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi cartera.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-fce0857cc42c",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ bag.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi bolsa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-a2dac9293882",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ hat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi sombrero.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-4ec4212007c4",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ car.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi coche.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-2f0aa4b26772",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ wallet.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi cartera.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-68feedd0b765",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ jacket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi chaqueta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1054c8e68a0d",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ hat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi sombrero.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-394dff896611",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ table.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi mesa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b518a7de73ac",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ box.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi caja.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-737168611a73",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ watch.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi reloj.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ad835235481e",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ guitar.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi guitarra.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b501b26fea02",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ dog.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi perro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-8ea4acb87862",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ball.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi pelota.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-643428bbbb37",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ ticket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi boleto.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-38b1b106a234",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ plant.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi planta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b71592e9a976",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ notebook?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi cuaderno?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-d45ee5852dc9",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi gato.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-0b718da09ef0",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ bike.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi bicicleta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-44b29a71f72c",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ camera.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi cámara.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-eb2282f52ff3",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pencil.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi lápiz.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-9dde18e455fb",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ bike.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi bicicleta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-baffde10b42a",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ box.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi caja.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-6ebf8dd28909",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ house.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi casa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-35c6f41fa5e9",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ key.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi llave.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-c8094c62d535",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ bag.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi bolsa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-fe3e84b3c68d",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ jacket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi chaqueta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-e3b3dce65cd6",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ table.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi mesa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-83e3a5136d92",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ phone.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi teléfono.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-8727a174a471",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ backpack.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi mochila.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-5b645fdfca73",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ mirror.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi espejo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-3e792d1d1758",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ pencil.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi lápiz.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-f2ffe2bdaa0a",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ box.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi caja.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-6752dda1c042",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ bag.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi bolsa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ab341ae8fda5",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ ball.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi pelota.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-55e22c9e6a34",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ backpack.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi mochila.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-2f868ae72659",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ camera.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi cámara.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b25bfc18c18c",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ chair.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi silla.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-88ce97d50251",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ cup.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi taza.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ae1ead993ef1",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ laptop.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi computadora.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-9ea671f81dbe",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ book?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi libro?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b689f4329558",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ guitar.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi guitarra.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-3750c7528968",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ pencil.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi lápiz.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-94131e037fe6",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ camera.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi cámara.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-4e04510521f1",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ ball.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi pelota.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1002564ef045",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ car.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi coche.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1646afe90075",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ phone?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi teléfono?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-35ae0f5e61dc",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ camera?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi cámara?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-9443be076ce6",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ chair.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi silla.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-e9d40e298b66",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ umbrella.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi paraguas.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-9db21413b207",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ bike?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi bicicleta?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-9f4ea17d669e",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ chair.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi silla.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-08ac15817d64",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ umbrella?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi paraguas?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-9058fb620708",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ mirror.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi espejo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-423d413c6135",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ jacket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi chaqueta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-83984a6749b7",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ table.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi mesa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-5aac531573b3",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ watch.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi reloj.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-bdc13ca96838",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ laptop.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi computadora.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-6518020c8966",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ hat?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi sombrero?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-59eadc193f92",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ phone.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi teléfono.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-71cf6bd3212b",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ car.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi coche.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-52e6b8b2e546",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ bike.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi bicicleta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b3ee668eb818",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ ticket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi boleto.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-3d9e98c7f92f",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ watch.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi reloj.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1a57683ec8e9",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ guitar.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi guitarra.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-a5b7a32522be",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ ticket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi boleto.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-72e5f2532294",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ cup.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi taza.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-43a6fd747a23",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ watch.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi reloj.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1ac1be046aa1",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ bike.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi bicicleta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-bf42249001da",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ watch?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi reloj?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b9f35b55e7ba",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ wallet.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi cartera.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-04cf4e425bf0",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ house.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi casa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ae549a2f568f",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ chair.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi silla.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-23965eb70b40",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ hat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi sombrero.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-380a0354cb78",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bag.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi bolsa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-30e9105c9389",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ pen.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi bolígrafo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ff4ca2887b64",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ wallet.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi cartera.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-e96c58865524",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ bike.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi bicicleta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-62c42df928cd",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ notebook.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi cuaderno.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-fb611f2b94cc",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ notebook.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi cuaderno.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-320c3fb10662",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ house.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi casa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b3b46b594af5",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ key.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi llave.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-2b4332635edf",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ cat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi gato.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-36434d4c1828",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ laptop.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi computadora.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-4804b3d12ac0",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ ticket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi boleto.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b2e6549b1aad",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ hat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi sombrero.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-60e2fd7f8c6b",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ car?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi coche?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1eca9e6e58d8",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ backpack.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi mochila.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-33be8f637a84",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ dog.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi perro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ceb1b9e87d5a",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ book.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi libro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-408916bbd822",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ dog?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi perro?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-9e1039c17f31",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ wallet.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi cartera.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-40efe82879de",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ pencil?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi lápiz?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-3c595bbc54fe",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ house.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi casa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-bdc358f2a78a",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ chair?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi silla?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-f66da71ff0fc",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ umbrella.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi paraguas.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-c98517bf4c77",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ mirror.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi espejo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-435aa37ffa33",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ dog.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi perro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-5217a896ef86",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ cup.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi taza.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-984e7bd0a8ce",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ umbrella.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi paraguas.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ef0ef853e3a3",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ table.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi mesa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-6df6523c1dae",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ ball?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi pelota?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-3c0dbab85a58",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ dog.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi perro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-8d471354abe5",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ umbrella.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi paraguas.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-d7bb56da3aea",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ laptop.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi computadora.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-c1dc45306b41",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ backpack.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi mochila.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-3acd214b7cb1",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ plant.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi planta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-e32f71745eab",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ backpack?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi mochila?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-d75d0a364476",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ table.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi mesa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b69e2d95beeb",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ key?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi llave?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-165d58df4c03",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ cat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi gato.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-8ff999acc24e",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ ball.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi pelota.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-010e9ae21ade",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ notebook.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi cuaderno.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-7ad870044bfe",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ watch.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi reloj.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b9b10acb9e29",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ bag?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi bolsa?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1e831d45d9f2",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ pencil.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi lápiz.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-35993437294c",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ jacket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi chaqueta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-8b7ac84119d1",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ laptop.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi computadora.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-3ffc9c833773",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ camera.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi cámara.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b664ceb9368a",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ dog.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi perro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-372c0b402c10",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ wallet?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi cartera?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-cc78d2e8c024",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ guitar?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi guitarra?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-19e5eefe848d",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ mirror.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi espejo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-923cca3d6272",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ table?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi mesa?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-e0cd046c1ff6",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ book.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi libro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1325a5f50e44",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ cat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi gato.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-5da4e045ca63",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ pen.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi bolígrafo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-804a495db8c7",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ house.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi casa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-43db1b5c417f",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ cat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi gato.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-4c839cf9bdcd",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ key.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi llave.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-281c25b75c84",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ house.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi casa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ba1125d679fd",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ bag.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi bolsa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-92a2dfdbe6d5",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ guitar.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi guitarra.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-491c471ef54e",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ ball.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi pelota.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-c1402ca20ae0",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ shirt.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi camisa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1e9f235957cc",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ cat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi gato.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-84c982495dec",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ car.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi coche.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-36af343f1415",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ laptop.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi computadora.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-7cc429f778b7",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ book.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi libro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-4357dbc35d13",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ house?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi casa?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ecff32822632",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ notebook.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi cuaderno.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-5cb19a1196c7",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ chair.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi silla.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-255307624b51",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ car.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi coche.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-5e952858ebb9",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ plant.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi planta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-bc5d30c971f0",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ car.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi coche.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-cf51119814c5",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ box?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi caja?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-a07ef58c364c",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ hat.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi sombrero.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-6ac83e883ae0",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ dog.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi perro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ebfe097dcf62",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ plant.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi planta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1f52382ee2dd",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ ticket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi boleto.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1ff6848dd496",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ ball.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi pelota.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-61e3d79d45ef",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ cup?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi taza?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-21093d80c15e",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ backpack.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi mochila.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-7fa00859cad9",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ cup.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestada mi taza.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-d77490745755",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ notebook.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi cuaderno.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-8f721e45a789",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ table.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi mesa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-af2d6e4aafff",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ shirt.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi camisa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-4d40a4f0ec13",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ book.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi libro.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-566e33dd6743",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ mirror.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi espejo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-bd08b41ca42d",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ key.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi llave.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-d6c6f5d24650",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ shirt.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi camisa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-c126218b8805",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ pen.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi bolígrafo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1e927c22d947",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ phone.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi teléfono.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-c92c6fcb73cb",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ jacket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi chaqueta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b12aa33d9f27",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ phone.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Él tomó prestado mi teléfono.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-e0080a087f44",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ guitar.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi guitarra.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-0775df027576",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ pen.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi bolígrafo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-f793f2e0eb40",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ pen?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi bolígrafo?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-427d719e36ba",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ camera.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi cámara.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-c84d67389504",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ jacket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi chaqueta.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-75d5cf290d54",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ phone.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi teléfono.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-b79abf9e433e",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ shirt.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi camisa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-8f57fe798d54",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ box.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi caja.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-9f66f5b8910e",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ key.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "No toques mi llave.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-abf99d189341",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ umbrella.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi paraguas.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-f50283eca38a",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ pencil.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este es mi lápiz.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-ef0c07a179ed",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ pencil.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ella vio mi lápiz.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-1f35b3227767",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ cat?",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Dónde está mi gato?",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-cb02f455413a",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ wallet.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi cartera.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-c546dc01d4e4",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ shirt.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi camisa.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-27002497e1e0",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ box.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta es mi caja.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-145492abb7e5",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pen.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi bolígrafo.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-3e7f2a6f958e",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ key.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi llave.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-5c874e6353ce",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ notebook.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Encontré mi cuaderno.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-my-personal-pronouns-example-7bd227286137",
+      "itemId": "a1-pronoun-my",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ticket.",
+      "answer": "my",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Me gusta mi boleto.",
+      "hint": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "explanation": "Posesivo ANTES de un sustantivo: my + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

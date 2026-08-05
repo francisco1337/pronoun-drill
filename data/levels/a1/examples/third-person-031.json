@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "third-person",
+  "examples": [
+    {
+      "id": "a1-verb-explain-third-person-example-829eee747920",
+      "itemId": "a1-verb-explain",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the project.",
+      "answer": "explains",
+      "acceptableAnswers": [],
+      "options": [
+        "explain",
+        "explains",
+        "explaining"
+      ],
+      "translation": "Él explicar el proyecto.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-explain-third-person-example-0f5d51e897d1",
+      "itemId": "a1-verb-explain",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does he ___ the project?",
+      "answer": "explain",
+      "acceptableAnswers": [],
+      "options": [
+        "explain",
+        "explains",
+        "explaining"
+      ],
+      "translation": "¿Él explicar el proyecto?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-explain-third-person-example-4f2fbda285e3",
+      "itemId": "a1-verb-explain",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a car.",
+      "answer": "explains",
+      "acceptableAnswers": [],
+      "options": [
+        "explain",
+        "explains",
+        "explaining"
+      ],
+      "translation": "Ella explicar un coche.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-explain-third-person-example-8fc35d0e1b92",
+      "itemId": "a1-verb-explain",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does she ___ a car?",
+      "answer": "explain",
+      "acceptableAnswers": [],
+      "options": [
+        "explain",
+        "explains",
+        "explaining"
+      ],
+      "translation": "¿Ella explicar un coche?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-explain-third-person-example-0d54425dc73d",
+      "itemId": "a1-verb-explain",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an email.",
+      "answer": "explains",
+      "acceptableAnswers": [],
+      "options": [
+        "explain",
+        "explains",
+        "explaining"
+      ],
+      "translation": "Eso explicar un correo.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-explain-third-person-example-0beeb3a67dad",
+      "itemId": "a1-verb-explain",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does it ___ an email?",
+      "answer": "explain",
+      "acceptableAnswers": [],
+      "options": [
+        "explain",
+        "explains",
+        "explaining"
+      ],
+      "translation": "¿Eso explicar un correo?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-talk-simple-present-example-d53aecb0d036",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a car every day.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Yo hablar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-9c07faa2453f",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a car.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Yo no hablar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-b0b7fd53bd66",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ an email every day.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Tú hablar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-33e4cdcae97c",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ an email.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Tú no hablar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-a5e1c0f75bd5",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the report every day.",
+      "answer": "talks",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Él hablar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-8927b6030d9d",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the report.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Él no hablar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-200e45ab8fd8",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a plan every day.",
+      "answer": "talks",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Ella hablar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-f55f293bb721",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a plan.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Ella no hablar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-3a40282c57a7",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the lesson every day.",
+      "answer": "talks",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Eso hablar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-5328aed294bc",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the lesson.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Eso no hablar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-e9e373568a75",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ an idea every day.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Nosotros hablar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-d19008e9e468",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ an idea.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Nosotros no hablar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-ff687f7232fd",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a house every day.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Ellos hablar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-talk-simple-present-example-2d0f9be4c71b",
+      "itemId": "a1-verb-talk",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a house.",
+      "answer": "talk",
+      "acceptableAnswers": [],
+      "options": [
+        "talk",
+        "talks",
+        "talking"
+      ],
+      "translation": "Ellos no hablar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

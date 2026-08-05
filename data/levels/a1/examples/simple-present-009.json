@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-create-simple-present-example-ba3ad202c2b9",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ an email every day.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Yo crear un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-65d9251fe989",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ an email.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Yo no crear un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-fa9443d32b69",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the report every day.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Tú crear el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-c4cb8899acfe",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the report.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Tú no crear el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-138d77f31f3c",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a plan every day.",
+      "answer": "creates",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Él crear un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-3853325b8a3e",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a plan.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Él no crear un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-2e0fbdcc34bf",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the lesson every day.",
+      "answer": "creates",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Ella crear la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-21732b5de1df",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the lesson.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Ella no crear la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-861652e85560",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an idea every day.",
+      "answer": "creates",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Eso crear una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-0e59223ae637",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ an idea.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Eso no crear una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-02abb60fa0ae",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a house every day.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Nosotros crear una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-1030d2431eb1",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a house.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Nosotros no crear una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-e6fe97e69eec",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the project every day.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Ellos crear el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-create-simple-present-example-b577a54b1830",
+      "itemId": "a1-verb-create",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the project.",
+      "answer": "create",
+      "acceptableAnswers": [],
+      "options": [
+        "create",
+        "creates",
+        "creating"
+      ],
+      "translation": "Ellos no crear el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

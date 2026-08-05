@@ -1,0 +1,5808 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8fb70e8a4055",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tables over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas mesas de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-575284d84abf",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ cups?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas tazas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-452b7cb4cedd",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptops over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas computadoras de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-3a11f5898d37",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ laptops far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas computadoras a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-3c5ba7023936",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bikes in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas bicicletas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7f2f18ac323c",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bags over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas bolsas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-f1a316b3c8fb",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cameras in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas cámaras a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8fd2b1d99735",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebooks in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos cuadernos a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-10fe212be39e",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ houses far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas casas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-de41225b6b8f",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ wallets over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas carteras de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-45643a4c1914",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bags in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas bolsas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-b924979223c1",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jackets in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas chaquetas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7a3667ea2b90",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pens over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos bolígrafos de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-6384fb88b648",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ keys far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas llaves a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-08ac675c252d",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jackets over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas chaquetas de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-274ad955ed08",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pens over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos bolígrafos de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-32966ac72c4f",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plants in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas plantas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-17ac1d9a0c0e",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watches in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos relojes a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-c99a74b66019",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ cameras?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas cámaras?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-539ef5446b35",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pencils over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos lápices de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-088437f81ffd",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chairs over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas sillas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-01a9de7506ba",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cars over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos coches de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-af7c144391ff",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ dogs far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos perros a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-b96a77cb7d0e",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ hats over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos sombreros de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-30f525af56d0",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ tables over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas mesas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-659df47db8fd",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ keys across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas llaves del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-3fcbda1ad338",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ boxes over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas cajas de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8693182b76ad",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ notebooks over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos cuadernos de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-fbb4bcadb836",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ houses over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas casas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-e5cc2b6dad10",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dogs over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos perros de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-395babd5d5b6",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptops in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas computadoras a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-eea5051bf9b5",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ guitars far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas guitarras a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-32ab09369914",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ umbrellas?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos paraguas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-5d15afd000a4",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phones in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos teléfonos a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-08fcde911a7b",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ plants over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas plantas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-ff51af4fdd91",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptops over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas computadoras de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-76fb3e6898d7",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ cats?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos gatos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-83349c7e5243",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ books in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos libros a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-68c09f5ac95c",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ tables far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas mesas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-3f1ec05352eb",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ keys?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas llaves?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-6aa67ecc981d",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cups over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas tazas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-acb704a8a0e2",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ hats over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos sombreros de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-cd297bfd1538",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dogs in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos perros a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-3b12cc789bfd",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ phones?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos teléfonos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-b948c98850fc",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ shirts across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas camisas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-4cdb122bf519",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phones over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos teléfonos de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-f4d079eb9517",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrellas over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos paraguas de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-66f507a35fca",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ plants across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas plantas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-cbfa29662787",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ watches over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos relojes de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7b51edd48c99",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ boxes over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas cajas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-a4ffe485fd55",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ backpacks far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas mochilas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-54d6430cbaa7",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ bags far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas bolsas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-9fa548e192a5",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ tickets far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos boletos a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8b7e22ee1b13",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chairs in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas sillas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-489717770626",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpacks over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas mochilas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-aaf337fafbde",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pens over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos bolígrafos de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-f56230e06fc9",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cups across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas tazas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-3a6a0899eeaa",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ mirrors?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos espejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-77b694402115",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ cameras far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas cámaras a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-61386838bfb9",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ pencils?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos lápices?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-32757a050c16",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tables in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas mesas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-4bc314ff43fd",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tickets in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos boletos a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-4fe9733f4712",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebooks over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos cuadernos de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-d5232182aeb0",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ books over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos libros de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-2d2a6879a657",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ shirts far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas camisas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-1dfa390c3dc3",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cups over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas tazas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-f7da2fcdfb4a",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpacks in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas mochilas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-67011b84be8b",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ bikes?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas bicicletas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-738b5afcf487",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ shirts over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas camisas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-6b38d4d445da",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cameras over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas cámaras de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-b3a3a5fce94c",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plants over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas plantas de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-99ec1489581e",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bikes over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas bicicletas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-fcbaaf38b07a",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebooks over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos cuadernos de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-da620fe770cc",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pens in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos bolígrafos a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7095b6fda7b0",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ guitars over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas guitarras de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-9d972e662448",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ chairs across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas sillas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-08cb4376de1d",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ cups far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas tazas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-a24cd8d78cee",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ houses in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas casas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-03f562e0a8e0",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ tickets?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos boletos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-10c880dba84a",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ balls far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas pelotas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8c5802230247",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ cars far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos coches a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-44f54d70e767",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ bags across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas bolsas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-dcee9c8c1fcc",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ tickets over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos boletos de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-dac9b6fe135f",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ phones far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos teléfonos a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8f0d153be678",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ backpacks across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas mochilas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-764bdd34d9b5",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ books?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos libros?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-653319746e66",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watches over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos relojes de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7bca5506521a",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ tickets across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos boletos del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-09674ca4f990",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ balls over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas pelotas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-f422a42a214f",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ laptops?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas computadoras?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-45d6949da8e2",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ wallets?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas carteras?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7110ea7382f3",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ mirrors over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos espejos de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7decbc9e70f7",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirrors over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos espejos de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-dba1ede1aa04",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cups in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas tazas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-259d42cc464e",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ hats far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos sombreros a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-9bc4d35c3855",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cars across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos coches del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-c96349712d8e",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ pens far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos bolígrafos a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-2c8e9e6d6f3b",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ bikes far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas bicicletas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-38dcf4098f6f",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallets over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas carteras de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8208e016ad29",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ chairs far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas sillas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-362a71e57742",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ hats in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos sombreros a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8b53fc1b5ad9",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ houses?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas casas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-25b681f58903",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ laptops across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas computadoras del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-b7d4ce3aaea6",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ boxes over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas cajas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-df73b72f06ec",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ shirts?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas camisas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-6a705b12a7f5",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitars over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas guitarras de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-122e78332e31",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ chairs over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas sillas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-ca933069a334",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ balls over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas pelotas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-dfc4bbc15278",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ cars?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos coches?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-0999c9a85283",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ backpacks?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas mochilas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-d340b3348992",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jackets over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas chaquetas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-0569803f96b4",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ tables across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas mesas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-c8f0bd99bc88",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bags over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas bolsas de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-e1ce77c44c36",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cups over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas tazas de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-025f24ecc70c",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ bikes across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas bicicletas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-89646be94bea",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ mirrors far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos espejos a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-f842722595b9",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrellas in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos paraguas a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-a95a75f7ae39",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ guitars across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas guitarras del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-3b74429474a1",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ dogs?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos perros?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-e43f1ef69737",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ guitars?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas guitarras?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-347edb13b104",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ cats far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos gatos a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-228aec96c95a",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ houses over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas casas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-298c980a572b",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ wallets far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas carteras a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-3ad3cc125b42",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirrors in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos espejos a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-14f015764836",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirrors over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos espejos de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-41deb50fc566",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ books across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos libros del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-18b121f31123",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ umbrellas over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos paraguas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-d9701568898d",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cats in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos gatos a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-08b34eb980ba",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ boxes far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas cajas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-4507ee86fb08",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ notebooks across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos cuadernos del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-0dfec5f86383",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bikes over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas bicicletas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-910aed7bcecf",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ laptops over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas computadoras de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-98e2c352e45a",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ notebooks far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos cuadernos a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8f33ed8eeb2c",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cameras across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas cámaras del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-9521bf6a1104",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cats over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos gatos de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-71d62be8ef70",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitars in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas guitarras a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-ad499842ed79",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ dogs across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos perros del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-d4253a61ddb2",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ pencils across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos lápices del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-a35be2f32350",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ bags?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas bolsas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-c6687dfdeffe",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ books over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos libros de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-36ef33773a79",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ phones over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos teléfonos de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7f733ee326c0",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cars over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos coches de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-15c509de22d7",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ keys over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas llaves de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-98bcee883f1b",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ backpacks over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas mochilas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-9da597ee773c",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ balls in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas pelotas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-5cd306368de9",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ pencils far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos lápices a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-70a243af192b",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cars over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos coches de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-0f1acf75aa86",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ books far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos libros a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-cdd46154aa47",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ umbrellas across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos paraguas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-61373cc03b43",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ jackets across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas chaquetas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-dc0e219d493a",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pencils in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos lápices a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-a775d2d02511",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cars in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos coches a lo lejos son míos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-6b2a029a8640",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ dogs over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos perros de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-c7183faf69f7",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ watches?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos relojes?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-a2906764ab3b",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ boxes?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas cajas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-0be3a77c1021",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ hats?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos sombreros?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-e51d6c8a1120",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpacks over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas mochilas de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-5d2859cb256c",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ houses over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas casas de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-944a1416ca6f",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ phones across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos teléfonos del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-038d1ceca652",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ keys over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas llaves de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7eb8c6ab59cf",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ books over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos libros de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7c03888457f3",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ notebooks?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos cuadernos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-6f47fc0f6447",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ watches far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos relojes a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-dfb0dbab898b",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ boxes in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas cajas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-cf89a8cfa0a9",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ mirrors across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos espejos del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-a2dc2b62ffc9",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitars over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas guitarras de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-cc8bf0bd14e5",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cats over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos gatos de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-3f02d5c2ff14",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ umbrellas far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esos paraguas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-c7e91640e61d",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ tables?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas mesas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-c670b045075a",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ keys in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas llaves a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-c027adc7355d",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ balls?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas pelotas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-226367523fd0",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tickets over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos boletos de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-59abf3d8d466",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ jackets far away?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esas chaquetas a lo lejos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-10188f7703ed",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plants over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas plantas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-4eae41a10ecc",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirts in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas camisas a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-a0324dd13f0b",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pencils over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esos lápices de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-b81b2fc95862",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ balls across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas pelotas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-333e71eb182a",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ chairs?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas sillas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8b2e80926852",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallets over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas carteras de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-b520c7a774b4",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cats across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos gatos del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-5bdb7f2e192e",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallets in the distance are mine.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas carteras a lo lejos son mías.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-ee58daa2cb71",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tickets over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos boletos de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-749d918f0606",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrellas over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos paraguas de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-067e5cb80480",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ boxes across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas cajas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-a494a80f06c3",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ plants?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas plantas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-d64944cd2a1a",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bikes over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas bicicletas de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-f0aa77c453db",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ wallets across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas carteras del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-37ba8db43256",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ pens?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esos bolígrafos?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-b977043681f4",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirts over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas camisas de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-7eedb3d50f6c",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Who owns ___ jackets?",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿De quién son esas chaquetas?",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-71f4adb40087",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dogs over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos perros de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-8b818cdde3ff",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ houses across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esas casas del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-207186bd0eaa",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ tables over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas mesas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-262cdb542df5",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ jackets over there.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gustan esas chaquetas de allá.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-73afb71f149b",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ hats across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos sombreros del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-745c61fa2aaf",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phones over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos teléfonos de allá son bonitos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-31e41c4f9d6c",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watches over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esos relojes de allá son hermosos.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-0667da9c9d86",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bags over there are beautiful.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas bolsas de allá son hermosas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-30028ae36cb5",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ watches across the room.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esos relojes del otro lado de la sala.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-those-personal-pronouns-example-3da512866308",
+      "itemId": "a1-pronoun-those",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cameras over there are nice.",
+      "answer": "those",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esas cámaras de allá son bonitas.",
+      "hint": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "explanation": "'those' = esos/aquellos: VARIAS cosas LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · plural"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

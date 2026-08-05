@@ -1,0 +1,5808 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-93ac8894cd0b",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ laptop.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta computadora.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-edeca9145239",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ phone.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este teléfono.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-05e2067c9616",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ pen?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este bolígrafo?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-842f1bde7707",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ dog.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este perro.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-61e0864fc02e",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bike.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta bicicleta.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-cf67562d6851",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ hat.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este sombrero.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-c10f77dc411c",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ watch.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este reloj.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-734dbefe41fc",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ hat is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este sombrero es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-7a56b64ebdd9",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ umbrella?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este paraguas?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-305f01c60cf1",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ hat.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este sombrero.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ca2970c74bb3",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ notebook?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este cuaderno?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-f2cf2b8555ff",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ box is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta caja es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-c5906f336201",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ book.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este libro.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-a8ebb22c3120",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ mirror.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este espejo.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e006a801a9f5",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ chair.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta silla.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-da5a61c6acd5",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ camera is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta cámara es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-7899c6a82090",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ pen.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este bolígrafo.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-847a61b1e018",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirt is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta camisa está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-0b997908186d",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ book?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este libro?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e9fadb21d6fd",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dog is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este perro es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-5d64c76280f6",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ cat.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este gato.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-fc58590a9673",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bag is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta bolsa es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-01c2b4829bbb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ pencil.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este lápiz.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-618994728eeb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitar is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta guitarra es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e621e3664376",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bike is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta bicicleta es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-977c9492ccac",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ laptop.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta computadora.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-7a644cd931ac",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ umbrella.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este paraguas.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-bc25107a170d",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ bag.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta bolsa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-7b45da2e59fb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ laptop.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta computadora.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-4233bb986b27",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ camera.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta cámara.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-4eda6ffea417",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptop is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta computadora es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-452e5b7e64bb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrella is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este paraguas es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-7912add06520",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pen is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este bolígrafo es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-69de24c04f04",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ bag?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta bolsa?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-2464220aa206",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pencil is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este lápiz es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-73d4c639a9e9",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bike is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta bicicleta está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-25508126eefb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phone is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este teléfono es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-43d4b26c37ca",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirror is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este espejo es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-c1126f3bbfbb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ ball is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta pelota está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-60874672852a",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ key.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta llave.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ebbb541fcd85",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ pencil.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este lápiz.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-8c12a49f1f6d",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrella is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este paraguas es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-6352c1235214",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirror is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este espejo está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-cab27b4b20f2",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ plant.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta planta.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ff0e648bbe5f",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitar is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta guitarra está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-6ed6526cd827",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ guitar?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta guitarra?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-6f50715fc2a4",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dog is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este perro es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-4ff012b19b97",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ jacket.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta chaqueta.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-773e3bc730cc",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ book.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este libro.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-b5078a1e593a",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ watch.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este reloj.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-1cfff3b93cbd",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cup is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta taza es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-80bc544469bd",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ bike.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta bicicleta.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-275ed331b7c1",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ house is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta casa es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-90397a1874f4",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ key is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta llave es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-61b7775d7e8f",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bag.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta bolsa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-1bcefbae0de5",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pen is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este bolígrafo es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-3eab77ebce90",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ cup?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta taza?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-d4af840f91f8",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ chair.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta silla.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e365c96f8a20",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ jacket.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta chaqueta.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-44e6396cdb9c",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ wallet.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta cartera.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-1d2b9daa22d4",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ key is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta llave está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e7074a5e44c6",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ table.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta mesa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-7408d2230fa9",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cat is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este gato es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ea87bd1c5f0f",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ box is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta caja es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-c7cb81026c5d",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ table?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta mesa?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-8ffa474f35d1",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ box?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta caja?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-756d631a7640",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpack is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta mochila es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ec46f4b90c9c",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ box.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta caja.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-d4ccc0728d0c",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cup.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta taza.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-a2943e734ad7",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cat is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este gato está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-b8c92376da02",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plant is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta planta es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-1cf6dd89859c",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ chair?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta silla?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ba540169bd68",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ ball?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta pelota?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-1899cab46b01",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallet is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta cartera está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-de8451151429",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ ball is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta pelota es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-75a63b1d223f",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ book.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este libro.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-c18be9b0fc28",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ phone.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este teléfono.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-7c218bad23d4",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phone is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este teléfono es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ed14a2d6246e",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watch is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este reloj está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e89001cab54e",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bag is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta bolsa es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-b9d876cf2097",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ backpack.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta mochila.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-b7bbe641623d",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ jacket.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta chaqueta.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-baff1c288d12",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ plant?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta planta?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-a6bf873465fe",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ key is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta llave es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-fc7067d2a67b",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ chair.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta silla.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-8cf31414c1f8",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ house is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta casa está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-f87392659593",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cup is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta taza es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ba4eefd1667b",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ key.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta llave.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-45cc227d04a4",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jacket is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta chaqueta es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-f64cd15bacf7",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ camera is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta cámara está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-f32b3fbcd8eb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallet is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta cartera es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ad7fb285cf97",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pencil is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este lápiz es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-6f590cb43587",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirt is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta camisa es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-4b4950462a8a",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ shirt.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta camisa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-74c7cadb06e8",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watch is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este reloj es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-99652961381e",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ cup.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta taza.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-04cd7722db0a",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ticket.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este boleto.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-937911fef52d",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ plant.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta planta.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-2cbf266227c6",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ shirt?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta camisa?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-848cba0439dd",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ table is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta mesa es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-50568ae59ddb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ camera.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta cámara.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-fa384feda1e1",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pencil.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este lápiz.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-83048e089301",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ car is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este coche es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-03a6bdbf5048",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ book is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este libro es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e423d85b2542",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ watch?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este reloj?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-5f0a65ac3483",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plant is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta planta es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-a6d70e561032",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ table is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta mesa es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-02f9f5369ddb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ jacket?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta chaqueta?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-f7220cc2a2ab",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ watch.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este reloj.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-77bb6aef922f",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ car is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este coche está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-2229741361a7",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ house.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta casa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-d8b97d0eb085",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pencil is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este lápiz está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-a5d605b95062",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bike is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta bicicleta es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-c341ccfcfbb1",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ball.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta pelota.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-eaf2bd6418e3",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ dog.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este perro.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-7d8ef67b8da7",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebook is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este cuaderno es muy bonito.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-f92cbe6a83d8",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ table.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta mesa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-bce5027c9ab5",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ box.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta caja.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-64728d5d5939",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ phone?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este teléfono?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-0adc8fc4dcab",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chair is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta silla está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-40e9cdc4c627",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ shirt.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta camisa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-3c2b5caaf7e0",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ camera is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta cámara es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-41d85587025f",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cup.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta taza.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-045b3a197721",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ car.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este coche.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e3cfc2e028d4",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ table is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta mesa está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ba98e873a898",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ backpack?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta mochila?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-419d903f81a1",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ guitar.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta guitarra.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-8a7bed36221b",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ notebook.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este cuaderno.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-3ae42e318f29",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ house.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta casa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-d38e63105fa2",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bag is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta bolsa está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-b16f1b623b35",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ bike.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta bicicleta.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-f5531ed45d41",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ camera?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta cámara?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-447d51e78e4b",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ guitar.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta guitarra.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-9e36b8748324",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pen is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este bolígrafo está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-3f7dd2d23fca",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ guitar.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta guitarra.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-2e9992876773",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ hat is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este sombrero es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-169eb5c7b38d",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pen.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este bolígrafo.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-557fbe26a2bb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ ticket.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este boleto.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-d45ab2b893c6",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ notebook.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este cuaderno.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-a24220c8b362",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cat.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este gato.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-99ca8cb4e2e5",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ key?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta llave?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-f30225cdb702",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ box is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta caja está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-5d1adf174f7b",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chair is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta silla es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-579b5ddc2c64",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirt is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta camisa es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-53244507a019",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ wallet.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta cartera.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-b721281d156a",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ mirror.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este espejo.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-2dc5f4418659",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dog is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este perro está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-73a59e58c3f2",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ ball is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta pelota es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-7206a8aae3fe",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrella is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este paraguas está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-9d91a96a8c3a",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ wallet?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta cartera?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-f89be952c3d3",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ notebook.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este cuaderno.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-7d82774808d9",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ ticket?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este boleto?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-3689637bfee1",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ table.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta mesa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-3b2b06d13f61",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chair is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta silla es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-4cf4a2058ca5",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ car?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este coche?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-0d7f764893b4",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ book is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este libro está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-becc40bec952",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptop is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta computadora está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e63b40e2de76",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ house.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta casa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-8e785006cb74",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ pencil?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este lápiz?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-cb7e65016a56",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ backpack.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta mochila.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ae2f45ec65b8",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cat is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este gato es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-481eab171281",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ wallet.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta cartera.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-115a7307c912",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ house?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta casa?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-05551d797e1f",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ shirt.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta camisa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-6917aadb100f",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ key.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta llave.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-d83ea83a10ec",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpack is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta mochila es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-ddb75662c9da",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ box.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta caja.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-9a73454477be",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpack is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta mochila está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-c3e65c7841a6",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jacket is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta chaqueta está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-cb90f6177874",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ plant.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta planta.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-0cbf1b7dfb67",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ house is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta casa es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e98fc32f612e",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ ticket.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este boleto.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-5c529b17af6a",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallet is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta cartera es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-6566b99d7473",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ bag.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta bolsa.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-75e0bbf7da9e",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ ticket is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este boleto es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-63fb7432fd1f",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ car.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este coche.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-5588366514cc",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitar is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta guitarra es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-c868a931f8e6",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jacket is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta chaqueta es mía.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-77f109fd9bf0",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ ball.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esta pelota.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-d722624d1289",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebook is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este cuaderno es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-26de45003ce9",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ mirror.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este espejo.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-033710a4172d",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ bike?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esta bicicleta?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-f539b52c9ea3",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ hat is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este sombrero está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-a60c8dfb3249",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ ticket is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este boleto está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-69a184523164",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ backpack.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta mochila.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-993e0432bee3",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ book is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este libro es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-6f0b2f14404e",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phone is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este teléfono está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-21c3cd6681ab",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ camera.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esta cámara.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-08bb9d7237a8",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ dog?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este perro?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-69f22348b7b9",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watch is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este reloj es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-a6b580bb5f72",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ ball.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esta pelota.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-e78c9cdfc4c6",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ pen.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este bolígrafo.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-060dce8861e2",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ dog.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero este perro.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-5e9939ae4973",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptop is very nice.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esta computadora es muy bonita.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-d3abb970f68b",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ umbrella.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este paraguas.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-c2da1e7e06eb",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ hat.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira este sombrero.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-9a954ae81780",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirror is mine.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este espejo es mío.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-4ebdd7519fe3",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebook is here.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Este cuaderno está aquí.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-4343b1b89374",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ umbrella.",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta este paraguas.",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-this-personal-pronouns-example-1ca0c7ec085b",
+      "itemId": "a1-pronoun-this",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ hat?",
+      "answer": "this",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves este sombrero?",
+      "hint": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "explanation": "'this' = esto/este: UNA cosa CERCA de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · cerca · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

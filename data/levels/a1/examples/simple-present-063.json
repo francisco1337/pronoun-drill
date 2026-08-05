@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-push-simple-present-example-b23f99b1b5ce",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the project every day.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Yo empujar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-b02eb346de55",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the project.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Yo no empujar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-784930abf80c",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a car every day.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Tú empujar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-c257a84621a0",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a car.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Tú no empujar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-790bb968cb1c",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ an email every day.",
+      "answer": "pushes",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Él empujar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-24761cf945fe",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ an email.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Él no empujar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-2e04e808b233",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the report every day.",
+      "answer": "pushes",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Ella empujar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-6b6ce84f984c",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the report.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Ella no empujar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-269ff96bfd55",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a plan every day.",
+      "answer": "pushes",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Eso empujar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-97a8ea61fc78",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a plan.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Eso no empujar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-d3f41394643e",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the lesson every day.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Nosotros empujar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-ce8d9313b6a9",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the lesson.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Nosotros no empujar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-84e614eadac5",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ an idea every day.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Ellos empujar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-push-simple-present-example-a6ee26720038",
+      "itemId": "a1-verb-push",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ an idea.",
+      "answer": "push",
+      "acceptableAnswers": [],
+      "options": [
+        "push",
+        "pushes",
+        "pushing"
+      ],
+      "translation": "Ellos no empujar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

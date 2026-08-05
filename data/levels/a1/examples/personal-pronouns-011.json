@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-be5081acbcc1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a table.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere una mesa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-36560dcb613c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys an umbrella.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella compra un paraguas.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-b5e3a9812903",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a dog.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa un perro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-88ee5d9a5e8c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a8ebf0be2ef9",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a jacket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde una chaqueta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-6f06d44ddbe1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a guitar.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa una guitarra.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-c528793b95fd",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a jacket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene una chaqueta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-dcd9dfcdf7c8",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a phone.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae un teléfono.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-11128875d02e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a mirror.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende un espejo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-6b7e19348eaa",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a ball.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una pelota.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-df2a06a90128",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a hat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra un sombrero.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-9cb994c44230",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a backpack.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una mochila.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-2cd42bd14073",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a camera.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra una cámara.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-142af8959716",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a cat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita un gato.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-9d81d8a94c1e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a table.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa una mesa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-6baba1ea5790",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a dog.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende un perro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-3a3a31142036",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a bag.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa una bolsa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-de6aab781512",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-4dfb4661cf41",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a house.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve una casa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a7206fa44b3d",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a table.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia una mesa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-9106a5d32ae6",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a pencil.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra un lápiz.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-750648fdcdfb",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a car.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa un coche.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-8aa8bb81fe61",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a pencil.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella compra un lápiz.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-621214b05e1a",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a book.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde un libro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-d1c0c09088c3",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-f243953c75c6",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-603d5ff1d5f7",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-1583f97d9586",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-990dbf64be3e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-ce49b28a2a5f",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-6672de83efd3",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a pencil.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende un lápiz.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-95773c999305",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a phone.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa un teléfono.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-b75f688eb61d",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a ticket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae un boleto.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-53507369775d",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a bike.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita una bicicleta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-b9746c6c59b4",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a wallet.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa una cartera.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-553a186e43ee",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a laptop.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una computadora.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-7dcda4bd9694",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans an umbrella.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia un paraguas.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-05307a227266",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-5d588fade3d1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-53e4c4c67d94",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a mirror.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava un espejo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-f63b329abee4",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-014d37eaea4b",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a box.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra una caja.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-7bbbbc8cebc1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a camera.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende una cámara.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-55a48a4117ff",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a pen.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva un bolígrafo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-6ba865de1382",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a ticket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita un boleto.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-306df9d08bd7",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a bike.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una bicicleta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-b7245ef44c9f",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a guitar.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere una guitarra.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-25c42e261ac3",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a bike.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende una bicicleta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-2b27fd64e008",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a mirror.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa un espejo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-5e6f885b84cb",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a table.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve una mesa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-1f8711c10d45",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a box.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde una caja.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-ed3a51659c72",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-51789763c202",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a cup.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende una taza.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-278222c6ac1d",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a jacket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella compra una chaqueta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-b245115b44df",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs an umbrella.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita un paraguas.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-dff708fd5119",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a notebook.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene un cuaderno.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-2c3f59412fb4",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a mirror.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita un espejo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-3842acd47255",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a phone.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita un teléfono.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-0e08323d1629",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a phone.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia un teléfono.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a98aa1d20cf9",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a laptop.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa una computadora.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-150bce3bf993",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses an umbrella.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde un paraguas.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-1969f534d0e5",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a pen.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa un bolígrafo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-07aaadca5351",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a pencil.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve un lápiz.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-602700fbbe49",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a plant.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae una planta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a9387e007404",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a table.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae una mesa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-63b3322d4e2c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a ball.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve una pelota.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-dad7356732eb",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a plant.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra una planta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a601ea50624a",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a house.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una casa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-5909cc0f3e5c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a bike.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde una bicicleta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-33572a5d197c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a mirror.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra un espejo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-d050b919806c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-8f07cd4c16c1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a box.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere una caja.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-ed6c09a23516",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a table.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva una mesa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-6f3bed534290",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a bag.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde una bolsa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a1cdb8f3665e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-c3d512479450",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a guitar.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva una guitarra.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-56268286eac7",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-930fd8ee9685",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a car.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra un coche.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-7dcf2277597f",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a ball.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere una pelota.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-b24068b9dcf1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees an umbrella.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve un paraguas.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-9b9600508f1f",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a wallet.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere una cartera.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-3fc6561a2664",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a book.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve un libro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-07c071e6f6d3",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a car.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita un coche.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-3f9c0a83447b",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a jacket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa una chaqueta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-3307b945a899",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a bike.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae una bicicleta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-82e40e9566ec",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a pencil.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia un lápiz.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-d39f745aa200",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a cat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere un gato.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-4c4855a930fd",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-45ec7f22d2e9",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a laptop.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia una computadora.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-1339154e9154",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a hat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene un sombrero.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-e4cdd8d950d5",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a key.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla una llave.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-dedcb722d4e5",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a plant.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene una planta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-91937cf11d50",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-e2d61dd6b7c9",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a car.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava un coche.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-654fd462a5f3",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a book.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla un libro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-48e703ac082c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a pen.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra un bolígrafo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-77f6b4b00b5a",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a plant.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella compra una planta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-e1d32f30b81e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-e26f6eee5f55",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a guitar.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita una guitarra.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-75bd03ffb292",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a cup.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere una taza.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-1f2e673e91fe",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-23226b658075",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a car.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla un coche.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-41e6785aa15f",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a cup.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita una taza.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-d5e0b30f25c1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-219ef43d1ece",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a bag.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva una bolsa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-972b2eb8821a",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-09600d4fa8aa",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a book.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava un libro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-ee037c8919ba",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a cup.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde una taza.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-422e338b87f7",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a hat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere un sombrero.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-8856845e3a1e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a bag.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae una bolsa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-dd9ab6a8e20c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a phone.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra un teléfono.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-7623158f92a1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a cat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende un gato.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-858d0622bfd8",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a notebook.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla un cuaderno.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-b121dbd3b1cc",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-62ec6b467092",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella compra una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-04d19cba2939",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a backpack.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva una mochila.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-30f04b9275ce",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-68ee90016611",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a laptop.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve una computadora.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-055a90201faf",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a backpack.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa una mochila.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-581760ee149c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a jacket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende una chaqueta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-c1d09f72d9a8",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a camera.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve una cámara.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-436fa8f7fd0d",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a wallet.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella compra una cartera.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-66d9d2af25d6",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a key.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia una llave.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-c9a7c88c840c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a notebook.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde un cuaderno.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-7e67d530cb98",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a box.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla una caja.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-dfb5663df9d0",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a guitar.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve una guitarra.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-f38983aa6392",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a box.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende una caja.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-9188e70d5637",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a hat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva un sombrero.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-0a75aa34325c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a plant.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita una planta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-efd1db061ed1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a box.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve una caja.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-771d2c2bc243",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a key.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva una llave.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-0879092047de",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a plant.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere una planta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-4312df296a57",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a wallet.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una cartera.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-c9053c3bff43",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a jacket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita una chaqueta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-5d7f288e351e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a cat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde un gato.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-70839d11ec3e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a jacket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla una chaqueta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-4b9e1ba2520c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a pen.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella compra un bolígrafo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-57f51ef9a6fe",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a wallet.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde una cartera.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-9a31e6d5da2e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a pen.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia un bolígrafo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-78febf0fe22f",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a ball.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia una pelota.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-93191004654e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a laptop.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra una computadora.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-f25245743260",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a dog.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella compra un perro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-9c87199eb682",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a hat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa un sombrero.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a919837beb19",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a book.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae un libro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-4d66f476d2fa",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-9221d739aa7d",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a backpack.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende una mochila.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-0ed522969c98",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a mirror.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla un espejo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-589347944fb4",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a box.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene una caja.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a8386590429b",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-2b9dec6cc07e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings an umbrella.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae un paraguas.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-80a5270486b9",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-fda9f3901785",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a house.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia una casa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-522bea50f0bc",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella compra un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-9992a6f633dc",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-d5715a8fe598",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a jacket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve una chaqueta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-b2953ac47dd5",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-bd75e416004d",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a wallet.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla una cartera.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-47cfe0f6e8e2",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a ticket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella ve un boleto.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-c2da96581426",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a laptop.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere una computadora.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-b058dd472f2d",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a chair.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene una silla.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-740d38b223cc",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a dog.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava un perro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-6afc70ad68b5",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a dog.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere un perro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-7ccbe67bcd80",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a camera.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella quiere una cámara.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-dba9d862e8a1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-e623bebdcac5",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a hat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde un sombrero.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-65dc2fafa124",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a phone.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava un teléfono.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-34dbfa754c47",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a pencil.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa un lápiz.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-c46952c64e30",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a laptop.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene una computadora.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-6fcb26307409",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a key.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa una llave.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-83064da76c7c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a dog.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella necesita un perro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-89028320091a",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a dog.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde un perro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a3c23d47e743",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a bag.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una bolsa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-4474e1a1985d",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a cup.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella trae una taza.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-c55eb31d1b76",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a key.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra una llave.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-cb83c559b540",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a cat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva un gato.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-bea4864d36a0",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a pen.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde un bolígrafo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-f4ae40d8bf47",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a pen.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende un bolígrafo.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-bbccc109b498",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a guitar.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una guitarra.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-3da7f8f79ca4",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a notebook.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia un cuaderno.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-9d9e152c0c12",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a cat.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra un gato.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-e025f59248f7",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a dog.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva un perro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-eafa22abdda8",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a book.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra un libro.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-16fa8c913ed7",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells an umbrella.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vende un paraguas.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-937a12fd7f3d",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a backpack.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella encuentra una mochila.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-fa692b50f70b",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a laptop.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla una computadora.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-30604463d4a3",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a plant.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva una planta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-0aedcac93c77",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a cup.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella arregla una taza.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-faf5c0926b2f",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a phone.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene un teléfono.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-e66ab74ff8a1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a plant.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una planta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-7ad07aea5e54",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a box.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lleva una caja.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-ab59757fb9f6",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a bag.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene una bolsa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a9ad4bd980b1",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a wallet.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene una cartera.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-a02323f0f6a4",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a key.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene una llave.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-31c1ca67d238",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a ticket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella tiene un boleto.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-1f74a896292e",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a plant.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella limpia una planta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-4edbe2045e6c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a phone.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella pierde un teléfono.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-ba58f0c77288",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a pencil.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava un lápiz.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-3db984b2693c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a shirt.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella usa una camisa.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-290e1e92f5fd",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a jacket.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava una chaqueta.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-she-personal-pronouns-example-8b584ea8612c",
+      "itemId": "a1-pronoun-she",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a watch.",
+      "answer": "she",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella lava un reloj.",
+      "hint": "Sujeto femenino: va antes del verbo.",
+      "explanation": "Sujeto femenino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-paint-simple-present-example-6cce74ddcfac",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a car every day.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Yo pintar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-f5345c07a394",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a car.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Yo no pintar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-56bc127b69e2",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ an email every day.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Tú pintar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-363896cbd0fc",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ an email.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Tú no pintar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-62e5bc4fcf4e",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the report every day.",
+      "answer": "paints",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Él pintar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-65ccc5668e70",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the report.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Él no pintar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-0e8b3021a715",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a plan every day.",
+      "answer": "paints",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Ella pintar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-f1dd4fbf35da",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a plan.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Ella no pintar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-95fdb72e1775",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the lesson every day.",
+      "answer": "paints",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Eso pintar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-ed2cc4e1be0f",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the lesson.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Eso no pintar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-ded63bac1e4f",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ an idea every day.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Nosotros pintar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-b0593444576f",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ an idea.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Nosotros no pintar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-49e080aa077a",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a house every day.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Ellos pintar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-paint-simple-present-example-11102558434e",
+      "itemId": "a1-verb-paint",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a house.",
+      "answer": "paint",
+      "acceptableAnswers": [],
+      "options": [
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "translation": "Ellos no pintar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

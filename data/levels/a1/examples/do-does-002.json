@@ -1,0 +1,1256 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "do-does",
+  "examples": [
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-66d53c218559",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he move every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él mover todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-35a9521f704d",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he need every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él necesitar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-ecd31eadef56",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he call every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él llamar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-32ea756a6e9c",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he use every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él usar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-9a98b00acc3b",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he lead every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él liderar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-0b388f80d61f",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he try every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él intentar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-8cdd250b38f2",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he pass every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él pasar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-ff71efda1eb6",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he talk every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él hablar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-5703b27a480e",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he create every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él crear todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-83d125402406",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he report every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él reportar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-07832536d90f",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he seem every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él parecer todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-9125f42a64d9",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he turn every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él girar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-78e271976ddd",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he continue every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él continuar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-1f659ecd4c2e",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he serve every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él servir todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-5b25a76a2081",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he start every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él empezar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-0d9c591c8a15",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ he consider every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Él considerar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-8deeadd6b77d",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she create every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella crear todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-6bb038044785",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she report every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella reportar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-623708b0edae",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she seem every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella parecer todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-eb507fb01c59",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she turn every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella girar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-b753a172207b",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she continue every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella continuar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-b34ed021dfbb",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she serve every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella servir todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-01996c8a601e",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she start every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella empezar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-be4a25a123c3",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she consider every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella considerar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-8be045146d8b",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she plan every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella planear todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-675f9ef66299",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she offer every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella ofrecer todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-7180d250efbb",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she act every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella actuar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-cf9b46edebd6",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she count every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella contar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-c74c749d4c01",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she provide every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella proveer todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-6e6111a5f94a",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she visit every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella visitar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-564917f7674f",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she work every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella trabajar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-b5c35acbc746",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ she carry every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Ella cargar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-ab16c7731454",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it plan every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso planear todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-d7c70d3f3675",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it offer every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso ofrecer todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-61ae22c78b08",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it act every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso actuar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-ba385087d506",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it count every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso contar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-96ccb4d31fec",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it provide every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso proveer todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-41b7806998bb",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it visit every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso visitar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-c7bb3bd89623",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it work every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso trabajar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-1a81d8ffaf40",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it carry every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso cargar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-ae8b72e9fefe",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it include every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso incluir todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-3802562cfdaa",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it ask every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso preguntar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-0e3f68f4d648",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it live every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso vivir todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-92c01684d638",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it learn every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso aprender todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-9a725d8cd0d1",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it play every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso jugar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-3ef6ea2fba43",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it appear every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso aparecer todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-bb7cf8c429f9",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it explain every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso explicar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-do-does-aux-does-do-does-example-64f05616eea1",
+      "itemId": "a1-grammar-do-does-aux-does",
+      "level": "A1",
+      "topicId": "do-does",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ it cause every day?",
+      "answer": "Does",
+      "acceptableAnswers": [],
+      "options": [
+        "Do",
+        "Does"
+      ],
+      "translation": "¿Eso causar todos los días?",
+      "hint": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "explanation": "Do acompaña a I/you/we/they; does acompaña a he/she/it.",
+      "grammarTags": [
+        "do-does"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

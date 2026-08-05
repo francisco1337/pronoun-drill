@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "third-person",
+  "examples": [
+    {
+      "id": "a1-verb-walk-third-person-example-0f66dd4f6542",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ an email.",
+      "answer": "walks",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Él caminar un correo.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-third-person-example-abbb60c1d37c",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does he ___ an email?",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "¿Él caminar un correo?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-third-person-example-135aa405a24e",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the report.",
+      "answer": "walks",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Ella caminar el informe.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-third-person-example-27648671f5f8",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does she ___ the report?",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "¿Ella caminar el informe?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-third-person-example-4a3e65c255cd",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a plan.",
+      "answer": "walks",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "Eso caminar un plan.",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-walk-third-person-example-a615a18699a9",
+      "itemId": "a1-verb-walk",
+      "level": "A1",
+      "topicId": "third-person",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Does it ___ a plan?",
+      "answer": "walk",
+      "acceptableAnswers": [],
+      "options": [
+        "walk",
+        "walks",
+        "walking"
+      ],
+      "translation": "¿Eso caminar un plan?",
+      "hint": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "explanation": "Con he/she/it el verbo suele terminar en -s; -es tras s/sh/ch/x/z/o; consonante + y cambia a -ies.",
+      "grammarTags": [
+        "third-person"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

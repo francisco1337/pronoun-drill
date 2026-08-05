@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-carry-simple-present-example-bac2c4029436",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a car every day.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Yo cargar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-7c9f897c5513",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a car.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Yo no cargar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-c69d73a91fe5",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ an email every day.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Tú cargar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-a152531138e0",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ an email.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Tú no cargar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-ad01287c62ef",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the report every day.",
+      "answer": "carries",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Él cargar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-e1b46cbf31a5",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the report.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Él no cargar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-4da30df080c6",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a plan every day.",
+      "answer": "carries",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Ella cargar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-a224b2d532c1",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a plan.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Ella no cargar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-294f44d9f33c",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the lesson every day.",
+      "answer": "carries",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Eso cargar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-755d9c217380",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the lesson.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Eso no cargar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-ea0259bd3e19",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ an idea every day.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Nosotros cargar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-b61d0e705669",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ an idea.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Nosotros no cargar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-8bd27feafc5f",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a house every day.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Ellos cargar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-carry-simple-present-example-59210738a406",
+      "itemId": "a1-verb-carry",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a house.",
+      "answer": "carry",
+      "acceptableAnswers": [],
+      "options": [
+        "carry",
+        "carries",
+        "carrying"
+      ],
+      "translation": "Ellos no cargar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

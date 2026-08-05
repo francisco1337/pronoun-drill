@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-admit-simple-present-example-c02cddfd2049",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the lesson every day.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Yo admitir la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-2be827448f74",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the lesson.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Yo no admitir la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-a7affc8825fe",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ an idea every day.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Tú admitir una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-b9ca8b3c240f",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ an idea.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Tú no admitir una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-bcdf84c77e3b",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a house every day.",
+      "answer": "admits",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Él admitir una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-a7a77358360c",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a house.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Él no admitir una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-a9c5bba3ac6a",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the project every day.",
+      "answer": "admits",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Ella admitir el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-96d8d07049b2",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the project.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Ella no admitir el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-28fe7279ca56",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a car every day.",
+      "answer": "admits",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Eso admitir un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-cfaaeb2f63cc",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a car.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Eso no admitir un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-6436734523ef",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ an email every day.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Nosotros admitir un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-03f0416fef35",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ an email.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Nosotros no admitir un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-f82161b361f8",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the report every day.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Ellos admitir el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-admit-simple-present-example-f63ece4657df",
+      "itemId": "a1-verb-admit",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the report.",
+      "answer": "admit",
+      "acceptableAnswers": [],
+      "options": [
+        "admit",
+        "admits",
+        "admitting"
+      ],
+      "translation": "Ellos no admitir el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

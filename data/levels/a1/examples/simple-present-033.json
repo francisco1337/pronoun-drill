@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-show-simple-present-example-bb9699ff7ac3",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ an email every day.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Yo mostrar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-08d63bd163cf",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ an email.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Yo no mostrar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-8acabd8c0e7f",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the report every day.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Tú mostrar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-200196930826",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the report.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Tú no mostrar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-b34e43e95ed6",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a plan every day.",
+      "answer": "shows",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Él mostrar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-de8189660de7",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a plan.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Él no mostrar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-00cab9ad5095",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the lesson every day.",
+      "answer": "shows",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Ella mostrar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-733f163194cc",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the lesson.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Ella no mostrar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-fd8f1a3b7208",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an idea every day.",
+      "answer": "shows",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Eso mostrar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-ebd0d63668f4",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ an idea.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Eso no mostrar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-f5b8fb19d1ee",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a house every day.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Nosotros mostrar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-0a0fcbaaab91",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a house.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Nosotros no mostrar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-3f8369663250",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the project every day.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Ellos mostrar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-show-simple-present-example-c86548e52291",
+      "itemId": "a1-verb-show",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the project.",
+      "answer": "show",
+      "acceptableAnswers": [],
+      "options": [
+        "show",
+        "shows",
+        "showing"
+      ],
+      "translation": "Ellos no mostrar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

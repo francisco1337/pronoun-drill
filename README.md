@@ -1,76 +1,63 @@
 # English Drill
 
-Práctica de inglés (PWA) con una sección A1 de ocho temas, ejercicios de
-pronombres y una sección de modales/auxiliares.
-**10 aciertos seguidos** dominan una palabra; **1 error** reinicia únicamente el
-contador de esa palabra. Funciona offline y se puede instalar.
+Aplicación web progresiva para estudiar inglés por niveles. Es completamente
+estática: no tiene backend, cuentas, base de datos, sincronización en la nube ni
+IA en tiempo de ejecución. El contenido educativo se publica como JSON y la
+actividad de cada estudiante permanece exclusivamente en su navegador.
 
-## Archivos
+## Arquitectura
 
-| Archivo | Qué es |
+| Ruta | Responsabilidad |
 |---|---|
-| `index.html` | La app (interfaz + lógica). Carga las frases desde `frases.json`. |
-| `frases.json` | **Las frases** (inglés + traducción). Esto es lo que editas para cambiarlas. |
-| `modales.json` | Los 19 modales y auxiliares importados de la hoja de aprendizaje. |
-| `a1.json` | Los ocho temas A1, 80 verbos y sus bancos de ejercicios. |
-| `generar-a1.js` | Regenera `a1.json` con el vocabulario y los ejercicios A1. |
-| `generar-ejemplos-modales.js` | Regenera los 200 ejemplos bilingües de cada modal/auxiliar. |
-| `datos-client.js` | Paquete generado que permite cargar todos los ejercicios sin `fetch()`. |
-| `generar-datos-client.js` | Regenera el paquete cliente desde todos los archivos JSON. |
-| `generar-frases.js` | Generador opcional: reconstruye `frases.json` a partir de plantillas y vocabulario. |
-| `manifest.webmanifest`, `sw.js`, `icons/` | Piezas de la PWA (instalable + offline). |
+| `index.html`, `styles.css`, `src/app.js` | Interfaz y sesiones de estudio. |
+| `src/content-service.js` | Carga bajo demanda el manifiesto, catálogos y ejemplos seleccionados. |
+| `src/storage-service.js` | Único acceso a `localStorage`: configuración, progreso, errores, sesiones, migración e importación/exportación. |
+| `data/manifest.json` | Punto de entrada y versión del contenido. |
+| `data/levels/a1/` | Catálogos A1, definición de temas y archivos de ejemplos por elemento. |
+| `data/professional/` | Catálogo y ejemplos de modales/auxiliares. |
+| `generar-arquitectura.js` | Genera el árbol normalizado desde los JSON fuente. Solo se ejecuta durante desarrollo. |
+| `scripts/validate-data.js` | Comprueba rutas, versiones, IDs, relaciones, esquemas y el máximo de 200 ejemplos por elemento. |
+| `sw.js`, `manifest.webmanifest`, `icons/` | Instalación y funcionamiento sin conexión. |
 
-## Probar en tu PC
+Los archivos `a1.json`, `frases.json` y `modales.json` se conservan como fuentes
+de generación. La aplicación publicada no los descarga ni los importa. Tampoco
+carga un paquete global con todo el banco: primero obtiene el manifiesto, después
+el catálogo necesario y finalmente solo los archivos correspondientes a la
+selección de la sesión.
 
-La app no necesita un servidor para cargar los datos: `datos-client.js` contiene
-todos los JSON empaquetados y `index.html` puede abrirse con doble clic. Para probar
-el comportamiento exacto de la PWA y su caché también puedes levantar un servidor:
+## Desarrollo
 
-```bash
-npx --yes serve .
-```
-
-Luego abre la URL que muestre (p. ej. `http://localhost:3000`).
-
-## Publicar en GitHub Pages (gratis)
+Se requiere Node.js. Para regenerar y validar todo el contenido:
 
 ```bash
-git init
-git add .
-git commit -m "Pronoun Drill"
-git branch -M main
-git remote add origin https://github.com/TU_USUARIO/pronoun-drill.git
-git push -u origin main
+npm run generate:data
+npm run validate:data
 ```
 
-En GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a branch →
-Branch: `main` / `root` → Save.** En 1–2 min queda en
-`https://TU_USUARIO.github.io/pronoun-drill/`. Ábrela en el móvil y usa
-**"Añadir a pantalla de inicio"** para instalarla como app.
-
-## Cambiar o añadir frases
-
-**Opción 1 — editar el JSON directo.** Abre `frases.json`, busca el pronombre y añade
-objetos a su lista `sentences`:
-
-```json
-{ "en": "___ is my favorite book.", "es": "Este es mi libro favorito." }
-```
-
-Reglas: el inglés debe tener **exactamente un** `___` (el hueco). El español es la
-traducción de apoyo (sin hueco).
-
-**Opción 2 — regenerar con plantillas.** Edita `generar-frases.js` (agrega palabras a
-`THINGS` o `NAMES`, o nuevas plantillas) y ejecuta:
+Para probar la aplicación y el service worker, sírvela por HTTP (abrir el HTML
+con doble clic no permite usar `fetch` ni la PWA correctamente):
 
 ```bash
-node generar-frases.js
+npm start
 ```
 
-Cada palabra nueva del vocabulario añade frases a todos los pronombres a la vez.
+Después abre `http://127.0.0.1:4173`.
 
-## Al actualizar la app instalada
+## Datos locales y privacidad
 
-Si cambias `index.html`, `sw.js` o los iconos, sube el número de versión en `sw.js`
-(`const CACHE = "pronoun-drill-v2"`) para que los dispositivos ya instalados tomen la
-versión nueva. Los cambios solo en `frases.json` se ven al recargar con conexión.
+Las claves usan el espacio `englishTrainer:v1:*`. Se guardan preferencias,
+selecciones por tema, progreso por ID estable, errores recientes, sesión en curso
+y hasta 100 resúmenes. La pantalla de configuración permite exportar un respaldo
+JSON, importarlo con validación, restablecer áreas concretas y cambiar la regla de
+dominio. Si `localStorage` no está disponible o se llena, la app avisa y continúa
+en modo temporal cuando es posible.
+
+El contenido educativo nunca forma parte del respaldo del usuario. No se envía
+información a ningún servidor.
+
+## Publicación
+
+El repositorio puede publicarse directamente con GitHub Pages desde la rama
+`main`. Al cambiar recursos de la interfaz o el contenido, actualiza
+`contentVersion` y el nombre de `CACHE` en `sw.js` para que las instalaciones
+reciban la nueva versión.

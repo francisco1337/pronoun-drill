@@ -1,48 +1,63 @@
-/* Service worker de Pronoun Drill.
- * Al cambiar el "shell" (index.html, sw.js, iconos) sube el número de versión
- * para forzar la actualización en los dispositivos ya instalados. */
-const CACHE = "english-drill-v10";
-const ASSETS = [
+const CACHE = "english-drill-2026.08.1";
+const SHELL = [
   "./",
   "./index.html",
-  "./datos-client.js",
-  "./frases.json",
-  "./modales.json",
-  "./a1.json",
+  "./styles.css",
+  "./src/app.js",
+  "./src/content-service.js",
+  "./src/storage-service.js",
+  "./data/manifest.json",
+  "./data/levels/a1/grammar.json",
+  "./data/levels/a1/verbs.json",
+  "./data/levels/a1/pronouns.json",
+  "./data/levels/a1/grammar-items.json",
+  "./data/levels/a1/expressions.json",
+  "./data/professional/modals.json",
   "./manifest.webmanifest",
   "./icons/icon-192.png",
-  "./icons/icon-512.png"
+  "./icons/icon-512.png",
+  "./icons/icon-maskable-512.png"
 ];
 
-self.addEventListener("install", (e) => {
-  e.waitUntil(
-    caches.open(CACHE).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting())
-  );
+self.addEventListener("install", (event) => {
+  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL)).then(() => self.skipWaiting()));
 });
 
-self.addEventListener("activate", (e) => {
-  e.waitUntil(
+self.addEventListener("activate", (event) => {
+  event.waitUntil(
     caches.keys()
-      .then((keys) => Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k))))
+      .then((keys) => Promise.all(keys.filter((key) => key !== CACHE).map((key) => caches.delete(key))))
       .then(() => self.clients.claim())
   );
 });
 
-self.addEventListener("fetch", (e) => {
-  const req = e.request;
-  if (req.method !== "GET") return;
-  const url = new URL(req.url);
-
-  // Datos generados → network-first: si hay conexión, ves las ediciones al recargar.
-  if (url.pathname.endsWith("datos-client.js")) {
-    e.respondWith(
-      fetch(req)
-        .then((res) => { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(req, copy)); return res; })
-        .catch(() => caches.match(req))
-    );
-    return;
+async function networkFirst(request) {
+  const cache = await caches.open(CACHE);
+  try {
+    const response = await fetch(request);
+    if (response.ok) await cache.put(request, response.clone());
+    return response;
+  } catch {
+    return (await cache.match(request)) || (await cache.match("./index.html"));
   }
+}
 
-  // Resto → cache-first (rápido y offline).
-  e.respondWith(caches.match(req).then((res) => res || fetch(req)));
+async function cacheFirst(request) {
+  const cache = await caches.open(CACHE);
+  const cached = await cache.match(request);
+  if (cached) return cached;
+  const response = await fetch(request);
+  if (response.ok) await cache.put(request, response.clone());
+  return response;
+}
+
+self.addEventListener("fetch", (event) => {
+  const { request } = event;
+  if (request.method !== "GET") return;
+  const url = new URL(request.url);
+  if (url.origin !== self.location.origin) return;
+
+  const isNavigation = request.mode === "navigate";
+  const isVersionPointer = url.pathname.endsWith("/data/manifest.json") || url.pathname.endsWith("/index.html");
+  event.respondWith(isNavigation || isVersionPointer ? networkFirst(request) : cacheFirst(request));
 });

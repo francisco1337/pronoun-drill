@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-change-simple-present-example-68f0f3983884",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the lesson every day.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Yo cambiar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-949a07388fda",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the lesson.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Yo no cambiar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-ddd4dd54edee",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ an idea every day.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Tú cambiar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-069fdac7859e",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ an idea.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Tú no cambiar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-1ce51b89d87e",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a house every day.",
+      "answer": "changes",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Él cambiar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-35e6c3ecb8e9",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a house.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Él no cambiar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-5ea97415668a",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ the project every day.",
+      "answer": "changes",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Ella cambiar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-c7ccd8596e66",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ the project.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Ella no cambiar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-554e43941282",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a car every day.",
+      "answer": "changes",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Eso cambiar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-348425f045e3",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a car.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Eso no cambiar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-6f5ca260bd7c",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ an email every day.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Nosotros cambiar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-f990fcab630c",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ an email.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Nosotros no cambiar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-dbabf2df6b1d",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the report every day.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Ellos cambiar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-change-simple-present-example-8561169bd81d",
+      "itemId": "a1-verb-change",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the report.",
+      "answer": "change",
+      "acceptableAnswers": [],
+      "options": [
+        "change",
+        "changes",
+        "changing"
+      ],
+      "translation": "Ellos no cambiar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

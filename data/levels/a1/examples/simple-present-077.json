@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-cook-simple-present-example-571edd15a668",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ an idea every day.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Yo cocinar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-18ed031f288b",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ an idea.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Yo no cocinar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-b207aa9394d4",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a house every day.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Tú cocinar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-7f84a8bd2b0c",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a house.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Tú no cocinar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-8f4a5b991f89",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the project every day.",
+      "answer": "cooks",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Él cocinar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-0da4998ee757",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the project.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Él no cocinar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-7ab23e2d4cc4",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a car every day.",
+      "answer": "cooks",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Ella cocinar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-003be7c0ee6c",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a car.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Ella no cocinar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-eb8de156a44f",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ an email every day.",
+      "answer": "cooks",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Eso cocinar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-e9738a870f1a",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ an email.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Eso no cocinar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-9f9db08ccd02",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the report every day.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Nosotros cocinar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-2cadef9ca5fc",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the report.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Nosotros no cocinar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-7623adff8c93",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a plan every day.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Ellos cocinar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-cook-simple-present-example-f741bc9ae9e0",
+      "itemId": "a1-verb-cook",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a plan.",
+      "answer": "cook",
+      "acceptableAnswers": [],
+      "options": [
+        "cook",
+        "cooks",
+        "cooking"
+      ],
+      "translation": "Ellos no cocinar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

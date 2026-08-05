@@ -1,5 +1,5 @@
 /* Genera el banco A1 a partir del vocabulario de la hoja "Inglés A1".
- * El resultado se guarda como JSON legible y después se empaqueta en datos-client.js. */
+ * El resultado se guarda como JSON legible y después generar-arquitectura.js lo normaliza y fragmenta. */
 const fs = require("fs");
 const path = require("path");
 

@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-order-simple-present-example-cab9a2a3be66",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a house every day.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Yo ordenar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-9a85a7d904fb",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a house.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Yo no ordenar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-2f23473c72aa",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the project every day.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Tú ordenar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-b056c2bba3bd",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the project.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Tú no ordenar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-b1a508aab4f2",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a car every day.",
+      "answer": "orders",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Él ordenar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-98f8be8ffd35",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a car.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Él no ordenar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-b7edfdc385c4",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ an email every day.",
+      "answer": "orders",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Ella ordenar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-71da53ced9d6",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ an email.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Ella no ordenar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-4f7de6bd1d48",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the report every day.",
+      "answer": "orders",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Eso ordenar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-7a8bd502aad1",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the report.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Eso no ordenar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-f64fea959f26",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a plan every day.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Nosotros ordenar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-eb008a3a266e",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a plan.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Nosotros no ordenar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-214963b6309f",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the lesson every day.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Ellos ordenar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-order-simple-present-example-9642769225bb",
+      "itemId": "a1-verb-order",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the lesson.",
+      "answer": "order",
+      "acceptableAnswers": [],
+      "options": [
+        "order",
+        "orders",
+        "ordering"
+      ],
+      "translation": "Ellos no ordenar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

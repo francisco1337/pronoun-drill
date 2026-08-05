@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-produce-simple-present-example-9e4c821dc1c0",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a plan every day.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Yo producir un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-e62ef3c39db3",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a plan.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Yo no producir un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-4a04837ff743",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the lesson every day.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Tú producir la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-8e9deb3ef7de",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the lesson.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Tú no producir la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-ea094adf914e",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ an idea every day.",
+      "answer": "produces",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Él producir una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-2f4fd1d102cb",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ an idea.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Él no producir una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-1158693e7526",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a house every day.",
+      "answer": "produces",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Ella producir una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-0bf209e732c4",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a house.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Ella no producir una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-82d774241af7",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the project every day.",
+      "answer": "produces",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Eso producir el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-e9fae5fa129f",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the project.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Eso no producir el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-3e1c88846791",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a car every day.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Nosotros producir un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-f3371ffaafbf",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a car.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Nosotros no producir un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-b711a33c07b9",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ an email every day.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Ellos producir un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-produce-simple-present-example-8ace912b8dc8",
+      "itemId": "a1-verb-produce",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ an email.",
+      "answer": "produce",
+      "acceptableAnswers": [],
+      "options": [
+        "produce",
+        "produces",
+        "producing"
+      ],
+      "translation": "Ellos no producir un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

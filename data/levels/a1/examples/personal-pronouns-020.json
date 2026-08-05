@@ -1,0 +1,5808 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-c12f6b5b4a74",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The bag works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La bolsa funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-506c42a0e9b2",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the phone; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el teléfono; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-8a4c69dbb88c",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the book. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el libro. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-650f10978cdc",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the cup? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la taza? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-158065ca2a5e",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The bike is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La bicicleta es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-ff5c2f2e036b",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the pencil; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el lápiz; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-cfb57831e3de",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The house works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La casa funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-b209e47f8f12",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the jacket? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la chaqueta? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-47255dec75df",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The umbrella works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El paraguas funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-b756627d9306",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The laptop works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La computadora funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-bf2453a68255",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The dog works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El perro funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-551c6675a990",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The ball works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La pelota funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-7b386dcc57bd",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The backpack is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La mochila está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-03779ebc45b9",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The notebook is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El cuaderno está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-bcf6c8be066e",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the ticket; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el boleto; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-cff1f3bf9a28",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the backpack? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la mochila? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-6ff9d94099d8",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the shirt. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la camisa. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f094aa470906",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The mirror is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El espejo es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-bb3175df629a",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a chair; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una silla; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-dd687d7ff35a",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The book is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El libro es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-d53b83a57403",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The dog is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El perro está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-da38f68dae85",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The backpack works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La mochila funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-8a7740265625",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ is windy right now.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Hace viento ahora.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-16c820eb322c",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The phone is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El teléfono es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-78e30611fc06",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The car is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El coche es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-994acd9d7a73",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the bike. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la bicicleta. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-fa2ceb6c0b3b",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the phone? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el teléfono? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-eea8489f55b2",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the ball. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la pelota. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-a63227b3e6e0",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ is sunny today.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Está soleado hoy.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-5e81ec3ee2f2",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the bag. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la bolsa. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-3664f8d6c556",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the book; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el libro; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-2a8f55fb2528",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The chair works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La silla funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f34887fcf002",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The cup works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La taza funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-4e45a662d3f2",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the umbrella? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el paraguas? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-b618eea02176",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The bike is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La bicicleta está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-e6f1d9beafb0",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the laptop? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la computadora? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-c02f812ec685",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The pen is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El bolígrafo está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-31de18c688a0",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the plant. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la planta. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-e8cd77a4cf85",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The box works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La caja funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-c1c112004cc9",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ is nine o'clock.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Son las nueve.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-e9a82c6b05ba",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The house is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La casa es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-bc43acbd518f",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The jacket is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La chaqueta está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-4e7181365310",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the guitar; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la guitarra; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-65d95ee0dca6",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The cat is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El gato está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-44f4498eee39",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a box; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una caja; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-9276506da8c9",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the chair. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la silla. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-90246cc98fd5",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the hat. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el sombrero. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-65eec25b6e18",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The backpack is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La mochila es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-246a1d705dce",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the laptop. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la computadora. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-3ebeacdf6b5f",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the dog. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el perro. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-767982bbbcc9",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ is raining.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Está lloviendo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-286dd5e87b2c",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The table is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La mesa está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-cbda519e3535",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the pen? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el bolígrafo? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-1642f3c8df4e",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the box; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la caja; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-6e6ff7324535",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The cat is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El gato es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-06b674e146e2",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The ticket works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El boleto funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-2017bb2c974d",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the bike; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la bicicleta; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-79c96d557449",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the cat; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el gato; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-89e53b7f7112",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a pencil; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un lápiz; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-012a86e3979d",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a phone; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un teléfono; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-79ad4e35b8da",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The notebook is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El cuaderno es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-4b90dad1e168",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the ball; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la pelota; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-61cd40511a44",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The book works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El libro funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-ac4260bb5028",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the laptop; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la computadora; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-23ba8d2dde98",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the cat? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el gato? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-193ccc040881",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The pencil is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El lápiz es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-0955cf171f54",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the notebook. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el cuaderno. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-e64628d78285",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the hat? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el sombrero? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-50743c7b5e30",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the pencil. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el lápiz. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-0d9243dadd90",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a shirt; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una camisa; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-1674987f6ed0",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a mirror; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un espejo; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-2328184a9624",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the guitar. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la guitarra. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-6ab88ded5c9b",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the umbrella. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el paraguas. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-b2cbcda7e130",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a ball; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una pelota; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-5f0060cf6bc5",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The ball is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La pelota está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-069a8b2e5c11",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The table works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La mesa funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-1aa0f74edc82",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the jacket; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la chaqueta; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-002ab773e01f",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The pencil is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El lápiz está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-486bdb594c37",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the ball? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la pelota? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-026c78f96654",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The chair is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La silla está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-ac13a7ab59ca",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The box is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La caja está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-cb960d3303f2",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The table is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La mesa es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-fd51b8cc5bf4",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The car works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El coche funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-250e3f4191c6",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The laptop is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La computadora es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-010c46be294e",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the house. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la casa. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-a99d5777efb9",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the pen; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el bolígrafo; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-4978c336accc",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The umbrella is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El paraguas es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-58188ffeb628",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The shirt works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La camisa funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-1e2ee815e280",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the watch? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el reloj? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-52c06e886b58",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ is cold outside.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Hace frío afuera.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-06d8b9f85933",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The car is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El coche está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-a52206b36994",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The camera is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La cámara está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-72fa73eee62d",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The guitar is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La guitarra está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-61420dadcad7",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the chair; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la silla; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-165a57e7b948",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ is very hot today.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Hace mucho calor hoy.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-5831bb6d6e11",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a book; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un libro; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-9d61fc9ae2a9",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The laptop is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La computadora está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f44743a3c1d6",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a camera; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una cámara; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-3fc2561983b7",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a backpack; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una mochila; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-3cc0fe75c6e4",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The hat is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El sombrero es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-9aa2714deeef",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a cup; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una taza; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-34a883c8c0b2",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The pencil works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El lápiz funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-2d324cce3e06",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The cup is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La taza es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-1bd0556dee68",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the car. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el coche. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-2aceab55756e",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the umbrella; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el paraguas; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-febfcd8591b3",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The shirt is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La camisa está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f11a4fcf3002",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The shirt is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La camisa es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-03283d2c59e3",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The mirror is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El espejo está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-06ac8baa97a9",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a ticket; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un boleto; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-c17e18125022",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the pen. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el bolígrafo. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-07593ecce16c",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the mirror? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el espejo? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f14d2c4f4f4c",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The jacket is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La chaqueta es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-da49ce2b3932",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The plant is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La planta está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-da281f417603",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The house is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La casa está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-6e6681fff74d",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the box? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la caja? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-498440cde269",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The watch is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El reloj es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f36bc65534e1",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the watch; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el reloj; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-a55ac3cdec8a",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the camera. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la cámara. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-4d37f82c5629",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The mirror works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El espejo funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-d0532011abd7",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the pencil? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el lápiz? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-5c5f1a73be9f",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The ball is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La pelota es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-d2a55bc5ec1c",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The bag is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La bolsa está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-2a68ee0eedab",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the plant; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la planta; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-3fe732cf7ef4",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a table; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una mesa; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-81529f006c3d",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The umbrella is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El paraguas está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-5f84b533b1c1",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The plant works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La planta funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f56f6c1ae5b1",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The dog is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El perro es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-d8fde2924037",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the house? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la casa? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-6931f4092377",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The watch is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El reloj está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-6155e173c666",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the plant? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la planta? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-8220f73e81b3",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a pen; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un bolígrafo; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-96389e6ac2b1",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the jacket. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la chaqueta. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-7ab0ff346324",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The wallet is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La cartera está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-5cde2e2062cb",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The hat is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El sombrero está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-cdfea83bc885",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a jacket; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una chaqueta; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-0755440519d8",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The chair is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La silla es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-8a0dc7c1287e",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the camera; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la cámara; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-23184003eb77",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The hat works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El sombrero funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-ee453ee7af36",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a laptop; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una computadora; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-22d78c5a505e",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the mirror. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el espejo. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-8a7c86287909",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the bike? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la bicicleta? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-87775d5e65fa",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The camera works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La cámara funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-7833da13a8a1",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the key? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la llave? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-52fe22c35a81",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the book? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el libro? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-637b7fab0a9f",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a dog; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un perro; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-559a8c6429fe",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The ticket is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El boleto está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-a8a6972a4e4b",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a bike; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una bicicleta; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-80fa0ebe6889",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the backpack; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la mochila; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-1a1844c725ad",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The box is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La caja es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f204041af3b4",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a watch; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un reloj; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-8fd3b45bc5ed",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The plant is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La planta es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-217ff913cda8",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the cup. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la taza. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-58818b69de67",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The key is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La llave está sucia; límpiala.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-5ae793b6e645",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The camera is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La cámara es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-41d21d6bd1fb",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the ticket? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el boleto? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-5f76d2ed5272",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the table? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la mesa? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-22e3a7a36a23",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a wallet; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una cartera; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-73265d811067",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a cat; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un gato; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-6af14425c77b",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The guitar works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La guitarra funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-77a0c4eae114",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the wallet? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la cartera? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-4fcbc10b0c08",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the notebook? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el cuaderno? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-33afc08cc5b6",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the chair? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la silla? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-e4614b1152e9",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the car; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el coche; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-adadb42e00e3",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a umbrella; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un paraguas; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f3a6c699f74a",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The ticket is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El boleto es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-3260d9ef2f8b",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the key; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la llave; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-081a434037c8",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the dog; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el perro; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-cac4f00e224e",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the hat; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el sombrero; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-ddd2a0fa2191",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The guitar is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La guitarra es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-bb236868837e",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The watch works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El reloj funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-75ac38c9ad3b",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the shirt; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la camisa; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-e3b0f704953b",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the shirt? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la camisa? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-59402c37a3dc",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The wallet is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La cartera es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f952f5082adc",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a car; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un coche; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-d681d23439d9",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the box. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la caja. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-6645b6a618ef",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the table. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la mesa. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-3332fa4f76f4",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The pen is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El bolígrafo es nuevo; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-893abd32300f",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The key is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La llave es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-4617bdfaa1ca",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the dog? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el perro? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-42a869e972cd",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the house; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame la casa; es mía.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f7a38c2fd21b",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ is late.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Es tarde.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-053df6e1aef0",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the watch. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el reloj. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-b2dee158ac43",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the notebook; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el cuaderno; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-5201cfa626d5",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the backpack. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira la mochila. Es hermosa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-61e9ab262da1",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ is snowing.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Está nevando.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-40b09f45c2a9",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a hat; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré un sombrero; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-925b1776cd08",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The phone is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El teléfono está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-5e660cd31a00",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the cat. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el gato. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-473d63e033c1",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Give me the mirror; ___ is mine.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Dame el espejo; es mío.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-ed932b100ccb",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The pen works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El bolígrafo funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-c6afb00f5c99",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the camera? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está la cámara? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-efb547100e12",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a house; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una casa; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-8711d4cff90f",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at the ticket. ___ is beautiful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Mira el boleto. Es hermoso.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-ac503c42ac14",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The book is dirty; clean ___.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El libro está sucio; límpialo.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-fe8b855392ed",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The wallet works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La cartera funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-4364033bf3fd",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a key; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una llave; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-f8e9c716a032",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The phone works well; ___ is useful.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "El teléfono funciona bien; es útil.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-0415fc574a4f",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is the car? ___ is here.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "¿Dónde está el coche? Está aquí.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-d0210a0f1c1d",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "The bag is new; ___ is on the table.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "La bolsa es nueva; está sobre la mesa.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-it-personal-pronouns-example-0c28b730ef1d",
+      "itemId": "a1-pronoun-it",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I bought a plant; ___ is great.",
+      "answer": "it",
+      "acceptableAnswers": [],
+      "options": [
+        "it",
+        "he",
+        "she",
+        "this"
+      ],
+      "translation": "Compré una planta; es genial.",
+      "hint": "'it' para cosas, animales o el clima (no personas).",
+      "explanation": "'it' para cosas, animales o el clima (no personas).",
+      "grammarTags": [
+        "pronouns",
+        "cosa / animal / clima"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,5808 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e8286915a9d6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That box is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa caja es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-1358cecff2b8",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That wallet is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa cartera es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-20a8a0c7bde9",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the ticket is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el boleto es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-661b26fa08fb",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This umbrella is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este paraguas es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-63487f2ecb31",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That pencil is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese lápiz es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-cc0e1681e327",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this ticket ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este boleto mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-03f64cd6be3b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the shirt is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la camisa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-dba35ca4eeee",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that backpack ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa mochila mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-352dcb08905a",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This bag is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta bolsa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-f31fbaf1fbd0",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that umbrella ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese paraguas mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-c1272607192a",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That key is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa llave es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-f8eb6bdb3b15",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the backpack is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la mochila es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-64cc53330c14",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This pencil is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este lápiz es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-5821f96969a3",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the watch is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el reloj es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-1fe201c362d6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That phone is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese teléfono es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-08382dc88043",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this chair is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta silla es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-a4a1ba64ca68",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that car ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese coche mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-3db604fce43f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the dog is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el perro es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-f49bf043d87a",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the bike is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la bicicleta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-1baa53d3329d",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that phone ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese teléfono mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-3aab456430c1",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That ball is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa pelota es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-1b4db010c2f1",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This car is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este coche es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-b9b1ab14d0b4",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this phone ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este teléfono mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-64845131f18b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that box ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa caja mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-a8174f2c953e",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This hat is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este sombrero es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-56119894ff4b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This guitar is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta guitarra es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e9ada854d53e",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this ticket is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este boleto es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8d6da81f21d9",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the pen is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el bolígrafo es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-1d202fd74487",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the house is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la casa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-b1a66b18154f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This table is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta mesa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-3bec85413e12",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the key is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la llave es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e703739906ab",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that dog ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese perro mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-7a911e345467",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the laptop is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la computadora es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-c17c8b5c7752",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this house is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta casa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-bf52f2f04bec",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that bag ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa bolsa mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-0bcdd7919876",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This cup is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta taza es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-128fffcdd995",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This dog is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este perro es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-4eee56a3e420",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the notebook is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el cuaderno es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e630034dcf55",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this key is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta llave es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-55d0b4a67937",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the dog is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el perro es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-d92fd861fc6a",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That backpack is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa mochila es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-5c39dfa80c4f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that plant ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa planta mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-1c898c057bbb",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this chair ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta silla mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-893b153090f6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That camera is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa cámara es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-26ab8c05aad3",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the umbrella is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el paraguas es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-7a8bc816a331",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the table is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la mesa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e5a42f4a72e0",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the plant is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la planta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-4cf5c054bfe7",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that shirt ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa camisa mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-6b9adaa1534a",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This laptop is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta computadora es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-454cbd8eddde",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that jacket ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa chaqueta mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-6de94ec22b23",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the key is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la llave es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-394d884c90ad",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the plant is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la planta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8ed0dd5326d2",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this pen is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este bolígrafo es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-0c76dbb58e6f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that camera ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa cámara mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-67588eebd1a6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this guitar ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta guitarra mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-38db4b6c7d86",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the bag is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la bolsa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-ebb4754c941d",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that chair ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa silla mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8146bb10e9b1",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this camera is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta cámara es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-2bab5223f908",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this hat ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este sombrero mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-737ef787552c",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This key is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta llave es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e0f2407942b2",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that table ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa mesa mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-794be35d7ab1",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the box is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la caja es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-79838e698b2f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the jacket is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la chaqueta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-93c8e9432820",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this camera ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta cámara mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-5f16c77cc45b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the chair is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la silla es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e842f521f027",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This chair is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta silla es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8e42f4d237d1",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the camera is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la cámara es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e2e9bd22d4cb",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this wallet is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta cartera es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-b28b75cdc325",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this notebook is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este cuaderno es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-b74acddf8a9e",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the jacket is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la chaqueta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-c2d3d6e57624",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That cat is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese gato es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-495ddcc8e8d8",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this key ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta llave mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-0c20d32e9d36",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the phone is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el teléfono es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-41330953600b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This watch is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este reloj es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-d0a790bb7d3f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this plant ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta planta mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-dd383b5abdfa",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That umbrella is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese paraguas es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-d3e9539fa264",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the pencil is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el lápiz es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-660acfacccb6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the guitar is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la guitarra es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e2d72c3360e6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the ticket is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el boleto es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-6770fe570648",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this table is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta mesa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8b817ca56c2e",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this backpack ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta mochila mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-1a081afdb7ea",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the box is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la caja es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-25faaf72898b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that mirror ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese espejo mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-a8d09ce69697",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That watch is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese reloj es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-345043276a61",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That hat is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese sombrero es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-4a967e043b37",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that pencil ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese lápiz mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-434d3668b717",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that hat ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese sombrero mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-f464ae293db3",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the house is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la casa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-a6242a348eaf",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this bike is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta bicicleta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-f52e02da8a91",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This cat is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este gato es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-f69ac43c59d6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this mirror is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este espejo es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-ea2f466bbe3f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This box is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta caja es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8fcc8f53ee56",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the bag is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la bolsa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-b6ca4ee322d1",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that notebook ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese cuaderno mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-1383bd63e0e0",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this pencil is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este lápiz es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-cbee791f0123",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This plant is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta planta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-cc7706fd7d00",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this jacket ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta chaqueta mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8b76976a8206",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This mirror is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este espejo es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-6f8a245df1a4",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This notebook is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este cuaderno es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-5055017bda72",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the camera is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la cámara es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-1817bdbb3325",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the umbrella is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el paraguas es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-0490b30d6f5e",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That notebook is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese cuaderno es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-071f7d60710b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That plant is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa planta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-d772c1927a20",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that pen ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese bolígrafo mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-7380c0638660",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this pencil ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este lápiz mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-bb9be961b7b3",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This camera is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta cámara es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-580f8b8b865c",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That ticket is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese boleto es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-ff5f66f6d8e5",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That pen is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese bolígrafo es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-7e382979eb02",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this wallet ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta cartera mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e3d8304865a4",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the cup is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la taza es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-077fe42df023",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that house ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa casa mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-2be26aa8e46a",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that ticket ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese boleto mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-b8e86cbc2ad6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this watch ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este reloj mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-913dd54932e1",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That laptop is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa computadora es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-386a37ade406",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this ball is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta pelota es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-42908b5c9952",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this shirt is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta camisa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-816f679eae21",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that cup ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa taza mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-fa8596941cc1",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That dog is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese perro es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-967f04f0a48c",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this phone is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este teléfono es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-d2b9821d4668",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That bike is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa bicicleta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-b4cf32c6e549",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This ticket is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este boleto es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-ddff8f35da6e",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this jacket is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta chaqueta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-f845dd6d355c",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This book is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este libro es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-ae723da57f95",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the book is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el libro es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-18d962dc0f9f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this bag ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta bolsa mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-d1955293c823",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That chair is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa silla es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-26392bb20f18",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the ball is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la pelota es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-eeb643018c0b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this bike ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta bicicleta mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8b79c586d9ab",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This bike is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta bicicleta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-4cb2e03ef535",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the cat is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el gato es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-96b04e6b7a5f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That mirror is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese espejo es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-ef7d703b540f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the car is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el coche es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-3443aac017fd",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That shirt is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa camisa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-ad6610ba3bcd",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That table is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa mesa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-01ef58473e03",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this backpack is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta mochila es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8a5b1eab8a36",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this bag is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta bolsa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-45648fca68dd",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This pen is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este bolígrafo es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-836966b15f27",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That guitar is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa guitarra es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-3e6d7cfa803f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This phone is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Este teléfono es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-9b804d6d2b11",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that laptop ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa computadora mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-67baf8a48aeb",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the chair is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la silla es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e3ab3a1ae18b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the mirror is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el espejo es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-46f95538d5f2",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this box ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta caja mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e0647e632147",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that watch ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese reloj mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-b7228f9a6fdd",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the car is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el coche es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-da658d3b30be",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the cup is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la taza es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-2efbe428806f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This ball is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta pelota es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-d6b79a182f7d",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the shirt is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la camisa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e6dfe50039c6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this laptop ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta computadora mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-d82f957b5808",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the guitar is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la guitarra es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-40cbc02b01f3",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This jacket is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta chaqueta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-44808055cca0",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this guitar is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta guitarra es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8c259361a751",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that ball ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa pelota mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-c31a90e1ee0d",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This house is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta casa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-28a0dd189f19",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the pencil is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el lápiz es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-959e4ab8649b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that cat ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese gato mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-5a1d5463e2dd",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this car is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este coche es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-986aaab211e5",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this dog is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este perro es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-29ad2a3e1e99",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That jacket is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa chaqueta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-7f2f6a5625ce",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that key ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa llave mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-a44d375b51c6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That car is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Ese coche es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-72903398b70d",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that book ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es ese libro mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-7849ee32aef0",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this umbrella ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este paraguas mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-a2708bed1180",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this car ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este coche mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-3736962b72ae",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the watch is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el reloj es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8797718b5ceb",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the pen is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el bolígrafo es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-95dac04a7d96",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That bag is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa bolsa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-81f9d23e1ebc",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the table is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la mesa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8cd2fa36b452",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this cup is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta taza es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-6d3ef87585ed",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this book is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este libro es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-33c8e474bc50",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this plant is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta planta es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-a4b5f762d268",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the phone is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el teléfono es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-af2d43b35798",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this cup ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta taza mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-ebeacdb0fd45",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this umbrella is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este paraguas es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-6dc57b104170",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the wallet is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, la cartera es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-6ea1b63f2e67",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the notebook is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el cuaderno es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-38e5f6e9455b",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this house ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta casa mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-ef159f5f2e33",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the wallet is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la cartera es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-8575599e5af0",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That cup is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa taza es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-6b4424689dce",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this watch is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este reloj es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-f0acbbcd2db8",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this book ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este libro mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-cd8a222494fc",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this dog ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este perro mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-36ce90cad9c8",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This shirt is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta camisa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-565125d559fe",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That house is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esa casa es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-f0e1be93433f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the hat is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el sombrero es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-335c9932060f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this ball ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta pelota mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-ea49b2c434b6",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this notebook ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este cuaderno mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-7910eb959a38",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the hat is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, el sombrero es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-c8d910348a9f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This backpack is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta mochila es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-a541614fb205",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this mirror ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este espejo mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-9df66bbf049f",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that wallet ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Disculpa, ¿es esa cartera mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-e6bdc8a1aedd",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this shirt ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta camisa mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-70d70394fe15",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this table ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es esta mesa mía?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-db22ddaaf1c2",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this cat ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este gato mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-733c49eca72d",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the laptop is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Sí, la computadora es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-27b8d831bb62",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the book is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Mira, el libro es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-c46c1ba2b1c0",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this cat is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que este gato es mío.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-48cf00dca187",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this laptop is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Creo que esta computadora es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-4561322e5fe0",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this pen ___?",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "¿Es este bolígrafo mío?",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-mine-personal-pronouns-example-4412f14a62f9",
+      "itemId": "a1-pronoun-mine",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This wallet is ___.",
+      "answer": "mine",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Esta cartera es mía.",
+      "hint": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "explanation": "Posesivo que va SOLO, sin sustantivo detrás: it's mine.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

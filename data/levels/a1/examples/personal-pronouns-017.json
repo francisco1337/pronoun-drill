@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-10d4a4bdff4c",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a watch.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5835ad46e921",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a pen.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-0c31ce52028f",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a chair.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan una silla.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-f72c8c2eb45f",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a wallet.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-fbb93c3037c8",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-95b55dc77033",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a notebook.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos arreglan un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-8268ef313223",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a guitar.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan una guitarra.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4258145c7393",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a box.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-3b4333e98bd1",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-65146b16a45d",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a jacket.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-3b5e660988c4",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a car.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-7a562aa6356a",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a wallet.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-509835ad86e8",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a chair.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan una silla.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-427425f0a362",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a house.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-c62f1eb514f1",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a guitar.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen una guitarra.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-a3eafbc25366",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a ticket.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden un boleto.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-770cf12b1a63",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a mirror.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-18b45ef73cda",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a chair.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran una silla.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-52fe8f0893d3",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-b99087a1fb2f",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a table.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos tienen una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-65683c6d4795",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a phone.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-a672a27578b9",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a car.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-54c4c46e6bdc",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a laptop.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-fa1809f8f228",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a watch.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5e969629d038",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a mirror.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-45fa5b861471",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a shirt.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5a51af0d7b26",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a cat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos tienen un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-623854a37941",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a chair.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una silla.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-389a0976694b",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a pen.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos arreglan un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-a9e835b3931a",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a cat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-cbee34e808de",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a dog.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-312c6ddf5a23",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-3f46f4e9c264",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a dog.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-44b922c8b433",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a shirt.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos arreglan una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-529c4373102c",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a laptop.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-58aecfa795f1",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy an umbrella.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-013f5aa6d3f7",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a shirt.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4d2f4fce0014",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a watch.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-db9fc2bc7e01",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a table.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-251bdbd3cf08",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a pen.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-c6cabe705235",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a laptop.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5fb8ddfd2535",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a jacket.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos tienen una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-59049b8acefa",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a watch.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-7b26829da966",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a notebook.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-e87528d707dc",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a camera.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-1a5d81c9bb66",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a pencil.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-093d20ec0d60",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a guitar.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una guitarra.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-75bb0f0561ef",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a notebook.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-cae9bfc95b6e",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a bag.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos arreglan una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-84177713826d",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a table.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5a18542bf93e",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a ball.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-e3eae4e30fbf",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-880f1111a46d",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a notebook.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-9ca2f4495672",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-f128b53c73e5",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a cup.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ebdfff76bfeb",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a table.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-fee64ebf7f33",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a table.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-c456f4cef65d",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a bag.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-57940f929353",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a car.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-aaa2fa835997",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a ticket.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen un boleto.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-6251b1755e97",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a hat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-9ab389419edb",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a backpack.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-085110d98cdf",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a hat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-b43d0082fde1",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a jacket.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-99fa2a6c1888",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a mirror.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-780361cb9336",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a shirt.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-d1f61bca5aec",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a cat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-23169da6c1a7",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a cat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-f5ae3ecc4b25",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos tienen una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-1c25d1d3eee7",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a jacket.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos arreglan una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-93c3a1971bd2",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a bike.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos tienen una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-8b0ce794179d",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash an umbrella.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-435aac99e33b",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a cup.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-cebaa7a5d5ac",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a ball.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-b5cdb987e0d1",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a watch.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ad3e90b26e6a",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a key.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren una llave.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-3b15fe41f133",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a ball.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-e2345f9d6109",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see an umbrella.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-80715776ddd4",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a bike.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-13faae42b1d8",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a notebook.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-fe7de4303de2",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a cat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-a9eda3f45078",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a hat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-0496f935cb52",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a mirror.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-f74b52832b4d",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-61828a5d7a05",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a dog.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-a6dda622ec68",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a laptop.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ae40d723e400",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a dog.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-8e3afb7b3695",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a pen.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-c2af775ead36",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a car.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-decb8db815d7",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a jacket.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ad221b2153ce",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a key.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan una llave.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-75bea2faba48",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a phone.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-228eaa709a25",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a house.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos arreglan una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4d6b897eee0b",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have an umbrella.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos tienen un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4f576876e613",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a guitar.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden una guitarra.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4314b6fdbdc2",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a laptop.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-89cef36c5d95",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-1104bd1b20a7",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a bike.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos arreglan una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-953b0387805e",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a camera.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-abb4fee2d243",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a watch.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-cb6327ee9245",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a cup.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-944b983aabc4",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a pen.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-bde4dfcaca47",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a bike.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-06f74a269799",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-084152a20db0",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a house.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5fb59179a142",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a pencil.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-353a4de5dfb5",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a car.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-6d78b832aabc",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a cup.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-c63dccbb7b46",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a laptop.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos tienen una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-6f1966e676ce",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a key.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian una llave.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-d4dd9cbeda4c",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a dog.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-fed877fae69f",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a dog.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ef65262e8df3",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a phone.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-d177b8d8bc34",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a jacket.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-a92e60771587",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a camera.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-9cae5b35347a",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a bag.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4f50c42fb332",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a hat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-cd8b2f8f8afa",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a bag.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-2781da303628",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a ball.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-fc1ca28fd548",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a phone.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-efe359a50d4f",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a table.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-3223b65f65b0",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a notebook.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-34df019d6495",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a backpack.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4b8f28d73664",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a pencil.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-1e88b3143f84",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a phone.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4bedca62de44",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a car.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-8ff32b0e644e",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a mirror.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-c52cf0edb438",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a wallet.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5745df14ef71",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a mirror.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos tienen un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4f58ad7821c4",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a jacket.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-0eb83886afd8",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a key.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran una llave.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-f5928c7e66b9",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-3ca82b6e6f28",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a pen.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-9bfd6146dd7b",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a notebook.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-9d7aeb1c4bad",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a camera.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-bf3a40af0524",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-75ac3466c5e9",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a cup.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran una taza.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-bdbe8cac104c",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a car.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden un coche.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-1c387050d50e",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a watch.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven un reloj.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-d265b3f912ba",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a notebook.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan un cuaderno.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-14e1a80543e4",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a backpack.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-01601bcaea15",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a ball.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos llevan una pelota.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-a7552823da66",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5b32794f9151",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a pencil.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-9adff8a2a01a",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-8288ab244fed",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a bike.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-dcf372db9e22",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a dog.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven un perro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-f9a75ba63725",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a bike.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-44cc5d9fdcdd",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a wallet.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-7555b3a976c1",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a box.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-217fc2e646dd",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos arreglan un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-f6340964ee18",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a phone.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-37c0e28629ba",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a hat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-3db839c2022b",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a camera.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-069e3aff7dcb",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a box.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5d0dde8c79aa",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ac93bd78dc25",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a cat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-3f2a70e84283",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a chair.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos tienen una silla.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-49eec1ee40ce",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a house.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan una casa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-33eb8d7d756f",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a hat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-85142c3e4223",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a laptop.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5e6b400da1fa",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ad422478427a",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a wallet.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5001f7df4251",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a phone.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan un teléfono.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-5d5ebacc5faf",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a backpack.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian una mochila.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-2296e06531e8",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a guitar.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian una guitarra.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-6342178cbcd3",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a table.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-47bc5c6d0cd9",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a pencil.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos tienen un lápiz.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-22b77399c551",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a jacket.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos traen una chaqueta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ae237d931b75",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a bike.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden una bicicleta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-70749b39c8bc",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a bag.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-83cdcc820ee5",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a table.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos venden una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-c043f6cbaab2",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean an umbrella.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ea793bf642ef",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-e8f7f27597f6",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a cat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-82f4aec761d5",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a guitar.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan una guitarra.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-8fa820b95e3e",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a box.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-6f4dd5ad4aa6",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a shirt.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-47695aee013f",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a shirt.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan una camisa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-82d2e20fd09f",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a pen.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-8715e81c9431",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a bag.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran una bolsa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-b0d506fd3d38",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a laptop.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan una computadora.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-f221f5764fea",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-015dfcc0f441",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a table.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos arreglan una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-3c12ff30a4ec",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-b4d754e4f3f5",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a box.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven una caja.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-55494ae37e10",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a pen.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos lavan un bolígrafo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-8ce206d45601",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a plant.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden una planta.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4a5640463553",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a key.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos necesitan una llave.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-12acff752c0b",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a table.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos compran una mesa.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-cdb7459542b3",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose an umbrella.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos pierden un paraguas.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ee0fe450b927",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-20d9af1e57b3",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a book.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran un libro.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-d8e60cd51344",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a camera.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ab9e28d49fdf",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a camera.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran una cámara.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-4525d0852b15",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a wallet.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos ven una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-6e63bcfe89c0",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a wallet.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos limpian una cartera.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-d15e9948f545",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a hat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos usan un sombrero.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-64a162acc97e",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a cat.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos encuentran un gato.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-they-personal-pronouns-example-ddd71c440be1",
+      "itemId": "a1-pronoun-they",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a mirror.",
+      "answer": "they",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ellos quieren un espejo.",
+      "hint": "Sujeto plural: va antes del verbo.",
+      "explanation": "Sujeto plural: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

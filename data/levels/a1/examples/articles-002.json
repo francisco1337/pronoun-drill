@@ -1,0 +1,2168 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "articles",
+  "examples": [
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-8b8f628da7bb",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ email.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una correo.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-96cce6d687ab",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ email.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una correo.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-2f274a1dd81d",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ email here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una correo aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-d9fe1132a5f7",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ email.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una correo.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-971e72ebeba7",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ idea.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una idea.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-d6a3161ab818",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ idea.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una idea.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-dd09939bdb80",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ idea here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una idea aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-a72e4077a365",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ idea.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una idea.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-72b0265ad5af",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ apple.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una manzana.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-69d220046da5",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ apple.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una manzana.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-d33c7882096c",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ apple here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una manzana aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-4dc95baf1e07",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ apple.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una manzana.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-5bec5d538294",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ office.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una oficina.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-79404f9f3145",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ office.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una oficina.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-59fc5dde17a6",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ office here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una oficina aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-2046b4b98010",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ office.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una oficina.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-83f102d9be27",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ address.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una dirección.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-bda510399992",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ address.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una dirección.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-c757f1c9ac61",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ address here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una dirección aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-99c658b3d0dc",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ address.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una dirección.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-bc5096b2d652",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ animal.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una animal.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-85a3356d55bb",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ animal.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una animal.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-2a236e4a38f6",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ animal here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una animal aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-74a73cd0b239",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ animal.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una animal.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-0c72ef4270ac",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ answer.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una respuesta.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-fb4ea390c4f8",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ answer.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una respuesta.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-efa463058c5c",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ answer here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una respuesta aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-5b968f4d1615",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ answer.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una respuesta.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-15fd96a8b188",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ apartment.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una apartamento.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-16b319c6057f",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ apartment.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una apartamento.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-207bc23cec2a",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ apartment here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una apartamento aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-bcf3d93431e5",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ apartment.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una apartamento.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-c4b6ca2d80b0",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ egg.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una huevo.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-2070bdc7586a",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ egg.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una huevo.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-21bc367ab446",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ egg here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una huevo aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-1de3e9145a29",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ egg.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una huevo.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-dec332e22a32",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ engine.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una motor.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-d5f1b5f26a37",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ engine.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una motor.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-a663f1b2f17a",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ engine here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una motor aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-857a298a6377",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ engine.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una motor.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-39cc82245f19",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ example.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una ejemplo.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-d958bec8e618",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ example.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una ejemplo.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-e4d9107f8877",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ example here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una ejemplo aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-44df760b7d1c",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ example.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una ejemplo.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-ab60634a26cf",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ hour.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una hora.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-0ba8f82563ae",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ hour.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una hora.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-56e8837ec2b0",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ hour here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una hora aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-ae76dc23c636",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ hour.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una hora.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-32311b7eb124",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ ice cream.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una helado.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-2495d6564ad7",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ ice cream.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una helado.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-273a87d93ace",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ ice cream here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una helado aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-51b599c99c49",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ ice cream.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una helado.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-b21082442308",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ island.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una isla.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-272417ec17e1",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ island.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una isla.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-e63e1be7c42f",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ island here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una isla aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-dab21ee34331",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ island.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una isla.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-77fd23c49425",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ object.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una objeto.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-5b5282836b85",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ object.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una objeto.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-7fc875911fc4",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ object here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una objeto aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-278f437525c3",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ object.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una objeto.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-1a6d71f2af6b",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ offer.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una oferta.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-c359a620262c",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ offer.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una oferta.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-0e7675617546",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ offer here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una oferta aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-aebf19a4c6e5",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ offer.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una oferta.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-705df2b828b9",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ orange.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una naranja.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-e48db349068e",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ orange.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una naranja.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-1dd86c25078f",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ orange here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una naranja aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-0093f4784a23",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ orange.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una naranja.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-617fcd3463f9",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ umbrella.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una paraguas.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-b725502ab655",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ umbrella.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una paraguas.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-ca15b2e8c5db",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ umbrella here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una paraguas aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-cbefe48fb5d2",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ umbrella.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una paraguas.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-18ed602f49ad",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ uncle.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una tío.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-1c8fb9f411bf",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ uncle.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una tío.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-184563b39081",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ uncle here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una tío aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-813f31ef31c9",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ uncle.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una tío.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-a3b70b3b4045",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I need ___ artist.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Necesito un/una artista.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-efca7a2ada51",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She has ___ artist.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ella tiene un/una artista.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-ef37832c996b",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We see ___ artist here.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Vemos un/una artista aquí.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-articles-article-an-articles-example-5ffa88be620e",
+      "itemId": "a1-grammar-articles-article-an",
+      "level": "A1",
+      "topicId": "articles",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They want ___ artist.",
+      "answer": "an",
+      "acceptableAnswers": [],
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "translation": "Ellos quieren un/una artista.",
+      "hint": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "explanation": "Usa a ante sonido consonante, an ante sonido vocálico y the cuando es algo específico.",
+      "grammarTags": [
+        "articles"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

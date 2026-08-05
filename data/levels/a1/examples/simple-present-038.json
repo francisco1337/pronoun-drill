@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-touch-simple-present-example-7e77e2309ba0",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a house every day.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Yo tocar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-9d4b217dc9d9",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a house.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Yo no tocar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-7564a5c2ba21",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the project every day.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Tú tocar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-0f33e70c634e",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the project.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Tú no tocar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-7d3b72ddf270",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a car every day.",
+      "answer": "touches",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Él tocar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-7c59fed2c410",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a car.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Él no tocar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-0a7ce4af9846",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ an email every day.",
+      "answer": "touches",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Ella tocar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-85f69d70dbfd",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ an email.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Ella no tocar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-b9602dd06f9f",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the report every day.",
+      "answer": "touches",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Eso tocar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-18d1235e1ac4",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the report.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Eso no tocar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-c30e953587bb",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a plan every day.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Nosotros tocar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-09b3a5f324e7",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a plan.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Nosotros no tocar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-3f7f67d6e2d2",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the lesson every day.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Ellos tocar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-touch-simple-present-example-3ee6dd40426b",
+      "itemId": "a1-verb-touch",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the lesson.",
+      "answer": "touch",
+      "acceptableAnswers": [],
+      "options": [
+        "touch",
+        "touches",
+        "touching"
+      ],
+      "translation": "Ellos no tocar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

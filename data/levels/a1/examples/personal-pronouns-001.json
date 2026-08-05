@@ -1,0 +1,5808 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4e758366dcea",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a ticket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro un boleto.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-c8a76a2fa286",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a car.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo un coche.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-0c0869b472c2",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a camera.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo pierdo una cámara.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-d6c1e4d4314c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a pencil.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo un lápiz.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-66e6b1e577ac",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a ticket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo un boleto.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-aa3094424518",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a mirror.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso un espejo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-a4bab7f0099a",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-1ec08de211cf",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a cup.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo pierdo una taza.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-6eded812b192",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a box.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero una caja.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-91b4e90ffeab",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a chair.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo una silla.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-be2b0a852dcc",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a cup.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una taza.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-987292797efd",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a pen.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero un bolígrafo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-2369094cdc8d",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a car.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo un coche.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-3fb3b43a5515",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a chair.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo una silla.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-dd34b2c90f04",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a hat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero un sombrero.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-202e9dec8bec",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a laptop.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una computadora.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4d41f824a39b",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a table.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito una mesa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-c0e546998948",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a bag.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una bolsa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-744135c3d960",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a laptop.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso una computadora.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-3beb114d0096",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a jacket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una chaqueta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-c3b785d7562d",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a cup.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo vendo una taza.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-cf5e65a88c1f",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a chair.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo una silla.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-087faf1c5a40",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a guitar.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito una guitarra.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-6151fd6fc7fc",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a bag.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo una bolsa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-165b795fe29c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9f59f161373e",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a guitar.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro una guitarra.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-3502a6380d70",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-5b15b5d6c071",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a pen.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo un bolígrafo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9b6b058d0800",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a book.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo un libro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-a04200a2785a",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a watch.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio un reloj.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-2d410538906e",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a jacket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso una chaqueta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-69fdae448cca",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a bag.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro una bolsa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-3c02b726b750",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a watch.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro un reloj.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-0d4d2016154e",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a ticket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero un boleto.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-1458782a2129",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a key.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo una llave.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-bd4fc928e57d",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a table.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo una mesa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-b5c5e640a859",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring an umbrella.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo un paraguas.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-e902fe556e90",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a shirt.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo vendo una camisa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-8a7e7be083ce",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a camera.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo vendo una cámara.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-761b9c9b5541",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a guitar.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo una guitarra.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-99418943538e",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a dog.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo pierdo un perro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-0c519201c24c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a house.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una casa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-83b8003e31d4",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a book.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo un libro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-2e92ed9b79ed",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9ee232403bc3",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a ticket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso un boleto.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-92b70b989704",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a bike.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio una bicicleta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-402e9cf046c5",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a wallet.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito una cartera.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-ca316c509092",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a backpack.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro una mochila.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-a2877136deb9",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a bag.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo una bolsa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-de30aea49ad4",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo vendo un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-27c2d892d75a",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo vendo una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-043ec116b697",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a box.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio una caja.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-10237ddaa50f",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a dog.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo un perro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-7de03c0738f9",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a notebook.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo un cuaderno.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-194110da4052",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a guitar.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero una guitarra.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-ca3e61cfba23",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a shirt.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero una camisa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-e03c8edb6755",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a phone.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo un teléfono.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-3842d8441f52",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a ball.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una pelota.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-3c59f4518a1d",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a cup.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito una taza.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-bb6bad57439d",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean an umbrella.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio un paraguas.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-7c70df724b1e",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a bike.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una bicicleta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4714679897b1",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a wallet.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo una cartera.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-33b8da099125",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a jacket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo una chaqueta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-407dadc4fc5c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a chair.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una silla.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-d28eb6dfc860",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a table.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una mesa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-5cc5f3e352fa",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a car.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro un coche.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-fd8062cbfea1",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a chair.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro una silla.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-55ea91a25614",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a notebook.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso un cuaderno.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-3d3d6aaf0959",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a ball.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito una pelota.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-7385d6e709d5",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a key.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito una llave.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-b42c1df5beb8",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a phone.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero un teléfono.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-40f3c83b97c7",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a ball.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo una pelota.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-d043aaeb7082",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a phone.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso un teléfono.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4fe5c3cd6216",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a box.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro una caja.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4d0e046a1c2c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a bike.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo pierdo una bicicleta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-172ca1af79a1",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-45fa635e3d83",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a mirror.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio un espejo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-2f5d40a5dcb7",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a wallet.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una cartera.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-91c6c0423448",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a book.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro un libro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-20a2ae357584",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a phone.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro un teléfono.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-d731231004dd",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a book.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo vendo un libro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-fa02c2c5b2c3",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash an umbrella.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo un paraguas.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-1a1c5520a532",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-53bdb10e0429",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a shirt.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio una camisa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-da4eccf67131",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a guitar.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio una guitarra.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4e0e385d5ea7",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a box.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo pierdo una caja.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-25af72c95b85",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-fc0d7d490e36",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a chair.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito una silla.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-c0e8d23a3050",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-d20691003361",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a shirt.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro una camisa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4234df2053ef",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a pencil.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro un lápiz.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-a49941a985da",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a ball.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo una pelota.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-e4daae955fe4",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a laptop.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo una computadora.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-2e026dd0ed1e",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a pencil.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo un lápiz.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-f58c6957ebdc",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a notebook.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro un cuaderno.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-2bf8b1da222c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a table.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero una mesa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-8a67011f955f",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a phone.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio un teléfono.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-c364857a6652",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a bag.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro una bolsa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-edfa4dc9c5fb",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a house.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro una casa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-e4a956a903c8",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a ticket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo un boleto.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-637b95203c17",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a backpack.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una mochila.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-bfbcece92774",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a house.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo una casa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-99b2dbc3c97a",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-6800488de9f6",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a ticket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito un boleto.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-651fc18e2994",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a dog.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso un perro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-3786481e978c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a camera.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una cámara.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-08fcc201813e",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a hat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo un sombrero.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-62778c391551",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a backpack.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo una mochila.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-25c9b3a17f28",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a dog.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo un perro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-b4bd37ad30f5",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a book.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito un libro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-52706399ede4",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a notebook.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo un cuaderno.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-af3a8ed50d1c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a wallet.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro una cartera.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-5f938b05ac91",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a cup.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso una taza.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-ccb81a7b8d38",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a ticket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio un boleto.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9f9eee780ec8",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a bag.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una bolsa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4cbc3074b571",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-7f93ce1a8477",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a key.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero una llave.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-17444f0c3167",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a dog.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo un perro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-69b8378c135c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a shirt.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo una camisa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-6587f0c52b13",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a hat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo un sombrero.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-6a41a7cb26a0",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a bag.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero una bolsa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-d1790f9519de",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a hat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo un sombrero.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-2ca245b907f0",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-69bfa4915942",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a cup.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo una taza.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-c9b2e5fd4147",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a ticket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro un boleto.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-a2b743a85457",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4b4ff5ebb65f",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a wallet.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo una cartera.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-03777f588121",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a shirt.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una camisa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-653c3604c8a7",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo pierdo un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-2d2e5e94ce59",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-2712c1790d17",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a bag.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio una bolsa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-341db1c62f68",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a wallet.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso una cartera.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9ca3ca02a9ef",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a camera.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una cámara.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-652451955aa8",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a cup.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo una taza.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-cb84add7c2d5",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-37139818ecac",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a guitar.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo una guitarra.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-c6efe0f589da",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a wallet.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una cartera.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-c61a9ce44305",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a house.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una casa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-391237cd917a",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a jacket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una chaqueta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-b43a0140558f",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a phone.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito un teléfono.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-769b8265e5a5",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a book.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio un libro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-e1e15769a04c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a house.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito una casa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-42ab8166348e",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a jacket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro una chaqueta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4d22c19830ce",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-80e76ec12acf",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a notebook.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo un cuaderno.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-5d0a0f3df526",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a mirror.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito un espejo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-d3d848ddc768",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a laptop.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo una computadora.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-093c69a9feb0",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a car.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro un coche.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-cf0b111d233b",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a mirror.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo un espejo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-5cee30199416",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a box.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo una caja.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-ae01a6cc6ce8",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a car.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito un coche.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-8c9d746569fa",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a table.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una mesa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-0f96fc6860b6",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a shirt.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo una camisa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-2727109a550b",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a chair.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio una silla.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-298880e2a91c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a pencil.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito un lápiz.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-4114e8faf954",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bring a bike.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo traigo una bicicleta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-96e3d687d3c2",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a hat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito un sombrero.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-b53b1423e66a",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have an umbrella.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo un paraguas.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9af245a1564f",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy an umbrella.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro un paraguas.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-e64f660ffb04",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a pencil.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo un lápiz.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-78717fb0aa4c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a dog.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro un perro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-a31f8c035947",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a backpack.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo una mochila.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-067fa3a0f081",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a cat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo un gato.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-a50b04a2ab2c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a chair.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo una silla.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9c7e057dad67",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a mirror.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo un espejo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-04e76cf82718",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a backpack.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro una mochila.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-224eca93657b",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a cup.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro una taza.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-b928f5c7d76c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a camera.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo una cámara.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-d0efa9e566cc",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ use a bag.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo uso una bolsa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-cc63daf6e50a",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a notebook.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero un cuaderno.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-aaa1fa600c25",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a backpack.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito una mochila.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-0a7f4d39dd99",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a laptop.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo una computadora.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9d253911f858",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a mirror.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo vendo un espejo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-90dcd735bde8",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a table.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo una mesa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-950f41d129a9",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a box.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una caja.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-54c3a5ef1ef0",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a pen.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo un bolígrafo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9035e71023da",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a jacket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo pierdo una chaqueta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-86bbe7a5480e",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a shirt.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo una camisa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9b9b973dff25",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-ee67a830d5b0",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a book.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo un libro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-d66bf13d1e1c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a dog.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro un perro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-f89a9ca85a21",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a mirror.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro un espejo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-a4a888454440",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a cup.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero una taza.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-93f9c29f2b8d",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a shirt.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo una camisa.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-0c375290e224",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a book.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo un libro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-3f1c6a8f2024",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a pencil.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero un lápiz.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-65bdd8146f33",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wash a pen.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo lavo un bolígrafo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-34247fd9e93b",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a phone.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo un teléfono.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-e95754d7a1c5",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a watch.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo vendo un reloj.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-b3e9e562d307",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fix a camera.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo arreglo una cámara.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-dca3369c08d6",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ want a chair.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo quiero una silla.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-3132e8c872f1",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ see a book.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo veo un libro.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-273b06b394cf",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ clean a jacket.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo limpio una chaqueta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-a48d91432702",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ find a hat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo encuentro un sombrero.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-750e0ac9b8d2",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carry a hat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo llevo un sombrero.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-fb6acb4bc4c3",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buy a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo compro una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-19e8b4db797c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sell a hat.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo vendo un sombrero.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-caa9c54d180e",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ need a plant.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo necesito una planta.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-9cd4cca0224c",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ lose a pen.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo pierdo un bolígrafo.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-i-personal-pronouns-example-79e31d35d331",
+      "itemId": "a1-pronoun-i",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ have a guitar.",
+      "answer": "I",
+      "acceptableAnswers": [],
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "translation": "Yo tengo una guitarra.",
+      "hint": "Sujeto: hace la acción y va antes del verbo.",
+      "explanation": "Sujeto: hace la acción y va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-0ba21dcca898",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Diego lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-5db244d9c9e4",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Nora lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-55eb6770bf87",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-28ffa9cfee2c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-ca17330dd8fa",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lisa lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-01e0b93454b6",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Anna lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-6e6235e1e994",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Diego lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-264aa450d9af",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Elena lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e90f24ca8505",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Elena lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-8845aad39d0e",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lisa lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-805c004e6e4f",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Elena lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-b15c21ae259e",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Mark lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d9968a02fc01",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Tom lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-7924bd8aadd9",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sam lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-4cc2d7cbac3c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Tom lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e308f3ebc73c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e2ba817cb75d",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Nora lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-9e9446141ebd",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Mark lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-12dc3aa8e29e",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Maria lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e245c99349b1",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sam lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-39b8b065593e",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lucas lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-65ea609b8e6a",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sam lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-34c66b094795",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Tom lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-a83308d6ab7e",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Paul lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-afe434932475",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-80c05bf9c3ff",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-9cb6440648f5",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-6b525f248337",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Mark lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-70852ffa1754",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-786e08ff151b",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-42f0233beacb",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lucas lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-faeb6c2d3aaa",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Mark lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-c422bdb94389",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-755b9402c25b",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Nora lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-3d4e56bc7c95",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Maria lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-23b4ba040b24",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-cf717f3d8cfc",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is for ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esto es para él.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-bc8dfe9981ad",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e0407bb22739",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Tom lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-c5701005f693",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-3cc7e44021cd",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-51e456077fbf",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Emma lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-6a361ec754fd",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Tom lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-6df54a8acf32",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Mark lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-94e2d397dd8b",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She did it for ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lo hizo por él.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-aca62e172044",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Anna lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-383306fc97ad",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e5867d257a12",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-9ba9b5885a33",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lisa lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-3e9c3e18fa02",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Emma lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-541a36654596",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Emma lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-2ec270e0e96d",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Elena lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-cfeea72766e0",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Paul lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-307615fff43a",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-cb1978e28743",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Anna lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-0ffedb06303c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-410153047f72",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-cf893ca4297e",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Carlos lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-39f9e5c6eed9",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Tom lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-0808da4e1bc6",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Emma lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-757c33b6af00",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "David lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-1b70215ee575",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lisa lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-3eecdb992b54",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Maria lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-f06383593854",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-7bc774d4d9d0",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Elena lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-f98326abd677",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Diego lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-2f07783f41c2",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-c0c57fa88056",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Paul lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-3b9db9d8355c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-1952e5b9cebd",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Nora lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-40a9c4d523ca",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Maria lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e6b0973307ec",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-30d163bca0bc",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lucas lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-1358a9ddf267",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Nora lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-df1f16f9c0be",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-5b65cb19464c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Maria lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e6e7f66eadf1",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Paul lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-5b381f88fc0d",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "David lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-ce6426dbc791",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lisa lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-167f14cda32e",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Emma lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-f653ed0321b9",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-838ba68e6628",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lucas lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-b907f9db518d",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-f5c642b06871",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Carlos lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-1300c2684730",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-b383445b3e63",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lisa lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-cdf021b6595a",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d0f69ad8e1d7",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-f45434a160c6",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-48940d20f0fe",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Emma lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-86e3ab78d803",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Emma lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-96eb393e4736",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lisa lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-160268eb7920",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He sat next to ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Se sentó junto a él.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e44d230b0ec8",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-68ca865ce19e",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-1f6617707718",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-fb2bf2d27816",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "David lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-824c9f2565a5",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-ee4ff375dc76",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sam lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-559386cbf0e9",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-1c93156fd8ec",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Come with ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ven con él.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d2f9203c56cc",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Anna lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-f0b6a616d271",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lucas lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-9b2a3c8ed65c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Diego lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d0abd67905a2",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Anna lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e83ddfef67e1",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Paul lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-03d7fcad10cb",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Anna lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-c3764cd76ea0",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-482730def0ef",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sam lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d86b1a9ef1b4",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Carlos lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-2456ad362f07",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sam lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-8a33aa547f8a",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Anna lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-33091dc8ffdd",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Anna lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-c3b2bb8e872a",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Elena lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-17ae7278d733",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Paul lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-35995138f078",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-a9453224efab",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "David lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-dd7347c6bb0c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-6b1173dcc008",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-8c5f4b7d38c1",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Diego lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-a389d2d26ba7",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "David lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e46b70e1de79",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Anna lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-1feed73e9a44",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-830d801ab473",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Maria lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-04adffb90ccc",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-7abfc1ed9bc3",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "David lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-83208ed89634",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-1566b19191e9",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sam lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-cc1567342398",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Tom lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-6aa9c82aca0d",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Maria lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-fdd9921bdeee",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-cb330ea0fcff",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Nora lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-188845f8f328",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lisa lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d2867260f2a6",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lucas lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-b9ff9a31d33f",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Paul lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-0f92e1351909",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-cbe7c333e10d",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-c300d7815e48",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d973d4f830d7",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Diego lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-0760e3573134",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Nora lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-7e17ea22d54f",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Anna lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-3319afcda71f",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d4814ef0533e",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Carlos lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-c260c6cfd73a",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Paul lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-ebda4371afb6",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e4aa51c0c2f5",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-6306fc247f51",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-fd95e5cd0788",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Diego lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-1f88b33d7c15",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-0de69f005eb1",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-29c5c286babb",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "David lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-0c935f9f3204",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-3164204f10aa",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Emma lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-f780eab9c8cd",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Carlos lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-b6b9241612de",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lisa lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-111b866e5a8c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Carlos lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-7f9038cd1acf",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-b5ad773d0f4d",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Mark lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-daf409d10dd0",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-89c0a488892b",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-57d22b728009",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-08556c2bb3b8",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-77100ac67bce",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Tom lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-9c4cbde90ef4",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-f047f3cd3300",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Maria lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-5059ebf3a977",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sofia lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-34936e5bb2a0",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lisa lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-2d9dcb17facb",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-2ef7db755abb",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Maria lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-07a8f3662ea2",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lucas lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d0b0bede5a13",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Mark lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-3b2596efd714",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Carlos lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-0c1f0e40a8c6",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Elena lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-8653205e7cd5",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-0ed6691eb874",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Diego lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-4e4bbb52c964",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas understands ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Lucas lo entiende.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-ed9887ef1f63",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sam lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-7bbcca14ae37",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Mark lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-407627e3897c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Clara lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-949fdd3decfd",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "David lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-03976ce01ca0",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Laura lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-8810691d1337",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Carlos lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-720eb2c8ea29",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos knows ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Carlos lo conoce.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-f7a170ef3da8",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul sees ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Paul lo ve.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d2974baa8178",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena needs ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Elena lo necesita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-5e05fdf93e26",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora loves ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Nora lo quiere.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-c1c4b62dde90",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Mark lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-ef005deff53b",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Diego lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-9e690029384c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora hears ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Nora lo oye.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-d1847dfef65b",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Nora lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-44f56183aa01",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom invites ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Tom lo invita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-27c81df25660",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "John lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-88ad34ae6c66",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos calls ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Carlos lo llama.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-e591fce50a6c",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Diego lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-76e88adf3e87",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark watches ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Mark lo observa.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-f301352b46d9",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Peter lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-94e6c3a442f2",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam misses ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Sam lo extraña.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-0f58a1cbe8e6",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Emma lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-cb5b59f08e02",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa visits ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Rosa lo visita.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-him-personal-pronouns-example-94724568e314",
+      "itemId": "a1-pronoun-him",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David helps ___.",
+      "answer": "him",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "David lo ayuda.",
+      "hint": "Objeto masculino: tras el verbo o la preposición.",
+      "explanation": "Objeto masculino: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

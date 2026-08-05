@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-c17074282a96",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ notebook.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su cuaderno.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-0c9eff5ea5ae",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ book.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su libro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-062a0676fb55",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ bike.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su bicicleta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-949813740d40",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ cat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su gato.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-6c1be0a14b7d",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ phone.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su teléfono.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-800b1c74bfab",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ house.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su casa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d215ea2f31bc",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ jacket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su chaqueta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-1d733ba17762",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ phone?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su teléfono?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-23f72e1f2a05",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ table.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su mesa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-3d626323b027",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pen.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su bolígrafo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-45319fc78c63",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ ticket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su boleto.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-85ab4059f519",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ notebook?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su cuaderno?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-13b351d11df6",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ plant.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su planta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-274922f5845e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ camera.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su cámara.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d890dbbc4119",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ laptop.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su computadora.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-e7ff3bfa93b9",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ shirt?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su camisa?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-301d6bdd21e3",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ ball.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su pelota.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-45e948bd3c29",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ umbrella.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su paraguas.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-172bdc67900e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ plant.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su planta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-2eec5fd6f7e5",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ ball.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su pelota.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-7debeef384da",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ hat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su sombrero.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-cc6118b8a680",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ pencil.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su lápiz.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-6c26b67f5563",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ pencil?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su lápiz?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-885e8b249916",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ camera?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su cámara?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-69713d4eec36",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ bag.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su bolsa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-39d15b55ba17",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ umbrella?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su paraguas?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-701a1a7a5cdb",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ key.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su llave.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-a1f333fbff8e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ laptop.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su computadora.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d7bad4996ac6",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ table.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su mesa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-15eae6e257c2",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ book.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su libro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-2a2a5030bb61",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ mirror.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su espejo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-7c4458254d1f",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ dog.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su perro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-9aa6a87cf3ac",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ house.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su casa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d25afe47e593",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ backpack.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su mochila.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-264bef59d08b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ box?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su caja?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-731e61d127c5",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ mirror.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su espejo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-19093cc87f5e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ box.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su caja.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-943a831c8b18",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ camera.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su cámara.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-5fb94a8bec73",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ notebook.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su cuaderno.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-2aec00d19145",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ camera.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su cámara.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-bcbfd5977173",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ bag?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su bolsa?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-e92ab2df5dec",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ cup.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su taza.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-66a357a95367",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ ticket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su boleto.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-f4e5862fdc28",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ book?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su libro?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-13d2c697f5a6",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ plant.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su planta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-ac18a669c336",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ phone.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su teléfono.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-4c0478decf33",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ phone.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su teléfono.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-e83cdcb23663",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ watch.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su reloj.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-21948078684e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ table.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su mesa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-94d70a106f05",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bag.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su bolsa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-51986f76bf5b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ hat?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su sombrero?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-77557494690b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ ball.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su pelota.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-de5e03fe0bba",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ book.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su libro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-72d184d3edc6",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ backpack.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su mochila.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-391de1d106e7",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ wallet?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su cartera?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-0978a306ca8b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ key.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su llave.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-bb20b02ded80",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ car.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su coche.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-04a1e1951bfd",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ guitar.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su guitarra.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-972cdf90dfc3",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ umbrella.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su paraguas.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-8b468d3b7a9b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ phone.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su teléfono.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-6c121d4eb350",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ backpack.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su mochila.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-5647adf1821f",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ jacket?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su chaqueta?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-143659feb22f",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ shirt.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su camisa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-aa1402de97a3",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ hat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su sombrero.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-70abcc856820",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ chair.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su silla.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-f0321b1f87b7",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ guitar.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su guitarra.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-ccb6a7f2c439",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ book.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su libro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-65b4177215db",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bike.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su bicicleta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-ef2657d5b534",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ bag.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su bolsa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-b02c202ee450",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ cup?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su taza?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-67b03780f597",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ watch.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su reloj.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-f9cb748b9362",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ ball?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su pelota?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-5f8c316337ea",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ key.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su llave.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-774c4a9cd74a",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ cup.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su taza.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-2df7f2490050",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ bike?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su bicicleta?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-e17dee11fe1b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ backpack.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su mochila.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-dd640ecb1445",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ jacket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su chaqueta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-ece104737e62",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ bike.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su bicicleta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-9e890d1976bd",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ plant.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su planta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-8b82ec32aec4",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ mirror.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su espejo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-dd82475a9630",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ chair?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su silla?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-7fea6baf414b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ guitar.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su guitarra.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-5da55b6c711d",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ key?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su llave?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-294e9c19c102",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ hat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su sombrero.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-3b7172023896",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ dog?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su perro?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-8e96a5784961",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ chair.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su silla.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-7df7e78806da",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ table.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su mesa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-535fdadf0e8b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ phone.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su teléfono.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-12c958920bd7",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ laptop.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su computadora.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-a9ae31e352b9",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ umbrella.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su paraguas.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-48a84897cbcd",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ car.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su coche.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-0c455b477524",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ table?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su mesa?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-518f2ffd907e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ bag.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su bolsa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-06b0818abade",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ hat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su sombrero.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-e7ff0b0aa530",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ mirror.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su espejo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-7b926cdda175",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ backpack.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su mochila.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-5f7f94ff1103",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ box.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su caja.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-090645653e86",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ pen.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su bolígrafo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-e24197c6abc2",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ watch.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su reloj.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-00c39860f6a1",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ phone.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su teléfono.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-22546a26832b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ chair.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su silla.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-2bdb7dab40fe",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ car.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su coche.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-c4879279d065",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ box.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su caja.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-ac1abccbe582",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ball.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su pelota.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-fa7e13b25033",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ plant.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su planta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-eafd59b9dc51",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ ball.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su pelota.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-8973a9a9cc7e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ table.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su mesa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-bfae62e9c641",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ guitar.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su guitarra.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-189b52cf5bf6",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ wallet.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su cartera.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-7662ab4a5a5d",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ shirt.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su camisa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-287fca187072",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ pen.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su bolígrafo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d0947efad342",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ pen?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su bolígrafo?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-c93f56454f2c",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ wallet.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su cartera.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-9c1f1f6b7a5e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ car.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su coche.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-956bc3aeaac2",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ car?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su coche?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-75a38f4f4c79",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ dog.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su perro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d536b64224bc",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ ball.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su pelota.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-bd273d3532c5",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ hat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su sombrero.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-07ec92894bb7",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ wallet.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su cartera.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-62ef844aad36",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ wallet.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su cartera.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-4c8a1841e428",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ ticket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su boleto.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-a3a4a51bc2b3",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ key.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su llave.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-a289c313c3b3",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ laptop.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su computadora.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-db6ed41c6707",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ umbrella.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su paraguas.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d252f2d1baa7",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ pencil.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su lápiz.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-0ba7c84c72a4",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ jacket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su chaqueta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-c4af00720de0",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ plant?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su planta?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-0d39a19c67fd",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ laptop?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su computadora?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-f4518bc4604b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ cup.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su taza.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-9cf048030a04",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ wallet.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su cartera.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-9ad287e971e2",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ table.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su mesa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-8531ef57d558",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ ticket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su boleto.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-dc390e3c0197",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ bike.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su bicicleta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-37175c8494c4",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ notebook.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su cuaderno.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-b7ceff367671",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ house.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su casa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-c413622ff23b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ pen.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su bolígrafo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-e9bc4b13dd67",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ mirror?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su espejo?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-e8977970c06a",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ backpack.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su mochila.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-70c658d5a9ff",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ box.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su caja.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-6d588f116c37",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ mirror.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su espejo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d8720a00b013",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ticket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su boleto.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-c3cd2f3be482",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ shirt.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su camisa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-8fe5903e544b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pencil.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su lápiz.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-0e1bceacc595",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ dog.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su perro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-0d5b8608a480",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ jacket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su chaqueta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d461d3685da2",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ chair.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su silla.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-660138677e4e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ cat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su gato.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d607a81456ce",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ pencil.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su lápiz.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-b8ddcf48d8dc",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ wallet.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su cartera.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-472f6b219246",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ plant.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su planta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-5982fc415211",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ cat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su gato.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-6cc31b32c051",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ shirt.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su camisa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-3458ce14172c",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ watch.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su reloj.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d52fddd6b92b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ notebook.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su cuaderno.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-1a0fb82331ed",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ dog.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su perro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-43d77b04c659",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ guitar.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su guitarra.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-089eeb1e1a2d",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cup.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su taza.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-e4d1431ad2c0",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ jacket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su chaqueta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-2051d0ad5394",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ jacket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su chaqueta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d6de7001e3c6",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ watch.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su reloj.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-784d8e59e2a7",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ car.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su coche.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-9c3c116778fe",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ key.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su llave.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-b80a0e67879e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ bag.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su bolsa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-92bd0552d7e6",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ dog.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su perro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-ad19054197c9",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ camera.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su cámara.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d328e901e320",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ camera.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su cámara.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-e904683378d2",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ cat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su gato.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-04ae86b7aa86",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ chair.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su silla.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-df23deb03562",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ bike.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Esta es su bicicleta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-7371c2dce9b3",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ backpack?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su mochila?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-faa6ddff815e",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ house?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su casa?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-4cdb5385250c",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ box.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su caja.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-1eca21049f89",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ mirror.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su espejo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-1ddd786b44fc",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ pen.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su bolígrafo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d6fa07fe5133",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ car.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Este es su coche.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-0ea221dbdc60",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ house.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su casa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-ceb29a2c9fcd",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ cat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su gato.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-0d79fbf30702",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ cat?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su gato?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d4ddff448914",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ notebook.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su cuaderno.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d17753962a4f",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ guitar?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su guitarra?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-454590924cc5",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ pen.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su bolígrafo.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-764b0d384143",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ pencil.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su lápiz.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-b6473192b4b0",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ book.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su libro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-7a8731170547",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ house.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "No toques su casa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-5630063c8d20",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ house.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su casa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-f277c53505eb",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ key.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su llave.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-19986e3d8f5f",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ dog.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su perro.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-edd63beb8f52",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ chair.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su silla.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-a8ddea46f9bc",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ ticket?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su boleto?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-edf6b1f6d5ee",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ bike.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su bicicleta.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-6b978e940cf7",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ ticket.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su boleto.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-bb0a5db1611c",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ box.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su caja.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-b075ca4d740b",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ pencil.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su lápiz.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-4c3747ecbbc2",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cat.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Me gusta su gato.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-6a2ade225bc7",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ cup.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Ella vio su taza.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-a4e3751eb4a9",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ notebook.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestado su cuaderno.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-9e7ded4f15f4",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ shirt.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su camisa.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-8fff1f4411a6",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ camera.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Encontré su cámara.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-d3229f515cc4",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ watch?",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "¿Dónde está su reloj?",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-his-personal-pronouns-example-a630ec68cf8f",
+      "itemId": "a1-pronoun-his",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ laptop.",
+      "answer": "his",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tomó prestada su computadora.",
+      "hint": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "explanation": "Posesivo masculino: his + cosa (o solo: it's his).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

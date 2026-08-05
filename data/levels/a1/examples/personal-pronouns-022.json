@@ -1,0 +1,5808 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-281b6a6a30d2",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ ticket over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese boleto de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-f4a3e08db8c4",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallet over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa cartera de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-cc75f9b71236",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ wallet over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa cartera de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-39be8420c5db",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ hat far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese sombrero de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-26732a4c0950",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitar over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa guitarra de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-a34f8ed8b093",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ book in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese libro del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-ab34dcdbfa06",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cat far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese gato de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-928ee56353ff",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ backpack in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa mochila del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6d2617d3108f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bike far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa bicicleta de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-d16f365969ab",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ ticket far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese boleto de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-af8ca6705b10",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebook far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese cuaderno de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-a971661f82a0",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ umbrella over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese paraguas de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6ced9df3a5f2",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ dog over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese perro de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-4b34d663b50c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ camera in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa cámara del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-9e8d52751e41",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ cat in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese gato a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-b73ac86887f7",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ book over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese libro de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5306cda5cb38",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ wallet across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa cartera del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-0376a16af22d",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ticket over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese boleto de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-138946c2c356",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pen over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese bolígrafo de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-d3fc033bd123",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ ball across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa pelota del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-56be71dd173a",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ umbrella in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese paraguas del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-2d265778e8ca",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ bike in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa bicicleta del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-3b9073a4c10c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phone over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese teléfono de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-0507b0efc16f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watch over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese reloj de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-2855c8e861b1",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpack over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa mochila de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-dd045f3fe74c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ wallet in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa cartera del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-0b23b85b10b6",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plant far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa planta de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-4165be538bf6",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ notebook across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese cuaderno del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-953757268b4f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ table in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa mesa del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-0179bf480d21",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jacket over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa chaqueta de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-51ea29d0093f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ table in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa mesa a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-11575420857c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ key far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa llave de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5816df56640c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ laptop in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa computadora a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-fe851f06109c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ ball far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa pelota de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-a4dffa09626d",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ phone in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese teléfono del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-4402b94c2519",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ball over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa pelota de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-d0b2daa9c470",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ ball in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa pelota a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-c510f3af6ed6",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pen over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese bolígrafo de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-4f7a731fe707",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ guitar over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa guitarra de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-b6563a86d519",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phone far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese teléfono de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5a7c6b4a74ec",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chair over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa silla de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5e07db8ae78b",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ chair across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa silla del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-cc825d46946c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ jacket across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa chaqueta del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6b8d3fe44d34",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ hat in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese sombrero del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-f1c65a0f03c8",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pencil over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese lápiz de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-f39ad9f58b1c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ box across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa caja del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-1ed28dd1a36f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ pen across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese bolígrafo del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-0c38f1fae37a",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ umbrella across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese paraguas del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-863603f40482",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ mirror in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese espejo a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-533e15a8f168",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ pencil across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese lápiz del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-31337f869153",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ bike across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa bicicleta del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-f9091fd2557e",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plant over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa planta de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-779e8ea89d1d",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebook over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese cuaderno de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-079e8b01974e",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ box in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa caja del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-0174e42f65b4",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrella over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese paraguas de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-80d7f66a2cdc",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ house over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa casa de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-c89c2cdd1e01",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ hat over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese sombrero de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-f6e72795eb98",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ phone across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese teléfono del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-cdeaba88e882",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ cup in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa taza a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-469180a686ae",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ mirror in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese espejo del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-d0041f0c3aec",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ plant over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa planta de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-87660a506611",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jacket far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa chaqueta de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-2eff186f5168",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptop far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa computadora de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-b6c602c1e49e",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ laptop over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa computadora de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-ee10a3b82160",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cat over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese gato de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-1f47b0ccf441",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ phone in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese teléfono a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-7f3bbde2726a",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptop over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa computadora de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-12631c64f722",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ jacket over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa chaqueta de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-a94c4ce1d5da",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ shirt in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa camisa a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-4cce1ab8b9f5",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ hat across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese sombrero del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-64c4b9814a8f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bag far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa bolsa de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-db42ad2986cf",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ book across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese libro del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-17fcb8617b3c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ backpack in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa mochila a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-407159acadbd",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ camera across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa cámara del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5653195f0d5e",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ laptop across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa computadora del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-cbaa5db24fdc",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ backpack across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa mochila del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-fca80554f125",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirt far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa camisa de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-cbabdee55da3",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ house over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa casa de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-652f5db8cd82",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ bike in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa bicicleta a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-e77ab39466af",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ watch over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese reloj de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-d8b23d8631c3",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ table over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa mesa de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-818c615ffcf0",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cup over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa taza de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-2995ea66d49b",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watch over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese reloj de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-b9a42ecd7298",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bike over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa bicicleta de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5630be4ef3a9",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ plant in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa planta a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6709e559cd4f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ chair in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa silla a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-847590ed4848",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ pencil in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese lápiz del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-2d3702b26447",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ house across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa casa del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-046a61916fe8",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitar far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa guitarra de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-86592eab27cc",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chair far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa silla de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-23beaba0db25",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ guitar across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa guitarra del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-1e31eb807587",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pencil far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese lápiz de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-73f22eb0e53e",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ chair over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa silla de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-aa898686939e",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirror over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese espejo de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-b95bced55f04",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pen over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese bolígrafo de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-c3ceca2982c9",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ laptop over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa computadora de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-b48fe4afe78d",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dog over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese perro de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-e3ae6862fdf7",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ key in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa llave del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-4dd3c20a976a",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bag over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa bolsa de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-d385c5b7cd3e",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirror far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese espejo de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-7b43f221111a",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ jacket in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa chaqueta del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-79b3c6ea7771",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ plant in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa planta del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-f11e550b3464",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ guitar over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa guitarra de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-44bd822f6805",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cat across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese gato del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-850ff7a6dfb8",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ car in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese coche del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-9dcf10fe683f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ notebook over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese cuaderno de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-773637eab514",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ dog in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese perro del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-42243c107d34",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ house in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa casa a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-cda67fe51f84",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ ticket across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese boleto del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-9aa2367aba19",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ hat over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese sombrero de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-1f6c31454478",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ mirror across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese espejo del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-41f6ffadf93e",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ cup across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa taza del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-d3267f56da9c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ table over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa mesa de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-8dfb854bc32d",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ cat in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese gato del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-f7e9636a8b28",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ guitar in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa guitarra a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-ad4341c9c90c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dog far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese perro de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-ddc6495de7f0",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ notebook over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese cuaderno de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-0ef7d3cabafc",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ pen in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese bolígrafo del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-69d8eace37dd",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirt over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa camisa de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-fde0c29f633f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ key in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa llave a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-190c3777f80a",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ backpack over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa mochila de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-394739f7d92a",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wallet far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa cartera de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-92ae7502cf66",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ umbrella in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese paraguas a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-69bc6b90ce09",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ book in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese libro a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6148678b6fe9",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ bag in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa bolsa a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-7a8f6328d99a",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ house far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa casa de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-1e3186a555fa",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ watch far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese reloj de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6f0bb1d89919",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ car over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese coche de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-4163d48e53dc",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ ticket in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese boleto a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-b62f312c80b1",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ pen far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese bolígrafo de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-b7776a8a87fd",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ shirt over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa camisa de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-c981d8b6b0ec",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ pen in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese bolígrafo a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-2251fdc81c24",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ cup in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa taza del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-eb3c7deaa60f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ guitar in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa guitarra del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5ba0ca51030b",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ box in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa caja a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6ba8c7bf460f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ ball over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa pelota de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-909de26bd9a8",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ jacket in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa chaqueta a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-98da747ab94d",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cup over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa taza de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-ec1293e80512",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ shirt in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa camisa del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-3de9f5decae2",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bike over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa bicicleta de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-81876559f800",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cat over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese gato de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-9ed8e195fafe",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ jacket over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa chaqueta de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-1e1c13474097",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ chair in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa silla del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-7da537e88b8f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ table across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa mesa del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-392f1565009b",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ bag in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa bolsa del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-0d2daa9e8f38",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ hat over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese sombrero de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-88408b760da2",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ camera over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa cámara de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-c72d3e6742a9",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ ball over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa pelota de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6a865529d472",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ phone over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese teléfono de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-25e3f6ad351d",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bike over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa bicicleta de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-1313e8971e22",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ car over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese coche de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-4b11365837e7",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ book over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese libro de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-d0ec52b2e153",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ ball in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa pelota del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-f64b9e0ef079",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ camera over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa cámara de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-37aaa6bcf052",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ notebook in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese cuaderno del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-1fb756d7caf5",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ key across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa llave del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-a7be26643f87",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ book over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese libro de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-a235be4b07dd",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ dog over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese perro de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-bd8ceb1efeb8",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cat over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese gato de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-7f4c880ed62c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ notebook in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese cuaderno a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-de9ac1ab5f60",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ car in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese coche a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-b5d2934e0004",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpack far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa mochila de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-beca18f87451",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ key over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa llave de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-bafc43a6050b",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ phone over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese teléfono de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5b9ff75ad20d",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ mirror over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese espejo de allá es bonito.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-e4131ba67314",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ house over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa casa de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-58cef2d16948",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ table far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa mesa de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-9da9f09b1973",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ table over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa mesa de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-1866c2742629",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bag over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa bolsa de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-9ca9963828cd",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ box over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa caja de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-14424ccad326",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ camera over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa cámara de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6b9d81225f09",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ box over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa caja de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-1b2f23b3d4d4",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ bag over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa bolsa de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-01311062b9dd",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cup over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa taza de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-dd95992e16c1",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ umbrella over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese paraguas de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-dcbf49343779",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ watch in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese reloj a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-f538796134ce",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ ticket in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero ese boleto del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-d8c6a3b1109f",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ watch across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese reloj del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-a4ee55b72c73",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ book far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese libro de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5351690c1127",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ dog in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese perro a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6dea60730813",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ plant over there is nice.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa planta de allá es bonita.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-6f325780a1d3",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ house in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa casa del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-eeda08584b89",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ car over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese coche de allá es mío.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-c65b4ef50cfa",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ hat in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves ese sombrero a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-002844cbec84",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pencil over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese lápiz de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-cea3714db102",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ backpack over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa mochila de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-bd0ba8190f45",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ camera in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa cámara a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-48241f3c121b",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Do you see ___ wallet in the distance?",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "¿Ves esa cartera a lo lejos?",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-f5842a0cdf67",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ car far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Ese coche de allá es hermoso.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-2f630e5c69da",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I want ___ laptop in the window.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Quiero esa computadora del escaparate.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-a0baf391f0ea",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ plant across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa planta del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-80cd37b4bfb8",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cup far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa taza de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5bae90df689c",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ mirror over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta ese espejo de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-fe6f2de98841",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ car across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira ese coche del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-4dc8be7d7007",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ shirt across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa camisa del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5a6dc2780982",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ camera far away is beautiful.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa cámara de allá es hermosa.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-bdae931895b9",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ chair over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa silla de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-5225d348a773",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ key over there.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Me gusta esa llave de allá.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-32705419838b",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ key over there is mine.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Esa llave de allá es mía.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-that-personal-pronouns-example-e8d2c97074f7",
+      "itemId": "a1-pronoun-that",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look at ___ bag across the street.",
+      "answer": "that",
+      "acceptableAnswers": [],
+      "options": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "translation": "Mira esa bolsa del otro lado de la calle.",
+      "hint": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "explanation": "'that' = eso/aquel: UNA cosa LEJOS de ti.",
+      "grammarTags": [
+        "pronouns",
+        "demostrativo · lejos · singular"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

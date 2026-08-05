@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-serve-simple-present-example-ae09c62248e5",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a house every day.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Yo servir una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-1df2e738234e",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a house.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Yo no servir una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-0f2e8fff8a5e",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ the project every day.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Tú servir el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-a18993bc3740",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ the project.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Tú no servir el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-020efa6b8898",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ a car every day.",
+      "answer": "serves",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Él servir un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-2f8055313e60",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ a car.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Él no servir un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-f8c8e45374f1",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ an email every day.",
+      "answer": "serves",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Ella servir un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-50e0bfe17cf1",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ an email.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Ella no servir un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-fbf3025575a6",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the report every day.",
+      "answer": "serves",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Eso servir el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-7846a321142d",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the report.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Eso no servir el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-a7ab5a8d4817",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ a plan every day.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Nosotros servir un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-460f7c419e66",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ a plan.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Nosotros no servir un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-e773a59a78ad",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ the lesson every day.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Ellos servir la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-serve-simple-present-example-abd54288f4b5",
+      "itemId": "a1-verb-serve",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ the lesson.",
+      "answer": "serve",
+      "acceptableAnswers": [],
+      "options": [
+        "serve",
+        "serves",
+        "serving"
+      ],
+      "translation": "Ellos no servir la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

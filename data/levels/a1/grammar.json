@@ -1,0 +1,2419 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topics": [
+    {
+      "id": "personal-pronouns",
+      "level": "A1",
+      "title": "Pronombres personales",
+      "description": "Usa I, you, he, she, it, we y they en contexto.",
+      "theory": {
+        "summary": "Los pronombres sustituyen nombres y cambian según su función.",
+        "rules": [
+          "Sujeto: I, you, he, she, it, we, they.",
+          "Objeto: me, you, him, her, it, us, them.",
+          "Posesivos: my/your/his/her/our/their acompañan un sustantivo."
+        ],
+        "examples": [
+          "She works here. · Ella trabaja aquí.",
+          "They call us. · Ellos nos llaman."
+        ]
+      },
+      "modes": [
+        "fill-blank"
+      ],
+      "itemSource": "pronouns",
+      "itemIds": [
+        "a1-pronoun-i",
+        "a1-pronoun-me",
+        "a1-pronoun-my",
+        "a1-pronoun-mine",
+        "a1-pronoun-you",
+        "a1-pronoun-your",
+        "a1-pronoun-yours",
+        "a1-pronoun-he",
+        "a1-pronoun-him",
+        "a1-pronoun-his",
+        "a1-pronoun-she",
+        "a1-pronoun-her-obj",
+        "a1-pronoun-her-pos",
+        "a1-pronoun-we",
+        "a1-pronoun-us",
+        "a1-pronoun-our",
+        "a1-pronoun-they",
+        "a1-pronoun-them",
+        "a1-pronoun-their",
+        "a1-pronoun-it",
+        "a1-pronoun-this",
+        "a1-pronoun-that",
+        "a1-pronoun-these",
+        "a1-pronoun-those"
+      ],
+      "exampleChunks": [
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-001.json",
+          "itemIds": [
+            "a1-pronoun-i"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-002.json",
+          "itemIds": [
+            "a1-pronoun-me"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-003.json",
+          "itemIds": [
+            "a1-pronoun-my"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-004.json",
+          "itemIds": [
+            "a1-pronoun-mine"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-005.json",
+          "itemIds": [
+            "a1-pronoun-you"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-006.json",
+          "itemIds": [
+            "a1-pronoun-your"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-007.json",
+          "itemIds": [
+            "a1-pronoun-yours"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-008.json",
+          "itemIds": [
+            "a1-pronoun-he"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-009.json",
+          "itemIds": [
+            "a1-pronoun-him"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-010.json",
+          "itemIds": [
+            "a1-pronoun-his"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-011.json",
+          "itemIds": [
+            "a1-pronoun-she"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-012.json",
+          "itemIds": [
+            "a1-pronoun-her-obj"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-013.json",
+          "itemIds": [
+            "a1-pronoun-her-pos"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-014.json",
+          "itemIds": [
+            "a1-pronoun-we"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-015.json",
+          "itemIds": [
+            "a1-pronoun-us"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-016.json",
+          "itemIds": [
+            "a1-pronoun-our"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-017.json",
+          "itemIds": [
+            "a1-pronoun-they"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-018.json",
+          "itemIds": [
+            "a1-pronoun-them"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-019.json",
+          "itemIds": [
+            "a1-pronoun-their"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-020.json",
+          "itemIds": [
+            "a1-pronoun-it"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-021.json",
+          "itemIds": [
+            "a1-pronoun-this"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-022.json",
+          "itemIds": [
+            "a1-pronoun-that"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-023.json",
+          "itemIds": [
+            "a1-pronoun-these"
+          ],
+          "count": 200
+        },
+        {
+          "path": "./data/levels/a1/examples/personal-pronouns-024.json",
+          "itemIds": [
+            "a1-pronoun-those"
+          ],
+          "count": 200
+        }
+      ]
+    },
+    {
+      "id": "to-be",
+      "level": "A1",
+      "title": "Verbo to be",
+      "description": "Afirmaciones, negaciones y preguntas con am, is y are.",
+      "theory": {
+        "summary": "To be significa ser o estar.",
+        "rules": [
+          "I am; he/she/it is; you/we/they are.",
+          "Negación: am not, is not/isn't, are not/aren't.",
+          "Pregunta: coloca am/is/are antes del sujeto."
+        ],
+        "examples": [
+          "I am ready.",
+          "She isn't at home.",
+          "Are they students?"
+        ]
+      },
+      "modes": [
+        "fill-blank"
+      ],
+      "itemSource": "grammar",
+      "itemIds": [
+        "a1-grammar-to-be-be-am",
+        "a1-grammar-to-be-be-is",
+        "a1-grammar-to-be-be-are"
+      ],
+      "exampleChunks": [
+        {
+          "path": "./data/levels/a1/examples/to-be-001.json",
+          "itemIds": [
+            "a1-grammar-to-be-be-am"
+          ],
+          "count": 3
+        },
+        {
+          "path": "./data/levels/a1/examples/to-be-002.json",
+          "itemIds": [
+            "a1-grammar-to-be-be-is"
+          ],
+          "count": 9
+        },
+        {
+          "path": "./data/levels/a1/examples/to-be-003.json",
+          "itemIds": [
+            "a1-grammar-to-be-be-are"
+          ],
+          "count": 9
+        }
+      ]
+    },
+    {
+      "id": "articles",
+      "level": "A1",
+      "title": "Artículos a/an/the",
+      "description": "Elige el artículo correcto según el sonido y el contexto.",
+      "theory": {
+        "summary": "Los artículos presentan o identifican sustantivos.",
+        "rules": [
+          "a: una cosa no específica ante sonido consonante.",
+          "an: una cosa no específica ante sonido vocálico.",
+          "the: algo específico o ya conocido."
+        ],
+        "examples": [
+          "a car",
+          "an hour",
+          "the car on the street"
+        ]
+      },
+      "modes": [
+        "fill-blank"
+      ],
+      "itemSource": "grammar",
+      "itemIds": [
+        "a1-grammar-articles-article-a",
+        "a1-grammar-articles-article-an",
+        "a1-grammar-articles-article-the"
+      ],
+      "exampleChunks": [
+        {
+          "path": "./data/levels/a1/examples/articles-001.json",
+          "itemIds": [
+            "a1-grammar-articles-article-a"
+          ],
+          "count": 80
+        },
+        {
+          "path": "./data/levels/a1/examples/articles-002.json",
+          "itemIds": [
+            "a1-grammar-articles-article-an"
+          ],
+          "count": 80
+        },
+        {
+          "path": "./data/levels/a1/examples/articles-003.json",
+          "itemIds": [
+            "a1-grammar-articles-article-the"
+          ],
+          "count": 80
+        }
+      ]
+    },
+    {
+      "id": "simple-present",
+      "level": "A1",
+      "title": "Presente simple",
+      "description": "Habla de rutinas y hechos con los 80 verbos A1.",
+      "theory": {
+        "summary": "El presente simple expresa rutinas, hábitos y hechos generales.",
+        "rules": [
+          "I/you/we/they + forma base.",
+          "He/she/it + forma de tercera persona.",
+          "Negación: do/does not + forma base.",
+          "Pregunta: Do/Does + sujeto + forma base?"
+        ],
+        "examples": [
+          "I work every day.",
+          "She works every day.",
+          "Does she work here?"
+        ]
+      },
+      "modes": [
+        "fill-blank",
+        "matching",
+        "translate-es-en"
+      ],
+      "itemSource": "verbs",
+      "itemIds": [
+        "a1-verb-move",
+        "a1-verb-need",
+        "a1-verb-call",
+        "a1-verb-use",
+        "a1-verb-lead",
+        "a1-verb-try",
+        "a1-verb-pass",
+        "a1-verb-talk",
+        "a1-verb-create",
+        "a1-verb-report",
+        "a1-verb-seem",
+        "a1-verb-turn",
+        "a1-verb-continue",
+        "a1-verb-serve",
+        "a1-verb-start",
+        "a1-verb-consider",
+        "a1-verb-plan",
+        "a1-verb-offer",
+        "a1-verb-act",
+        "a1-verb-count",
+        "a1-verb-provide",
+        "a1-verb-visit",
+        "a1-verb-work",
+        "a1-verb-carry",
+        "a1-verb-include",
+        "a1-verb-ask",
+        "a1-verb-live",
+        "a1-verb-learn",
+        "a1-verb-play",
+        "a1-verb-appear",
+        "a1-verb-explain",
+        "a1-verb-cause",
+        "a1-verb-show",
+        "a1-verb-support",
+        "a1-verb-point",
+        "a1-verb-require",
+        "a1-verb-suggest",
+        "a1-verb-touch",
+        "a1-verb-decide",
+        "a1-verb-want",
+        "a1-verb-stop",
+        "a1-verb-look",
+        "a1-verb-produce",
+        "a1-verb-remain",
+        "a1-verb-add",
+        "a1-verb-die",
+        "a1-verb-prefer",
+        "a1-verb-watch",
+        "a1-verb-walk",
+        "a1-verb-help",
+        "a1-verb-rent",
+        "a1-verb-change",
+        "a1-verb-wait",
+        "a1-verb-drop",
+        "a1-verb-fill",
+        "a1-verb-plant",
+        "a1-verb-raise",
+        "a1-verb-reach",
+        "a1-verb-return",
+        "a1-verb-stay",
+        "a1-verb-pull",
+        "a1-verb-prepare",
+        "a1-verb-push",
+        "a1-verb-defend",
+        "a1-verb-happen",
+        "a1-verb-repeat",
+        "a1-verb-mention",
+        "a1-verb-study",
+        "a1-verb-believe",
+        "a1-verb-prevent",
+        "a1-verb-agree",
+        "a1-verb-paint",
+        "a1-verb-prove",
+        "a1-verb-hope",
+        "a1-verb-receive",
+        "a1-verb-admit",
+        "a1-verb-cook",
+        "a1-verb-order",
+        "a1-verb-cover",
+        "a1-verb-apply"
+      ],
+      "exampleChunks": [
+        {
+          "path": "./data/levels/a1/examples/simple-present-001.json",
+          "itemIds": [
+            "a1-verb-move"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-002.json",
+          "itemIds": [
+            "a1-verb-need"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-003.json",
+          "itemIds": [
+            "a1-verb-call"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-004.json",
+          "itemIds": [
+            "a1-verb-use"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-005.json",
+          "itemIds": [
+            "a1-verb-lead"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-006.json",
+          "itemIds": [
+            "a1-verb-try"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-007.json",
+          "itemIds": [
+            "a1-verb-pass"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-008.json",
+          "itemIds": [
+            "a1-verb-talk"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-009.json",
+          "itemIds": [
+            "a1-verb-create"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-010.json",
+          "itemIds": [
+            "a1-verb-report"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-011.json",
+          "itemIds": [
+            "a1-verb-seem"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-012.json",
+          "itemIds": [
+            "a1-verb-turn"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-013.json",
+          "itemIds": [
+            "a1-verb-continue"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-014.json",
+          "itemIds": [
+            "a1-verb-serve"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-015.json",
+          "itemIds": [
+            "a1-verb-start"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-016.json",
+          "itemIds": [
+            "a1-verb-consider"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-017.json",
+          "itemIds": [
+            "a1-verb-plan"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-018.json",
+          "itemIds": [
+            "a1-verb-offer"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-019.json",
+          "itemIds": [
+            "a1-verb-act"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-020.json",
+          "itemIds": [
+            "a1-verb-count"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-021.json",
+          "itemIds": [
+            "a1-verb-provide"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-022.json",
+          "itemIds": [
+            "a1-verb-visit"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-023.json",
+          "itemIds": [
+            "a1-verb-work"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-024.json",
+          "itemIds": [
+            "a1-verb-carry"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-025.json",
+          "itemIds": [
+            "a1-verb-include"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-026.json",
+          "itemIds": [
+            "a1-verb-ask"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-027.json",
+          "itemIds": [
+            "a1-verb-live"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-028.json",
+          "itemIds": [
+            "a1-verb-learn"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-029.json",
+          "itemIds": [
+            "a1-verb-play"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-030.json",
+          "itemIds": [
+            "a1-verb-appear"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-031.json",
+          "itemIds": [
+            "a1-verb-explain"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-032.json",
+          "itemIds": [
+            "a1-verb-cause"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-033.json",
+          "itemIds": [
+            "a1-verb-show"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-034.json",
+          "itemIds": [
+            "a1-verb-support"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-035.json",
+          "itemIds": [
+            "a1-verb-point"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-036.json",
+          "itemIds": [
+            "a1-verb-require"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-037.json",
+          "itemIds": [
+            "a1-verb-suggest"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-038.json",
+          "itemIds": [
+            "a1-verb-touch"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-039.json",
+          "itemIds": [
+            "a1-verb-decide"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-040.json",
+          "itemIds": [
+            "a1-verb-want"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-041.json",
+          "itemIds": [
+            "a1-verb-stop"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-042.json",
+          "itemIds": [
+            "a1-verb-look"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-043.json",
+          "itemIds": [
+            "a1-verb-produce"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-044.json",
+          "itemIds": [
+            "a1-verb-remain"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-045.json",
+          "itemIds": [
+            "a1-verb-add"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-046.json",
+          "itemIds": [
+            "a1-verb-die"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-047.json",
+          "itemIds": [
+            "a1-verb-prefer"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-048.json",
+          "itemIds": [
+            "a1-verb-watch"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-049.json",
+          "itemIds": [
+            "a1-verb-walk"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-050.json",
+          "itemIds": [
+            "a1-verb-help"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-051.json",
+          "itemIds": [
+            "a1-verb-rent"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-052.json",
+          "itemIds": [
+            "a1-verb-change"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-053.json",
+          "itemIds": [
+            "a1-verb-wait"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-054.json",
+          "itemIds": [
+            "a1-verb-drop"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-055.json",
+          "itemIds": [
+            "a1-verb-fill"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-056.json",
+          "itemIds": [
+            "a1-verb-plant"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-057.json",
+          "itemIds": [
+            "a1-verb-raise"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-058.json",
+          "itemIds": [
+            "a1-verb-reach"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-059.json",
+          "itemIds": [
+            "a1-verb-return"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-060.json",
+          "itemIds": [
+            "a1-verb-stay"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-061.json",
+          "itemIds": [
+            "a1-verb-pull"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-062.json",
+          "itemIds": [
+            "a1-verb-prepare"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-063.json",
+          "itemIds": [
+            "a1-verb-push"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-064.json",
+          "itemIds": [
+            "a1-verb-defend"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-065.json",
+          "itemIds": [
+            "a1-verb-happen"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-066.json",
+          "itemIds": [
+            "a1-verb-repeat"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-067.json",
+          "itemIds": [
+            "a1-verb-mention"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-068.json",
+          "itemIds": [
+            "a1-verb-study"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-069.json",
+          "itemIds": [
+            "a1-verb-believe"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-070.json",
+          "itemIds": [
+            "a1-verb-prevent"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-071.json",
+          "itemIds": [
+            "a1-verb-agree"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-072.json",
+          "itemIds": [
+            "a1-verb-paint"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-073.json",
+          "itemIds": [
+            "a1-verb-prove"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-074.json",
+          "itemIds": [
+            "a1-verb-hope"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-075.json",
+          "itemIds": [
+            "a1-verb-receive"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-076.json",
+          "itemIds": [
+            "a1-verb-admit"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-077.json",
+          "itemIds": [
+            "a1-verb-cook"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-078.json",
+          "itemIds": [
+            "a1-verb-order"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-079.json",
+          "itemIds": [
+            "a1-verb-cover"
+          ],
+          "count": 14
+        },
+        {
+          "path": "./data/levels/a1/examples/simple-present-080.json",
+          "itemIds": [
+            "a1-verb-apply"
+          ],
+          "count": 14
+        }
+      ]
+    },
+    {
+      "id": "do-does",
+      "level": "A1",
+      "title": "Do/does",
+      "description": "Forma preguntas y negaciones en presente simple.",
+      "theory": {
+        "summary": "Do y does funcionan como auxiliares del presente simple.",
+        "rules": [
+          "Do con I/you/we/they.",
+          "Does con he/she/it.",
+          "Después de do/does el verbo siempre vuelve a la forma base."
+        ],
+        "examples": [
+          "Do you work here?",
+          "Does he work here?",
+          "She doesn't work here."
+        ]
+      },
+      "modes": [
+        "fill-blank"
+      ],
+      "itemSource": "grammar",
+      "itemIds": [
+        "a1-grammar-do-does-aux-do",
+        "a1-grammar-do-does-aux-does"
+      ],
+      "exampleChunks": [
+        {
+          "path": "./data/levels/a1/examples/do-does-001.json",
+          "itemIds": [
+            "a1-grammar-do-does-aux-do"
+          ],
+          "count": 64
+        },
+        {
+          "path": "./data/levels/a1/examples/do-does-002.json",
+          "itemIds": [
+            "a1-grammar-do-does-aux-does"
+          ],
+          "count": 48
+        }
+      ]
+    },
+    {
+      "id": "third-person",
+      "level": "A1",
+      "title": "Tercera persona",
+      "description": "Practica -s, -es e -ies con he, she e it.",
+      "theory": {
+        "summary": "En afirmaciones del presente simple, he/she/it modifican el verbo.",
+        "rules": [
+          "Regla general: añade -s.",
+          "Tras s/sh/ch/x/z/o: añade -es.",
+          "Consonante + y: cambia y por -ies.",
+          "Después de does/doesn't usa la forma base."
+        ],
+        "examples": [
+          "work → works",
+          "watch → watches",
+          "study → studies"
+        ]
+      },
+      "modes": [
+        "fill-blank"
+      ],
+      "itemSource": "verbs",
+      "itemIds": [
+        "a1-verb-move",
+        "a1-verb-need",
+        "a1-verb-call",
+        "a1-verb-use",
+        "a1-verb-lead",
+        "a1-verb-try",
+        "a1-verb-pass",
+        "a1-verb-talk",
+        "a1-verb-create",
+        "a1-verb-report",
+        "a1-verb-seem",
+        "a1-verb-turn",
+        "a1-verb-continue",
+        "a1-verb-serve",
+        "a1-verb-start",
+        "a1-verb-consider",
+        "a1-verb-plan",
+        "a1-verb-offer",
+        "a1-verb-act",
+        "a1-verb-count",
+        "a1-verb-provide",
+        "a1-verb-visit",
+        "a1-verb-work",
+        "a1-verb-carry",
+        "a1-verb-include",
+        "a1-verb-ask",
+        "a1-verb-live",
+        "a1-verb-learn",
+        "a1-verb-play",
+        "a1-verb-appear",
+        "a1-verb-explain",
+        "a1-verb-cause",
+        "a1-verb-show",
+        "a1-verb-support",
+        "a1-verb-point",
+        "a1-verb-require",
+        "a1-verb-suggest",
+        "a1-verb-touch",
+        "a1-verb-decide",
+        "a1-verb-want",
+        "a1-verb-stop",
+        "a1-verb-look",
+        "a1-verb-produce",
+        "a1-verb-remain",
+        "a1-verb-add",
+        "a1-verb-die",
+        "a1-verb-prefer",
+        "a1-verb-watch",
+        "a1-verb-walk",
+        "a1-verb-help",
+        "a1-verb-rent",
+        "a1-verb-change",
+        "a1-verb-wait",
+        "a1-verb-drop",
+        "a1-verb-fill",
+        "a1-verb-plant",
+        "a1-verb-raise",
+        "a1-verb-reach",
+        "a1-verb-return",
+        "a1-verb-stay",
+        "a1-verb-pull",
+        "a1-verb-prepare",
+        "a1-verb-push",
+        "a1-verb-defend",
+        "a1-verb-happen",
+        "a1-verb-repeat",
+        "a1-verb-mention",
+        "a1-verb-study",
+        "a1-verb-believe",
+        "a1-verb-prevent",
+        "a1-verb-agree",
+        "a1-verb-paint",
+        "a1-verb-prove",
+        "a1-verb-hope",
+        "a1-verb-receive",
+        "a1-verb-admit",
+        "a1-verb-cook",
+        "a1-verb-order",
+        "a1-verb-cover",
+        "a1-verb-apply"
+      ],
+      "exampleChunks": [
+        {
+          "path": "./data/levels/a1/examples/third-person-001.json",
+          "itemIds": [
+            "a1-verb-move"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-002.json",
+          "itemIds": [
+            "a1-verb-need"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-003.json",
+          "itemIds": [
+            "a1-verb-call"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-004.json",
+          "itemIds": [
+            "a1-verb-use"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-005.json",
+          "itemIds": [
+            "a1-verb-lead"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-006.json",
+          "itemIds": [
+            "a1-verb-try"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-007.json",
+          "itemIds": [
+            "a1-verb-pass"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-008.json",
+          "itemIds": [
+            "a1-verb-talk"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-009.json",
+          "itemIds": [
+            "a1-verb-create"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-010.json",
+          "itemIds": [
+            "a1-verb-report"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-011.json",
+          "itemIds": [
+            "a1-verb-seem"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-012.json",
+          "itemIds": [
+            "a1-verb-turn"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-013.json",
+          "itemIds": [
+            "a1-verb-continue"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-014.json",
+          "itemIds": [
+            "a1-verb-serve"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-015.json",
+          "itemIds": [
+            "a1-verb-start"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-016.json",
+          "itemIds": [
+            "a1-verb-consider"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-017.json",
+          "itemIds": [
+            "a1-verb-plan"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-018.json",
+          "itemIds": [
+            "a1-verb-offer"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-019.json",
+          "itemIds": [
+            "a1-verb-act"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-020.json",
+          "itemIds": [
+            "a1-verb-count"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-021.json",
+          "itemIds": [
+            "a1-verb-provide"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-022.json",
+          "itemIds": [
+            "a1-verb-visit"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-023.json",
+          "itemIds": [
+            "a1-verb-work"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-024.json",
+          "itemIds": [
+            "a1-verb-carry"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-025.json",
+          "itemIds": [
+            "a1-verb-include"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-026.json",
+          "itemIds": [
+            "a1-verb-ask"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-027.json",
+          "itemIds": [
+            "a1-verb-live"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-028.json",
+          "itemIds": [
+            "a1-verb-learn"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-029.json",
+          "itemIds": [
+            "a1-verb-play"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-030.json",
+          "itemIds": [
+            "a1-verb-appear"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-031.json",
+          "itemIds": [
+            "a1-verb-explain"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-032.json",
+          "itemIds": [
+            "a1-verb-cause"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-033.json",
+          "itemIds": [
+            "a1-verb-show"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-034.json",
+          "itemIds": [
+            "a1-verb-support"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-035.json",
+          "itemIds": [
+            "a1-verb-point"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-036.json",
+          "itemIds": [
+            "a1-verb-require"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-037.json",
+          "itemIds": [
+            "a1-verb-suggest"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-038.json",
+          "itemIds": [
+            "a1-verb-touch"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-039.json",
+          "itemIds": [
+            "a1-verb-decide"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-040.json",
+          "itemIds": [
+            "a1-verb-want"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-041.json",
+          "itemIds": [
+            "a1-verb-stop"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-042.json",
+          "itemIds": [
+            "a1-verb-look"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-043.json",
+          "itemIds": [
+            "a1-verb-produce"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-044.json",
+          "itemIds": [
+            "a1-verb-remain"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-045.json",
+          "itemIds": [
+            "a1-verb-add"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-046.json",
+          "itemIds": [
+            "a1-verb-die"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-047.json",
+          "itemIds": [
+            "a1-verb-prefer"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-048.json",
+          "itemIds": [
+            "a1-verb-watch"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-049.json",
+          "itemIds": [
+            "a1-verb-walk"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-050.json",
+          "itemIds": [
+            "a1-verb-help"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-051.json",
+          "itemIds": [
+            "a1-verb-rent"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-052.json",
+          "itemIds": [
+            "a1-verb-change"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-053.json",
+          "itemIds": [
+            "a1-verb-wait"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-054.json",
+          "itemIds": [
+            "a1-verb-drop"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-055.json",
+          "itemIds": [
+            "a1-verb-fill"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-056.json",
+          "itemIds": [
+            "a1-verb-plant"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-057.json",
+          "itemIds": [
+            "a1-verb-raise"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-058.json",
+          "itemIds": [
+            "a1-verb-reach"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-059.json",
+          "itemIds": [
+            "a1-verb-return"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-060.json",
+          "itemIds": [
+            "a1-verb-stay"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-061.json",
+          "itemIds": [
+            "a1-verb-pull"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-062.json",
+          "itemIds": [
+            "a1-verb-prepare"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-063.json",
+          "itemIds": [
+            "a1-verb-push"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-064.json",
+          "itemIds": [
+            "a1-verb-defend"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-065.json",
+          "itemIds": [
+            "a1-verb-happen"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-066.json",
+          "itemIds": [
+            "a1-verb-repeat"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-067.json",
+          "itemIds": [
+            "a1-verb-mention"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-068.json",
+          "itemIds": [
+            "a1-verb-study"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-069.json",
+          "itemIds": [
+            "a1-verb-believe"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-070.json",
+          "itemIds": [
+            "a1-verb-prevent"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-071.json",
+          "itemIds": [
+            "a1-verb-agree"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-072.json",
+          "itemIds": [
+            "a1-verb-paint"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-073.json",
+          "itemIds": [
+            "a1-verb-prove"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-074.json",
+          "itemIds": [
+            "a1-verb-hope"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-075.json",
+          "itemIds": [
+            "a1-verb-receive"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-076.json",
+          "itemIds": [
+            "a1-verb-admit"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-077.json",
+          "itemIds": [
+            "a1-verb-cook"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-078.json",
+          "itemIds": [
+            "a1-verb-order"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-079.json",
+          "itemIds": [
+            "a1-verb-cover"
+          ],
+          "count": 6
+        },
+        {
+          "path": "./data/levels/a1/examples/third-person-080.json",
+          "itemIds": [
+            "a1-verb-apply"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "id": "there-is-are",
+      "level": "A1",
+      "title": "There is/are",
+      "description": "Describe la existencia de una o varias cosas.",
+      "theory": {
+        "summary": "There is/are indica que algo existe o está presente.",
+        "rules": [
+          "There is + singular.",
+          "There are + plural.",
+          "Negación: there isn't / there aren't.",
+          "Pregunta: Is there...? / Are there...?"
+        ],
+        "examples": [
+          "There is a book.",
+          "There are two books."
+        ]
+      },
+      "modes": [
+        "fill-blank"
+      ],
+      "itemSource": "grammar",
+      "itemIds": [
+        "a1-grammar-there-is-are-there-is",
+        "a1-grammar-there-is-are-there-are"
+      ],
+      "exampleChunks": [
+        {
+          "path": "./data/levels/a1/examples/there-is-are-001.json",
+          "itemIds": [
+            "a1-grammar-there-is-are-there-is"
+          ],
+          "count": 16
+        },
+        {
+          "path": "./data/levels/a1/examples/there-is-are-002.json",
+          "itemIds": [
+            "a1-grammar-there-is-are-there-are"
+          ],
+          "count": 9
+        }
+      ]
+    },
+    {
+      "id": "present-continuous",
+      "level": "A1",
+      "title": "Presente continuo",
+      "description": "Expresa acciones que están ocurriendo ahora.",
+      "theory": {
+        "summary": "El presente continuo describe acciones en progreso.",
+        "rules": [
+          "Forma: am/is/are + verbo-ing.",
+          "Usa am con I, is con he/she/it y are con you/we/they.",
+          "Negación: añade not después de am/is/are.",
+          "Pregunta: mueve am/is/are antes del sujeto."
+        ],
+        "examples": [
+          "I am studying now.",
+          "They aren't working.",
+          "Is she cooking?"
+        ]
+      },
+      "modes": [
+        "fill-blank"
+      ],
+      "itemSource": "verbs",
+      "itemIds": [
+        "a1-verb-move",
+        "a1-verb-need",
+        "a1-verb-call",
+        "a1-verb-use",
+        "a1-verb-lead",
+        "a1-verb-try",
+        "a1-verb-pass",
+        "a1-verb-talk",
+        "a1-verb-create",
+        "a1-verb-report",
+        "a1-verb-seem",
+        "a1-verb-turn",
+        "a1-verb-continue",
+        "a1-verb-serve",
+        "a1-verb-start",
+        "a1-verb-consider",
+        "a1-verb-plan",
+        "a1-verb-offer",
+        "a1-verb-act",
+        "a1-verb-count",
+        "a1-verb-provide",
+        "a1-verb-visit",
+        "a1-verb-work",
+        "a1-verb-carry",
+        "a1-verb-include",
+        "a1-verb-ask",
+        "a1-verb-live",
+        "a1-verb-learn",
+        "a1-verb-play",
+        "a1-verb-appear",
+        "a1-verb-explain",
+        "a1-verb-cause",
+        "a1-verb-show",
+        "a1-verb-support",
+        "a1-verb-point",
+        "a1-verb-require",
+        "a1-verb-suggest",
+        "a1-verb-touch",
+        "a1-verb-decide",
+        "a1-verb-want",
+        "a1-verb-stop",
+        "a1-verb-look",
+        "a1-verb-produce",
+        "a1-verb-remain",
+        "a1-verb-add",
+        "a1-verb-die",
+        "a1-verb-prefer",
+        "a1-verb-watch",
+        "a1-verb-walk",
+        "a1-verb-help",
+        "a1-verb-rent",
+        "a1-verb-change",
+        "a1-verb-wait",
+        "a1-verb-drop",
+        "a1-verb-fill",
+        "a1-verb-plant",
+        "a1-verb-raise",
+        "a1-verb-reach",
+        "a1-verb-return",
+        "a1-verb-stay",
+        "a1-verb-pull",
+        "a1-verb-prepare",
+        "a1-verb-push",
+        "a1-verb-defend",
+        "a1-verb-happen",
+        "a1-verb-repeat",
+        "a1-verb-mention",
+        "a1-verb-study",
+        "a1-verb-believe",
+        "a1-verb-prevent",
+        "a1-verb-agree",
+        "a1-verb-paint",
+        "a1-verb-prove",
+        "a1-verb-hope",
+        "a1-verb-receive",
+        "a1-verb-admit",
+        "a1-verb-cook",
+        "a1-verb-order",
+        "a1-verb-cover",
+        "a1-verb-apply"
+      ],
+      "exampleChunks": [
+        {
+          "path": "./data/levels/a1/examples/present-continuous-001.json",
+          "itemIds": [
+            "a1-verb-move"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-002.json",
+          "itemIds": [
+            "a1-verb-need"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-003.json",
+          "itemIds": [
+            "a1-verb-call"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-004.json",
+          "itemIds": [
+            "a1-verb-use"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-005.json",
+          "itemIds": [
+            "a1-verb-lead"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-006.json",
+          "itemIds": [
+            "a1-verb-try"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-007.json",
+          "itemIds": [
+            "a1-verb-pass"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-008.json",
+          "itemIds": [
+            "a1-verb-talk"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-009.json",
+          "itemIds": [
+            "a1-verb-create"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-010.json",
+          "itemIds": [
+            "a1-verb-report"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-011.json",
+          "itemIds": [
+            "a1-verb-seem"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-012.json",
+          "itemIds": [
+            "a1-verb-turn"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-013.json",
+          "itemIds": [
+            "a1-verb-continue"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-014.json",
+          "itemIds": [
+            "a1-verb-serve"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-015.json",
+          "itemIds": [
+            "a1-verb-start"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-016.json",
+          "itemIds": [
+            "a1-verb-consider"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-017.json",
+          "itemIds": [
+            "a1-verb-plan"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-018.json",
+          "itemIds": [
+            "a1-verb-offer"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-019.json",
+          "itemIds": [
+            "a1-verb-act"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-020.json",
+          "itemIds": [
+            "a1-verb-count"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-021.json",
+          "itemIds": [
+            "a1-verb-provide"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-022.json",
+          "itemIds": [
+            "a1-verb-visit"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-023.json",
+          "itemIds": [
+            "a1-verb-work"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-024.json",
+          "itemIds": [
+            "a1-verb-carry"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-025.json",
+          "itemIds": [
+            "a1-verb-include"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-026.json",
+          "itemIds": [
+            "a1-verb-ask"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-027.json",
+          "itemIds": [
+            "a1-verb-live"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-028.json",
+          "itemIds": [
+            "a1-verb-learn"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-029.json",
+          "itemIds": [
+            "a1-verb-play"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-030.json",
+          "itemIds": [
+            "a1-verb-appear"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-031.json",
+          "itemIds": [
+            "a1-verb-explain"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-032.json",
+          "itemIds": [
+            "a1-verb-cause"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-033.json",
+          "itemIds": [
+            "a1-verb-show"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-034.json",
+          "itemIds": [
+            "a1-verb-support"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-035.json",
+          "itemIds": [
+            "a1-verb-point"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-036.json",
+          "itemIds": [
+            "a1-verb-require"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-037.json",
+          "itemIds": [
+            "a1-verb-suggest"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-038.json",
+          "itemIds": [
+            "a1-verb-touch"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-039.json",
+          "itemIds": [
+            "a1-verb-decide"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-040.json",
+          "itemIds": [
+            "a1-verb-want"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-041.json",
+          "itemIds": [
+            "a1-verb-stop"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-042.json",
+          "itemIds": [
+            "a1-verb-look"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-043.json",
+          "itemIds": [
+            "a1-verb-produce"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-044.json",
+          "itemIds": [
+            "a1-verb-remain"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-045.json",
+          "itemIds": [
+            "a1-verb-add"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-046.json",
+          "itemIds": [
+            "a1-verb-die"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-047.json",
+          "itemIds": [
+            "a1-verb-prefer"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-048.json",
+          "itemIds": [
+            "a1-verb-watch"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-049.json",
+          "itemIds": [
+            "a1-verb-walk"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-050.json",
+          "itemIds": [
+            "a1-verb-help"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-051.json",
+          "itemIds": [
+            "a1-verb-rent"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-052.json",
+          "itemIds": [
+            "a1-verb-change"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-053.json",
+          "itemIds": [
+            "a1-verb-wait"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-054.json",
+          "itemIds": [
+            "a1-verb-drop"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-055.json",
+          "itemIds": [
+            "a1-verb-fill"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-056.json",
+          "itemIds": [
+            "a1-verb-plant"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-057.json",
+          "itemIds": [
+            "a1-verb-raise"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-058.json",
+          "itemIds": [
+            "a1-verb-reach"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-059.json",
+          "itemIds": [
+            "a1-verb-return"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-060.json",
+          "itemIds": [
+            "a1-verb-stay"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-061.json",
+          "itemIds": [
+            "a1-verb-pull"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-062.json",
+          "itemIds": [
+            "a1-verb-prepare"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-063.json",
+          "itemIds": [
+            "a1-verb-push"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-064.json",
+          "itemIds": [
+            "a1-verb-defend"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-065.json",
+          "itemIds": [
+            "a1-verb-happen"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-066.json",
+          "itemIds": [
+            "a1-verb-repeat"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-067.json",
+          "itemIds": [
+            "a1-verb-mention"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-068.json",
+          "itemIds": [
+            "a1-verb-study"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-069.json",
+          "itemIds": [
+            "a1-verb-believe"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-070.json",
+          "itemIds": [
+            "a1-verb-prevent"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-071.json",
+          "itemIds": [
+            "a1-verb-agree"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-072.json",
+          "itemIds": [
+            "a1-verb-paint"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-073.json",
+          "itemIds": [
+            "a1-verb-prove"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-074.json",
+          "itemIds": [
+            "a1-verb-hope"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-075.json",
+          "itemIds": [
+            "a1-verb-receive"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-076.json",
+          "itemIds": [
+            "a1-verb-admit"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-077.json",
+          "itemIds": [
+            "a1-verb-cook"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-078.json",
+          "itemIds": [
+            "a1-verb-order"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-079.json",
+          "itemIds": [
+            "a1-verb-cover"
+          ],
+          "count": 7
+        },
+        {
+          "path": "./data/levels/a1/examples/present-continuous-080.json",
+          "itemIds": [
+            "a1-verb-apply"
+          ],
+          "count": 7
+        }
+      ]
+    }
+  ]
+}

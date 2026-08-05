@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-apply-simple-present-example-6b4786501227",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ a car every day.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Yo aplicar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-99d9cae20f3c",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ a car.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Yo no aplicar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-d2950079d241",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ an email every day.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Tú aplicar un correo todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-a8f1c3deb5ea",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ an email.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Tú no aplicar un correo.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-d580a8b43a5d",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the report every day.",
+      "answer": "applies",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Él aplicar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-3b861d4eca21",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the report.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Él no aplicar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-769799eeaf0c",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ a plan every day.",
+      "answer": "applies",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Ella aplicar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-7957f7e47a6f",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ a plan.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Ella no aplicar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-267d9a669280",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ the lesson every day.",
+      "answer": "applies",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Eso aplicar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-dae420a78a43",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ the lesson.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Eso no aplicar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-c4fd4e56752e",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ an idea every day.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Nosotros aplicar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-c20da24c4d2e",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ an idea.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Nosotros no aplicar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-603283b744d3",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a house every day.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Ellos aplicar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-apply-simple-present-example-4ede93f76c96",
+      "itemId": "a1-verb-apply",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a house.",
+      "answer": "apply",
+      "acceptableAnswers": [],
+      "options": [
+        "apply",
+        "applies",
+        "applying"
+      ],
+      "translation": "Ellos no aplicar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-33fe5dd30528",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ umbrella.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu paraguas.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-9403210127fa",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ key.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu llave.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-0dead301aa2e",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ umbrella.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu paraguas.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-1bbf609159a2",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ chair.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu silla.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ca8ae07b9d9d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ key.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu llave.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-87fa7e81e6cb",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ ball.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu pelota.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-96b767b0d816",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ bike?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu bicicleta?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-bde53a207209",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ cat.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu gato.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ec19f104e7e0",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ ball.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu pelota.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-8752d512d7f3",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ phone.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu teléfono.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-900f20c8bc80",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ house.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu casa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-04bf71307904",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bag.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu bolsa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-df5a838df922",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ car.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu coche.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-c182e9e881fa",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bike.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-cf9dd67b9efa",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ chair?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu silla?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-b97743e717ad",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ bike.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-3f7cc9a75a31",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ dog.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu perro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ae991a6c363c",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ wallet.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu cartera.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-7fe3fc2e90c0",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ pen.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ee6f6226a335",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ cup.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu taza.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-9da0d6e05511",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ table.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu mesa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-fa814a385d48",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ phone.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu teléfono.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-c104093f52bc",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ hat.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu sombrero.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e86c0a69e388",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ mirror?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu espejo?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6053a8def160",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ cat.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu gato.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-d00f52907ed1",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ table?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu mesa?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-67991643381e",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ camera.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu cámara.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e8bac7692138",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ bike.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-88836de592f9",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ ball.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu pelota.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a55904360307",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ pen.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-97ed0187cac1",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ pencil.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu lápiz.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-101920be712e",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ bag.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu bolsa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-f705a1e0f5de",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pencil.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu lápiz.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a30a5c3aa1ba",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ ticket.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu boleto.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-73f863c0d785",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ bag.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu bolsa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ea5dc314a2bc",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ laptop.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu computadora.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-4ea551955097",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ plant.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu planta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-f066e1b21671",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ car.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu coche.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-d35ef06b410f",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ backpack.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu mochila.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-53e3f6fd0cfa",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ watch.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu reloj.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-946d2f531418",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ camera?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu cámara?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-909b9b0aa923",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ pencil?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu lápiz?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-1c0f88079a4f",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ cup.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu taza.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-eba8d4267ce7",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ chair.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu silla.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-0391481d4bd9",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ wallet.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu cartera.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-f03a6b79a49e",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ bag.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu bolsa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-76a83ba4a928",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ notebook.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6bce4a4f08de",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ book.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu libro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-1f44c8a257fd",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ phone.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu teléfono.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-efa19a2d0a82",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ dog.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu perro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-bdf0e64b3368",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ key.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu llave.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ee49428726e6",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ table.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu mesa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-c02b59fc1a26",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ shirt.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu camisa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a79d77f6c806",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ laptop.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu computadora.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-d27294daa559",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ball.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu pelota.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-4fb5413ea2cf",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ jacket.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-5dc0d3109d3a",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ key.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu llave.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-3964bc5b270e",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ phone?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu teléfono?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6002e8f3d0a8",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ mirror.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu espejo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a51d545ddb01",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ guitar?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu guitarra?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-d3c6da23e10b",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ mirror.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu espejo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ba90b0109090",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ jacket.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-8d9a88036e9d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ chair.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu silla.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-1d4168024480",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ camera.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu cámara.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-9fee400db65c",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ backpack.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu mochila.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e4c5eda6dc6b",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ car.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu coche.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-80058cc17614",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ house?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu casa?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-f7942630ea61",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ camera.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu cámara.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6c994a0c62f7",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ hat.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu sombrero.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-abfbfb5920ce",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ watch.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu reloj.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-bdfad4e99e96",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ laptop.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu computadora.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-cfcc30c85029",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ jacket.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6eff69c3ff1e",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ wallet?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu cartera?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-d528d39fc90e",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ guitar.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu guitarra.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-b62a0ca2af13",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ ticket?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu boleto?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-49c841aff581",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ dog.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu perro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-bf151ea00033",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ cat.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu gato.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ddd677bdd394",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ car.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu coche.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a47de20e6879",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ guitar.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu guitarra.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-1ba1080b0e17",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ box?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu caja?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-0028530750b7",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ car.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu coche.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-52f8b693c193",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ watch.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu reloj.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-dc310669d110",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ laptop.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu computadora.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-69f9c171520d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ dog.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu perro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-922c1255f58d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ cat.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu gato.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-c51440abad42",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ book.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu libro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-8deca2624afc",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pen.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ad1e5b5f6f1a",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ guitar.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu guitarra.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-3cb36004bd2d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ cat?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu gato?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-71cc80c021ff",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ shirt.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu camisa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-c40701bcecd1",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ pen.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-383e83cc7532",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ hat.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu sombrero.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-52446f7bcbe6",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ key.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu llave.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-3d1ae4adcf4d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ shirt.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu camisa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-72cbd1eea94d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ guitar.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu guitarra.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-d92b531ff27b",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ mirror.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu espejo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-57bd8069d646",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ mirror.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu espejo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-bbecc0252510",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ guitar.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu guitarra.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-569fed9c7277",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ box.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu caja.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-bcb8513fbd95",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ box.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu caja.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e792ca1e0bfb",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ guitar.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu guitarra.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a8c08043618b",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ plant.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu planta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-82f1522d7702",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ backpack.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu mochila.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-1e501c981926",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ ticket.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu boleto.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-db2e1ed5d4a8",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ plant.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu planta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-02b29e297c85",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ chair.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu silla.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a06aafc5da7d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ backpack.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu mochila.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6720711bd8ba",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ laptop.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu computadora.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ee48cb5e3a9e",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ backpack?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu mochila?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-61ec32b748da",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ plant?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu planta?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-38e8b1406819",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ box.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu caja.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-cbbe32b75316",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ wallet.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu cartera.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-3a8daf11275c",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ key.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu llave.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-c39d03e4df88",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ umbrella.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu paraguas.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-26f07f7153a1",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ bag?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu bolsa?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6dc29537d3c3",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ watch?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu reloj?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6445761250cf",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ laptop.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu computadora.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-720ee7229a1b",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ watch.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu reloj.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-d287a9af01b4",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ umbrella?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu paraguas?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a25850acb42c",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ house.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu casa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-f6881f068ada",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ shirt.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu camisa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-3a2d8ffb0b53",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ notebook.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6869b2cf0011",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ mirror.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu espejo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-df30bd4a78bb",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cup.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu taza.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-047441c87869",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ box.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu caja.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-f0ce44006e63",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ pencil.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu lápiz.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e9e8ee17a9cb",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ cup.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu taza.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-0fce71a99b5c",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ house.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu casa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a5c0050a7d07",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ pen.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-81d98ad2ba15",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ notebook.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e3fe53a3ca2f",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ pencil.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu lápiz.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-931b19023b1b",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ notebook.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e860a02cc4c1",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ bike.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-497668d4e1db",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ table.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu mesa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ea1a8c0f0af9",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ ticket.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu boleto.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e3cbfe524e1f",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ book.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu libro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-c4259080c334",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ book.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu libro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-7d14506413ad",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ jacket?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu chaqueta?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-fb46b1dfa213",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ backpack.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu mochila.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-af7cd1817a49",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ umbrella.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu paraguas.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-37384964985a",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ mirror.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu espejo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-439f0558b0fd",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ camera.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu cámara.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ec869507e785",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ book?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu libro?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-b2f542f61460",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ umbrella.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu paraguas.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-39e1aea4ddc6",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ jacket.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-f38ee23f378d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ jacket.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a995ef332007",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ table.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu mesa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6883ef25db19",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ bag.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu bolsa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-8556e797dd6d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ key?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu llave?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-abaf8f0b204b",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ notebook?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu cuaderno?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-3e89e7667b6c",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ hat.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu sombrero.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-2aa3c46482db",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ notebook.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-88fa7582a1e6",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ jacket.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-c7ef995eb72a",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ cup.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu taza.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e398b100561d",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ shirt.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu camisa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-de24786c20c0",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ bag.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu bolsa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-468194056f2b",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ house.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu casa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-1b803dfc1621",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ ticket.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu boleto.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-58ceff92b007",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ plant.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu planta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-0c6761b18139",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ cup.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu taza.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-8d8960824ff7",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ cup?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu taza?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e744325551fe",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ wallet.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu cartera.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-0f6d60c4ac34",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ table.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu mesa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-1967ab9e713f",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ umbrella.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu paraguas.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-0b21d1620412",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ box.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu caja.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-c4e74fc80970",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ pen?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu bolígrafo?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-58a2536eedab",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ ball.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu pelota.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6db171355ddc",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ watch.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu reloj.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-5295379ae803",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ dog?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu perro?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a9620a806fe1",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ book.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este es tu libro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-216273fc01b4",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ car?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu coche?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-d280941498ff",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ dog.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu perro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-bfd549e31a6e",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ bike.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-5a6326485910",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ notebook.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-334cf1a6aea4",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ chair.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu silla.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-29caed7ffd4e",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ phone.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu teléfono.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-0a71b48f1574",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ ball?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu pelota?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-8b826bfea3ac",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ shirt?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu camisa?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-e04bbfa1a84b",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ watch.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu reloj.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-45cca3ceeac0",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ phone.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu teléfono.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-6bc5d62d4cc8",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ plant.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestada tu planta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-9cc7a9449c57",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ plant.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu planta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-a47b79c26c90",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ box.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu caja.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-5b9cf64367f7",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ dog.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu perro.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-87083fabac16",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ chair.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu silla.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-f575a8a366a7",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ backpack.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu mochila.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-5bd8d717c79f",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ wallet.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu cartera.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-dc52e2401349",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ wallet.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu cartera.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-12cfaecb059c",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ camera.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu cámara.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-dce1897383ec",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ house.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu casa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-cdf95627eae6",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cat.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu gato.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-d53eb0de51b9",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ hat.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Me gusta tu sombrero.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ac2e2973ef60",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ bike.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ella vio tu bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-3487b904265a",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ pencil.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu lápiz.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-53cc53982723",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ laptop?",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Dónde está tu computadora?",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-2f1efd7268cb",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ phone.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Él tomó prestado tu teléfono.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-8c2fca08a64b",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ camera.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta es tu cámara.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-49fa48a3fae7",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ shirt.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu camisa.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-4a885f9a0dd8",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ pen.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Encontré tu bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-your-personal-pronouns-example-ff064a93a0cd",
+      "itemId": "a1-pronoun-your",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ ball.",
+      "answer": "your",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "No toques tu pelota.",
+      "hint": "Posesivo antes de un sustantivo: your + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: your + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

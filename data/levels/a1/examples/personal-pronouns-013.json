@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-b2770dcce67e",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ camera.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su cámara.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3d91a8fa211f",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ camera.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su cámara.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-2a5b7abb3a82",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ chair.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su silla.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-47f49517925a",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ chair.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su silla.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-31b95cb462e2",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ plant.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su planta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-dd3ccb3a345e",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ hat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su sombrero.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-568c5e9b0ba2",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ plant?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su planta?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-754a86e94448",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ watch.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su reloj.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-f7b549e016e4",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ cup.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su taza.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-e7bff82a3190",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ bag.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su bolsa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-7256c8028d9d",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ car.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su coche.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-75874068c129",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ camera.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su cámara.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-2767b4844fec",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ pencil.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su lápiz.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-65f6d98de39f",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ backpack.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su mochila.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-af21b99b413c",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ book.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su libro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-f07a584672ba",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ backpack.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su mochila.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-11582beea034",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ house.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su casa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-dbef54957134",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su gato.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-74f0483f1d29",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ notebook.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su cuaderno.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-c1a9ff7144d0",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ cat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su gato.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-b056b127a6d3",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ guitar?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su guitarra?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-1db068662031",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ car.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su coche.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-c71368e45c73",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ laptop.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su computadora.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3ccf9d48babb",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ cat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su gato.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-a8a8af7ae43f",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pen.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su bolígrafo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-360fee0ff6a5",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ table.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su mesa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3ddf078d9006",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ bike.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su bicicleta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-268d8c16babc",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ plant.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su planta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-85b4635970ca",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ guitar.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su guitarra.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-d9c73916ee43",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ laptop?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su computadora?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-5b87c8cc53cb",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ house.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su casa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-d0c3b96dc975",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ wallet.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su cartera.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-944a18c595b4",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ box.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su caja.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-f5ba37dac9ff",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ phone.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su teléfono.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-52178b1f9db3",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ jacket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su chaqueta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-ae92d87060f2",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ guitar.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su guitarra.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-d2592a6b5290",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ table?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su mesa?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3061ef815198",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ pen.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su bolígrafo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-9434d5729e15",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ notebook.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su cuaderno.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-b06ddf634700",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ pen?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su bolígrafo?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-4d74811f4664",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ mirror.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su espejo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-ef5e3bcdbf6f",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cup.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su taza.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-62d6b78fdfe6",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ cat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su gato.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-31402b6e3533",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ dog.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su perro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3f3ca012d0e6",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ mirror.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su espejo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-468ac961543b",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ guitar.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su guitarra.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-2d77736ee4ac",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ticket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su boleto.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-bb4c1fdbfdf1",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ key.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su llave.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-dca056dca3e6",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ shirt.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su camisa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-fd003c0e7ed2",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ cup?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su taza?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-1bf955361a62",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ table.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su mesa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-a5a4db4f79bb",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ jacket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su chaqueta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-7b8e8bb975af",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ box.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su caja.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-5fc8b039ee7c",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ notebook.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su cuaderno.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-da5318f99a93",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ notebook?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su cuaderno?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-9e8a4cc6e6cb",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ dog.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su perro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-34314787bdc5",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ cat?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su gato?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-197f79345983",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ bike.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su bicicleta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-c821bd769420",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ plant.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su planta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-8a6131ec6f68",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ bag.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su bolsa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-57423a11c1f8",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ bike.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su bicicleta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0d3525344275",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ pen.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su bolígrafo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-e9e333b0ffa6",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ dog.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su perro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-c36ae470e051",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ chair.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su silla.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-371b67094ae7",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ house.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su casa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-64797eadbf78",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ bag?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su bolsa?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-e33c0b1fb6fa",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ pencil.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su lápiz.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-9a9744a7f3fd",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ shirt.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su camisa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-d8f1961a808d",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ hat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su sombrero.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-f99b2ddf9b4a",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ book.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su libro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-78ac5ca30718",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ umbrella.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su paraguas.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-1de09fa996b0",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ cup.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su taza.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-5a2aa8a42d05",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ umbrella?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su paraguas?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0aeb2a295bb0",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ ball.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su pelota.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-a2041dd20521",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ box?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su caja?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-52f5c13ef3a3",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ ticket?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su boleto?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-dcef63feba7c",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ box.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su caja.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-b71b981de52c",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ key.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su llave.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-fc90d4ea82bb",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ pen.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su bolígrafo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-c2ecb4a3beaf",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ jacket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su chaqueta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-1454ba8d54da",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ plant.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su planta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-1352a1c755e2",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ book.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su libro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-d724c5804ac3",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ house.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su casa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-825f72da1b50",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ umbrella.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su paraguas.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-63a759ad33f0",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ table.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su mesa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-7d8507f46361",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ camera.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su cámara.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-c3235c6efca4",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ mirror.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su espejo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-998d700a860f",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ wallet.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su cartera.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-5ee3f769c3fe",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ jacket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su chaqueta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3216b585fba5",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ key.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su llave.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-1ee873fcb34f",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ guitar.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su guitarra.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-e954e647dd57",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ shirt.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su camisa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-8cd90ddacdfe",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ball.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su pelota.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-4fb396c08cb2",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ cup.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su taza.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-554939dc18d1",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ car.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su coche.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-14465ac6e995",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ hat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su sombrero.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-474634dd8ab1",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ chair.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su silla.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-6ea870bfbcd4",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ ticket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su boleto.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-08d2cdfe8e8f",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ key.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su llave.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-5d6a39fe33b2",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ ticket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su boleto.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-1fefcef4e307",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ laptop.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su computadora.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-71206e98c42e",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ book.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su libro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-10a43a348109",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ cat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su gato.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-9f750cd2b49b",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ phone.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su teléfono.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-6add58190df6",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ plant.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su planta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-b11b62788e33",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ pen.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su bolígrafo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-bd85a206cb37",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ table.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su mesa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-b8b85cfb6370",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ book.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su libro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0b6030bf4b14",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ laptop.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su computadora.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-22db9abc46b5",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ dog.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su perro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-db5570863663",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ ball.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su pelota.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-c6714d286e14",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ dog.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su perro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-fab8a615c70d",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ table.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su mesa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-ab0af16293b8",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ shirt.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su camisa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0301f150cd37",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ bike.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su bicicleta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-ca560abf5dcb",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ phone?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su teléfono?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-b631995b7e4b",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ pencil?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su lápiz?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-e84e9da2ee52",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ bike.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su bicicleta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-5edc05a798ac",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ hat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su sombrero.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-657928c00210",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ wallet.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su cartera.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3f8a5d730aaf",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ backpack.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su mochila.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-21421c181ddc",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ bag.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su bolsa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-b0fbbac71716",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ bag.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su bolsa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-9bd3f64720af",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ camera.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su cámara.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-db49fa488ed5",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ chair.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su silla.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-c2a062713664",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ jacket?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su chaqueta?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-2a999fe9d862",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ wallet.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su cartera.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-beaefe04ae76",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ watch.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su reloj.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-427a366c43ab",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ cup.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su taza.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-f97fa13db556",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ ball.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su pelota.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3dac7abd0352",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ laptop.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su computadora.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-5eee2ec3799b",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ key.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su llave.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-485ac9872b47",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ book.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su libro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0af800ac0903",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ pencil.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su lápiz.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-5449d8adda95",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ bike?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su bicicleta?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-a3e4b2b958df",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ pen.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su bolígrafo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-52fbc01a7366",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ mirror.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su espejo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-4e0863bf0981",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ watch.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su reloj.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-7db5c9dd540f",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ box.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su caja.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0786c1481ca1",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ phone.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su teléfono.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0501aab34294",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ phone.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su teléfono.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-97d1ed161554",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ ticket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su boleto.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-9037420e9edc",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ pencil.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su lápiz.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-6417e98cb490",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ car?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su coche?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-6874ac953f72",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bike.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su bicicleta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-a7dc5e0216e1",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ camera.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su cámara.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3911ac391a97",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ hat?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su sombrero?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-80ce168fe80d",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ cat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su gato.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-d9170d8e0d49",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ shirt.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su camisa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-4e42be34e5ba",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ notebook.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su cuaderno.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-e0deac06edc4",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ backpack.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su mochila.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-f4367f5b05a7",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ box.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su caja.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-b3fe6f2fd7a2",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ ball.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su pelota.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-2cd9e6ddfd8b",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ car.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su coche.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0232a09c3775",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ backpack.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su mochila.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-aada7b26c769",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ jacket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su chaqueta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-09b3aad9213d",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ notebook.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su cuaderno.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-35cf0b6077bd",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ box.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su caja.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-c1e6bc849da5",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ book?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su libro?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-f2f1a1e70fe9",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ shirt.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su camisa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-f638f299f78e",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ dog.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su perro.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-93b80874d4ca",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ jacket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su chaqueta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-16dfafa4280b",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ watch.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su reloj.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-86d5f570ef68",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ mirror?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su espejo?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-452c28692e06",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pencil.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su lápiz.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-939df3442ecf",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ hat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su sombrero.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0c8980155144",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ house.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su casa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-4801782f3d50",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ hat.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su sombrero.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-f1113a064ec0",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ wallet.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su cartera.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-69965810c881",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ plant.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su planta.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-a4a2485a2b5f",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bag.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su bolsa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-29585b9c2bc8",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ wallet.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su cartera.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-979d7a60718b",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ watch?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su reloj?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-058e0c159dc9",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ watch.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su reloj.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-679a8a1c5b15",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ phone.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su teléfono.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-f784cdd75fab",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ chair?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su silla?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-548c29ccc756",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ watch.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su reloj.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-28ab472f4963",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ umbrella.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su paraguas.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-61430f7a6791",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ camera?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su cámara?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-e13cee3a6eb2",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ umbrella.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su paraguas.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-a4903219b04e",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ car.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su coche.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0c6ad9365f2a",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ ball?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su pelota?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0bdee927a525",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ table.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestada su mesa.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-6e2566ddb9ff",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ phone.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su teléfono.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-040bbf7c832f",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ backpack.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su mochila.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-d96706c6eb66",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ dog?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su perro?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-39973b23c932",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ laptop.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Me gusta su computadora.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-0996053b8730",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ ball.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su pelota.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-b39b4779e190",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ wallet?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su cartera?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-9df659f4c363",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ ticket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Él tomó prestado su boleto.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-2446849b037a",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ cup.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su taza.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-d7d19dc55079",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ mirror.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su espejo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3b6b5a93e595",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ mirror.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Este es su espejo.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3b7cbc28eef4",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ car.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Ella vio su coche.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-30cf366b6525",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ backpack?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su mochila?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-a73a9e46b6b0",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ umbrella.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Encontré su paraguas.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-8684a3cc3555",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ ticket.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su boleto.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-83baedd6b6e1",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ key.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "No toques su llave.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-8b9617b67b9c",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ guitar.",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "Esta es su guitarra.",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-her-pos-personal-pronouns-example-3c04dcc83531",
+      "itemId": "a1-pronoun-her-pos",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ house?",
+      "answer": "her",
+      "acceptableAnswers": [],
+      "options": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "translation": "¿Dónde está su casa?",
+      "hint": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "explanation": "'her' como POSESIVO: antes de un sustantivo (her book).",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

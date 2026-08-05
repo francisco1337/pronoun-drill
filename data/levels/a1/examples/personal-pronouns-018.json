@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-5493f830d6e1",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Laura los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-cf7db5cde3ff",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lisa los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-de01bcb2db93",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-025af6fca0df",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "David los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d90997308d89",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-fd564735d2a8",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Carlos los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d5d554a1006e",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Rosa los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-f60756df17fb",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "David los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-42e12583464d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-b27a5a161ff2",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lisa los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-4d081f4fbfbe",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Anna los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-a0be195ab8ec",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-8675aabe97c1",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is for ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esto es para ellos.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-85da37dfa07d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Anna los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-33cd55990921",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-37b8bba3f567",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Anna los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-340a4129f565",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-fce427609567",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-6de43244a99b",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sam los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-a41ff13fa4ac",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Laura los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-fde55b7eba15",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-f91fb03f6c7c",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Rosa los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-0306b5ef5d04",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "John los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-77422f0ced65",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Mark los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d1635e753370",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sam los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-818fb1b050b8",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lisa los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c819218d7846",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Peter los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-0c645ba4530e",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-4685f7c0f7f9",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Rosa los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-524af44da179",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Anna los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-db6c1731c82f",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-ebd2324b9bf6",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "David los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-b1d0141c980b",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Emma los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-bc4272bb1ad6",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sam los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-06453e810660",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-bb0a15674189",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Anna los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-9aa8a5e4c3ea",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-5b2ea548de75",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sam los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-0c4a8e23dcc8",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Nora los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-218010ed33ae",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Nora los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-ad749723bf7d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Emma los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-f719e980808d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Carlos los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-a8c804be9eb0",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-4044ff41bda7",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-e43f23c66fac",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Nora los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-6affa44c1db1",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Laura los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c884713ebaae",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-bbf7ee3d6b6f",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-597cd2ba0bae",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "John los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-7742eed1d5bd",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Laura los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-34c7cc60dc16",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-980dc9b8da71",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-20c2f5a8afa1",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-20e6bb8cb99d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Emma los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c192c1b658d3",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-b91d7c09af05",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Peter los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-80b8c5085116",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sofia los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-6d6819cc1b8c",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-1c439f2336d1",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Carlos los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d3661d6a3d7a",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lisa los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-6ba00ad10b4f",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-655488e7bfd0",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lisa los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-58b8dcaf3e90",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-639fcd8784ea",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-9a2062565121",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-b7f644e84932",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Mark los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-b739d62bbdb6",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Nora los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-adb716d46155",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sofia los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d9a1083b6014",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Carlos los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-78fd1142c767",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Mark los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-9c33514840f1",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sam los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-2139c33d63df",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Peter los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-0ed1e169a7d7",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-118c19bd4c5e",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-edf814e17e4a",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Nora los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-9f6d99be126e",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c06a0d47a24d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-1dc217210b6c",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Mark los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-26607b345c00",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "John los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-b22bf0136c10",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Laura los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-b60148c055dc",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "David los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-53fa9ccf5c5e",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c4068204a6b8",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "John los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-7fe3355a75fe",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-57bfe723bef8",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Nora los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-e332fb2c3107",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "John los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-286d60419b67",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Mark los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-649c12ecfd35",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sofia los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-e353f4123dea",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Rosa los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-5df3bc26d603",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d51f032769bf",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "John los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-0633074d8005",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-20dadcfa4fcb",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-9ab3479f5b4f",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-7b5ecd5a438a",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Carlos los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c6330246ec9c",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lisa los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-dd5086a299b1",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-3f6a70ad3199",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Carlos los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-378b8d34da59",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-017dbeef1510",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-2b3280a85f74",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Rosa los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-39bc1dbf3a97",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Peter los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-ed3de2d21cc2",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-2b24baef972f",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-1da735e5e542",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-2e03ee2328f5",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-be0c36b4ec55",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d687e80176eb",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-a96304c47459",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-fc0058d5946c",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Peter los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-9aa6c6b9a009",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "John los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-3ec8a8d290fb",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-2fc557b5d589",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Rosa los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-ae1ecfdc19cf",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-7ef843007499",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sam los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-6c2b296902cc",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Nora los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-e4047d7d9bf5",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Peter los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-917712b7cb7a",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d0f3364008eb",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She did it for ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lo hizo por ellos.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-fa5410773855",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Peter los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-f7019e275ac4",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sofia los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c2f6a8f3d97e",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-231cb31f5c2d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Peter los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c1f20b9c0097",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Rosa los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-a95251983196",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Anna los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c40ffae10157",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Carlos los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-bd2640556600",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-bb559cb88564",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "John los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-e14b603c1f5c",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Laura los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-7d363cee9aa7",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sam los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-6ad527cfba9d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "David los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-6dfa937ccd15",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-f56769c923df",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Emma los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-ef09e9d5a6d1",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Carlos los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-16e00dc10b79",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-40d03f15a455",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-33ccfb3e87a8",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-1c48d00887ab",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Laura los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-fce5a4c756c6",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Mark los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-fdbf466683f5",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Nora los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-519ec800cdc6",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-193e74910820",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Mark los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-8de59ec3d540",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d2f91ca6e063",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-417ab6ffc75c",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sofia los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-37a800c52218",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-070c98256141",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-66eb5d14c858",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "David los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-90a9f18c92ff",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-2966ef299c27",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-7ff8673f7b53",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Emma los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-1c724a70a509",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-2dadd965ceb1",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Emma los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-aade748600ec",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sam los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-ace239ad3c4d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-064608945e87",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Anna los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-df91902345f7",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He sat next to ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Se sentó junto a ellos.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-3a80d67487d1",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-fa732b510870",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Mark los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-abc2ba9fa6ad",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Carlos los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-fbca2ae67c2a",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-1f49958c7c06",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-f8d590b2390c",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-e69557762169",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sofia los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-14f21faa3bed",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Mark los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-575b9f95deba",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam hears ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sam los oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c188d8899532",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-7235845bc31a",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sofia los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-5563039fa742",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lisa los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-5e4c1ad648e4",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sofia los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-0bb8d14de3de",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-e4cb60445b9a",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Emma los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-988aae50f80a",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lucas los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-bd324f7e6202",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sofia los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-948a9396ea21",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Elena los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-0c4a3fc551d9",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego watches ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-c9b4c4384511",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Diego los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-78b3f61a564d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Tom los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-ea2f09ed1930",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura visits ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Laura los visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-5310beb03b35",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lisa los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-aba8ba1cd9f4",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna understands ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Anna los entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-4ca96e0d5779",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Laura los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-a3b0a589f753",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John sees ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "John los ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-a2c2ab31893d",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Peter los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-2edff1d30a7b",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Emma los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-02b1088bcf5a",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "David los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d8744cefd444",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Paul los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-03fd1664a61a",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lisa los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-5302fd3b2f39",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David knows ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "David los conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-d0f959ae3a9f",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-6a7b157c2a0c",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Maria los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-1ebcb3b0a437",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos calls ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Carlos los llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-cae79e931536",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Rosa los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-bb829b998ab8",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora helps ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Nora los ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-9542dfd15740",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna needs ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Anna los necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-85ed2632ab91",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa loves ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Lisa los quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-31197168dcb3",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Clara los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-a200023cce81",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "David los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-0c76d9de4995",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia misses ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Sofia los extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-them-personal-pronouns-example-0d12b817dc74",
+      "itemId": "a1-pronoun-them",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna invites ___.",
+      "answer": "them",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Anna los invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

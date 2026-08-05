@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "simple-present",
+  "examples": [
+    {
+      "id": "a1-verb-look-simple-present-example-b2cd18e37d54",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ the report every day.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Yo mirar el informe todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-a039878c138a",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I does not ___ the report.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Yo no mirar el informe.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-c7f6c33b23df",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You ___ a plan every day.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Tú mirar un plan todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-2a471301ddfa",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "You does not ___ a plan.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Tú no mirar un plan.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-9597befcc034",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He ___ the lesson every day.",
+      "answer": "looks",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Él mirar la lección todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-558e9fec7f8e",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He does not ___ the lesson.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Él no mirar la lección.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-a947eab7d5e0",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She ___ an idea every day.",
+      "answer": "looks",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Ella mirar una idea todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-6dca5744e341",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She does not ___ an idea.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Ella no mirar una idea.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-ebc791303ee7",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It ___ a house every day.",
+      "answer": "looks",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Eso mirar una casa todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-8f89f84d6691",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "It does not ___ a house.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Eso no mirar una casa.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-fde947d69c78",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We ___ the project every day.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Nosotros mirar el proyecto todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-a4fcf8cb1201",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "We does not ___ the project.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Nosotros no mirar el proyecto.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-fbdfe80a8bf1",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They ___ a car every day.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Ellos mirar un coche todos los días.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-verb-look-simple-present-example-78b9bbbfc305",
+      "itemId": "a1-verb-look",
+      "level": "A1",
+      "topicId": "simple-present",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "They does not ___ a car.",
+      "answer": "look",
+      "acceptableAnswers": [],
+      "options": [
+        "look",
+        "looks",
+        "looking"
+      ],
+      "translation": "Ellos no mirar un coche.",
+      "hint": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "explanation": "I/you/we/they usan la forma base; he/she/it usa -s o -es.",
+      "grammarTags": [
+        "simple-present"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

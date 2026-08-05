@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-eb841747e44d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a chair.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una silla.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-59d76e44ec15",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a table.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una mesa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-e7965c4512ca",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a pen.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia un bolígrafo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-3209ee2c5edb",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a key.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una llave.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-dc513deb6337",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a cat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita un gato.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-1bb9bf0a7290",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a phone.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra un teléfono.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-0f266a5e36db",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a shirt.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava una camisa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-053f2f9fdffe",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a notebook.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla un cuaderno.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-628cae54e121",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a chair.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae una silla.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-ae918d7db43e",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a cup.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia una taza.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-5cfd65b75d42",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a chair.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita una silla.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-b1b7633039dd",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a car.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita un coche.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-6f4c52affef5",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a chair.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra una silla.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-2324eae69038",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has an umbrella.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene un paraguas.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a43c1eb85550",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a car.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde un coche.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-956169b73548",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a dog.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere un perro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-2786e570ef9d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a phone.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava un teléfono.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-d07ee4ebd561",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a camera.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere una cámara.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-d60dde087f18",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a book.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene un libro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-1af82e06a771",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a bike.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde una bicicleta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-32cf08408622",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a chair.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende una silla.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-192b1f437793",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a house.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita una casa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a18f37e8effd",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a bike.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae una bicicleta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-ca23092de7fb",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a pen.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere un bolígrafo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-01b02a8ac51a",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a watch.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere un reloj.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-c5fd2d5da015",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a phone.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia un teléfono.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-976d0f6e05ad",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a camera.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde una cámara.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-1dad3826146d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a shirt.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una camisa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-6dfcf0d39d90",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a camera.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una cámara.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-314b7b07d59b",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a ticket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava un boleto.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a197fb5061d9",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a watch.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia un reloj.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-9a6a965f36f4",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a pen.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita un bolígrafo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-bfb9ab7a0a5a",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a key.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa una llave.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-552bf3de2458",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a box.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene una caja.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-825cf1393713",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a bag.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae una bolsa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-c6dfbefa68ab",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a ticket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae un boleto.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-039c8cb7437e",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a backpack.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita una mochila.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-6b1c853cbe00",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a mirror.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita un espejo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-2895f4a1b65c",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a notebook.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra un cuaderno.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-814955206b54",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a mirror.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla un espejo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-1ba7b6625b89",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a car.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva un coche.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-541f7ba6bce3",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a phone.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene un teléfono.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-177c060528b8",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a car.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra un coche.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-2d9efebf04a3",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a bike.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una bicicleta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-c0d5b9a0332d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a house.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra una casa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-4e2a4a4943ed",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a dog.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde un perro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-4c19ca8d1125",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a pen.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa un bolígrafo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-8256ef7ae37f",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a notebook.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere un cuaderno.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-1a15a8a509f6",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a jacket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene una chaqueta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-d9fb4e2c033f",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a bag.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa una bolsa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-509875e57a19",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a bag.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve una bolsa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-9753dc65a792",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a table.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene una mesa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-b1d28ae8317f",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a ball.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una pelota.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-1e1570d1f2b0",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a pen.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende un bolígrafo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-eabe79cf2481",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a box.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava una caja.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-7f4015ce390d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a house.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa una casa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-16c46e29a95f",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a backpack.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una mochila.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-97953a265654",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a mirror.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende un espejo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-bb51ab3bdb57",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a bag.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una bolsa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-4fc239036c65",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a book.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere un libro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-ec7ec7da4060",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a car.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene un coche.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a76e92c06c8b",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a box.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere una caja.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-b8975b524fa3",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a box.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde una caja.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-ce2725c35a2c",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a chair.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere una silla.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-294ce36bb2fc",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a wallet.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae una cartera.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-6805a6835290",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a bike.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una bicicleta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-bcdebb093fef",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a jacket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva una chaqueta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-ba7f48fa654e",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a plant.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra una planta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-96aeaf60bca1",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a laptop.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra una computadora.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-1e1f412c389d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a jacket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende una chaqueta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-4ccf92bff753",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a watch.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene un reloj.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-cad7ef204f05",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a car.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende un coche.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-27e01c1d6724",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a pencil.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra un lápiz.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-caa98cd0d359",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a plant.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve una planta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-06a636a69886",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a box.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una caja.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-f2d4bf3aea9a",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a cup.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene una taza.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a8eb92fbc097",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a cup.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una taza.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-8be2f1fd6410",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a house.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una casa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-743724197fa5",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a watch.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita un reloj.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-409cf2ee18b8",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a backpack.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene una mochila.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-bfb656288eef",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a car.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra un coche.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-89bc2fdb2cdd",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a car.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia un coche.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-cdee005bc30b",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a ball.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde una pelota.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-f45b9a05023d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a table.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve una mesa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-3ec6759b582b",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a shirt.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia una camisa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-18db6cefab69",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a mirror.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra un espejo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-8920c88df6a7",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a table.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita una mesa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-71f5fff29d06",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a bike.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende una bicicleta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-74ae889d739c",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a camera.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae una cámara.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-644dcb722c2e",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a ticket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva un boleto.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-7e21f4dc63d5",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a table.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia una mesa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-257d87a2bb12",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a camera.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra una cámara.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-efec8c90f4f2",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a ticket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa un boleto.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-8963e5a80183",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans an umbrella.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia un paraguas.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-424722c00853",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a key.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una llave.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-f887fa06fd1b",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a plant.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita una planta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-4e4d95ee82ea",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a watch.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra un reloj.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-f4258d60c2bc",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a plant.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una planta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-e33648595cda",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a cat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava un gato.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-7b4bb382c630",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a pen.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla un bolígrafo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-33fe78a67587",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a hat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende un sombrero.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-11414d7a9a8d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a watch.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra un reloj.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-cd6257e6cdfb",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a table.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una mesa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-bdb7d714b2f7",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a table.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde una mesa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-e9de07bf222d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a book.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia un libro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-9f97db0fa47d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a watch.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde un reloj.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a6925376f2a3",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a wallet.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende una cartera.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a5d0ceb2c9ef",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a bike.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve una bicicleta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-2bbef0033b7c",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a jacket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere una chaqueta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-06e7ca0b02b9",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a jacket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una chaqueta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-1f3743844c91",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a notebook.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita un cuaderno.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-53ab6aae76d6",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a pen.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra un bolígrafo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-9957e831febb",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a hat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae un sombrero.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-86146762e9e5",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a jacket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita una chaqueta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-bece28ef3eea",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a shirt.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae una camisa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-f1119a947dfe",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a book.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde un libro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-67cc36a0af57",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a notebook.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava un cuaderno.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-08b18c3319b0",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a car.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa un coche.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-25727b701fa3",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes an umbrella.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava un paraguas.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-8e6bce567076",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a dog.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende un perro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-f8abcf5a3374",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a table.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva una mesa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-e759f326aabe",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a notebook.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde un cuaderno.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-53f8a46e826c",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a shirt.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene una camisa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-b7fe2b6b8b99",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a guitar.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava una guitarra.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-269a789c766f",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a watch.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve un reloj.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a4c6086b678f",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a pen.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve un bolígrafo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-635ec31061fc",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a ball.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende una pelota.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-4dbbc9ce35a8",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a camera.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva una cámara.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-1574839b18a7",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a watch.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende un reloj.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a92735f76d65",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a key.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia una llave.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-40485b342486",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a laptop.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita una computadora.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-287bc888c4e3",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a camera.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene una cámara.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-38303d78adc1",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a pen.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva un bolígrafo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-b903c4e4c216",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a bike.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia una bicicleta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a7d4a018d8f5",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a shirt.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una camisa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-57815b111bae",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a hat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla un sombrero.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-0c37ba6b542c",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a notebook.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende un cuaderno.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-8e448c90d807",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a plant.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende una planta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-f9956585ab99",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a ball.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve una pelota.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-df6ff91c032d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a shirt.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere una camisa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-f0f22e7dd04c",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a cat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra un gato.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-b285ba9a57f0",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a shirt.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa una camisa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-0fd4d3fbe965",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a bike.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra una bicicleta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-905a95f8eea6",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a laptop.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde una computadora.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-2521cbcc8589",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a cat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla un gato.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-5b1badc4fff6",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a cat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra un gato.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-5f2da82f0ce0",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a chair.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva una silla.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-bd89a4dd12f9",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a phone.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita un teléfono.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-58664b73a796",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a dog.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva un perro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-e97a4566c7a5",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a bike.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa una bicicleta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-69127d9cadda",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a key.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere una llave.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-ce1486ac5561",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a plant.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene una planta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-289b23ff32c5",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a chair.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava una silla.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-72e7d294b79d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a cup.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava una taza.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-bd89485e6cb4",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a jacket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa una chaqueta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-bb7d1708ad3f",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a dog.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava un perro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-64ad993c078e",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a key.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita una llave.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-9d76f3fbc455",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a box.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae una caja.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-16d93fd1eb09",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a guitar.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae una guitarra.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-5f3fb8052e37",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a mirror.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava un espejo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-0ab722c35722",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a bike.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava una bicicleta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-ca0bb10e7793",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses an umbrella.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa un paraguas.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-33837eb85eee",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a laptop.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla una computadora.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-780944db09d1",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a ticket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere un boleto.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-9ef9c2510065",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a cat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende un gato.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-07eba20306e3",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a cup.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva una taza.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-ee30a9015e56",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a chair.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia una silla.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-7c8deb89fd87",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ washes a pencil.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lava un lápiz.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-89df0384a0f7",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a cat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae un gato.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-8b998f957ddc",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a jacket.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una chaqueta.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-555a0a0a380c",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a chair.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde una silla.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-e889a1c00e34",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a cup.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve una taza.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-3cf0be837e6a",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a cup.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una taza.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-45dda2451cd0",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a laptop.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende una computadora.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-5f7b4f898081",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ wants a mirror.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él quiere un espejo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-4c568dc14da5",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a cat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve un gato.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a2d561b20cb4",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a wallet.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita una cartera.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a02ed12a9ff8",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ needs a book.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él necesita un libro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-9dd768276ece",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a pencil.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde un lápiz.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-1bbc12727498",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a guitar.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende una guitarra.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-d7f928be3aaf",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds an umbrella.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra un paraguas.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-36b5a963d306",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a guitar.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra una guitarra.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-3544cd20e0a3",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a ball.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra una pelota.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-b057e5e65832",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a house.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve una casa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-bc465dae9456",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a notebook.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva un cuaderno.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-a729bbd6b0e3",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ brings a cup.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él trae una taza.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-69598885daf2",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a book.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa un libro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-2d89559a036e",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ has a mirror.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él tiene un espejo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-68d4cd316cca",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes a car.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla un coche.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-d7432917ace1",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ uses a pencil.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él usa un lápiz.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-7a809255f269",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ buys a house.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él compra una casa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-cf240aaad374",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a laptop.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia una computadora.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-371cd8687e46",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sees a notebook.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él ve un cuaderno.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-216f95263f5d",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ carries a book.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él lleva un libro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-cb77dfe2bee8",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ loses a cat.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él pierde un gato.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-186f257b5f90",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ cleans a notebook.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él limpia un cuaderno.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-36012410da58",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ fixes an umbrella.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él arregla un paraguas.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-df9d44c73bb4",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ sells a book.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él vende un libro.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-405cef69aa23",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a pen.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra un bolígrafo.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-he-personal-pronouns-example-ec5e4960d3d9",
+      "itemId": "a1-pronoun-he",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ finds a table.",
+      "answer": "he",
+      "acceptableAnswers": [],
+      "options": [
+        "he",
+        "him",
+        "his"
+      ],
+      "translation": "Él encuentra una mesa.",
+      "hint": "Sujeto masculino: va antes del verbo.",
+      "explanation": "Sujeto masculino: va antes del verbo.",
+      "grammarTags": [
+        "pronouns",
+        "sujeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

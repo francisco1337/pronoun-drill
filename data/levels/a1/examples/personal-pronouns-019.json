@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-5f0ea1bd1e9e",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ pen.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-4fd1d76d13fd",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cup.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su taza.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-28a3a6b87823",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ pencil.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su lápiz.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-93f177caa6d1",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ table.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su mesa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-e762a58840c9",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ camera.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su cámara.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-83507dfe35ca",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ car.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su coche.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-57b07f2206d6",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ laptop?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su computadora?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-5cb1175bab52",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ umbrella.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su paraguas.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-766779f2886e",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ bike.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-78ad4d0ae62a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ mirror.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su espejo.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-91806820e06e",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ box.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su caja.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-a46f9a803920",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ car.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su coche.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-cd56b9eb5407",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ laptop.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su computadora.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-2a8e3d662256",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ bike.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-05511c313a42",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ notebook.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-31a878f8d3c0",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ cup?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su taza?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-a4f35780fc52",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ chair.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su silla.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-2bf3fcd4696d",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ dog.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su perro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-80724098abc0",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ bag.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su bolsa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-52dfa5de3a24",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ notebook.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-7c075e5b66f9",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ cat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su gato.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-dcb41160c794",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ camera.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su cámara.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-fbf999e3a4d4",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ wallet.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su cartera.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-c8ec9ff59c36",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ key.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su llave.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-28c8480b78dc",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ shirt?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su camisa?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-4368cee0e326",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bike.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-9b3bf270a3e0",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ backpack.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su mochila.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-57f6aa4f6cb3",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ table.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su mesa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-ecc6694ef52e",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ shirt.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su camisa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-a34d6cf0bf5a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ guitar.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su guitarra.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-8b3a249d74b2",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ plant.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su planta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-4d7caa7c77cc",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ guitar.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su guitarra.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-24eaabcf93ad",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ key.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su llave.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-d747e8c9e706",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ pen?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su bolígrafo?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-b842d43179d9",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ bag.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su bolsa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-e1760f149f96",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ plant.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su planta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-e5cbd80db91a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ plant?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su planta?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-d01172144829",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ guitar.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su guitarra.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f9bdedb6e574",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ shirt.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su camisa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-d4eeb766642a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ cat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su gato.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-2247e27b498a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ key.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su llave.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-eca4fcbf190a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ wallet.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su cartera.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-51cf2b6facf4",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ phone.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su teléfono.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-38cccc1004fc",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pencil.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su lápiz.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-41ee1797c3bc",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ mirror.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su espejo.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-7e75c69b94d5",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ umbrella.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su paraguas.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-80cf1d0b4965",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ cup.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su taza.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-28458b5caf53",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ shirt.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su camisa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-9bfed347666a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ car.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su coche.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-8bd715196c49",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ bag.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su bolsa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-cdca7f590ed5",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ ball.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su pelota.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-92cad7c5e016",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ backpack.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su mochila.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-2dcdbbe631e6",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ umbrella.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su paraguas.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-de20f70009d2",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ table.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su mesa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f8345023ac87",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ car.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su coche.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-2140fe794714",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ ticket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su boleto.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-7c14365dfa6b",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ house.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su casa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f8b1e090f049",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ shirt.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su camisa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-7c387a0900f4",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ book.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su libro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-22c9cd3d62b2",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ bike.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-80bab3d12454",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ wallet.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su cartera.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-246064f89c11",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ cat?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su gato?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-6cd2e2ba3a42",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ book?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su libro?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-a7b505a0ae1a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ laptop.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su computadora.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-051366a0e806",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ house?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su casa?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-b85e253e39ec",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ticket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su boleto.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-8611c7afda4f",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ dog.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su perro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-fe246f9fa10d",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ jacket?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su chaqueta?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-48f5765d9418",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ pencil.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su lápiz.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-673f9d78d4d9",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ shirt.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su camisa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-281209cb03f7",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ notebook?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su cuaderno?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-ee2558ea2fb4",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ camera.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su cámara.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-7339d09924d6",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ jacket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-9dcfef6f9287",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ house.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su casa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f79b97b9a3c6",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ cup.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su taza.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-67d2b382a92d",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ wallet?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su cartera?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-43a0778448f5",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ bike?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su bicicleta?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-6621255a967d",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ jacket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-ff4311474fcd",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ dog.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su perro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-1063e82e12a3",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ key.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su llave.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-80ee23190734",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ watch?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su reloj?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-28642737a753",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ guitar.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su guitarra.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-14e464b6fdf8",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ box.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su caja.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-11cc05825a6e",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ ticket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su boleto.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-bc84c2b153ac",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ backpack.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su mochila.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-ce5625223152",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ mirror.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su espejo.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-bf2a2168bdc5",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ watch.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su reloj.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-4a7bedd8d522",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ mirror.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su espejo.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-4610b83f815b",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ pencil.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su lápiz.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-e7a2250063b1",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ dog?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su perro?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-e5b5c79b3bd0",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ box.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su caja.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-7fc0ecef1036",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ ball.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su pelota.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-8555515b4b3d",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ mirror.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su espejo.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f1f14482c75b",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ box.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su caja.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-c7612ec572b0",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ backpack.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su mochila.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-6cf96a5b0303",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ ball?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su pelota?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-b6e372d0de2c",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ chair.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su silla.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-ed2165668f78",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ pen.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-696090707232",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ hat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su sombrero.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-b1fecb947c0d",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ house.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su casa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-727cb82e5066",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ wallet.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su cartera.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-35f21e8850a9",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ hat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su sombrero.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-946a2505fa4b",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ chair.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su silla.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-83604fbe5e74",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ laptop.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su computadora.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-cace7ec341ea",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ phone.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su teléfono.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f47ba0ede977",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ plant.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su planta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-e2fa3d54a900",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ table.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su mesa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-096100afdc29",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ laptop.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su computadora.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-b0cde1f7cb2e",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ phone.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su teléfono.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-1482f04f6b05",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ watch.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su reloj.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-8ecf675edbca",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ cat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su gato.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-b8a7530f92fa",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ camera.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su cámara.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-574e3b0579d4",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ ball.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su pelota.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-41b5111b2cb6",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ ball.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su pelota.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-2ba0ae7eaf95",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ backpack.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su mochila.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-ca0e9a4c06f1",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ cat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su gato.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-256fbb75d452",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ chair.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su silla.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-1c94ba480606",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ umbrella.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su paraguas.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-14f879838c52",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ house.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su casa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-121ab05b013c",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ camera?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su cámara?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-72d894ae2166",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ pen.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-a97b64774c5c",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ plant.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su planta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-1db5bfbab8a6",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ camera.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su cámara.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-69a0856f79fa",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ book.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su libro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f3d9f64ba0e2",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ chair?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su silla?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-910d3a8fe562",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ cup.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su taza.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-d35a52000903",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ backpack?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su mochila?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-c3d2db16113d",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ notebook.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-1af6bdd6442f",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ book.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su libro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-1f1a02aa24b3",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ book.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su libro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-561c5a19c13d",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ car?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su coche?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-5495dbec26e7",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ key.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su llave.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-7d3502e0195c",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ house.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su casa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-b69301b6c907",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ plant.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su planta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-b8e70f786b11",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ umbrella.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su paraguas.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-a598926f534e",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ notebook.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-36e581bc8db1",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ book.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su libro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-4df6b4b1f43a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ guitar.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su guitarra.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-161a73d42237",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ guitar.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su guitarra.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-9490021ab72b",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ bag.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su bolsa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f7cf53ba555a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ laptop.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su computadora.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-774222cd379a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ key?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su llave?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-0666585b7e98",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ phone.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su teléfono.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-c6217d4555e8",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ chair.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su silla.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-735db4a0c4a8",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ box.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su caja.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-19888a041c26",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ car.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su coche.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-8faf5cf27989",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ cat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su gato.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-d5029f464ddc",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ ticket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su boleto.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f0fb3ca131b2",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ hat?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su sombrero?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-0f558bc55a45",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ bag.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su bolsa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-6594cf1da0c0",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ table.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su mesa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-cf45927fbc32",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ hat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su sombrero.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-354458389e0e",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ ticket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su boleto.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-6985bcb74f9c",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ shirt.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su camisa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-8fe021bd0a87",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ hat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su sombrero.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-8cae36bed2d9",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ plant.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su planta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-94d9ec5f32e0",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ bike.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-e8e670bb8ba9",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ wallet.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su cartera.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-8bf24986f526",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ table.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su mesa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-181c4fc17881",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ cat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su gato.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-2b4477ca8502",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ pen.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-2bb2152fe459",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ bike.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestada su bicicleta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-7884457ec2a9",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ notebook.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su cuaderno.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-fa817270ca6c",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ bag.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su bolsa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f08059b9f30c",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ watch.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su reloj.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-e6d7e2ff35d4",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ ball.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su pelota.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-92b74b956e23",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ pencil.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su lápiz.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-fe5890b31a9c",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ pen.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su bolígrafo.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-314cea49ee0d",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ phone.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su teléfono.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-c54070ef9709",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ ticket?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su boleto?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-69d433438a4e",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ jacket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-28bfb0a4dedc",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ ticket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su boleto.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-f42b86728593",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ cup.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su taza.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-fb12f0485d31",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He borrowed ___ watch.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Él tomó prestado su reloj.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-917ca501869b",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ dog.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su perro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-3fffc57e46cd",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ ball.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su pelota.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-b63997513193",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ phone?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su teléfono?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-2f6448fca9cc",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ table?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su mesa?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-d1019811ee03",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ key.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su llave.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-22c911c0b8cd",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ phone.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su teléfono.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-a66afc71458b",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ watch.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su reloj.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-a4897ec8d424",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ jacket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Esta es su chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-108f299ee78a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ mirror?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su espejo?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-e69de8bbea37",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ pencil?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su lápiz?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-9d3140a4429b",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ umbrella?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su paraguas?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-d8b910ca396f",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ pencil.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su lápiz.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-3b1acb60d302",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ dog.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su perro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-ff75a7eb008a",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ laptop.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su computadora.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-635efeb5a546",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ hat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su sombrero.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-bac5f0496dcf",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ box.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su caja.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-03fc24ac02db",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ umbrella.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su paraguas.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-376ce5ab3d89",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ watch.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su reloj.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-c42f275d02ff",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ box?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su caja?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-0510140f6dba",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Where is ___ bag?",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "¿Dónde está su bolsa?",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-069d6df0fb55",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ chair.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su silla.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-de12c4e7dea4",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Don't touch ___ jacket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "No toques su chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-2f3f21f1c2f8",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is ___ hat.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Este es su sombrero.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-023850059fd3",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I like ___ jacket.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Me gusta su chaqueta.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-4f5ead4ff346",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I found ___ dog.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Encontré su perro.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-their-personal-pronouns-example-9e1fd3905615",
+      "itemId": "a1-pronoun-their",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She saw ___ house.",
+      "answer": "their",
+      "acceptableAnswers": [],
+      "options": [
+        "they",
+        "them",
+        "their"
+      ],
+      "translation": "Ella vio su casa.",
+      "hint": "Posesivo antes de un sustantivo: their + cosa.",
+      "explanation": "Posesivo antes de un sustantivo: their + cosa.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (adjetivo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

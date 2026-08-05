@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-3ef71bf2e020",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this watch ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este reloj tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-8ce0e192fb60",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this hat ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este sombrero tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-199d8b78e9f0",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this watch is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este reloj es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-2b230e964e84",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This camera is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta cámara es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-a0d55015ba90",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That cat is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese gato es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-65b08753ca75",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this backpack ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta mochila tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-b101e6b4ad58",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This notebook is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este cuaderno es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-accc83d1f2db",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that umbrella ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese paraguas tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-5adada131f1f",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the cup is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la taza es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-95f2e60029ad",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This box is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta caja es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-6cf60b19c923",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the chair is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la silla es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-04d792ab1278",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this bag is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta bolsa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-93a08b15392f",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the jacket is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la chaqueta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-34b832fadf3c",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the bag is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la bolsa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e528045ccba0",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that house ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa casa tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-03bda1825ec0",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the cup is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la taza es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-fdd863ae2375",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the key is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la llave es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-2fe70cff2114",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this dog ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este perro tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-8b8544306d28",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this pen is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este bolígrafo es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-357ff3bbf145",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This cup is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta taza es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-90f4393e492d",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This plant is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta planta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-cdc05943dad6",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that box ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa caja tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-035da8f4f2eb",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the notebook is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el cuaderno es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-ce5160c2017c",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this cat is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este gato es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-2f31c5540476",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the notebook is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el cuaderno es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-b677779f3720",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the laptop is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la computadora es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-fa31c0b5b029",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the house is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la casa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-3cd6e4a2f3bc",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the dog is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el perro es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-16a365599b42",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the umbrella is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el paraguas es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-04763524b436",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the ticket is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el boleto es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-ce356511735d",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the car is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el coche es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e49c7470c478",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that book ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese libro tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-9e556c36e3ff",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This watch is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este reloj es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-5018d91119db",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this plant ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta planta tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e2b77c951978",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this box ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta caja tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-d3c235b7e713",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this box is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta caja es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-f96e4a2ebdbd",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this house is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta casa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e6be630a3dac",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this mirror ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este espejo tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-a7dc6f42e800",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That cup is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa taza es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-f26c21103305",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that plant ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa planta tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-77c75a0fbb6c",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that cat ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese gato tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-04ae49344600",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this camera is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta cámara es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-3fba30c2ee98",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the pencil is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el lápiz es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-44bc39d3ea3f",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the box is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la caja es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-6e583b10e8ec",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That pencil is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese lápiz es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-cb8da3fb5e2d",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this cat ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este gato tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-4faa67a66de1",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the cat is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el gato es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-237020acdc92",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the book is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el libro es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e35a77e7ebde",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the pen is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el bolígrafo es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-dbd1e95997fd",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this notebook is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este cuaderno es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-2aa27eb10b59",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This bag is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta bolsa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-a49dd0ec50d6",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that phone ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese teléfono tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-ad5782bdb53a",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this jacket is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta chaqueta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-624d49adbc11",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the guitar is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la guitarra es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-8f884564f103",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that watch ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese reloj tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-6cde6e764974",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this chair is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta silla es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-99d12c5f4220",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this table is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta mesa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-27a1c6d8a0aa",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That hat is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese sombrero es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-910ea034fba5",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This key is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta llave es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-5e5426045630",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This phone is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este teléfono es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-d9aaeb3855fd",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This pen is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este bolígrafo es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-465897c72adc",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This mirror is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este espejo es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-8f5301c38266",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the watch is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el reloj es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-a7b544919b60",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This dog is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este perro es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-95fce962b203",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That watch is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese reloj es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-8034e79f328f",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the umbrella is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el paraguas es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-09eb3c4b5f20",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this jacket ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta chaqueta tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-6b1bc8de6dbc",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that hat ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese sombrero tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-221ca6e21161",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this guitar is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta guitarra es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-24acbe93b410",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that ball ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa pelota tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-29b2c1f8e0d7",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This hat is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este sombrero es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-5a6adbeb427c",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the guitar is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la guitarra es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-bdacce9b0e85",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that notebook ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese cuaderno tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-1193e4064c72",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This wallet is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta cartera es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-cd6b046e97f9",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the hat is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el sombrero es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-42a09eaa7036",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That laptop is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa computadora es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-f120cb8d1da1",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this phone is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este teléfono es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-78e456e23f34",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that laptop ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa computadora tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-2c76b115ac1e",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That backpack is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa mochila es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e01c772dd502",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the phone is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el teléfono es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-c0ddcf65cdc0",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this bike ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta bicicleta tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-8d88598253f6",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that wallet ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa cartera tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-3e9f1c1d0180",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that bike ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa bicicleta tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-76d70eb46cc1",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the pencil is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el lápiz es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-2f87500662fd",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This backpack is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta mochila es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-403d64b4243a",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that backpack ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa mochila tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-243aca939dd3",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the plant is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la planta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-72f7b5957dd0",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this book is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este libro es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-890ed6bbed27",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that bag ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa bolsa tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-4aec5eb65664",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the backpack is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la mochila es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-051ca6976e08",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the mirror is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el espejo es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-efe1fdd4d3a9",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this wallet is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta cartera es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-3c4763463731",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that shirt ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa camisa tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-8a0e77632436",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the pen is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el bolígrafo es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-ae5778a9592a",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That pen is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese bolígrafo es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-4d3404055f5b",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that pen ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese bolígrafo tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-d7b2e2490bf6",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that table ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa mesa tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-c1970d8ab1e1",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That wallet is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa cartera es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e25ae994c992",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the bike is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la bicicleta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-6f4b8e5cd118",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This book is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este libro es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-0b09257eed81",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the book is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el libro es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e79693b1f3dc",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That key is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa llave es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-98ca5270c223",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This ticket is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este boleto es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-500a62399f0a",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This ball is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta pelota es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-f45b454888eb",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this table ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta mesa tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-7f5d67e5ca0d",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That ticket is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese boleto es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-168738ab6992",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That plant is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa planta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-d72160cb1a1f",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That notebook is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese cuaderno es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-3e25332adb80",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the wallet is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la cartera es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-d8c9dfce8ad9",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the plant is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la planta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-16a1623dd486",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this ball is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta pelota es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-30a03cc49829",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That car is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese coche es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-87a8536a7dc2",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this mirror is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este espejo es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-24ae14fa1a6e",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this notebook ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este cuaderno tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-6b6c21942fe0",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This bike is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta bicicleta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-3f6d66c2d022",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this laptop is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta computadora es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-b48abbb8990a",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the dog is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el perro es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-b482b1c7c663",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the ball is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la pelota es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-320c2ad81022",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this house ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta casa tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-66f40d3586fe",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that chair ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa silla tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-0a42b49bcc9c",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this backpack is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta mochila es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-28135ffb5af5",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the table is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la mesa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-6d0750884874",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this shirt ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta camisa tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e8cba33ce90a",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That guitar is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa guitarra es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-bb890bd959f1",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that jacket ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa chaqueta tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-28670e67a29c",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this car ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este coche tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-8ff3e6d12fb0",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the bike is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la bicicleta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-0170981d972a",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that guitar ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa guitarra tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-bf8b5137be2a",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this wallet ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta cartera tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-4d36e1d53c18",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this guitar ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta guitarra tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-595041ac5c43",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the car is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el coche es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-f04b40e210c6",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this umbrella is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este paraguas es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-666c4acaae67",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this key is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta llave es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-ed5e4b55df03",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this dog is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este perro es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-678b140c9fa3",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the wallet is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la cartera es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-a35f8cb70f08",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This umbrella is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este paraguas es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-a56ed5e1e93f",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the shirt is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la camisa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-d8026e59a6b8",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the key is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la llave es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-f061c29c7884",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that car ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese coche tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e6d653eb4792",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That jacket is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa chaqueta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-9937397d4e35",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this ball ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta pelota tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-fdb9b11a0472",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that pencil ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese lápiz tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-cf66362ff207",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the ball is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la pelota es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-2166df963bb3",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that cup ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa taza tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-6dc2e8f1a456",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That mirror is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese espejo es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-2cc185577554",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this umbrella ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este paraguas tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-d76441e69a7c",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the ticket is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, el boleto es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-892fce6a10c6",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that camera ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa cámara tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-424a74260168",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This shirt is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta camisa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-581c031e1258",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That bag is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa bolsa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-a927d9972a36",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That dog is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese perro es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-b99858e2841f",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that key ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es esa llave tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-ae2b3495395b",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this cup ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta taza tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-7c433a5ae4f4",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this bag ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta bolsa tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-bfa5cbe79b99",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this pen ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este bolígrafo tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-eebd216481bb",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the hat is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el sombrero es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-aa860d3ceee8",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This pencil is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este lápiz es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-378366ae7b0d",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this book ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este libro tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-59cb6663918a",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This house is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta casa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-ac153298cb01",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That bike is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa bicicleta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-9544d6dbc1ad",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This car is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Este coche es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-cdecd2bc44e2",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That box is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa caja es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-b1ec686a2bec",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the watch is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el reloj es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-76d74293d2ab",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the phone is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el teléfono es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-1f4f9548c544",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the box is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la caja es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-3d8b60d5099c",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that ticket ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese boleto tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-d3e7b08a6b56",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this key ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta llave tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-f6541ae6d182",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That phone is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese teléfono es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-60752b245ae6",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This laptop is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta computadora es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-af96a5879209",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That shirt is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa camisa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-59b1306059bc",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the cat is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el gato es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-1f68a4f17711",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the mirror is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, el espejo es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-21c373a0d09d",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this shirt is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta camisa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-1fdc120f82ef",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That chair is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa silla es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-bf635baaefa6",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That umbrella is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese paraguas es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-c6d2e7b382b4",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this laptop ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta computadora tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-d62da4ebbe13",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the table is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la mesa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-8ef56b5627de",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the bag is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la bolsa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-c5dcc068f6c5",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this bike is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta bicicleta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-9eabf8a06c53",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this car is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este coche es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-c8a48912343c",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That book is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Ese libro es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-40e84d49c4b8",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this chair ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es esta silla tuya?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-4953278f1578",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this ticket ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este boleto tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-76f6f05da75d",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This table is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta mesa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-3064b824aaef",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that mirror ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese espejo tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-08ee88dc6d26",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This jacket is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta chaqueta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-ad8f1888a927",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the chair is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la silla es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-e4314b580712",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this ticket is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este boleto es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-dac413b97222",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the backpack is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la mochila es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-a71302182afd",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Yes, the shirt is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Sí, la camisa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-8bd24316461c",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Is this phone ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "¿Es este teléfono tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-9fe2c4d8cfca",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this hat is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este sombrero es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-b3bdfd666980",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "That camera is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esa cámara es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-68149ba6ed8e",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this pencil is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que este lápiz es tuyo.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-9ad6a9e6ab95",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the house is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la casa es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-6294ccce26af",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I think this cup is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Creo que esta taza es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-713b90dd6220",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the laptop is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la computadora es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-93a80479d620",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Look, the jacket is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Mira, la chaqueta es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-6b8b6b5181fc",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Excuse me, is that dog ___?",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Disculpa, ¿es ese perro tuyo?",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-yours-personal-pronouns-example-a77c565839de",
+      "itemId": "a1-pronoun-yours",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This guitar is ___.",
+      "answer": "yours",
+      "acceptableAnswers": [],
+      "options": [
+        "you",
+        "your",
+        "yours"
+      ],
+      "translation": "Esta guitarra es tuya.",
+      "hint": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "explanation": "Posesivo que va solo, sin sustantivo: it's yours.",
+      "grammarTags": [
+        "pronouns",
+        "posesivo (solo)"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

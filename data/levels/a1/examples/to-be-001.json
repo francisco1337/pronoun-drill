@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "to-be",
+  "examples": [
+    {
+      "id": "a1-grammar-to-be-be-am-to-be-example-c8679acf854d",
+      "itemId": "a1-grammar-to-be-be-am",
+      "level": "A1",
+      "topicId": "to-be",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ ready.",
+      "answer": "am",
+      "acceptableAnswers": [],
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "translation": "Yo está listo/a.",
+      "hint": "I usa am; he/she/it usa is; you/we/they usa are.",
+      "explanation": "I usa am; he/she/it usa is; you/we/they usa are.",
+      "grammarTags": [
+        "to-be"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-to-be-be-am-to-be-example-c7a3cc4fad37",
+      "itemId": "a1-grammar-to-be-be-am",
+      "level": "A1",
+      "topicId": "to-be",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ i ready?",
+      "answer": "Am",
+      "acceptableAnswers": [],
+      "options": [
+        "Am",
+        "Is",
+        "Are"
+      ],
+      "translation": "¿Yo está listo/a?",
+      "hint": "I usa am; he/she/it usa is; you/we/they usa are.",
+      "explanation": "I usa am; he/she/it usa is; you/we/they usa are.",
+      "grammarTags": [
+        "to-be"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-to-be-be-am-to-be-example-5bd0036bb7a1",
+      "itemId": "a1-grammar-to-be-be-am",
+      "level": "A1",
+      "topicId": "to-be",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "I ___ not at home.",
+      "answer": "am",
+      "acceptableAnswers": [],
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "translation": "Yo no está en casa.",
+      "hint": "I usa am; he/she/it usa is; you/we/they usa are.",
+      "explanation": "I usa am; he/she/it usa is; you/we/they usa are.",
+      "grammarTags": [
+        "to-be"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

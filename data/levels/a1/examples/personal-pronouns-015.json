@@ -1,0 +1,5608 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "personal-pronouns",
+  "examples": [
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-123b19a46be4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sofia nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ccef40535d25",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-f0f2087f09ae",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nora nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-8ff621626901",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-a3c8554a2614",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Peter nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-823efd373505",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lisa nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-a48728c20d6d",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Anna nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-54c16a1ab03e",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-0d8c9c20cd23",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-0caa54c6baf2",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lucas nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-7786d664bef6",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Clara nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-3f835728a256",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-341515257779",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Peter nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ad76c5b19dd9",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-c0f185d7325d",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-6782c47443a8",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lucas nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-477c5c07fca4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-248f8101ef4a",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-083638ef73da",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Elena nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-60bbda3fad62",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-c8842b991221",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b39e0df27094",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-9bf45de5f791",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lisa nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-2b448cbd8dbf",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-eac2abf58bf5",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-852f6131ab1f",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-dba43e1496fc",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sofia nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-28e661913263",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-79daaf7ddecc",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-9f864315d67e",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lucas nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-71daf3b77ac3",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sam nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-768133e6d802",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-effb10f7a6a1",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Anna nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-bea7c0fb0cb2",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b5371face95a",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sofia nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-15eea5b26518",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nora nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-8650c51626d7",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ced3e8a25b2a",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b27abb3c803e",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Peter nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-10b21d14848a",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nora nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b2b3a78a2a58",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Rosa nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-0592033602f4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-5b685c3856f8",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lucas nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-da3bd6b8f035",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-96df3fad86bc",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sam nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-c7185aa630ec",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-e219b1dd12bb",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Tom nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-09ee3a883fb8",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b248ab8bfd67",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Paul nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-5511da067cf4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Carlos nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-42c6377ba82f",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Peter nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-0fa95fea5f95",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Anna nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-89268b255a1b",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-0961199f0bcd",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Tom nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-698b4e3b7301",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Paul nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-0486c7a67d2b",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Tom nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-5af7f17ed437",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Clara nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b52372b76bdb",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-0ad342f070d7",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-64851109bf47",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-7f58127aa875",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Come with ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Ven con nosotros.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-24305003fed4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lisa nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-2107215cdcba",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Peter nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-473efa98f98c",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-1731b3bdc8fa",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Anna nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-3777ad2699e8",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Tom nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-f6e3735cb36b",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Anna nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-04740b7b0958",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-474359db8873",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Rosa nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-1450f807e960",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "This is for ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Esto es para nosotros.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-bfa68d81fe08",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sam nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ee1bb4fd1b00",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Carlos nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-59f2e76fc6d8",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lisa nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b94276117e11",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Paul nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-a78590e3a0f1",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Elena nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-320825ebcad3",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "He sat next to ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Se sentó junto a nosotros.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-93670a6fbccd",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Rosa nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-d36ecaed8b19",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-d36ac135ca59",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-14a4aa6dbbed",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Clara nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-c663fc9b5a8d",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Paul nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-e7824bc7d997",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nora nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-db8bc37be655",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-f1be45598774",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-8a8c242ea5ce",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sofia nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-994c94c2a1c0",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sam nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-7085bcdc1baf",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Clara nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-e6ee4e1a76e2",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Peter nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-42ba76e355fd",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-eedafda008e9",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b6bce04569bc",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Rosa nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-cd94e02d7bd2",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-838d33f1ec34",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-89e79d627c54",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lisa nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ebd4ed87c86a",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-f405c40e0e7a",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sam nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-47380c1ad319",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-363fb333159f",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sam nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ef8cff5e6556",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-36abb4f933c5",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-c2b0dc1382e0",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-63e5353f1b7c",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-4081ad406efa",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-4c08212926ea",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Carlos nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-69ef7335cc1e",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-69be1fb0e3ef",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Carlos nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-307b48fe368e",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Elena nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-d7ba48066c6f",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Anna nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-54c361593d35",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lucas nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-071c9aacace4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-389fb16561da",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-6a6836c92557",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Clara nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-7443cff407f5",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Carlos nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-28441713744c",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lisa nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ec710975eb44",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Elena nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-774540a187a2",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Clara nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-63afb6737cb4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lisa nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-62ec807e1058",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Rosa nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-21c1685a9347",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sofia nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-bbf75df179c4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Elena nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-dc7533efed7c",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Peter nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-e9767b60da72",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Elena nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-880cb8343416",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Elena nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-04b5b50f9bcb",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Clara nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-5a5bd9cae221",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-258764162bdd",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-80778c0d1e04",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Elena nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-f63cd9875f01",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-7f2f441c01fe",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Rosa nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-6ac3c59a99c5",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Paul nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-e595cc77aadd",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-97cbeffc63b8",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-8235e5fe0744",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sofia nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-27e2b1343da1",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Clara nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b5a46d47d3c4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b64ca48c8cd2",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-f3fd2dd1682e",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sam nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-282b676b0de3",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sofia nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-8bf741dab245",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Rosa nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-d033db1da3e4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Rosa nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-d4c9c71b83c0",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Carlos nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-afc4b528983e",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-7e0e9269a8cd",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-264fc406ef6a",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Clara nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-df942fe9ee8f",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lucas nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-9254f78a2dff",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-66bb21bd6959",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lisa nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-16e0d0e9c888",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Anna nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ecb43c81e3b3",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Clara sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Clara nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-f0df9997edf9",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-45e874b7cf2a",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-1afd0285a02b",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Tom nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-1863fbbb16c4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Paul nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-5f242c0bec6e",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Carlos nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-180ba29fe860",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-4a92f75c66c4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-5b89aab20bab",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-3affa922b843",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Elena nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-bb693d91aef8",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-eb2bb0e13d5e",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Carlos nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-104086061b94",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-4ee79f220a5d",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul hears ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Paul nos oye.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b02dad27640a",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-9b9c2824e027",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-eefddb1fa6fd",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Rosa sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Rosa nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ecd19f23ca1d",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Tom nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-0b6778955538",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Mark needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Mark nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b227c2de3d7c",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nora nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-cb33cbf5d593",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Elena calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Elena nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-4c1b3e7a3ca6",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "She did it for ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lo hizo por nosotros.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-7f429b53c8cd",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lisa nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-48abe2f57550",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sofia nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-73a4d66075bf",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Emma loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Emma nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-4ed09da34dbe",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sam nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ba510368206b",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sofia watches ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sofia nos observa.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-062287bbc3af",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul helps ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Paul nos ayuda.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-73a7f0064067",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lucas nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-2daede9d1ada",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Carlos knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Carlos nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-439929c04355",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-fe8f15d79433",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Diego sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Diego nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-a0bcd715b893",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas understands ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lucas nos entiende.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-dc22236d14cf",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-33e40bddf1e5",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nora nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-b476027f57f5",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Anna nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-55549d102452",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Peter misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Peter nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-1c2f8540c3c6",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sam nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-aa8ad97fc204",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-909c198199ac",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Maria sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Maria nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-7862dd038fd4",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna misses ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Anna nos extraña.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-289d6f29fe16",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Tom nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-f58e53da8dd2",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "David sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "David nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-ef071d8e499b",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Tom loves ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Tom nos quiere.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-4e7e9b283b57",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lucas invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lucas nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-7839c09a704b",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Nora needs ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Nora nos necesita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-210c94d3d349",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Paul calls ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Paul nos llama.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-28e0b554dc46",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Sam sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Sam nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-eb3042f1adfb",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Laura invites ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Laura nos invita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-e0218c926a32",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "John sees ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "John nos ve.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-469f32cd2468",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Anna knows ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Anna nos conoce.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-pronoun-us-personal-pronouns-example-9663e846ab35",
+      "itemId": "a1-pronoun-us",
+      "level": "A1",
+      "topicId": "personal-pronouns",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "Lisa visits ___.",
+      "answer": "us",
+      "acceptableAnswers": [],
+      "options": [
+        "we",
+        "us",
+        "our"
+      ],
+      "translation": "Lisa nos visita.",
+      "hint": "Objeto plural: tras el verbo o la preposición.",
+      "explanation": "Objeto plural: tras el verbo o la preposición.",
+      "grammarTags": [
+        "pronouns",
+        "objeto"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}

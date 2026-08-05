@@ -1,0 +1,424 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.08.1",
+  "level": "A1",
+  "topicId": "there-is-are",
+  "examples": [
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-d303d6ef9bf4",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ a car here.",
+      "answer": "There is",
+      "acceptableAnswers": [],
+      "options": [
+        "There is",
+        "There are"
+      ],
+      "translation": "Hay un coche aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-0778bf59b250",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ not a car here.",
+      "answer": "There is not",
+      "acceptableAnswers": [],
+      "options": [
+        "There is not",
+        "There are not"
+      ],
+      "translation": "No hay un coche aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-d96a51feff44",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ an email here.",
+      "answer": "There is",
+      "acceptableAnswers": [],
+      "options": [
+        "There is",
+        "There are"
+      ],
+      "translation": "Hay un correo aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-bc2f1ab5fb30",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ not an email here.",
+      "answer": "There is not",
+      "acceptableAnswers": [],
+      "options": [
+        "There is not",
+        "There are not"
+      ],
+      "translation": "No hay un correo aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-c46681eb7474",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ the report here.",
+      "answer": "There is",
+      "acceptableAnswers": [],
+      "options": [
+        "There is",
+        "There are"
+      ],
+      "translation": "Hay el informe aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-5b5becacd739",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ not the report here.",
+      "answer": "There is not",
+      "acceptableAnswers": [],
+      "options": [
+        "There is not",
+        "There are not"
+      ],
+      "translation": "No hay el informe aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-421a61f37428",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ a plan here.",
+      "answer": "There is",
+      "acceptableAnswers": [],
+      "options": [
+        "There is",
+        "There are"
+      ],
+      "translation": "Hay un plan aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-1a17adab1a03",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ not a plan here.",
+      "answer": "There is not",
+      "acceptableAnswers": [],
+      "options": [
+        "There is not",
+        "There are not"
+      ],
+      "translation": "No hay un plan aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-75531dce6a8a",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ the lesson here.",
+      "answer": "There is",
+      "acceptableAnswers": [],
+      "options": [
+        "There is",
+        "There are"
+      ],
+      "translation": "Hay la lección aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-cae5fbdc8b8f",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ not the lesson here.",
+      "answer": "There is not",
+      "acceptableAnswers": [],
+      "options": [
+        "There is not",
+        "There are not"
+      ],
+      "translation": "No hay la lección aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-02d18d909aaf",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ an idea here.",
+      "answer": "There is",
+      "acceptableAnswers": [],
+      "options": [
+        "There is",
+        "There are"
+      ],
+      "translation": "Hay una idea aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-1054a0065cfb",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ not an idea here.",
+      "answer": "There is not",
+      "acceptableAnswers": [],
+      "options": [
+        "There is not",
+        "There are not"
+      ],
+      "translation": "No hay una idea aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-5a54eb95584f",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ a house here.",
+      "answer": "There is",
+      "acceptableAnswers": [],
+      "options": [
+        "There is",
+        "There are"
+      ],
+      "translation": "Hay una casa aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-20dd657b601c",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ not a house here.",
+      "answer": "There is not",
+      "acceptableAnswers": [],
+      "options": [
+        "There is not",
+        "There are not"
+      ],
+      "translation": "No hay una casa aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-ed46a26e26d8",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ the project here.",
+      "answer": "There is",
+      "acceptableAnswers": [],
+      "options": [
+        "There is",
+        "There are"
+      ],
+      "translation": "Hay el proyecto aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    },
+    {
+      "id": "a1-grammar-there-is-are-there-is-there-is-are-example-d301f7e790fb",
+      "itemId": "a1-grammar-there-is-are-there-is",
+      "level": "A1",
+      "topicId": "there-is-are",
+      "mode": "fill-blank",
+      "difficulty": 1,
+      "context": "general",
+      "instruction": "Completa la frase.",
+      "prompt": "___ not the project here.",
+      "answer": "There is not",
+      "acceptableAnswers": [],
+      "options": [
+        "There is not",
+        "There are not"
+      ],
+      "translation": "No hay el proyecto aquí.",
+      "hint": "There is introduce una cosa; there are introduce dos o más.",
+      "explanation": "There is introduce una cosa; there are introduce dos o más.",
+      "grammarTags": [
+        "there-is-are"
+      ],
+      "subject": null,
+      "polarity": "affirmative",
+      "active": true
+    }
+  ]
+}
